@@ -328,11 +328,6 @@
     <display-name lang="en">Bernama TV</display-name>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3dae29BNC_v3.png"/>
   </channel>
-  <programme start="20260311074500 +0800" stop="20260311095500 +0800" channel="tvNMoviesHD">
-    <title lang="en">Highway Family</title>
-    <desc lang="en">A grieving mother met a homeless young family taking shelter in highway rest areas when they asks her for money.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f56574tvNMovies_2021_190x80.png"/>
-  </programme>
   <programme start="20260311095500 +0800" stop="20260311122000 +0800" channel="tvNMoviesHD">
     <title lang="en">Emergency Declaration</title>
     <desc lang="en">Mysterious deaths on plane forced the pilot to call for an unconditional emergency landing.</desc>
@@ -367,21 +362,6 @@
     <title lang="en">Hopeless</title>
     <desc lang="en">Yeon-gyu has never gotten what he wanted in life. With Chi-geon's help, he joins the gang and struggles to hold on to hope, but soon finds himself facing even more dangerous situations.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b1312ftvNMovies_2021_190x80.png"/>
-  </programme>
-  <programme start="20260311081500 +0800" stop="20260311094500 +0800" channel="ONEHD">
-    <title lang="en">Love Scout</title>
-    <desc lang="en">Ji Yoon resigns as CEO of Peoplez, allowing CareerWay to take over. The employees follow her lead and quit.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/df4ca2ONE_HD_190x80.png"/>
-  </programme>
-  <programme start="20260311094500 +0800" stop="20260311110500 +0800" channel="ONEHD">
-    <title lang="en">Salon De Holmes</title>
-    <desc lang="en">Hyeon Ji finds out that Min U is bullied at school, and Mi Ri tries to resolve it with Gyeong Ja, Ji Hyeon, and So Hui.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/046d9fONE_HD_190x80.png"/>
-  </programme>
-  <programme start="20260311110500 +0800" stop="20260311115000 +0800" channel="ONEHD">
-    <title lang="en">The Brave Yongsujung</title>
-    <desc lang="en">Hye Ra grows enraged. Young Ae visits the Masung house, and Ui Joo's condition deteriorates.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b5a698ONE_HD_190x80.png"/>
   </programme>
   <programme start="20260311115000 +0800" stop="20260311123500 +0800" channel="ONEHD">
     <title lang="en">The Brave Yongsujung</title>
@@ -437,26 +417,6 @@
     <title lang="en">My Kid's Private Life</title>
     <desc lang="en">Park Jung Chul's precious daughter, 7-year-old Da In, starts her first independent life, making her dad sad and worried.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/43940aONE_HD_190x80.png"/>
-  </programme>
-  <programme start="20260311090500 +0800" stop="20260311094500 +0800" channel="KBSWorldHD">
-    <title lang="en">Pearl in Red</title>
-    <desc lang="en">A meticulous and intense revenge chronicle in which two women return under false identities to uncover the truths and sins hidden within the Adel family.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/aa4464KBSW_2021_190x80.png"/>
-  </programme>
-  <programme start="20260311094500 +0800" stop="20260311102500 +0800" channel="KBSWorldHD">
-    <title lang="en">Queen's House</title>
-    <desc lang="en">A revenge story about a woman in the top 1% starting over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama of people striving to regain the true meaning of li</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ebcd33KBSW_2021_190x80.png"/>
-  </programme>
-  <programme start="20260311102500 +0800" stop="20260311114000 +0800" channel="KBSWorldHD">
-    <title lang="en">Recipe for Love</title>
-    <desc lang="en">This is a family growth drama about these two families as they unravel their long held misunderstandings, heal their wounds, learn to love one another, and are reborn as one family.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e4b62eKBSW_2021_190x80.png"/>
-  </programme>
-  <programme start="20260311114000 +0800" stop="20260311114500 +0800" channel="KBSWorldHD">
-    <title lang="en">ROUND PLAYLIST</title>
-    <desc lang="en">The program is intended to promote exchanges between Korea and ASEAN countries by utilizing popular music.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/84f469KBSW_2021_190x80.png"/>
   </programme>
   <programme start="20260311114500 +0800" stop="20260311131500 +0800" channel="KBSWorldHD">
     <title lang="en">Dogs Are Incredible</title>
@@ -528,16 +488,6 @@
     <desc lang="en">Gourmet celebrities team up to explore the world of convenience stores and share their secret recipes!</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2439b0KBSW_2021_190x80.png"/>
   </programme>
-  <programme start="20260311092700 +0800" stop="20260311104000 +0800" channel="KPlusHD">
-    <title lang="en">Flower Crew: Joseon Marriage Agency</title>
-    <desc lang="en">Ma Hoon realizes Gae-ddong is in grave danger because of his father.The flower crew prepare to make Gae-ddong into a noble lady.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/346e45KPlus_190x80.png"/>
-  </programme>
-  <programme start="20260311104000 +0800" stop="20260311115500 +0800" channel="KPlusHD">
-    <title lang="en">Flower Crew: Joseon Marriage Agency</title>
-    <desc lang="en">Gae-ddong and Do Joon are angered by the words Ji-hwa said to Ma Joon. Meanwhile, Joon realizes his memories of his mother may be incorrect.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/346e45KPlus_190x80.png"/>
-  </programme>
   <programme start="20260311115500 +0800" stop="20260311131000 +0800" channel="KPlusHD">
     <title lang="en">Honour</title>
     <desc lang="en">A buried past resurfaces as a huge scandal, and three female lawyers take the case heads on with the determination to restore lost honour.</desc>
@@ -598,11 +548,6 @@
     <desc lang="en">Gae-ddong and Do Joon are angered by the words Ji-hwa said to Ma Joon. Meanwhile, Joon realizes his memories of his mother may be incorrect.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/346e45KPlus_190x80.png"/>
   </programme>
-  <programme start="20260311091000 +0800" stop="20260311110500 +0800" channel="tvNHD">
-    <title lang="en">The Village Barber</title>
-    <desc lang="en">Park Bo-gum, who holds a national barber's license, and his close friends Lee Sang-yi and Kwak Dong-yeon run a special barbershop in a remote rural village, tending to both hair and hearts.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d0906btvN_2021_190x80.png"/>
-  </programme>
   <programme start="20260311110500 +0800" stop="20260311122000 +0800" channel="tvNHD">
     <title lang="en">Yumi's Cells</title>
     <desc lang="en">Adapted from the popular webtoon of the same title, it tells the story of an ordinary office worker Yumi through the eyes of her brain cells, which controlled her thoughts, feelings and actions.</desc>
@@ -652,36 +597,6 @@
     <title lang="en">The Village Barber</title>
     <desc lang="en">Park Bo-gum, who holds a national barber's license, and his close friends Lee Sang-yi and Kwak Dong-yeon run a special barbershop in a remote rural village, tending to both hair and hearts.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d0906btvN_2021_190x80.png"/>
-  </programme>
-  <programme start="20260311093000 +0800" stop="20260311100000 +0800" channel="AstroAEC">
-    <title lang="en">Legends of Singapore Comedy</title>
-    <desc lang="en">回顾王沙野峰从草根歌台跃升为喜剧泰斗，征服本地和海外市场的传奇。他们轻松逗趣的方言表演不仅成为文化符号，更对后代艺人影响至深。2024年适逢王沙百岁冥诞，制作组决定让双宝重返舞台，再次带来欢笑。</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2bafe8AstroAEC_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311103000 +0800" channel="AstroAEC">
-    <title lang="en">Little Globetrotters</title>
-    <desc lang="en">Little Globetrotters gives kids the chance to experience foreign cultures without going abroad! Follow a tour guide to discover the food culture, lifestyle &amp; traditions of different places.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a1bdefAstroAEC_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311104500 +0800" channel="AstroAEC">
-    <title lang="en">Legacy of Luban</title>
-    <desc lang="en">Genius carpenter Xiao Kang use his wisdom &amp; skill to unlock the ancient Luban Lock. He meets the spirit inside the lock &amp; with their help, explore the mysteries of woodworking craftsmanship.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4bb79aAstroAEC_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311104500 +0800" stop="20260311110000 +0800" channel="AstroAEC">
-    <title lang="en">Legacy of Luban</title>
-    <desc lang="en">Genius carpenter Xiao Kang use his wisdom &amp; skill to unlock the ancient Luban Lock. He meets the spirit inside the lock &amp; with their help, explore the mysteries of woodworking craftsmanship.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/470100AstroAEC_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311110300 +0800" channel="AstroAEC">
-    <title lang="en">Rock it, Kiddo! S2 Special Highlights</title>
-    <desc lang="en">Special highlights from Rock It, Kiddo! S2 capture contestants' behind-the-scenes moments, Dr. Gululu's segment, and &quot;Together We Shine&quot; across 25 episodes, showcasing the season's excitement.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/1632adAstroAEC_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311110300 +0800" stop="20260311120000 +0800" channel="AstroAEC">
-    <title lang="en">Lost &amp; Found</title>
-    <desc lang="en">Belle escapes her controlling mother by heading for the beach with Jay, whose free spirit &amp; dreams has her falling in love. In Belle's sheltered world, however, can it grow?</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/9d7c82AstroAEC_2024_190x80.png"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="AstroAEC">
     <title lang="en">The Story of Xing Fu</title>
@@ -778,16 +693,6 @@
     <desc lang="en">A couple on the brink of collapse &amp; a quartet take a road trip up north. But a violent, unstable man started stalking them &amp; they fall for a scam, turning a healing getaway into a nightmarish ordeal.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/9782e7AstroAEC_2024_190x80.png"/>
   </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="AstroHuaHeeDai">
-    <title lang="en">Find Your Doctor</title>
-    <desc lang="en">A health program combines interesting topics such as dream interpretation, Feng Shui &amp; superstitions. The program invites doctors &amp; experts to debunk online rumours and share practical health tips.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/69e6a4AstroHuaHeeDai_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311120000 +0800" channel="AstroHuaHeeDai">
-    <title lang="en">Bittersweet Destiny</title>
-    <desc lang="en">An accident leads to the murder of legendary chef Wanli, the disappearance of his daughter &amp; the separation of his 4 disciples. Years later, a forgotten secret unravels the mystery behind everything.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bfc706AstroHuaHeeDai_2024_190x80.png"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="AstroHuaHeeDai">
     <title lang="en">Fate's Secret</title>
     <desc lang="en">Led and produced by Bai Bing Bing, the drama showcases the God of Xuan Tian performing inspiring miracles, defeating evil, and uplifting lives through heart‑stirring stories of hope, faith and redempt</desc>
@@ -837,41 +742,6 @@
     <title lang="en">The Mother Of The Tofu Family</title>
     <desc lang="en">A heartwarming tale of a mother leading her family to overcome challenges and protect the clash between tradition and new ideas, while also showcasing the resilience of modern women.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a53e3cAstroHuaHeeDai_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311094000 +0800" stop="20260311101000 +0800" channel="TVBJade">
-    <title lang="en">Hands up</title>
-    <desc lang="en">In this new TVB kids' show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/dfff6aTVB_Jade_190x80.png"/>
-  </programme>
-  <programme start="20260311101000 +0800" stop="20260311103600 +0800" channel="TVBJade">
-    <title lang="en">Game of Scholars</title>
-    <desc lang="en">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/49355dTVB_Jade_190x80.png"/>
-  </programme>
-  <programme start="20260311103600 +0800" stop="20260311104100 +0800" channel="TVBJade">
-    <title lang="en">What's On Today</title>
-    <desc lang="en">What's On Today</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/1b8163TVB_Jade_190x80.png"/>
-  </programme>
-  <programme start="20260311104100 +0800" stop="20260311111000 +0800" channel="TVBJade">
-    <title lang="en">Gourmet Express</title>
-    <desc lang="en">Discover the latest dining gems with Icy Wong, Carmaney Wong and friends! From must-try eateries to hidden takeout spots, get the inside scoop on flavors and stories behind your favorite bites.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/88d22cTVB_Jade_190x80.png"/>
-  </programme>
-  <programme start="20260311111000 +0800" stop="20260311111200 +0800" channel="TVBJade">
-    <title lang="en">Trick or Cheat</title>
-    <desc lang="en">The first AI urban romance drama follows designer Nicole. After her husband's affair ends their marriage, she moves into a new home where hidden truths slowly surface, revealing unexpected twists.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/fed379TVB_Jade_190x80.png"/>
-  </programme>
-  <programme start="20260311111200 +0800" stop="20260311111500 +0800" channel="TVBJade">
-    <title lang="en">Trick or Cheat</title>
-    <desc lang="en">The first AI urban romance drama follows designer Nicole. After her husband's affair ends their marriage, she moves into a new home where hidden truths slowly surface, revealing unexpected twists.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/fed379TVB_Jade_190x80.png"/>
-  </programme>
-  <programme start="20260311111500 +0800" stop="20260311121100 +0800" channel="TVBJade">
-    <title lang="en">Pretty Dangerous</title>
-    <desc lang="en">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/13a090TVB_Jade_190x80.png"/>
   </programme>
   <programme start="20260311121100 +0800" stop="20260311124000 +0800" channel="TVBJade">
     <title lang="en">Scoop 2026</title>
@@ -983,21 +853,6 @@
     <desc lang="en">Daily breaking news on Hong Kong and beyond.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/1c5413TVB_Jade_190x80.png"/>
   </programme>
-  <programme start="20260311091000 +0800" stop="20260311101000 +0800" channel="TVBXingHeHD">
-    <title lang="en">Rosy Business</title>
-    <desc lang="en">Set in Eastern China in the mid-19th century Qing Dynasty, this drama captures the greed that rips a family apart as they battle over the family business.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/5f9f00TVB_XingHe_190x80.png"/>
-  </programme>
-  <programme start="20260311101000 +0800" stop="20260311111000 +0800" channel="TVBXingHeHD">
-    <title lang="en">Storm in a Cocoon</title>
-    <desc lang="en">The Poon family, who owns the biggest silk factory in Canton, finds their past surfacing after one of their daughters mysteriously commits suicide.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2e9c36TVB_XingHe_190x80.png"/>
-  </programme>
-  <programme start="20260311111000 +0800" stop="20260311121000 +0800" channel="TVBXingHeHD">
-    <title lang="en">Storm in a Cocoon</title>
-    <desc lang="en">The Poon family, who owns the biggest silk factory in Canton, finds their past surfacing after one of their daughters mysteriously commits suicide.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cf0a20TVB_XingHe_190x80.png"/>
-  </programme>
   <programme start="20260311121000 +0800" stop="20260311131000 +0800" channel="TVBXingHeHD">
     <title lang="en">The King of Snooker</title>
     <desc lang="en">A snooker legend's abrupt retirement turns out to be a cover for his search for a protege. Yet, challenges are many, even after the right candidate arrives.</desc>
@@ -1057,26 +912,6 @@
     <title lang="en">Storm in a Cocoon</title>
     <desc lang="en">The Poon family, who owns the biggest silk factory in Canton, finds their past surfacing after one of their daughters mysteriously commits suicide.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b7ff82TVB_XingHe_190x80.png"/>
-  </programme>
-  <programme start="20260311093000 +0800" stop="20260311102000 +0800" channel="TVBClassicHD">
-    <title lang="en">Glittering Days</title>
-    <desc lang="en">Fong is horrified when his lie about being the student of a veteran songstress is exposed. A further shock waits when he learns the identity of the source.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/36a09aTVB_Classic_190x80.png"/>
-  </programme>
-  <programme start="20260311102000 +0800" stop="20260311104500 +0800" channel="TVBClassicHD">
-    <title lang="en">Off Pedder</title>
-    <desc lang="en">This sitcom revolves around office politics and the relationships formed by the staff in a magazine company located on HK's Pedder Street.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/fbe1f2TVB_Classic_190x80.png"/>
-  </programme>
-  <programme start="20260311104500 +0800" stop="20260311111000 +0800" channel="TVBClassicHD">
-    <title lang="en">Off Pedder</title>
-    <desc lang="en">This sitcom revolves around office politics and the relationships formed by the staff in a magazine company located on HK's Pedder Street.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/fbe1f2TVB_Classic_190x80.png"/>
-  </programme>
-  <programme start="20260311111000 +0800" stop="20260311113500 +0800" channel="TVBClassicHD">
-    <title lang="en">Off Pedder</title>
-    <desc lang="en">This sitcom revolves around office politics and the relationships formed by the staff in a magazine company located on HK's Pedder Street.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/fbe1f2TVB_Classic_190x80.png"/>
   </programme>
   <programme start="20260311113500 +0800" stop="20260311122500 +0800" channel="TVBClassicHD">
     <title lang="en">Curse of the Royal Harem</title>
@@ -1168,21 +1003,6 @@
     <desc lang="en">Tian falls into a year-long coma due to a ship explosion. He losses all his memory, but remembers a mysterious girl in black. His quest for the truth only reveals the horrific secret behind his accide</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/09fe0fTVB_Classic_190x80.png"/>
   </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="TVBEntertainmentNewsHD">
-    <title lang="en">Entertainment News</title>
-    <desc lang="en">Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3e080dTVBE_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="TVBEntertainmentNewsHD">
-    <title lang="en">Entertainment News</title>
-    <desc lang="en">Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3e080dTVBE_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311120000 +0800" channel="TVBEntertainmentNewsHD">
-    <title lang="en">Entertainment News</title>
-    <desc lang="en">Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3e080dTVBE_190x80.png"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="TVBEntertainmentNewsHD">
     <title lang="en">Entertainment News</title>
     <desc lang="en">Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
@@ -1242,16 +1062,6 @@
     <title lang="en">Entertainment News</title>
     <desc lang="en">Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3e080dTVBE_190x80.png"/>
-  </programme>
-  <programme start="20260311093000 +0800" stop="20260311103000 +0800" channel="AstroQJ">
-    <title lang="en">M Mission</title>
-    <desc lang="en">A retired legendary female spy rallies herself &amp; her housewife friends to form a powerful crime-fighting team when her spy husband falls into danger.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d20e59AstroQJ_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311110000 +0800" channel="AstroQJ">
-    <title lang="en">Where You Pee</title>
-    <desc lang="en">Join hosts as they visit public restrooms in Japan, Norway, the Netherlands, UK &amp; USA - and more! Discover how the most ordinary restroom designs can achieve a perfect blend of form &amp; function.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f26245AstroQJ_2024_190x80.png"/>
   </programme>
   <programme start="20260311110000 +0800" stop="20260311123000 +0800" channel="AstroQJ">
     <title lang="en">Workplace Newcomers·TCM Season</title>
@@ -1322,21 +1132,6 @@
     <title lang="en">No Pain No Gain</title>
     <desc lang="en">Adapted from Qing Shan Quzui's novel, the story tells of Pei Qian, who is unexpectedly tasked with losing money but accidentally &amp; repeatedly makes a fortune &amp; becomes a genius in the industry.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b1787eAstroQJ_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="iQIYIHD">
-    <title lang="en">War of Faith</title>
-    <desc lang="en">Wang Yi Bo, Li Qin and Wang Yang star in this series, where Wei Ruo Lai navigates the banking world, confronting personal challenges, with a fresh take on spy drama, integrating finance uniquely.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f4a71biQIYI_2022_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="iQIYIHD">
-    <title lang="en">The Devil Between Us</title>
-    <desc lang="en">A mysterious new drug vanishes in a small town. Detective Hu Wen Jing dives into danger, Cheng Ken risks all for his daughter, Li Xiao Ya fights to escape, and Wang Ping sinks deeper into drugs.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c1643diQIYI_2022_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311120000 +0800" channel="iQIYIHD">
-    <title lang="en">The Devil Between Us</title>
-    <desc lang="en">A mysterious new drug vanishes in a small town. Detective Hu Wen Jing dives into danger, Cheng Ken risks all for his daughter, Li Xiao Ya fights to escape, and Wang Ping sinks deeper into drugs.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/449852iQIYI_2022_190x80.png"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="iQIYIHD">
     <title lang="en">Our Dazzling Days</title>
@@ -1438,26 +1233,6 @@
     <desc lang="en">After the great battle, Dong Fang Qing Cang returns to Cangyan Sea but falls into a trap. Meanwhile, the war god Chidi keeps mysteriously appearing in Xiao Lan Hua's dreams.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/eaad8biQIYI_2022_190x80.png"/>
   </programme>
-  <programme start="20260311094000 +0800" stop="20260311101000 +0800" channel="CGTNDocumentary">
-    <title lang="en">Our Common Home</title>
-    <desc lang="en">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2a2045CGTN_DOC_190x80.png"/>
-  </programme>
-  <programme start="20260311101000 +0800" stop="20260311111000 +0800" channel="CGTNDocumentary">
-    <title lang="en">Song of the Yellow River</title>
-    <desc lang="en">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/09fd5bCGTN_DOC_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311111000 +0800" stop="20260311114000 +0800" channel="CGTNDocumentary">
-    <title lang="en">A Micro-universe</title>
-    <desc lang="en">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/09fd5bCGTN_DOC_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311114000 +0800" stop="20260311121000 +0800" channel="CGTNDocumentary">
-    <title lang="en">Magic at Their Fingertips</title>
-    <desc lang="en">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is live</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/09fd5bCGTN_DOC_IVP_LAND_917x516.jpg"/>
-  </programme>
   <programme start="20260311121000 +0800" stop="20260311131000 +0800" channel="CGTNDocumentary">
     <title lang="en">The Yangtze River: the Civilization</title>
     <desc lang="en">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
@@ -1548,21 +1323,6 @@
     <desc lang="en">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is live</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/09fd5bCGTN_DOC_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260311090300 +0800" stop="20260311100300 +0800" channel="CTIAsiaHD">
-    <title lang="en">CTI News</title>
-    <desc lang="en">Watch CTI news bulletin for Taiwan's breaking news and current affairs.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/607ab2CTI_190x80.png"/>
-  </programme>
-  <programme start="20260311100300 +0800" stop="20260311110300 +0800" channel="CTIAsiaHD">
-    <title lang="en">CTI News Global Vision</title>
-    <desc lang="en">This news update features international news events, special analyses and dialogues from public figures. Receive comprehensive and diverse perspectives of events moving the world today.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ddd572CTI_190x80.png"/>
-  </programme>
-  <programme start="20260311110300 +0800" stop="20260311120300 +0800" channel="CTIAsiaHD">
-    <title lang="en">Super Followers</title>
-    <desc lang="en">Local superstar Jacky Wu and his daughter Sandy co-host for the first time, merging the best of variety and talk for an intellectual audience.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2965a7CTI_190x80.png"/>
-  </programme>
   <programme start="20260311120300 +0800" stop="20260311130300 +0800" channel="CTIAsiaHD">
     <title lang="en">CTI News</title>
     <desc lang="en">Watch CTI news bulletin for Taiwan's breaking news and current affairs.</desc>
@@ -1622,36 +1382,6 @@
     <title lang="en">Z-Investigation</title>
     <desc lang="en">In-depth reviews of landmark cases offer fresh insights into events that shaped Taiwanese society.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2c401bCTI_190x80.png"/>
-  </programme>
-  <programme start="20260311094800 +0800" stop="20260311101400 +0800" channel="CCTV4HD">
-    <title lang="en">Around China</title>
-    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3b0406ivp_default_1644_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311101400 +0800" stop="20260311104000 +0800" channel="CCTV4HD">
-    <title lang="en">Around China</title>
-    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3b0406ivp_default_1644_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311104000 +0800" stop="20260311110700 +0800" channel="CCTV4HD">
-    <title lang="en">Around China</title>
-    <desc lang="en">Enter a world where the true essence of China blossoms and you will begin to understand how this great nation has evolved.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3b0406ivp_default_1644_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110700 +0800" stop="20260311111800 +0800" channel="CCTV4HD">
-    <title lang="en">Nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3b0406ivp_default_1644_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311111800 +0800" stop="20260311113300 +0800" channel="CCTV4HD">
-    <title lang="en">Dreamchaser</title>
-    <desc lang="en">This inspiring documentary gathers people of different social status and shares their unique stories about the pursuit of their dreams.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3b0406ivp_default_1644_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311113300 +0800" stop="20260311120300 +0800" channel="CCTV4HD">
-    <title lang="en">Across the Strait</title>
-    <desc lang="en">This program details the China Government's policy of one country.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3b0406ivp_default_1644_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311120300 +0800" stop="20260311140600 +0800" channel="CCTV4HD">
     <title lang="en">China News</title>
@@ -1737,36 +1467,6 @@
     <title lang="en">Yi Yi Xiang Bei Feng</title>
     <desc lang="en">This broad selection of drama series genres includes romance, military and family connections, captured in China's great classics.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3b0406ivp_default_1644_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311085700 +0800" stop="20260311095900 +0800" channel="PhoenixChineseChannelHD">
-    <title lang="en">From Phoenix to the World</title>
-    <desc lang="en">Tiger Hu hosts this new programme which aims to keep you informed about important events which are taking place in the world today.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ad1fa0ivp_default_1027_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311095900 +0800" stop="20260311100200 +0800" channel="PhoenixChineseChannelHD">
-    <title lang="en">Phoenix Weather Forecast</title>
-    <desc lang="en">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ad1fa0ivp_default_1027_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100200 +0800" stop="20260311105800 +0800" channel="PhoenixChineseChannelHD">
-    <title lang="en">News on the Hour</title>
-    <desc lang="en">Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ad1fa0ivp_default_1027_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311105800 +0800" stop="20260311110300 +0800" channel="PhoenixChineseChannelHD">
-    <title lang="en">Phoenix Weather Forecast</title>
-    <desc lang="en">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ad1fa0ivp_default_1027_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110300 +0800" stop="20260311113200 +0800" channel="PhoenixChineseChannelHD">
-    <title lang="en">Zoom in</title>
-    <desc lang="en">This news program focuses on current political topics, major social events and hot news topics. Discover hidden facets as we analyse each at length.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ad1fa0ivp_default_1027_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311113200 +0800" stop="20260311120300 +0800" channel="PhoenixChineseChannelHD">
-    <title lang="en">Summary of Press</title>
-    <desc lang="en">Catch the most latest international news headlines from major newspaper and magazines from a range of different perspectives.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ad1fa0ivp_default_1027_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311120300 +0800" stop="20260311125700 +0800" channel="PhoenixChineseChannelHD">
     <title lang="en">Phoenix Midday Express</title>
@@ -1892,41 +1592,6 @@
     <title lang="en">News Talk</title>
     <desc lang="en">News Talk is packed with subjective, authoritative and unique facts, treating the viewer to a detailed, incisive and informative news feature.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2f2a91Phoenix_Chinese_Channel_190x80.png"/>
-  </programme>
-  <programme start="20260311085800 +0800" stop="20260311095900 +0800" channel="PhoenixInfoNewsHD">
-    <title lang="en">News on the Hour</title>
-    <desc lang="en">Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4ded63ivp_default_1221_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311095900 +0800" stop="20260311100300 +0800" channel="PhoenixInfoNewsHD">
-    <title lang="en">Phoenix Weather Forecast</title>
-    <desc lang="en">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4ded63ivp_default_1221_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100300 +0800" stop="20260311105900 +0800" channel="PhoenixInfoNewsHD">
-    <title lang="en">News on the Hour</title>
-    <desc lang="en">Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4ded63ivp_default_1221_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311105900 +0800" stop="20260311110300 +0800" channel="PhoenixInfoNewsHD">
-    <title lang="en">Phoenix Weather Forecast</title>
-    <desc lang="en">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4ded63ivp_default_1221_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110300 +0800" stop="20260311113000 +0800" channel="PhoenixInfoNewsHD">
-    <title lang="en">News on the Hour</title>
-    <desc lang="en">Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/de0304Phoenix_Info_News_190x80.png"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311113300 +0800" channel="PhoenixInfoNewsHD">
-    <title lang="en">Phoenix Weather Forecast</title>
-    <desc lang="en">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4e83e1Phoenix_Info_News_190x80.png"/>
-  </programme>
-  <programme start="20260311113300 +0800" stop="20260311120300 +0800" channel="PhoenixInfoNewsHD">
-    <title lang="en">Chief Editor's Time</title>
-    <desc lang="en">Daily key issues around the world are discussed and analyzed, providing viewers with a better understanding of global events.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3768a5Phoenix_Info_News_190x80.png"/>
   </programme>
   <programme start="20260311120300 +0800" stop="20260311125700 +0800" channel="PhoenixInfoNewsHD">
     <title lang="en">Phoenix Midday Express</title>
@@ -2077,31 +1742,6 @@
     <title lang="en">Chief Editor's Time</title>
     <desc lang="en">Daily key issues around the world are discussed and analyzed, providing viewers with a better understanding of global events.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4ded63ivp_default_1221_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311090000 +0800" stop="20260311103000 +0800" channel="AstroAwaniHD">
-    <title lang="en">(L) Niaga AWANI</title>
-    <desc lang="en">Berita niaga dan ekonomi dalam dan luar negara serta analisis dan temubual bersama tokoh perniagaan</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c251fcAstro_Awani_190x80.png"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311110000 +0800" channel="AstroAwaniHD">
-    <title lang="en">Agenda Awani</title>
-    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/709972AstroAwani_2025_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311113000 +0800" channel="AstroAwaniHD">
-    <title lang="en">(L) Pantau Belanjawan</title>
-    <desc lang="en">Apa perkembangan selepas Belanjawan dibentangkan? Bersama pakar ekonomi, penganalisis dan kemaskini tindakan yang dilaksanakan kerajaan perpaduan.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4bd35aAstro_Awani_190x80.png"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311120000 +0800" channel="AstroAwaniHD">
-    <title lang="en">AWANI Pagi</title>
-    <desc lang="en">Kupasan lebih mendalam beberapa tajuk berita utama</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/709972AstroAwani_2025_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311120000 +0800" stop="20260311120100 +0800" channel="AstroAwaniHD">
-    <title lang="en">AWANI Ringkas</title>
-    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/69c0c4Astro_Awani_190x80.png"/>
   </programme>
   <programme start="20260311120100 +0800" stop="20260311123000 +0800" channel="AstroAwaniHD">
     <title lang="en">(L) Buletin Awani</title>
@@ -2268,31 +1908,6 @@
     <desc lang="en">Laporan berita ringkas, padat komprehensif dari Kepulauan Borneo.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/709972AstroAwani_2025_IVP_LAND_1280x720.jpg"/>
   </programme>
-  <programme start="20260311090200 +0800" stop="20260311100200 +0800" channel="AlJazeeraEnglishHD">
-    <title lang="en">Head to Head</title>
-    <desc lang="en">Mehdi Hasan goes Head to Head with Nigerian President's spokesman Daniel Bwala on the government's record in office.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4c237eivp_default_1721_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100200 +0800" stop="20260311103200 +0800" channel="AlJazeeraEnglishHD">
-    <title lang="en">News</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/284c60Aljazeera_190x80.png"/>
-  </programme>
-  <programme start="20260311103200 +0800" stop="20260311110200 +0800" channel="AlJazeeraEnglishHD">
-    <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cbaf4dAljazeera_190x80.png"/>
-  </programme>
-  <programme start="20260311110200 +0800" stop="20260311113200 +0800" channel="AlJazeeraEnglishHD">
-    <title lang="en">News</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/284c60Aljazeera_190x80.png"/>
-  </programme>
-  <programme start="20260311113200 +0800" stop="20260311120200 +0800" channel="AlJazeeraEnglishHD">
-    <title lang="en">Witness : Gaza Fixer</title>
-    <desc lang="en">Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4c237eivp_default_1721_IVP_LAND_1280x720.jpg"/>
-  </programme>
   <programme start="20260311120200 +0800" stop="20260311123200 +0800" channel="AlJazeeraEnglishHD">
     <title lang="en">News</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
@@ -2393,16 +2008,6 @@
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c783c4Aljazeera_190x80.png"/>
   </programme>
-  <programme start="20260311070200 +0800" stop="20260311100200 +0800" channel="CNAHD">
-    <title lang="en">Asia First</title>
-    <desc lang="en">(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0d41a1Channel_News_Asia_190x80.png"/>
-  </programme>
-  <programme start="20260311100200 +0800" stop="20260311110200 +0800" channel="CNAHD">
-    <title lang="en">The Long Game</title>
-    <desc lang="en">It's the thrill of opening day for some of the food entrepreneurs, while others hit roadblocks and wonder what's next in their culinary journeys. Are they able to play the long game?</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ffe529Channel_News_Asia_190x80.png"/>
-  </programme>
   <programme start="20260311110200 +0800" stop="20260311130200 +0800" channel="CNAHD">
     <title lang="en">Asia Now</title>
     <desc lang="en">(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
@@ -2462,56 +2067,6 @@
     <title lang="en">The Long Game</title>
     <desc lang="en">It's the thrill of opening day for some of the food entrepreneurs, while others hit roadblocks and wonder what's next in their culinary journeys. Are they able to play the long game?</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ffe529Channel_News_Asia_190x80.png"/>
-  </programme>
-  <programme start="20260311093000 +0800" stop="20260311094500 +0800" channel="France24">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ffd5feFrance24_190x80.png"/>
-  </programme>
-  <programme start="20260311094500 +0800" stop="20260311100000 +0800" channel="France24">
-    <title lang="en">Eye on Africa</title>
-    <desc lang="en">France 24 brings you all the news from Africa with France 24's correspondents and guests on set.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/01c831France24_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311101000 +0800" channel="France24">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ffd5feFrance24_190x80.png"/>
-  </programme>
-  <programme start="20260311101000 +0800" stop="20260311105300 +0800" channel="France24">
-    <title lang="en">The Debate</title>
-    <desc lang="en">Franois Picard and his guest panel debate the topic of the day. Viewers and web users can interact directly with the team using the #F24Debate hashtag.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/925c43France24_190x80.png"/>
-  </programme>
-  <programme start="20260311105300 +0800" stop="20260311110000 +0800" channel="France24">
-    <title lang="en">Short Cuts</title>
-    <desc lang="en">Short Cuts</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4ff28eFrance24_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311111500 +0800" channel="France24">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ffd5feFrance24_190x80.png"/>
-  </programme>
-  <programme start="20260311111500 +0800" stop="20260311113000 +0800" channel="France24">
-    <title lang="en">France in Focus</title>
-    <desc lang="en">An in-depth look at the political and social events shaping France.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/71b9fcFrance24_190x80.png"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311114500 +0800" channel="France24">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ffd5feFrance24_190x80.png"/>
-  </programme>
-  <programme start="20260311114500 +0800" stop="20260311120000 +0800" channel="France24">
-    <title lang="en">Reporters</title>
-    <desc lang="en">International in-depth reports from the France 24 teams and our senior reporters around the world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/873306France24_190x80.png"/>
-  </programme>
-  <programme start="20260311120000 +0800" stop="20260311121500 +0800" channel="France24">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ffd5feFrance24_190x80.png"/>
   </programme>
   <programme start="20260311121500 +0800" stop="20260311123000 +0800" channel="France24">
     <title lang="en">Eye on Africa</title>
@@ -2778,41 +2333,6 @@
     <desc lang="en">An in-depth look at the political and social events shaping France.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/71b9fcFrance24_190x80.png"/>
   </programme>
-  <programme start="20260311091500 +0800" stop="20260311100000 +0800" channel="DWEnglish">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">Sugar has long played a central role in the global economy. But this lucrative business was also a major driver of both colonialism and slavery.Workers are systematically exploited for sugar productio</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2c2346DW_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311103000 +0800" channel="DWEnglish">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day presents the past 24 hours: close to the people, with a clear focus on the essential issue, and guests who outline their viewpoints on the stories of the day.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b94549DW_190x80.png"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311110000 +0800" channel="DWEnglish">
-    <title lang="en">Global Us</title>
-    <desc lang="en">Algae are a well-known superfood, and now also feature in Chilean haute cuisine. Sepsis has changed Georg Winterling's life forever. And: Using gravity to store energy from renewables.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d122abDW_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311111500 +0800" channel="DWEnglish">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News provides in-depth, international, and European-focused journalism, covering politics, business, society, and culture with a 24/7, multi-lingual approach.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b7aaceivp_default_10000317_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311111500 +0800" stop="20260311113000 +0800" channel="DWEnglish">
-    <title lang="en">Planet a</title>
-    <desc lang="en">We're destroying our environment at an alarming rate. Planet A explores the shift towards an eco-friendly world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b7aaceivp_default_10000317_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311120000 +0800" channel="DWEnglish">
-    <title lang="en">Eco Africa</title>
-    <desc lang="en">Rural Kenyans observe nature to predict the weather, while activists in Mali are reducing their flood risk. Plus, how technology can help fight plastic pollution and give a voice to extinct animals.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8ec9a0DW_190x80.png"/>
-  </programme>
-  <programme start="20260311120000 +0800" stop="20260311121500 +0800" channel="DWEnglish">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News provides in-depth, international, and European-focused journalism, covering politics, business, society, and culture with a 24/7, multi-lingual approach.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b7aaceivp_default_10000317_IVP_LAND_1280x720.jpg"/>
-  </programme>
   <programme start="20260311121500 +0800" stop="20260311130000 +0800" channel="DWEnglish">
     <title lang="en">DocFilm</title>
     <desc lang="en">Sugar has long played a central role in the global economy. But this lucrative business was also a major driver of both colonialism and slavery.Workers are systematically exploited for sugar productio</desc>
@@ -2948,21 +2468,6 @@
     <desc lang="en">With India's population at 1.2 billion people, that's a lot of wood and lot of trees need to be cut down to keep up with demand.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d2404dDW_190x80.png"/>
   </programme>
-  <programme start="20260311091500 +0800" stop="20260311100500 +0800" channel="AXNHD">
-    <title lang="en">S.W.A.T.</title>
-    <desc lang="en">As a sniper begins targeting the L.A. Fire Department, a phone call from Street's (Alex Russell) mother drives a wedge between him and Molly (Laura James).</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2be9d2AXN_190x80.png"/>
-  </programme>
-  <programme start="20260311100500 +0800" stop="20260311110000 +0800" channel="AXNHD">
-    <title lang="en">THE RAINMAKER</title>
-    <desc lang="en">Rudy must decide whether to make an argument he can win or to expose the truth.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/5e0e8eAXN_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311115500 +0800" channel="AXNHD">
-    <title lang="en">THE ROOKIE</title>
-    <desc lang="en">The team mobilizes to locate a suspect after a deadly series of events affects one of their own. Meanwhile, Celina takes on her first case with Bailey's help.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7dd091AXN_190x80.png"/>
-  </programme>
   <programme start="20260311115500 +0800" stop="20260311125000 +0800" channel="AXNHD">
     <title lang="en">THE HUNTING PARTY</title>
     <desc lang="en">Bex and the team hunt their most depraved serial killer yet, Tom Beecher, who seeks pleasure in other people's pain.</desc>
@@ -3032,26 +2537,6 @@
     <title lang="en">NCIS: ORIGINS</title>
     <desc lang="en">Season 2 of NCIS: Origins delves deeper into the unstoppable NCIS Camp Pendleton team led by the legendary Mike Franks, as well as Gibbs' early career as a special agent, and reveals the fate of Lala.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/04587dAXN_190x80.png"/>
-  </programme>
-  <programme start="20260311091000 +0800" stop="20260311101000 +0800" channel="HITSNOW">
-    <title lang="en">Hotel Costiera</title>
-    <desc lang="en">A boy named Hassan seeks Daniel at the hotel. As Daniel protects him, he finds Alice's location but arrives too late, someone beat him there.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ccc5bcHITSNOW_190x80.png"/>
-  </programme>
-  <programme start="20260311101000 +0800" stop="20260311111000 +0800" channel="HITSNOW">
-    <title lang="en">Celebrity Wheel of Fortune</title>
-    <desc lang="en">Hosted by Pat Sajak and Vanna White, 'Celebrity Wheel of Fortune' welcomes celebrities to solve word puzzles for a chance to win up to $1 million. All of the money won goes to a charity of their choic</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/77f144HITSNOW_190x80.png"/>
-  </programme>
-  <programme start="20260311111000 +0800" stop="20260311114000 +0800" channel="HITSNOW">
-    <title lang="en">Ghosts</title>
-    <desc lang="en">The story continues for Sam and Jay as they run their Woodstone BandB and restaurant, navigate the ghosts' day-to-day antics, and deal with new life challenges.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/1b79f6HITSNOW_190x80.png"/>
-  </programme>
-  <programme start="20260311114000 +0800" stop="20260311121000 +0800" channel="HITSNOW">
-    <title lang="en">The $100,000 Pyramid</title>
-    <desc lang="en">The $100,000 Pyramid Season 8 continues Michael Strahan's hosting, featuring celebrity pairs alongside contestants playing classic word-association rounds to reach the $100,000 Winner's Circle</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2346d1HITSNOW_190x80.png"/>
   </programme>
   <programme start="20260311121000 +0800" stop="20260311124000 +0800" channel="HITSNOW">
     <title lang="en">Entertainment Tonight</title>
@@ -3123,16 +2608,6 @@
     <desc lang="en">Thieves hold Alice, planning a jewelry heist at Villa Costiera. Daniel manipulates Bruno to find her location, but the rescue takes a shocking turn.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ccc5bcHITSNOW_190x80.png"/>
   </programme>
-  <programme start="20260311080000 +0800" stop="20260311101500 +0800" channel="HITSMOVIESHD">
-    <title lang="en">From Here to Eternity</title>
-    <desc lang="en">A brooding loner finds love and turmoil on the eve of the bombing of Pearl Harbor's bombings.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7c3f97HITSMovies_190x80.png"/>
-  </programme>
-  <programme start="20260311101500 +0800" stop="20260311120000 +0800" channel="HITSMOVIESHD">
-    <title lang="en">Epic Movie</title>
-    <desc lang="en">Two of the warped writers of Scary Movie now set their parodic sights on the largest genre of them all: Hollywood's big-budget, special effects-laden, blockbuster franchise films.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c84d02HITSMovies_190x80.png"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311141500 +0800" channel="HITSMOVIESHD">
     <title lang="en">Flash Gordon</title>
     <desc lang="en">A football player and his friends travel to the planet Mongo and find themselves fighting the tyranny of Ming the Merciless to save Earth.</desc>
@@ -3162,21 +2637,6 @@
     <title lang="en">On the Waterfront</title>
     <desc lang="en">A brutally realistic tour de force chronicling the conflict between a corrupt labor boss and a crusading Catholic priest.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cd19baHITSMovies_190x80.png"/>
-  </programme>
-  <programme start="20260311093500 +0800" stop="20260311103500 +0800" channel="HITSHD">
-    <title lang="en">Xena: Warrior Princess</title>
-    <desc lang="en">Xena comes back to help Princess Diana once more. She takes the place of Diana, but there's an unexpected problem: another Xena look-alike is already trying to supplant the princess.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/1be5b9Hits_190x80.png"/>
-  </programme>
-  <programme start="20260311103500 +0800" stop="20260311113500 +0800" channel="HITSHD">
-    <title lang="en">The Waltons</title>
-    <desc lang="en">Ike Godsey is smitten when cousin Corabeth visits, and with John and Olivia's help love grows between the two. Erin enters the Jefferson County Sweetheart Contest.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/60778bHits_190x80.png"/>
-  </programme>
-  <programme start="20260311113500 +0800" stop="20260311120500 +0800" channel="HITSHD">
-    <title lang="en">Frasier</title>
-    <desc lang="en">Rather than show his son that his dad's not perfect, Frasier agrees to join the station's softball team -- even though he has no idea how to play the game.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b3a1a2Hits_190x80.png"/>
   </programme>
   <programme start="20260311120500 +0800" stop="20260311123500 +0800" channel="HITSHD">
     <title lang="en">Frasier</title>
@@ -3248,21 +2708,6 @@
     <desc lang="en">Officer Nate Kendall aids a woman in trouble and becomes roped into solving a rape case.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/58b9a5Hits_190x80.png"/>
   </programme>
-  <programme start="20260311091000 +0800" stop="20260311100500 +0800" channel="LoveNature">
-    <title lang="en">America's Wild Ss</title>
-    <desc lang="en">It's spring: the season of courtship and new life. Witness nature awaken from its slumber in many forms, from the blossoms that explode in the rain-soaked desert of Arizona to the fuzzy wood ducklings</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0ff208LoveNature_HD_190x80.png"/>
-  </programme>
-  <programme start="20260311100500 +0800" stop="20260311110000 +0800" channel="LoveNature">
-    <title lang="en">America's Wild Ss</title>
-    <desc lang="en">Summer brings long, warm days for wildlife to thrive. Watch animals learn new skills, compete for mates, and escape predators as they try to make the most of the short season.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0ff208LoveNature_HD_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311115000 +0800" channel="LoveNature">
-    <title lang="en">Africa's Hunters</title>
-    <desc lang="en">Dry season in Zambia means new life for the Nsefu pride of lions along the Luangwa River.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d9ac61LoveNature_HD_190x80.png"/>
-  </programme>
   <programme start="20260311115000 +0800" stop="20260311124000 +0800" channel="LoveNature">
     <title lang="en">Land of Primates</title>
     <desc lang="en">Geladas are only found among the peaks and plateaus of Ethiopias Simien Mountains, an ancient range of incredible beauty and biodiversity.</desc>
@@ -3333,21 +2778,6 @@
     <desc lang="en">Dry season in Zambia means new life for the Nsefu pride of lions along the Luangwa River.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d9ac61LoveNature_HD_190x80.png"/>
   </programme>
-  <programme start="20260311091000 +0800" stop="20260311100500 +0800" channel="LoveNature4K">
-    <title lang="en">America's Wild Ss</title>
-    <desc lang="en">It's spring: the season of courtship and new life. Witness nature awaken from its slumber in many forms, from the blossoms that explode in the rain-soaked desert of Arizona to the fuzzy wood ducklings</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0ff208LoveNature4K_190x80_2025.png"/>
-  </programme>
-  <programme start="20260311100500 +0800" stop="20260311110000 +0800" channel="LoveNature4K">
-    <title lang="en">America's Wild Ss</title>
-    <desc lang="en">Summer brings long, warm days for wildlife to thrive. Watch animals learn new skills, compete for mates, and escape predators as they try to make the most of the short season.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0ff208LoveNature4K_190x80_2025.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311115000 +0800" channel="LoveNature4K">
-    <title lang="en">Africa's Hunters</title>
-    <desc lang="en">Dry season in Zambia means new life for the Nsefu pride of lions along the Luangwa River.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d9ac61LoveNature4K_190x80_2025.png"/>
-  </programme>
   <programme start="20260311115000 +0800" stop="20260311124000 +0800" channel="LoveNature4K">
     <title lang="en">Land of Primates</title>
     <desc lang="en">Geladas are only found among the peaks and plateaus of Ethiopias Simien Mountains, an ancient range of incredible beauty and biodiversity.</desc>
@@ -3417,21 +2847,6 @@
     <title lang="en">Africa's Hunters</title>
     <desc lang="en">Dry season in Zambia means new life for the Nsefu pride of lions along the Luangwa River.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d9ac61LoveNature4K_190x80_2025.png"/>
-  </programme>
-  <programme start="20260311085500 +0800" stop="20260311095000 +0800" channel="BBCLifestyleHD">
-    <title lang="en">Grand Designs</title>
-    <desc lang="en">Artist Sarah returns to her roots in the Durham Dales to create a radical, cannabis-based house. But as costs go through the roof, can she get her hempcrete hub of a home over the line?</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d8de5BBC_Lifestyle_190x80.png"/>
-  </programme>
-  <programme start="20260311095000 +0800" stop="20260311104500 +0800" channel="BBCLifestyleHD">
-    <title lang="en">Jamie's Money Saving Meals</title>
-    <desc lang="en">Jamie rustles up a budget-friendly roast feta pasta, a lip-smacking carrot cake, cost-cutting chicken curry, wallet-friendly Welsh rarebit and thrifty stuffed pancakes.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/5132f1BBC_Lifestyle_190x80.png"/>
-  </programme>
-  <programme start="20260311104500 +0800" stop="20260311114000 +0800" channel="BBCLifestyleHD">
-    <title lang="en">Junior Bake Off</title>
-    <desc lang="en">It's Spooky Day, and the six remaining bakers face two fearsome challenges. In the Technical Challenge the bakers make Liam's slime-filled cauldrons.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/79bf39BBC_Lifestyle_190x80.png"/>
   </programme>
   <programme start="20260311114000 +0800" stop="20260311124000 +0800" channel="BBCLifestyleHD">
     <title lang="en">Amazing Hotels: Life Beyond the Lobby</title>
@@ -3508,21 +2923,6 @@
     <desc lang="en">The bakers make classic canteen flapjacks, nostalgic school cake and a spectacular school fete Showstopper. Who'll be top of the class, and who will Mr Hollywood and Ms Leith expel from the tent?</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7abb0fBBC_Lifestyle_190x80.png"/>
   </programme>
-  <programme start="20260311085500 +0800" stop="20260311100000 +0800" channel="BBCEarth">
-    <title lang="en">Big Little Journeys</title>
-    <desc lang="en">A tiny chameleon faces the journey of a lifetime in a Madagascan forest, and a water vole in Scotland swims across a loch and scales a mountain to find new territory and a mate.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bcf582BBC_Earth_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="BBCEarth">
-    <title lang="en">Paddy and Chris: Road Tripping</title>
-    <desc lang="en">For the last leg, Paddy and Chris head to Switzerland to see if its cutting-edge treatments, medical science and health shortcuts can keep them younger for longer, inside and out.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7d7f84BBC_Earth_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311115000 +0800" channel="BBCEarth">
-    <title lang="en">The Mark of Empire</title>
-    <desc lang="en">Curator and scholar Peter Lee explores how the Bagan Empire grew and how its legacy still echoes in the modern nation.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/df0d11BBC_Earth_190x80.png"/>
-  </programme>
   <programme start="20260311115000 +0800" stop="20260311124000 +0800" channel="BBCEarth">
     <title lang="en">Where the Wild Men Are With Ben Fogle</title>
     <desc lang="en">In Tuscany, Ben meets British couple George and Sophie who have breathed new life into a farmhouse. George's desire to live self-sufficiently lead to a lifelong project.</desc>
@@ -3592,31 +2992,6 @@
     <title lang="en">The Mating Game</title>
     <desc lang="en">Jungles are home to 80% of all species but they cover just 2% of the planet. When animals in these crowded forests want to mate, the challenge is how to stand out from the crowd.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c07403BBC_Earth_190x80.png"/>
-  </programme>
-  <programme start="20260311093000 +0800" stop="20260311100000 +0800" channel="FTV">
-    <title lang="en">THE DRESS CODE</title>
-    <desc lang="en">Crack the code of celebrity style! THE DRESS CODE decodes luxury red carpet fashion, designer secrets, and how stars master every look. Learn to dress like an A-lister!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b739b7FTV_V3_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311103000 +0800" channel="FTV">
-    <title lang="en">FAN FAVORITES</title>
-    <desc lang="en">Your top picks are back! FAN FAVORITES showcases the hottest celebrity moments, fashion highlights, and unforgettable content that you loved most. Watch what everyone's raving about!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b739b7FTV_V3_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311110000 +0800" channel="FTV">
-    <title lang="en">FAN FAVORITES</title>
-    <desc lang="en">Your top picks are back! FAN FAVORITES showcases the hottest celebrity moments, fashion highlights, and unforgettable content that you loved most. Watch what everyone's raving about!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b739b7FTV_V3_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311113000 +0800" channel="FTV">
-    <title lang="en">FASHION FIRST</title>
-    <desc lang="en">Your premier style source! FASHION FIRST offers exclusive previews of upcoming collections, interviews with visionary designers, and insights into pivotal fashion moments. Stay utterly front-row!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b739b7FTV_V3_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311120000 +0800" channel="FTV">
-    <title lang="en">FASHION FIRST</title>
-    <desc lang="en">Your premier style source! FASHION FIRST offers exclusive previews of upcoming collections, interviews with visionary designers, and insights into pivotal fashion moments. Stay utterly front-row!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b739b7FTV_V3_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311123000 +0800" channel="FTV">
     <title lang="en">FASHION UNFILTERED</title>
@@ -3738,11 +3113,6 @@
     <desc lang="en">Catch the latest fashion fever! FASHION BUZZ brings you breaking news from runways, exclusive designer interviews, and celebrity style showdowns. Stay ahead of every trend, daily!</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b739b7FTV_V3_IVP_LAND_1280x720.jpg"/>
   </programme>
-  <programme start="20260311094000 +0800" stop="20260311103000 +0800" channel="KCM">
-    <title lang="en">DAY 3</title>
-    <desc lang="en">Shaken by Claudia’s revelation, J.T. attempts to run a secret ballistics test on the gun she carries.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/745e6dKCM_190x80.png"/>
-  </programme>
   <programme start="20260311103000 +0800" stop="20260311123500 +0800" channel="KCM">
     <title lang="en">IF YOU ONLY KNEW</title>
     <desc lang="en">A romantic comedy about a young man who pretends to be gay in order to rent an apartment with his dream girl.</desc>
@@ -3792,36 +3162,6 @@
     <title lang="en">DAY 4</title>
     <desc lang="en">As the day of his predicted death approaches, a deeply depressed J.T. seems resigned to his fate.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/745e6dKCM_190x80.png"/>
-  </programme>
-  <programme start="20260311092900 +0800" stop="20260311095700 +0800" channel="TravelTaste">
-    <title lang="en">Food Psychology</title>
-    <desc lang="en">Discover the psychological difference between dieting as a meat eater - and cutting calories as a vegetarian.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/5782c4Travel_Taste_190x80.png"/>
-  </programme>
-  <programme start="20260311095700 +0800" stop="20260311102200 +0800" channel="TravelTaste">
-    <title lang="en">RASA Nostalgia Ramadan</title>
-    <desc lang="en">During the Ramadan, famous celebrity chef Datuk Chef Wan is hosting a cooking programme celebrating nostalgic, well-loved dishes of the festival.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/60ef29Travel_Taste_190x80.png"/>
-  </programme>
-  <programme start="20260311102200 +0800" stop="20260311104700 +0800" channel="TravelTaste">
-    <title lang="en">RASA Jelajah Rasa Nusantara</title>
-    <desc lang="en">Ili ke Indonesia untuk merasai, dan mempelajari cara cara membuat masakan-masakan yang terkenal di Jakarta. Adam pula mengembara di sekitar Kuala Lumpur untuk mempelajarai masakan tradisional Malaysia</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d57193Travel_Taste_190x80.png"/>
-  </programme>
-  <programme start="20260311104700 +0800" stop="20260311111600 +0800" channel="TravelTaste">
-    <title lang="en">Rasikka Rusikka Reloaded</title>
-    <desc lang="en">Join BGW on a flavorful journey through Kuala Lumpur's vibrant street food scene, where tradition meets innovation.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6f20e0Travel_Taste_190x80.png"/>
-  </programme>
-  <programme start="20260311111600 +0800" stop="20260311114100 +0800" channel="TravelTaste">
-    <title lang="en">The Cuba Show Edisi Puasa</title>
-    <desc lang="en">Hanbyul experiences fasting in the month of Ramadan in Malaysia from ‘sahur’ to break fast.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/19d4caTravel_Taste_190x80.png"/>
-  </programme>
-  <programme start="20260311114100 +0800" stop="20260311120700 +0800" channel="TravelTaste">
-    <title lang="en">Curi-curi Cuti</title>
-    <desc lang="en">Saksikan Kamal Adli sebagai hos membawa Raja Ilya bercuti bersama peminatnya di kepulauan terbaik dunia dalam Curi-Curi Cuti di bawah kempen #expeRIAnce.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/15ee38Travel_Taste_190x80.png"/>
   </programme>
   <programme start="20260311120700 +0800" stop="20260311123500 +0800" channel="TravelTaste">
     <title lang="en">Food Psychology</title>
@@ -3963,26 +3303,6 @@
     <desc lang="en">Join BGW on a flavorful journey through Kuala Lumpur's vibrant street food scene, where tradition meets innovation.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6f20e0Travel_Taste_190x80.png"/>
   </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="GustoTVHD">
-    <title lang="en">Chinese-ish</title>
-    <desc lang="en">Chef-host Shahir Massoud tries out recipes from an award-winning cookbook: Chinese-ish by Joanna Hu and Rosheen Kaul! Follow along as Shahir makes fried rice fit for a billionaire, Australian-inspired</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/388e5eGustoTV_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="GustoTVHD">
-    <title lang="en">Gnocchi</title>
-    <desc lang="en">Unlock Gusto TV's top recipes on QR Countdown! Thousands of viewers scan our QR codes to access our delicious dishes. Now, we're serving up 8 of our most popular recipes for feeding a crowd, from host</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/15dae6GustoTV_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311113000 +0800" channel="GustoTVHD">
-    <title lang="en">Coconut Confections</title>
-    <desc lang="en">Chef Dev prepares some of his favorite street foods that feature coconut, including Coconut Roti Flatbreads from Sri Lanka, God’s Bread from Portugal, and Mango Coconut Sticky Rice from Thailand.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bdf9b3GustoTV_190x80.png"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311120000 +0800" channel="GustoTVHD">
-    <title lang="en">Sweet Treats</title>
-    <desc lang="en">Chef Dev shares recipes for some of his favorite street food desserts from around the world, including Custard Tarts from Portugal, Alfajores Sandwich Cookies from Argentina, and Purple Corn Pudding f</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bdf9b3GustoTV_190x80.png"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311123000 +0800" channel="GustoTVHD">
     <title lang="en">Veggies Galore</title>
     <desc lang="en">Desiree Nielsen shows how beets can make the icing on a delectable cupcake vibrant and delicious.</desc>
@@ -4092,36 +3412,6 @@
     <title lang="en">Raspberries, Mint, Peas and Apricot</title>
     <desc lang="en">Zestful cook Amanda Herrera scoops up raspberries, peas, mint, and apricots to use in three summer recipes.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f2dc5fGustoTV_190x80.png"/>
-  </programme>
-  <programme start="20260311093000 +0800" stop="20260311095600 +0800" channel="Tastemade">
-    <title lang="en">Yakitori and More-Y</title>
-    <desc lang="en">Don’t sleep on grilled chicken, especially if it’s Chef Dale night to cook! He’s serving up Japanese style yakitori three ways, from spicy to sweet to zesty, with crispy rice, and of course he adds hi</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3becf0Tastemade_190x80.png"/>
-  </programme>
-  <programme start="20260311095600 +0800" stop="20260311102200 +0800" channel="Tastemade">
-    <title lang="en">Wok Cooking On A Charcoal Grill</title>
-    <desc lang="en">Anything is possible with a wok and a good ol’ charcoal grill, at least if you’re Chef Dale, who throws together a heavenly spread of fiery eats, from drunken meats, stir fried veggies, and stir fried</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/320f3dTastemade_190x80.png"/>
-  </programme>
-  <programme start="20260311102200 +0800" stop="20260311104800 +0800" channel="Tastemade">
-    <title lang="en">Caribbean Latin BBQ</title>
-    <desc lang="en">Comforting and familiar but full of island flavor, right from the grill! Chef Dale roasts pork shoulder with chicharrones, steamy coconut rice and pigeon peas finished with frozen coconut rum drank wi</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e14fe1Tastemade_190x80.png"/>
-  </programme>
-  <programme start="20260311104800 +0800" stop="20260311111400 +0800" channel="Tastemade">
-    <title lang="en">World of Burgers!</title>
-    <desc lang="en">It’s burger day!  Chef Dale tackles three classics with a full flavor spin.  Game changing Pho Burgers with bone marrow, toasted milk bread Ahi Tuna patty melts, and Chori Pan Burgers with a fried egg</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/945e1eTastemade_190x80.png"/>
-  </programme>
-  <programme start="20260311111400 +0800" stop="20260311114000 +0800" channel="Tastemade">
-    <title lang="en">The Only Pulled Pork Recipe You’ll Ever Need</title>
-    <desc lang="en">Kevin and Noah are smoking up some BBQ Pulled Pork Sandwiches with Coleslaw; frying up a skillet of Creole Cabbage; and charcoal-grilling some Steak Sandwiches with Chimichurri Mayo.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c11fb9Tastemade_190x80.png"/>
-  </programme>
-  <programme start="20260311114000 +0800" stop="20260311120600 +0800" channel="Tastemade">
-    <title lang="en">Why LA’s &quot;Danger Dog&quot; is the Best Thing You’ll Ever Eat</title>
-    <desc lang="en">Kevin &amp; Noah make their twists on some L.A. outdoor classics: Backyard Burgers 2 Ways; Pit-Smoked Pollo Asado; Grilled Mexican Street Corn and Bacon-Wrapped Danger Dogs.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0583dbTastemade_190x80.png"/>
   </programme>
   <programme start="20260311120600 +0800" stop="20260311123200 +0800" channel="Tastemade">
     <title lang="en">Beef Shank is the New Brisket</title>
@@ -4263,11 +3553,6 @@
     <desc lang="en">It’s burger day!  Chef Dale tackles three classics with a full flavor spin.  Game changing Pho Burgers with bone marrow, toasted milk bread Ahi Tuna patty melts, and Chori Pan Burgers with a fried egg</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/945e1eTastemade_190x80.png"/>
   </programme>
-  <programme start="20260311093000 +0800" stop="20260311113500 +0800" channel="RockAction">
-    <title lang="en">Twelve Monkeys</title>
-    <desc lang="en">In *12 Monkeys*, Bruce Willis plays a time-traveling convict trying to prevent a deadly virus, while Brad Pitt shines as a manic asylum inmate.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/71cff5RockAction_190x80.png"/>
-  </programme>
   <programme start="20260311113500 +0800" stop="20260311131000 +0800" channel="RockAction">
     <title lang="en">Fist From Shaolin</title>
     <desc lang="en">A Shaolin warrior battles slave traders to stop his countrymen from being sold into bondage in the gold mines in America.</desc>
@@ -4307,16 +3592,6 @@
     <title lang="en">Fast &amp; Furious Presents: Hobbs &amp; Shaw</title>
     <desc lang="en">Hobbs and Shaw team up to stop a superhuman villain with a deadly bio-weapon in this explosive Fast and Furious spin-off starring Dwayne Johnson, Jason Statham, Idris Elba, and more.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a22ec0RockAction_190x80.png"/>
-  </programme>
-  <programme start="20260311092000 +0800" stop="20260311110000 +0800" channel="RockXStream">
-    <title lang="en">Blowback</title>
-    <desc lang="en">A man dying of lymphoma hires Magnum to find his estranged, bone-marrow-compatible brother who turns out to need Magnum's help as well.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a67fdeRockXStream_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311114500 +0800" channel="RockXStream">
-    <title lang="en">Magnum PI ('18)</title>
-    <desc lang="en">An aging tycoon, Henry Brown, asks Magnum to find his lost love who he says just recently contacted him - the only problem is she died 30 years ago.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/05a004RockXStream_190x80.png"/>
   </programme>
   <programme start="20260311114500 +0800" stop="20260311123500 +0800" channel="RockXStream">
     <title lang="en">Magnum PI ('18)</title>
@@ -4388,16 +3663,6 @@
     <desc lang="en">A journey of survival begins when an army of Witchfinders attacks the village of Alkenny.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/9e9daeRockXStream_190x80.png"/>
   </programme>
-  <programme start="20260311083300 +0800" stop="20260311101700 +0800" channel="FreeMovies">
-    <title lang="en">Hunting Games</title>
-    <desc lang="en">Two dangerous armed men must hunt each other and fight to death over millions of dollars in cash in this high octane wilderness survival story.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3a3105TPI354XXXXXX.jpg"/>
-  </programme>
-  <programme start="20260311101700 +0800" stop="20260311115800 +0800" channel="FreeMovies">
-    <title lang="en">A Tale Of Two Guns</title>
-    <desc lang="en">A deputized gunslinger takes up the call to hunt down the last Cowboy, the chase is on and the bullets fly and only one of these hardened men can survive.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6ae536TPI190XXXXXX.jpg"/>
-  </programme>
   <programme start="20260311115800 +0800" stop="20260311133600 +0800" channel="FreeMovies">
     <title lang="en">High Voltage</title>
     <desc lang="en">After a lightning strike kills the lead singer of a band, she is resurrected with electrifying special abilities.</desc>
@@ -4438,16 +3703,6 @@
     <desc lang="en">A deputized gunslinger takes up the call to hunt down the last Cowboy, the chase is on and the bullets fly and only one of these hardened men can survive.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6ae536TPI190XXXXXX.jpg"/>
   </programme>
-  <programme start="20260311081100 +0800" stop="20260311095500 +0800" channel="wedotvMovies">
-    <title lang="en">Falling for the Competition</title>
-    <desc lang="en">Molly runs the local mom's group and this year they're entering the prestigious Modern Parenting Group of the Year Contest. When a new to town dad, Ashley, sets up a rival dad's group, their competiti</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bd8120WD_Movies_190x80.png"/>
-  </programme>
-  <programme start="20260311095500 +0800" stop="20260311114100 +0800" channel="wedotvMovies">
-    <title lang="en">Dare to Say Yes</title>
-    <desc lang="en">Michelle is having the worst day - she gets fired and dumped on the very same day. Best friend Sara persuades her to come along to a new retreat which offers a wellness and empowering program called J</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2d4d21WD_Movies_190x80.png"/>
-  </programme>
   <programme start="20260311114100 +0800" stop="20260311132300 +0800" channel="wedotvMovies">
     <title lang="en">Conflict of Love Interest</title>
     <desc lang="en">斯嘉麗以她的約會冒險而聞名，決定幫助她那永遠單身的朋友珍妮在愛情方面取得突破。然而，當她們合作時，斯嘉麗開始對那個可能是珍妮完美伴侶的男孩產生情感。</desc>
@@ -4482,21 +3737,6 @@
     <title lang="en">Let Love Grow</title>
     <desc lang="en">Landscape architect Evie has met her match with her new client, stubborn archaeologist Ryan, but his daughters love Evie, and she soon finds herself the unwitting victim of Operation Grow a Girlfriend</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/9ac6d8WD_Movies_190x80.png"/>
-  </programme>
-  <programme start="20260311092200 +0800" stop="20260311102300 +0800" channel="wedotvBigstories">
-    <title lang="en">Royal Documentaries - S01:E25 - Kate The Making Of A Modern Queen</title>
-    <desc lang="en">A look at the Duchess of Cambridge's journey from being an everyday young woman to becoming a future queen, and what her evolution signifies for the royal family.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/753777WD_Big_Stories_190x80.png"/>
-  </programme>
-  <programme start="20260311102300 +0800" stop="20260311111800 +0800" channel="wedotvBigstories">
-    <title lang="en">Royal Documentaries - S01:E26 - Prince William A Royal Portrait</title>
-    <desc lang="en">Explore the exciting and intriguing life of the future king, Prince William, in this engaging documentary.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8bcf4cWD_Big_Stories_190x80.png"/>
-  </programme>
-  <programme start="20260311111800 +0800" stop="20260311121000 +0800" channel="wedotvBigstories">
-    <title lang="en">Dropped - S02:E10 - Weathered and Worn</title>
-    <desc lang="en">The brothers come up with a strategy and start approaching the bull. Halfway there, the bull gets up and starts walking toward them. It turns away just a moment before Casey can aim behind its shoulde</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ed7feeWD_Big_Stories_190x80.png"/>
   </programme>
   <programme start="20260311121000 +0800" stop="20260311123500 +0800" channel="wedotvBigstories">
     <title lang="en">Hollywood Weapons - S04:E01 - The Last Crusade of Indiana Terry</title>
@@ -4608,21 +3848,6 @@
     <desc lang="en">Laramy is on the hunt for a moose with his Hawken rifle.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/07bd33WD_Big_Stories_190x80.png"/>
   </programme>
-  <programme start="20260311092900 +0800" stop="20260311102000 +0800" channel="wedotvAmor">
-    <title lang="en">La Trepadora - S01:E094</title>
-    <desc lang="en">Sergio, que entiende la urgencia de Victoria por ir a Cantarrana para estar con sus padres, acepta acompañarla con la excusa de que lo hace por proteger su inversión. Hilario no quiere que Victoria se</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/69e592WD_Amor_190x80.png"/>
-  </programme>
-  <programme start="20260311102000 +0800" stop="20260311111200 +0800" channel="wedotvAmor">
-    <title lang="en">Piel Salvaje - S01:E113</title>
-    <desc lang="en">El inspector Torrealba exige que Rosa declare sobre lo sucedido en el pasado crimen de Leoncio López Méndez. Con dolor revive los momentos en que llegó Ezequiel y asesinó a Leoncio y luego, se retiró </desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6a9f6cWD_Amor_190x80.png"/>
-  </programme>
-  <programme start="20260311111200 +0800" stop="20260311120200 +0800" channel="wedotvAmor">
-    <title lang="en">Piel Salvaje - S01:E114</title>
-    <desc lang="en">Durante un evento en Mascarada Rosa es recibida por Camila a disfrutar ver reunidos en un mismo lugar a todos sus enemigos. Ezequiel y Fausto cada uno celebra la caída del otro y sólo los une la inten</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b3ab80WD_Amor_190x80.png"/>
-  </programme>
   <programme start="20260311120200 +0800" stop="20260311125300 +0800" channel="wedotvAmor">
     <title lang="en">Piel Salvaje - S01:E11</title>
     <desc lang="en">Camila va a encontrarse con una de las Rosas Blanco para saber algo más sobre la niña de la foto que era ella pequeña y el destino de su madre. Está decepcionada porque la mujer no conoce nada y esto </desc>
@@ -4693,25 +3918,10 @@
     <desc lang="en">Ricardo defiende sus sentimientos hacia María Bonita para tener una relación seria con ella . Norma ve que Gertrudis y Claudio son responsables de la muerte de Marco Aurelio. Isabel defiende a Malena.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ac8323WD_Amor_190x80.png"/>
   </programme>
-  <programme start="20260311090100 +0800" stop="20260311102900 +0800" channel="HorseCountry">
-    <title lang="en">William Fox-Pitt: Is he the G.O.A.T.?</title>
-    <desc lang="en">With the help of data experts EquiRatings, H&amp;C asks the question - is William Fox-Pitt the greatest event rider of all time? nWatch this brilliant programme showcasing his life and stats and tell us</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cb0916H_C_190x80.png"/>
-  </programme>
-  <programme start="20260311102900 +0800" stop="20260311110400 +0800" channel="HorseCountry">
-    <title lang="en">Dream Big (1)/ Ep 2-Dream Big - Kristy Snepvangers: All or Nothing</title>
-    <desc lang="en">No information available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
-  </programme>
-  <programme start="20260311110400 +0800" stop="20260311113200 +0800" channel="HorseCountry">
-    <title lang="en">Riding with the Reddens: S2 Ep2</title>
-    <desc lang="en">The girls face a tough competition at TerraNova. Emma struggles a bit with her new horse. The pressure is on to qualify for Kentucky championship.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
-  </programme>
   <programme start="20260311113200 +0800" stop="20260311123200 +0800" channel="HorseCountry">
     <title lang="en">Blackfort Equestrian All Star Academy (1)/ Ep 4-Blackfort Equestrian All Star Academy: Episode 4</title>
     <desc lang="en">No information available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/782a35H_C_190x80.png"/>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/fcd04bH_C_190x80.png"/>
   </programme>
   <programme start="20260311123200 +0800" stop="20260311130100 +0800" channel="HorseCountry">
     <title lang="en">Megan's Ride To Win (1)/ Ep 1-Megan's Ride To Win: Episode 1</title>
@@ -4728,125 +3938,90 @@
     <desc lang="en">Highlights from the GCL leg from Valkenswaard.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
-  <programme start="20260311140000 +0800" stop="20260311170000 +0800" channel="HorseCountry">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+  <programme start="20260311140000 +0800" stop="20260311143000 +0800" channel="HorseCountry">
+    <title lang="en">LGCT 2025: Paris</title>
+    <desc lang="en">Highlights from the LGCT 2025 leg from Paris.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
-  <programme start="20260311170000 +0800" stop="20260311200000 +0800" channel="HorseCountry">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+  <programme start="20260311143000 +0800" stop="20260311150100 +0800" channel="HorseCountry">
+    <title lang="en">GCL 2025: Paris</title>
+    <desc lang="en">Highlights from the GCL leg from Paris.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
-  <programme start="20260311200000 +0800" stop="20260311230000 +0800" channel="HorseCountry">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+  <programme start="20260311150100 +0800" stop="20260311153400 +0800" channel="HorseCountry">
+    <title lang="en">Dream Big (1)/ Ep 2-Dream Big - Kristy Snepvangers: All or Nothing</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
-  <programme start="20260311230000 +0800" stop="20260312020000 +0800" channel="HorseCountry">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+  <programme start="20260311153400 +0800" stop="20260311160100 +0800" channel="HorseCountry">
+    <title lang="en">The World of Marten Luiten 2025 (2)/ Ep 2-The World of Luiten Season 2: Episode 2</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
-  <programme start="20260311094000 +0800" stop="20260311095000 +0800" channel="CBeebies">
-    <title lang="en">Thomas &amp; Friends</title>
-    <desc lang="en">When James hears the children of Sodor talking about their latest comic book superhero, he imagines that he too can become a hero.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bbe9b8CBeebies_190x80.png"/>
+  <programme start="20260311160100 +0800" stop="20260311165800 +0800" channel="HorseCountry">
+    <title lang="en">Adelaide Equestrian Festival 2025 Highlights</title>
+    <desc lang="en">Catch the exciting highlights from the 2025 Adelaide Equestrian Festival.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e8ce33H_C_190x80.png"/>
   </programme>
-  <programme start="20260311095000 +0800" stop="20260311095700 +0800" channel="CBeebies">
-    <title lang="en">Sarah and Duck</title>
-    <desc lang="en">Sarah, Duck and Bug set off on a big adventure, through uncharted territory, as they attempt to cycle all the way around the park.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/5df536CBeebies_190x80.png"/>
+  <programme start="20260311165800 +0800" stop="20260311175900 +0800" channel="HorseCountry">
+    <title lang="en">Carolina International 2025 Highlights</title>
+    <desc lang="en">Catch the highlights from the 2025 Carolina International.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/464fa7H_C_190x80.png"/>
   </programme>
-  <programme start="20260311095700 +0800" stop="20260311100500 +0800" channel="CBeebies">
-    <title lang="en">Sarah and Duck</title>
-    <desc lang="en">Whilst visiting a Castle, Sarah and Duck's drawings lead them to an exciting discovery.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/5df536CBeebies_190x80.png"/>
+  <programme start="20260311175900 +0800" stop="20260311183100 +0800" channel="HorseCountry">
+    <title lang="en">Breakaway: Polo In India</title>
+    <desc lang="en">Journey to the heart of India where polo’s rich heritage meets a new generation of players, blending tradition, culture, and the fast-paced thrill of the sport.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/9e0b9aH_C_190x80.png"/>
   </programme>
-  <programme start="20260311100500 +0800" stop="20260311101100 +0800" channel="CBeebies">
-    <title lang="en">Stan Can</title>
-    <desc lang="en">Myrtle's aunt Cressy is coming to stay, and she needs Stanley to make her a bed for her. This escalates into Stanley building her a whole set of rooms outside Myrtles actual house.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/764ecbCBeebies_190x80.png"/>
+  <programme start="20260311183100 +0800" stop="20260311190000 +0800" channel="HorseCountry">
+    <title lang="en">The Slam Show at Spruce Meadows ‘Masters’ 2025 (1)/ Ep 1-The Slam Show at Spruce Meadows ‘Masters’</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/856a1dH_C_190x80.png"/>
   </programme>
-  <programme start="20260311101100 +0800" stop="20260311102000 +0800" channel="CBeebies">
-    <title lang="en">Stan Can</title>
-    <desc lang="en">Stanley and the children tour the museum and quickly realise there's nothing about them or their friends, so they make a new exhibit all about their town today!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/764ecbCBeebies_190x80.png"/>
+  <programme start="20260311190000 +0800" stop="20260311192900 +0800" channel="HorseCountry">
+    <title lang="en">Cornbury Creates Champions (2)/ Ep 7-Cornbury Creates Champions 2025</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
-  <programme start="20260311102000 +0800" stop="20260311102500 +0800" channel="CBeebies">
-    <title lang="en">Number 1 Newton Avenue</title>
-    <desc lang="en">Freddie has a bug hotel, and he wants to make beds for the bugs with sticks and leaves. Unfortunately, all the sticks he can find in the garden are the wrong size!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/17966bCBeebies_190x80.png"/>
+  <programme start="20260311192900 +0800" stop="20260311195900 +0800" channel="HorseCountry">
+    <title lang="en">NHCTV067800002A</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cbc495H_C_190x80.png"/>
   </programme>
-  <programme start="20260311102500 +0800" stop="20260311103800 +0800" channel="CBeebies">
-    <title lang="en">JoJo &amp; Gran Gran</title>
-    <desc lang="en">JoJo and Gran Gran visit a ruined castle near the beach. JoJo imagines what the castle looked like before it was a ruin and finds it's just like being on a Captain Chloe adventure!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c1a3e3CBeebies_190x80.png"/>
+  <programme start="20260311195900 +0800" stop="20260311203400 +0800" channel="HorseCountry">
+    <title lang="en">Dream Big (1)/ Ep 2-Dream Big - Kristy Snepvangers: All or Nothing</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
-  <programme start="20260311103800 +0800" stop="20260311104500 +0800" channel="CBeebies">
-    <title lang="en">Bluey</title>
-    <desc lang="en">Dad agrees to play Sheepdog with Bluey and Bingo to stop them from disturbing Mum.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c50411CBeebies_190x80.png"/>
+  <programme start="20260311203400 +0800" stop="20260311210200 +0800" channel="HorseCountry">
+    <title lang="en">De Wereld van Luiten S1 Ep1</title>
+    <desc lang="en">The World of Luiten, a new docuseries, follows dressage rider Marten Luiten. The first episode introduces Marten at home, sharing his life, love for horses, and family experiences, including his fathe</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b6e9b9H_C_190x80.png"/>
   </programme>
-  <programme start="20260311104500 +0800" stop="20260311105000 +0800" channel="CBeebies">
-    <title lang="en">Bluey</title>
-    <desc lang="en">Mum and Dad vow to only finish their boring housework when the kids stop acting silly.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c50411CBeebies_190x80.png"/>
+  <programme start="20260311210200 +0800" stop="20260311220100 +0800" channel="HorseCountry">
+    <title lang="en">NHCTV065910001A</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/db7431H_C_190x80.png"/>
   </programme>
-  <programme start="20260311105000 +0800" stop="20260311110000 +0800" channel="CBeebies">
-    <title lang="en">Bluey</title>
-    <desc lang="en">Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c50411CBeebies_190x80.png"/>
+  <programme start="20260311220100 +0800" stop="20260311223000 +0800" channel="HorseCountry">
+    <title lang="en">Backstage Pass with Monty Roberts (17)/ Ep 1-Backstage Pass with Monty Roberts S17: Episode 1</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/9e5854H_C_190x80.png"/>
   </programme>
-  <programme start="20260311110000 +0800" stop="20260311110700 +0800" channel="CBeebies">
-    <title lang="en">Hey Duggee</title>
-    <desc lang="en">Duggee and the squirrels are going camping and they hear a scary noise outside the tent!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/46b291CBeebies_190x80.png"/>
+  <programme start="20260311223000 +0800" stop="20260311230100 +0800" channel="HorseCountry">
+    <title lang="en">NHCTV067800002A</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cbc495H_C_190x80.png"/>
   </programme>
-  <programme start="20260311110700 +0800" stop="20260311111400 +0800" channel="CBeebies">
-    <title lang="en">Hey Duggee</title>
-    <desc lang="en">Duggee's not very well, he's lost his voice.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/46b291CBeebies_190x80.png"/>
+  <programme start="20260311230100 +0800" stop="20260311235900 +0800" channel="HorseCountry">
+    <title lang="en">NHCTV06594001A</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
-  <programme start="20260311111400 +0800" stop="20260311112000 +0800" channel="CBeebies">
-    <title lang="en">Hey Duggee's Squirrel Club</title>
-    <desc lang="en">Spring has sprung! There are cute baby animals to meet and frolic with, Hennie bounces around in new dance shoes, and Happy loves water as much as Roly loves potatoes!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/431544CBeebies_190x80.png"/>
-  </programme>
-  <programme start="20260311112000 +0800" stop="20260311113000 +0800" channel="CBeebies">
-    <title lang="en">Go Jetters</title>
-    <desc lang="en">Glitch travels to Ontario to find a new teddy bear, but things start to go very wrong...</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ad462aCBeebies_190x80.png"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311113500 +0800" channel="CBeebies">
-    <title lang="en">Roots &amp; Fruits</title>
-    <desc lang="en">Live from the Roots and Fruits theatre, it's Pumpkin demonstrating incredible strength and attempting to break a Roots and Fruits record.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/053030CBeebies_190x80.png"/>
-  </programme>
-  <programme start="20260311113500 +0800" stop="20260311114500 +0800" channel="CBeebies">
-    <title lang="en">Roots &amp; Fruits</title>
-    <desc lang="en">Live from the Roots and Fruits Theatre, it's Banana revealing an astonishing secret about herself in the opera piece, I've Got a Secret.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/053030CBeebies_190x80.png"/>
-  </programme>
-  <programme start="20260311114500 +0800" stop="20260311115200 +0800" channel="CBeebies">
-    <title lang="en">Supertato</title>
-    <desc lang="en">It's Supertato's birthday, and Evil Pea shows up to his party with a big evil surprise.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d4a6edCBeebies_190x80.png"/>
-  </programme>
-  <programme start="20260311115200 +0800" stop="20260311120000 +0800" channel="CBeebies">
-    <title lang="en">Supertato</title>
-    <desc lang="en">Evil Pea chases the Veggies with a giant snowball after covering the supermarket in ice.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d4a6edCBeebies_190x80.png"/>
-  </programme>
-  <programme start="20260311120000 +0800" stop="20260311121000 +0800" channel="CBeebies">
-    <title lang="en">Teletubbies</title>
-    <desc lang="en">Tinky Winky, Dipsy, Laa­Laa and Po want to go outside but it's raining. Some wellies and umbrellas magically appear and the Teletubbies go outside for splashy, rainy fun.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/469810CBeebies_190x80.png"/>
-  </programme>
-  <programme start="20260311121000 +0800" stop="20260311121500 +0800" channel="CBeebies">
-    <title lang="en">Yakka Dee</title>
-    <desc lang="en">Dee encourages a friend to say 'tummy' and we go on a whirlwind word adventure! We see a furry tummy, a squeaky tummy, some silly tummies and a tickly tummy.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/41704eCBeebies_190x80.png"/>
+  <programme start="20260311235900 +0800" stop="20260312003100 +0800" channel="HorseCountry">
+    <title lang="en">GCT 2025: Prague</title>
+    <desc lang="en">Highlights from the LGCT 2025 leg from Prague.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/443404H_C_190x80.png"/>
   </programme>
   <programme start="20260311121500 +0800" stop="20260311122500 +0800" channel="CBeebies">
     <title lang="en">Messy Goes to OKIDO</title>
@@ -5238,31 +4413,6 @@
     <desc lang="en">Evil Pea chases the Veggies with a giant snowball after covering the supermarket in ice.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d4a6edCBeebies_190x80.png"/>
   </programme>
-  <programme start="20260311093200 +0800" stop="20260311100000 +0800" channel="Moonbug">
-    <title lang="en">Lellobee City Farm</title>
-    <desc lang="en">It's a day of helping each other at Lellobee City Farm! When a mama songbird's eggs are about to hatch, Mei, Ella and Rishi build her a beautiful bird feeding table so she can take care of her new chi</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c4f958Moonbug_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311102700 +0800" channel="Moonbug">
-    <title lang="en">Lellobee City Farm</title>
-    <desc lang="en">Join Ella for a super fun day at Lellobee City Farm! First, when a nest of baby duck eggs starts to hatch, Ella has to play 'Mummy Duck' to keep all the cute but runaway ducklings together! Then, Rish</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c4f958Moonbug_190x80.png"/>
-  </programme>
-  <programme start="20260311102700 +0800" stop="20260311105700 +0800" channel="Moonbug">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">It's time to play and learn outside with JJ! First, JJ and Cody spend the day taking care of their pets Bingo, Pickles and Jellybean. Then, it's time for a trip to Grandpa's farm to learn about all th</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/da85f6Moonbug_190x80.png"/>
-  </programme>
-  <programme start="20260311105700 +0800" stop="20260311112000 +0800" channel="Moonbug">
-    <title lang="en">Nina's Familia</title>
-    <desc lang="en">Join Nina and her familia for some sibling adventures! First, Lucy, Nina and Mateo visit a petting zoo to dance with baby animals. Then, the siblings dream of soaring through the sky like their pilot </desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3d7308Moonbug_190x80.png"/>
-  </programme>
-  <programme start="20260311112000 +0800" stop="20260311120000 +0800" channel="Moonbug">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">JJ is learning that sharing is caring during Siblings Month! First, JJ, YoYo and TomTom show how much fun it is to share snacks and toys while playing at the park and at home. Then, the siblings team </desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/da85f6Moonbug_190x80.png"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311123400 +0800" channel="Moonbug">
     <title lang="en">Little Angel</title>
     <desc lang="en">Join Jill for some super creative adventures! It's time for the Princess Ball, and Jill decides to decorate her dress. Baby John accidentally spills paint on it, but Jill discovers that an accident ca</desc>
@@ -5387,26 +4537,6 @@
     <title lang="en">CoComelon</title>
     <desc lang="en">Celebrate Siblings Month by helping out! First, JJ assumes the role of a pretend doctor, taking care of TomTom and YoYo with a checkup and lollipops. Then, the siblings team up with Daddy to bake a sp</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/da85f6Moonbug_190x80.png"/>
-  </programme>
-  <programme start="20260311092900 +0800" stop="20260311100100 +0800" channel="BlippiFriends">
-    <title lang="en">Little Angel</title>
-    <desc lang="en">Join Baby John as he learns all about yummy food! First, he explores the world of vegetables and learns that they are not only delicious but also essential for staying strong and healthy. Then, the fa</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7706f1BlippiAndFriends_190x80.png"/>
-  </programme>
-  <programme start="20260311100100 +0800" stop="20260311103300 +0800" channel="BlippiFriends">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">Join JJ for a nature walk and some of his favorite rhymes! First, JJ's family shows him all the fun things we can do to help the Earth, like sorting trash for recycling. Then, the kids go on a nature </desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/da85f6BlippiAndFriends_190x80.png"/>
-  </programme>
-  <programme start="20260311103300 +0800" stop="20260311110200 +0800" channel="BlippiFriends">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">It's time to play JJ's favorite games! Join Ms. Appleberry and the Melon Patch kids as they play 'follow the leader' and have a contest to see who can make the silliest funny face. Then, JJ and his an</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/da85f6BlippiAndFriends_190x80.png"/>
-  </programme>
-  <programme start="20260311110200 +0800" stop="20260311120400 +0800" channel="BlippiFriends">
-    <title lang="en">Meekah</title>
-    <desc lang="en">Meekah is always learning something new and awesome! First, she meets a group of young coders and learns that 'coding' is telling a computer what to do through fun physical games. Then, she learns abo</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bb3686BlippiAndFriends_190x80.png"/>
   </programme>
   <programme start="20260311120400 +0800" stop="20260311123600 +0800" channel="BlippiFriends">
     <title lang="en">Blippi</title>
@@ -5537,36 +4667,6 @@
     <title lang="en">Gecko's Garage</title>
     <desc lang="en">It's always a busy day at Gecko's Garage! The fun starts when Fiona the Fire Truck arrives with a broken hose that needs a clever fix. Then, Baby Truck comes in after playing in muddy puddles and need</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/62ae57BlippiAndFriends_190x80.png"/>
-  </programme>
-  <programme start="20260311093500 +0800" stop="20260311100100 +0800" channel="OhMyCeria">
-    <title lang="en">Oh My English!</title>
-    <desc lang="en">Mr. Middleton telah mengubah fikirannya untuk tidak kembali ke UK. Dia menyambung tugasnya di Kelas 3 Merah, dan belajar lebih mendalam tentang negara 'rumah baharu' nya Ikuti rancangan ini!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/022de1OhMyCeria_190x80.png"/>
-  </programme>
-  <programme start="20260311100100 +0800" stop="20260311102700 +0800" channel="OhMyCeria">
-    <title lang="en">SMK</title>
-    <desc lang="en">Siri komedi tentang Adam, seorang pelajar baru yang cuba menyesuaikan diri dengan rakan-rakan sekelasnya yang pelbagai ragam di sekolah baharu.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/eb9f81OhMyCeria_190x80.png"/>
-  </programme>
-  <programme start="20260311102700 +0800" stop="20260311105600 +0800" channel="OhMyCeria">
-    <title lang="en">Fam I Love You</title>
-    <desc lang="en">Keluarga Shahir bersatu hati dan redha untuk berpindah ke rumah baru</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d6a8ddOhMyCeria_190x80.png"/>
-  </programme>
-  <programme start="20260311105600 +0800" stop="20260311112200 +0800" channel="OhMyCeria">
-    <title lang="en">Rimau Bangku</title>
-    <desc lang="en">Walaupun tidak memiliki fizikal dan stamina sebagi pemain bola tetapi Azman masih menyimpan cita-cita untuk menjadi pemain bola sepak yang berjaya.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e195b5OhMyCeria_190x80.png"/>
-  </programme>
-  <programme start="20260311112200 +0800" stop="20260311115000 +0800" channel="OhMyCeria">
-    <title lang="en">Oh My English!(Who's That Guy?)</title>
-    <desc lang="en">Mr. Middleton telah mengubah fikirannya untuk tidak kembali ke UK. Dia menyambung tugasnya di Kelas 3 Merah, dan belajar lebih mendalam tentang negara 'rumah baharu' nya Ikuti rancangan ini!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/1321f0OhMyCeria_190x80.png"/>
-  </programme>
-  <programme start="20260311115000 +0800" stop="20260311121600 +0800" channel="OhMyCeria">
-    <title lang="en">Oh My English!</title>
-    <desc lang="en">Mr. Middleton telah mengubah fikirannya untuk tidak kembali ke UK. Dia menyambung tugasnya di Kelas 3 Merah, dan belajar lebih mendalam tentang negara 'rumah baharu' nya Ikuti rancangan ini!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/48b6e6OhMyCeria_190x80.png"/>
   </programme>
   <programme start="20260311121600 +0800" stop="20260311124200 +0800" channel="OhMyCeria">
     <title lang="en">Oh My English!</title>
@@ -5703,26 +4803,6 @@
     <desc lang="en">Keluarga Shahir bersatu hati dan redha untuk berpindah ke rumah baru</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d6a8ddOhMyCeria_190x80.png"/>
   </programme>
-  <programme start="20260311093000 +0800" stop="20260311100000 +0800" channel="Petclub">
-    <title lang="en">Cute Pets At Home</title>
-    <desc lang="en">The Japanese animated film My Neighbor Totoro, which is popular all over the world is the childhood memory of many. Totoro's classic furry body, round eyes and cute expression are very endearing. In S</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/af9806PetClubTV_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="Petclub">
-    <title lang="en">The Dog Rescuers</title>
-    <desc lang="en">In Birkenhead, Inspector Anthony Joynes is accompanied by the police to attend an unlocked and empty property. Inside he finds Teddy, the terrified Terrier cross that has a flea infestation so bad tha</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/be0b99PetClubTV_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311113000 +0800" channel="Petclub">
-    <title lang="en">Zoo Vet At Large</title>
-    <desc lang="en">At Dr. Matt's veterinary practice, owner Jean brings in a baby parrot. She's hand-rearing it in an incubator, and has noticed a problem. Jean has a pair of African Greys and raises their chick every y</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4e6d20PetClubTV_190x80.png"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311120000 +0800" channel="Petclub">
-    <title lang="en">Have A Pet Day</title>
-    <desc lang="en">Renowned Golden Bell awarded host Sandy Wu takes her beloved dog Hershey on outings, inviting celebrities and their adorable pets to join in the fun. Beyond exploring nature, the show delves into hear</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f8a806PetClubTV_190x80.png"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="Petclub">
     <title lang="en">Best Of Pets</title>
     <desc lang="en">Another episode of Best of Pets with funny pet clips.</desc>
@@ -5802,21 +4882,6 @@
     <title lang="en">Have A Pet Day</title>
     <desc lang="en">Renowned Golden Bell awarded host Sandy Wu takes her beloved dog Hershey on outings, inviting celebrities and their adorable pets to join in the fun. Beyond exploring nature, the show delves into hear</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f8a806PetClubTV_190x80.png"/>
-  </programme>
-  <programme start="20260311080000 +0800" stop="20260311100000 +0800" channel="TV1HD">
-    <title lang="en">(L) Selamat Pagi Malaysia</title>
-    <desc lang="en">Program bual bicara secara langsung memaparkan segmen perbincangan bersama panel jemputan seperti topik semasa, info semasa, kesihatan, pendidikan, filem kita dan wanita.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311100500 +0800" channel="TV1HD">
-    <title lang="en">(L) Dunia 10</title>
-    <desc lang="en">Berita dalam dan luar Negara</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311100500 +0800" stop="20260311120000 +0800" channel="TV1HD">
-    <title lang="en">(L) Langsung Dari Parlimen</title>
-    <desc lang="en">Mesyuarat Pertama, Penggal Kelima, Parlimen Kelima Belas 2026, Dewan Negara.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="TV1HD">
     <title lang="en">(L) World Quran Hour 26</title>
@@ -5938,21 +5003,6 @@
     <desc lang="en">Pengumuman Waktu Imsak</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="TV2HD">
-    <title lang="en">Masjid Yang Tak Dirindukan</title>
-    <desc lang="en">Kinar runsing memikirkan masalah kewangan yang dihadapi hingga dihalau keluar dari rumah sewanya. Adiknya Putri mencadangkan kakaknya berkahwin dengan Malik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/62e6d6ivp_default_1029_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="TV2HD">
-    <title lang="en">Cinta Yang Pulang</title>
-    <desc lang="en">Saziman mendapat tahu Noah akan ke Jepun selama tiga bulan. Noah meminta Cik Yah memujuk Adina agar dia dan Adina agar menyegerakan pernikahan mereka.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/62e6d6ivp_default_1029_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311120000 +0800" channel="TV2HD">
-    <title lang="en">Saya Tunggu Awak</title>
-    <desc lang="en">Ustazah Hana tetap tenang menjalani kehidupannya setelah kehilangan Farhan. Ustazah Hana juga mendapat perkhabaran berita mengenai dirinya yang mengandung anak kembar.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/62e6d6ivp_default_1029_IVP_LAND_1280x720.jpg"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311123000 +0800" channel="TV2HD">
     <title lang="en">Berita Mandarin</title>
     <desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
@@ -6032,41 +5082,6 @@
     <title lang="en">House</title>
     <desc lang="en">Dr.House mengambil kes Rebecca, seorang guru muda yang mengalami sawan dan mental, di ambang kematian. Semua ubat yang diberi menyebabkan masalah lain. Dr.Huose berusaha memikirkan cara merawat.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/62e6d6ivp_default_1029_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="TVOkeyHD">
-    <title lang="en">Kalung (Ulangan)</title>
-    <desc lang="en">Sebuah drama bersiri yang penuh konflik dan liku-liku khas untuk tontonan anda.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a91642ivp_default_2942_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311103000 +0800" channel="TVOkeyHD">
-    <title lang="en">Dapur Pecah Perut (Ulangan)</title>
-    <desc lang="en">Chef DeeDee akan berjalan ke seluruh Malaysia untuk memasak dan menjual makanan di kedai yang terpilih.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a91642ivp_default_2942_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311104400 +0800" channel="TVOkeyHD">
-    <title lang="en">I-Kadazan</title>
-    <desc lang="en">Saksikan berita dalam bahasa Kadazan.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a91642ivp_default_2942_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311104400 +0800" stop="20260311104500 +0800" channel="TVOkeyHD">
-    <title lang="en">Klip Video 1 Minit</title>
-    <desc lang="en">Seleksi klip video menarik khas untuk anda.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a91642ivp_default_2942_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311104500 +0800" stop="20260311110000 +0800" channel="TVOkeyHD">
-    <title lang="en">I-Iban</title>
-    <desc lang="en">Saksikan berita dalam bahasa Iban.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a91642ivp_default_2942_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311113000 +0800" channel="TVOkeyHD">
-    <title lang="en">Samayal Spot &amp; Samayal Station (Ulangan)</title>
-    <desc lang="en">Tetamu jemputan minggu ini ialah Yaaneshwaran dan Murali dengan resipi Aattu Kolambu (Kari Kambing), Idiyappam.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a91642ivp_default_2942_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311120000 +0800" channel="TVOkeyHD">
-    <title lang="en">Hello Trend (Ulangan)</title>
-    <desc lang="en">Memaparkan perkembangan fesyen dan personaliti terkini.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a91642ivp_default_2942_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311123000 +0800" channel="TVOkeyHD">
     <title lang="en">Faces &amp; Places SR4 (Ulangan)</title>
@@ -6187,51 +5202,6 @@
     <title lang="en">All Hail King Julien</title>
     <desc lang="en">Raja Julien turun takhta dan menyerahkan mahkotanya kepada Putera Julien. Kini, pemerintahan Raja Julien yang Ketiga Belas bermula.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a91642ivp_default_2942_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311091500 +0800" stop="20260311094500 +0800" channel="TVSarawak">
-    <title lang="en">Sumandak Takes Borneo</title>
-    <desc lang="en">Dewi Remaja 2022 winner Tracie and two friends explore Borneo's beauty food,history,culture,nature, and diversity while uplifting communities through local social enterprises in this inspiring travelo</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311094500 +0800" stop="20260311100000 +0800" channel="TVSarawak">
-    <title lang="en">Sarawak Panorama</title>
-    <desc lang="en">Sarawak Panorama is a short story to discover beautiful places in Sarawak.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311100500 +0800" channel="TVSarawak">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311100500 +0800" stop="20260311101500 +0800" channel="TVSarawak">
-    <title lang="en">Motivasi Pagi</title>
-    <desc lang="en">Rakaman kata-kata motivasi pagi untuk memberi inspirasi kepada penonton.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311101500 +0800" stop="20260311104500 +0800" channel="TVSarawak">
-    <title lang="en">Kediaman Agro</title>
-    <desc lang="en">'KEDIAMAN AGRO' merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311104500 +0800" stop="20260311110000 +0800" channel="TVSarawak">
-    <title lang="en">Irama Ramadan Sedunia</title>
-    <desc lang="en">Irama Ramadan Sedunia is a captivating 15-minute program designed to showcase the rich tapestry of musical traditions that illuminate the holy month of Ramadan around the world.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311111500 +0800" channel="TVSarawak">
-    <title lang="en">(L) Berita Iban TVS</title>
-    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311111500 +0800" stop="20260311120000 +0800" channel="TVSarawak">
-    <title lang="en">Isteri Misteri</title>
-    <desc lang="en">The seemingly content domesticity of a Kuala Lumpur household goes up in flames when a hapless polygamist receives a witch doctor's prophecy that one of his wives is out to kill him but which one?!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311120000 +0800" stop="20260311121500 +0800" channel="TVSarawak">
-    <title lang="en">(L) TVS Tengahari</title>
-    <desc lang="en">TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260311121500 +0800" stop="20260311123000 +0800" channel="TVSarawak">
     <title lang="en">Tazkirah Ramadan</title>
@@ -6393,26 +5363,6 @@
     <desc lang="en">Docu-series to show case a different aspect of Borneo from the back of a bike, ridden by 3 biker chicks. There will be real encounters with bad weather, mechanical breakdowns and difficult terrains.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/305f44TVS_HD_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260311082600 +0800" stop="20260311095000 +0800" channel="LawakSentral">
-    <title lang="en">Super Spontan All Stars</title>
-    <desc lang="en">Saksikan kemunculan artis dan pelawak tanahair yang akan kembali bertarung di pentas Super Spontan All Stars untuk memeriahkan malam Jumaaat anda</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e76dd4LawakSentral_190x80.png"/>
-  </programme>
-  <programme start="20260311095000 +0800" stop="20260311104900 +0800" channel="LawakSentral">
-    <title lang="en">Meja Bulat Sepahtu</title>
-    <desc lang="en">Sebuah program bual bicara santai yang di hos kan oleh Sepahtu dengan pelbagai topik menarik dan terkini.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/da29f9LawakSentral_190x80.png"/>
-  </programme>
-  <programme start="20260311104900 +0800" stop="20260311111500 +0800" channel="LawakSentral">
-    <title lang="en">Girlfriend Aku Dari...</title>
-    <desc lang="en">Kisah mengenai seorang jejaka bernama Rudi, yang merupakan seorang 'player' dan sering kali bertukar teman wanita. Dia kemudian telah jatuh cinta dengan seorang gadis yang diidamkan.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4bc551LawakSentral_190x80.png"/>
-  </programme>
-  <programme start="20260311111500 +0800" stop="20260311114300 +0800" channel="LawakSentral">
-    <title lang="en">Opocot Melatah Mega</title>
-    <desc lang="en">Watch the reactions of celebrities and the audience who often melatah are startled with unexpected incidences when they are being pranked!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/064cedLawakSentral_190x80.png"/>
-  </programme>
   <programme start="20260311114300 +0800" stop="20260311134300 +0800" channel="LawakSentral">
     <title lang="en">Maharaja Lawak Mega 2019</title>
     <desc lang="en">Find out who will be most popular comedian that will out shine all others on the stage of Maharaja Lawak Mega 2019, with Dato' AC Mizal as host.</desc>
@@ -6477,21 +5427,6 @@
     <title lang="en">Maharaja Lawak Mega 2019</title>
     <desc lang="en">Find out who will be most popular comedian that will out shine all others on the stage of Maharaja Lawak Mega 2019, with Dato' AC Mizal as host.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6c73edLawakSentral_190x80.png"/>
-  </programme>
-  <programme start="20260311092300 +0800" stop="20260311101400 +0800" channel="DramaHotpot">
-    <title lang="en">The Last Immortal</title>
-    <desc lang="en">Aspiring and determined Shui Ning Beast, Ayin, and the son of the sealed true god, Gu Jin, met by chance and embark on a journey to seek the Immortal Source with their friends.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/efe247DramaHotpot_190x80.png"/>
-  </programme>
-  <programme start="20260311101400 +0800" stop="20260311110600 +0800" channel="DramaHotpot">
-    <title lang="en">The Last Immortal</title>
-    <desc lang="en">Aspiring and determined Shui Ning Beast, Ayin, and the son of the sealed true god, Gu Jin, met by chance and embark on a journey to seek the Immortal Source with their friends.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/19d64bDramaHotpot_190x80.png"/>
-  </programme>
-  <programme start="20260311110600 +0800" stop="20260311115700 +0800" channel="DramaHotpot">
-    <title lang="en">Blossoms in Adversity</title>
-    <desc lang="en">After a devastating tragedy befalls her family and home, Hua Zhi, the young pampered lady of the family, is forced to grow up and step up to become the head of the family.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d590cfDramaHotpot_190x80.png"/>
   </programme>
   <programme start="20260311115700 +0800" stop="20260311124700 +0800" channel="DramaHotpot">
     <title lang="en">Blossoms in Adversity</title>
@@ -6568,21 +5503,6 @@
     <desc lang="en">Aspiring and determined Shui Ning Beast, Ayin, and the son of the sealed true god, Gu Jin, met by chance and embark on a journey to seek the Immortal Source with their friends.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4850f1DramaHotpot_190x80.png"/>
   </programme>
-  <programme start="20260311092500 +0800" stop="20260311101500 +0800" channel="DramaHebat">
-    <title lang="en">Tolong Sempurnakan Cerita Mami</title>
-    <desc lang="en">Adwa disahkan sihat dan mahu memenangi hati Razean dan Deena semula. Harez dapat tahu yang Razean menerimanya kerana Adwa sakit semata mata.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ea3d74DramaHebat_190x80.png"/>
-  </programme>
-  <programme start="20260311101500 +0800" stop="20260311110800 +0800" channel="DramaHebat">
-    <title lang="en">Tolong Sempurnakan Cerita Mami</title>
-    <desc lang="en">Harez sudahnya mula jarakkan diri dengan Razean. Harez buat keputusan untuk tak teruskan perkahwinan mereka.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6ef6b9DramaHebat_190x80.png"/>
-  </programme>
-  <programme start="20260311110800 +0800" stop="20260311120000 +0800" channel="DramaHebat">
-    <title lang="en">Pelindung Seorang Puteri</title>
-    <desc lang="en">Rose and Saiful are childhood friends. They meet again when they have become adults. After getting married, Rose realised something is not right about Saiful and his mother.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a62934DramaHebat_190x80.png"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311125300 +0800" channel="DramaHebat">
     <title lang="en">Pelindung Seorang Puteri</title>
     <desc lang="en">Rose and Saiful are childhood friends. They meet again when they have become adults. After getting married, Rose realised something is not right about Saiful and his mother.</desc>
@@ -6653,11 +5573,6 @@
     <desc lang="en">Adwa disahkan sihat dan mahu memenangi hati Razean dan Deena semula. Harez dapat tahu yang Razean menerimanya kerana Adwa sakit semata mata.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ea3d74DramaHebat_190x80.png"/>
   </programme>
-  <programme start="20260311093500 +0800" stop="20260311111300 +0800" channel="FilemMantap">
-    <title lang="en">Matahari</title>
-    <desc lang="en">Fauzi seorang guru yang telah dihantar untuk berkhidmat di Sabah. Di sana dia telah berkenalan dengan seorang novelis yang sedang mengalami masalah ‘writer’s block’ iaitu Yazid.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/404bc9Filem_Mantap_190x80.png"/>
-  </programme>
   <programme start="20260311111300 +0800" stop="20260311124400 +0800" channel="FilemMantap">
     <title lang="en">Meniti Cinta Di Starimost</title>
     <desc lang="en">Iman dipaksa berkahwin dengan Qaseh, anak kepada orang gajinya untuk mewarisi harta bapanya. Percutian mereka di Bosnia membuahkan bibit-bibit cinta. Lakonan Iqram Dinzly, Zarina Zainoordin dan Yana S</desc>
@@ -6697,21 +5612,6 @@
     <title lang="en">Cerai</title>
     <desc lang="en">Pengalaman berkurung dengan pasangan selama musim PKP memaksa dua pasangan suami isteri menilai semula perkahwinan mereka yang telah disalah ertikan selama ini.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/a7953bFilem_Mantap_190x80.png"/>
-  </programme>
-  <programme start="20260311091200 +0800" stop="20260311101600 +0800" channel="JomNgaji">
-    <title lang="en">Bacalah</title>
-    <desc lang="en">Recitation Al Quran by Dr.Syazwan Basil Juz 4 from surah Ali-Imran, ayat 92 until surah An-Nisa’, ayat 23.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/34e8d9JomNgaji_190x80.png"/>
-  </programme>
-  <programme start="20260311101600 +0800" stop="20260311111900 +0800" channel="JomNgaji">
-    <title lang="en">Bacalah</title>
-    <desc lang="en">Recitation Al Quran by Dr.Syazwan Basil Juz 5 from surah An-Nisa’, ayat 24 until surah An-Nisa’, ayat 147.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/733093JomNgaji_190x80.png"/>
-  </programme>
-  <programme start="20260311111900 +0800" stop="20260311121600 +0800" channel="JomNgaji">
-    <title lang="en">Bacalah</title>
-    <desc lang="en">Recitation Al Quran by Muhammad Hazamin Harun Juz 6 from surah An-Nisa’, ayat 148 until surah Al-Ma’idah, ayat 82.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8aac86JomNgaji_190x80.png"/>
   </programme>
   <programme start="20260311121600 +0800" stop="20260311131700 +0800" channel="JomNgaji">
     <title lang="en">Bacalah</title>
@@ -6772,141 +5672,6 @@
     <title lang="en">Bacalah</title>
     <desc lang="en">Recitation Al Quran by Ustaz Don Daniyal Don Biyajid Juz 18 from surah Al-Mu’minun, ayat 1 until surah Al-Furqan, ayat 20.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d3fbefJomNgaji_190x80.png"/>
-  </programme>
-  <programme start="20260311094200 +0800" stop="20260311094500 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends  (English version)</title>
-    <desc lang="en">Lets watch and sing with Didi &amp; his friends!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/205d75AstroCeria_2024_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311094500 +0800" stop="20260311094800 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends  (English version)</title>
-    <desc lang="en">Lets watch and sing with Didi &amp; his friends!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/205d75AstroCeria_2024_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311094800 +0800" stop="20260311095100 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends  (English version)</title>
-    <desc lang="en">Lets watch and sing with Didi &amp; his friends!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/205d75AstroCeria_2024_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311095100 +0800" stop="20260311095400 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends  (English version)</title>
-    <desc lang="en">Lets watch and sing with Didi &amp; his friends!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/205d75AstroCeria_2024_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311095400 +0800" stop="20260311095700 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends  (English version)</title>
-    <desc lang="en">Lets watch and sing with Didi &amp; his friends!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/205d75AstroCeria_2024_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311095700 +0800" stop="20260311100000 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends  (English version)</title>
-    <desc lang="en">Lets watch and sing with Didi &amp; his friends!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/205d75AstroCeria_2024_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311101000 +0800" channel="AstroCeria">
-    <title lang="en">Pada Zaman Dahulu</title>
-    <desc lang="en">Macam-macam kisah Aki nak cerita pada Aris dan Ara dalam episod baru Pada Zaman Dahulu Musim ke-6!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/86eba5AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311101000 +0800" stop="20260311102000 +0800" channel="AstroCeria">
-    <title lang="en">Pada Zaman Dahulu</title>
-    <desc lang="en">Macam-macam kisah Aki nak cerita pada Aris dan Ara dalam episod baru Pada Zaman Dahulu Musim ke-6!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/86eba5AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311102000 +0800" stop="20260311103000 +0800" channel="AstroCeria">
-    <title lang="en">Pada Zaman Dahulu</title>
-    <desc lang="en">Macam-macam kisah Aki nak cerita pada Aris dan Ara dalam episod baru Pada Zaman Dahulu Musim ke-6!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/86eba5AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311104000 +0800" channel="AstroCeria">
-    <title lang="en">Upin &amp; Ipin Iqra'</title>
-    <desc lang="en">Upin dan Ipin bersama-sama Mail, Ijat, Fizi, Ehsan dan Susanti  menghadiri kelas mengaji yang diajar oleh Ustaz Sheikh.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/486d7dAstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311104000 +0800" stop="20260311105000 +0800" channel="AstroCeria">
-    <title lang="en">Upin &amp; Ipin Iqra'</title>
-    <desc lang="en">Upin dan Ipin bersama-sama Mail, Ijat, Fizi, Ehsan dan Susanti  menghadiri kelas mengaji yang diajar oleh Ustaz Sheikh.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7fb151AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311105000 +0800" stop="20260311110000 +0800" channel="AstroCeria">
-    <title lang="en">Upin &amp; Ipin Iqra'</title>
-    <desc lang="en">Upin dan Ipin bersama-sama Mail, Ijat, Fizi, Ehsan dan Susanti  menghadiri kelas mengaji yang diajar oleh Ustaz Sheikh.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e3f54cAstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311110300 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/fab0c2AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311110300 +0800" stop="20260311110600 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/aad7feAstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311110600 +0800" stop="20260311110900 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/efc7b7AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311110900 +0800" stop="20260311111200 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7a62d9AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311111200 +0800" stop="20260311111500 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/49ae17AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311111500 +0800" stop="20260311111800 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/09ae43AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311111800 +0800" stop="20260311112100 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/aa5aadAstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311112100 +0800" stop="20260311112400 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b1d13cAstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311112400 +0800" stop="20260311112700 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8ae36fAstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311112700 +0800" stop="20260311113000 +0800" channel="AstroCeria">
-    <title lang="en">Didi &amp; Friends</title>
-    <desc lang="en">Didi &amp; Friends kembali dengan musim terbaharu. Jom berhibur bersama Didi &amp; rakan-rakan melalui pelbagai lagu-lagu yang menarik.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c46686AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311114000 +0800" channel="AstroCeria">
-    <title lang="en">Cerita-Cerita Didi &amp; Friends</title>
-    <desc lang="en">Saksikan pengembaraan Didi &amp; kawan-kawannya dalam Cerita-Cerita Didi &amp; Friends</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bd42ffAstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311114000 +0800" stop="20260311115000 +0800" channel="AstroCeria">
-    <title lang="en">Cerita-Cerita Didi &amp; Friends</title>
-    <desc lang="en">Saksikan pengembaraan Didi &amp; kawan-kawannya dalam Cerita-Cerita Didi &amp; Friends</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c7990bAstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311115000 +0800" stop="20260311115800 +0800" channel="AstroCeria">
-    <title lang="en">Cerita-Cerita Didi &amp; Friends</title>
-    <desc lang="en">Saksikan pengembaraan Didi &amp; kawan-kawannya dalam Cerita-Cerita Didi &amp; Friends</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/dc8770AstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311115800 +0800" stop="20260311120000 +0800" channel="AstroCeria">
-    <title lang="en">Misi Solat 5 Waktu [Kapsul]</title>
-    <desc lang="en">Imran cuma pernah solat 3 kali seumur hidupnya. Dia berhadapan cabaran untuk belajar solat selepas kedatangan ustaz Azhar, iaitu guru ganti yang digeruni. Misi Solat Imran kini bermula.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/816cabAstroCeria_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311120000 +0800" stop="20260311121500 +0800" channel="AstroCeria">
-    <title lang="en">Super Wings S7: Super Pets Adventure</title>
-    <desc lang="en">The Super Wings are upping their saving game with incredible new powers and equipment to become heroic protectors and defenders. They become World Guardians!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8d41b3AstroCeria_2024_190x80.png"/>
   </programme>
   <programme start="20260311121500 +0800" stop="20260311123000 +0800" channel="AstroCeria">
     <title lang="en">Robocar POLI</title>
@@ -7098,26 +5863,6 @@
     <desc lang="en">Walaupun semakin ramai robot dan alien jahat baharu yang muncul di Kota Hilir, Amato dan MechaBot merasakan bahawa khidmat mereka tidak lagi diperlukan sejak kemunculan semula adiwira Maskmana.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6b6adbAstroCeria_2024_190x80.png"/>
   </programme>
-  <programme start="20260311070000 +0800" stop="20260311100000 +0800" channel="AstroOasis">
-    <title lang="en">Home of Ramadan</title>
-    <desc lang="en">Program yang menyajikan pelbagai informasi dan aktiviti untuk dikongsi bersama sempena Ramadan ini.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/235d05AstroOasis_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="AstroOasis">
-    <title lang="en">Umar</title>
-    <desc lang="en">Umar masih mencuba untuk membantu Damia kembali berbaik semula dengan Firaz. Qamarul pula sudah menghubungi Daud untuk masuk meminang Damia pada hujung minggu ini.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2cb17dAstroOasis_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311115500 +0800" channel="AstroOasis">
-    <title lang="en">Umar</title>
-    <desc lang="en">Kay semakin yakin yang Damia ada hati terhadap Firaz setelah Damia membatalkan pertunangannya dengan Qamarul. Firaz yang sedang bersedih terharu setelah menerima Ayam Ros masakan Damia.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/9ea676AstroOasis_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311115500 +0800" stop="20260311120000 +0800" channel="AstroOasis">
-    <title lang="en">Kapsul Oasis</title>
-    <desc lang="en">Rancangan ini memberi peluang kepada penonton untuk menyelami perjalanan iman, tradisi serta kenangan indah para selebriti.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ee4518AstroOasis_2024_190x80.png"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="AstroOasis">
     <title lang="en">(L) World Quran Hour 2026</title>
     <desc lang="en">Bacaan dari kupasan surah al-Muzammil yang bertajuk 'Shaping The Human Self Before Changing The World'.</desc>
@@ -7233,21 +5978,6 @@
     <desc lang="en">Hos Daniel Cheang meneruskan perjalanan menjejaki surau surau yang mempunyai keindahan seni bina yang cantik dan megah.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0b0399AstroOasis_2024_190x80.png"/>
   </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="AstroRania">
-    <title lang="en">Lorong Waktu</title>
-    <desc lang="en">The adventures of Haji Husin and his student Zidan as they try to help and assist others through a sophisticated time machine. This time, Haji Husin and Zidan will be accompanied by a little girl name</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/78bcc8KVTJB.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="AstroRania">
-    <title lang="en">Di Antara Dua Cinta</title>
-    <desc lang="en">On the second anniversary of Shafira and her husband Rafael's wedding, Shafira received news that Rafael had been in an accident and his body could not be found. Several years passed, Rafael was still</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f0839fKUOMP.jpg"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311120000 +0800" channel="AstroRania">
-    <title lang="en">Di Antara Dua Cinta</title>
-    <desc lang="en">On the second anniversary of Shafira and her husband Rafael's wedding, Shafira received news that Rafael had been in an accident and his body could not be found. Several years passed, Rafael was still</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f0839fKUOMP.jpg"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="AstroRania">
     <title lang="en">Naik Ranjang</title>
     <desc lang="en">After being separated for 20 years, Tyas tries to find her father, Mahdi, to be the guardian of her marriage to Gino. After meeting Mahdi, Tyas' fiance, Gino is shocked to find Hani, Tyas' sister who </desc>
@@ -7307,31 +6037,6 @@
     <title lang="en">Di Antara Dua Cinta</title>
     <desc lang="en">On the second anniversary of Shafira and her husband Rafael's wedding, Shafira received news that Rafael had been in an accident and his body could not be found. Several years passed, Rafael was still</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f0839fKUOMP.jpg"/>
-  </programme>
-  <programme start="20260311093000 +0800" stop="20260311103000 +0800" channel="AstroAura">
-    <title lang="en">Luka Cinta</title>
-    <desc lang="en">Salma, a victim of domestic violence, tries to move on from her past. The presence of two men catches her attention, but her childhood trauma makes her hesitate to open her heart. Salma's love story i</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/819573KWEMC.jpg"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311113000 +0800" channel="AstroAura">
-    <title lang="en">Cinta Suci</title>
-    <desc lang="en">Suci has to marry Marcel because she needs money for the operating costs of her husband, Aditya and her Son, Ronny.  This made Monica to hate Suci because she thinks Suci has forced Marcel to marry he</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/5f3ac2KFGID.jpg"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311114000 +0800" channel="AstroAura">
-    <title lang="en">Music Video 2026</title>
-    <desc lang="en">Dengarkan lagu-lagu hits dari bumi Indonesia yang menarik dan sesuai untuk tontonan seisi keluarga..</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8df641AstroAura_2024_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311114000 +0800" stop="20260311115000 +0800" channel="AstroAura">
-    <title lang="en">Music Video 2026</title>
-    <desc lang="en">Dengarkan lagu-lagu hits dari bumi Indonesia yang menarik dan sesuai untuk tontonan seisi keluarga..</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8df641AstroAura_2024_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311115000 +0800" stop="20260311120000 +0800" channel="AstroAura">
-    <title lang="en">Music Video 2026</title>
-    <desc lang="en">Dengarkan lagu-lagu hits dari bumi Indonesia yang menarik dan sesuai untuk tontonan seisi keluarga..</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8df641AstroAura_2024_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311133000 +0800" channel="AstroAura">
     <title lang="en">Istri Impian</title>
@@ -7393,16 +6098,6 @@
     <desc lang="en">The seventh season of the long awaited dangdut competition.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6c02c1KWERB.jpg"/>
   </programme>
-  <programme start="20260311093000 +0800" stop="20260311103000 +0800" channel="YRFmusic">
-    <title lang="en">Dance-a-thon</title>
-    <desc lang="en">Get ready to move to the beat with this vibrant playlist featuring the best of dancefloor hits! Dance the day away!</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bf617bYRFMusic_190x80.png"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311113000 +0800" channel="YRFmusic">
-    <title lang="en">Best of Sonu Nigam</title>
-    <desc lang="en">Relive the magic of these iconic songs of Sonu Nigam that left a mark on us all.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c7dacfYRFMusic_190x80.png"/>
-  </programme>
   <programme start="20260311113000 +0800" stop="20260311123000 +0800" channel="YRFmusic">
     <title lang="en">Fam Jams</title>
     <desc lang="en">Setting the tone for heartfelt memories with everyone favourite hits! Play it loud and let the 'Fam Jams' begin!</desc>
@@ -7462,16 +6157,6 @@
     <title lang="en">Summer Superhits</title>
     <desc lang="en">Packed with the hottest tracks, this playlist will keep you dancing all season long. Get into the summer groove now</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f8c082YRFMusic_190x80.png"/>
-  </programme>
-  <programme start="20260311073000 +0800" stop="20260311094500 +0800" channel="AstroSportsUHD805">
-    <title lang="en">PL: Leeds Utd vs Manchester Utd</title>
-    <desc lang="en">Premier League 2025/26: Round 20: Leeds Utd bs Manchester Utd, from the Elland Road, or Elland Road Stadium, West Yorkshire, England.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/042493AstroSportsUHD_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311094500 +0800" stop="20260311120000 +0800" channel="AstroSportsUHD805">
-    <title lang="en">PL: Newcastle Utd vs Man Utd</title>
-    <desc lang="en">Premier League 2025/26: Round 29: Newcastle Utd vs Manchester Utd, from the St James Park Stadium, Newcastle, England.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/15241cAstroSportsUHD_2024_190x80.png"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311141500 +0800" channel="AstroSportsUHD805">
     <title lang="en">PL: Liverpool vs West Ham Utd</title>
@@ -7543,11 +6228,6 @@
     <desc lang="en">UFC 326: Main Fight: Lightweight Bout: Max Holloway vs. Charles Oliveira, from T-Mobile Arena, Las Vegas, NV.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/56e6dfAstroGrandstand_2024_190x80.png"/>
   </programme>
-  <programme start="20260311081000 +0800" stop="20260311102000 +0800" channel="AstroPremierLeague">
-    <title lang="en">PL: Aston Villa vs Chelsea</title>
-    <desc lang="en">Premier League 2025/26: Match Week 29: Aston Villa vs. Chelsea, from Villa Park.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/808f20AstroPremierLeague_2024_190x80.png"/>
-  </programme>
   <programme start="20260311102000 +0800" stop="20260311122000 +0800" channel="AstroPremierLeague">
     <title lang="en">Classic Match: MUN 4-4 EVE 11/12</title>
     <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2011/2012 season.</desc>
@@ -7592,31 +6272,6 @@
     <title lang="en">PL: Leeds vs Sunderland</title>
     <desc lang="en">Premier League 2025/26: Match Week 29: Leeds United vs. Sunderland, from Elland Road.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/86ceacAstroPremierLeague_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="AstroPremierLeague2">
-    <title lang="en">Goals of the Season: 2013/2014</title>
-    <desc lang="en">We take a look back at some of the most spectacular and important goals from previous Premier League seasons.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e9a723AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311103000 +0800" channel="AstroPremierLeague2">
-    <title lang="en">Netbusters:</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ac2a39AstroPremierLeague2_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311110000 +0800" channel="AstroPremierLeague2">
-    <title lang="en">The Big Interview:</title>
-    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e9a723AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311113000 +0800" channel="AstroPremierLeague2">
-    <title lang="en">PL Stories: Ep40: Pgmo and International Women's Day</title>
-    <desc lang="en">We mark International Women's Day by celebrating the women shaping refereeing across the professional game.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e9a723AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311120000 +0800" channel="AstroPremierLeague2">
-    <title lang="en">My Season: Cristiano Ronaldo: 07/08</title>
-    <desc lang="en">A look at a Premier League season through the eyes of Cristiano Ronaldo who excelled in 2007/2008.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e9a723AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311140000 +0800" channel="AstroPremierLeague2">
     <title lang="en">Classic Match: Mun Vs Avl</title>
@@ -7688,16 +6343,6 @@
     <desc lang="en">We look back at all the very best moments of the 2025/2026 season so far. An action-packed show filled with exciting Premier League programming and digital content.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e9a723AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg"/>
   </programme>
-  <programme start="20260311084500 +0800" stop="20260311110000 +0800" channel="AstroFootball">
-    <title lang="en">FA Cup: Leeds vs Norwich</title>
-    <desc lang="en">Emirates FA Cup 2025/26: Round 5: Leeds United vs Norwich City, from Elland Road stadium, Leeds, England.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e3216bAstroFootball_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311120000 +0800" channel="AstroFootball">
-    <title lang="en">Dutch League: Round 23: Highlights</title>
-    <desc lang="en">Dutch League 2025/26: Highlights of all the matches during the week, including players and managers interviews.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f24fb1AstroFootball_2024_190x80.png"/>
-  </programme>
   <programme start="20260311120000 +0800" stop="20260311140000 +0800" channel="AstroFootball">
     <title lang="en">Serie A: Atalanta vs Udinese</title>
     <desc lang="en">Serie A 2025/26 - Matches</desc>
@@ -7758,20 +6403,10 @@
     <desc lang="en">BWF World Tour Super 1000: PETRONAS Malaysia Open 2026: Day 1: Round 32, from Axiata Arena in Kuala Lumpur, Malaysia.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/515820AstroBadminton_2024_190x80.png"/>
   </programme>
-  <programme start="20260311065000 +0800" stop="20260311103000 +0800" channel="AstroSportsPlus">
-    <title lang="en">(L) WBC: Canada vs Puerto Rico</title>
-    <desc lang="en">LIVE: 2026 World Baseball Classic: Pool A: Canada vs Puerto Rico, from Hiram Bithorn Stadium, San Juan, Puerto Rico.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/52fef0AstroSportsPlus_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311103000 +0800" stop="20260311113000 +0800" channel="AstroSportsPlus">
+  <programme start="20260311111500 +0800" stop="20260311123000 +0800" channel="AstroSportsPlus">
     <title lang="en">(L) WBC: Italy vs United States</title>
     <desc lang="en">LIVE: 2026 World Baseball Classic: Pool B: Italy vs United States, from Daikin Park, Houston, Texas.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0f5e0cAstroSportsPlus_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311113000 +0800" stop="20260311123000 +0800" channel="AstroSportsPlus">
-    <title lang="en">WBC: Documentary 2023</title>
-    <desc lang="en">This series revisits each World Baseball Classic tournament in depth, featuring iconic games, standout performances, and the defining moments that helped shape international baseball.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/3178a1AstroSportsPlus_2024_190x80.png"/>
   </programme>
   <programme start="20260311123000 +0800" stop="20260311152000 +0800" channel="AstroSportsPlus">
     <title lang="en">(D) FIG Artistic Gymnastics Apparatus WC: Baku: Day 2</title>
@@ -7807,16 +6442,6 @@
     <title lang="en">Nascar: Straight Talk Wireless 500</title>
     <desc lang="en">Nascar 2026: Straight Talk Wireless 500, from Phoenix Raceway, Arizona.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ca6ff3AstroSportsPlus_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311020000 +0800" stop="20260311110000 +0800" channel="AstroSportsPlus2">
-    <title lang="en">(L) ATP: Indian Wells 2026: Day 7</title>
-    <desc lang="en">LIVE: ATP Tour 1000's: Indian Wells 2026: Day 7, from Indian Wells Tennis Garden, California.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c75548AstroSportsPlus_2024_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311120000 +0800" channel="AstroSportsPlus2">
-    <title lang="en">ATP 1000's Season 2026</title>
-    <desc lang="en">Catch the live broadcast of ATP Tour 1000's: Indian Wells 2026 from 10th Mar  to 16th Mar 2026.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c75548AstroSportsPlus_2024_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="AstroSportsPlus2">
     <title lang="en">ALMS 2025/26: Dubai Autodrome HL 1</title>
@@ -7888,21 +6513,6 @@
     <desc lang="en">Berita terkini dari dunia sukan tempatan dan antarabangsa.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/f20ed5AstroArena_2024_IVP_LAND_1280x720.jpg"/>
   </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="AstroArena2">
-    <title lang="en">Berbulu Dengan Burn</title>
-    <desc lang="en">Program bual bicara bersama Burn sebagai medium meluahkan rasa tidak puas hati peminat mengenai sukan bola sepak.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/171e03AstroArena2_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311120000 +0800" channel="AstroArena2">
-    <title lang="en">AFC Women's Asian Cup 2026: TPE lwn VIE</title>
-    <desc lang="en">AFC Women's Asian Cup 2026: Chinese Taipei lwn Vietnam dari Australia.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c7d071AstroArena2_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311120000 +0800" stop="20260311121500 +0800" channel="AstroArena2">
-    <title lang="en">(L) Nadi World</title>
-    <desc lang="en">(Langsung) Berita terkini dari dunia sukan antarabangsa.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/34a4baAstroArena2_2024_IVP_LAND_1280x720.jpg"/>
-  </programme>
   <programme start="20260311121500 +0800" stop="20260311141500 +0800" channel="AstroArena2">
     <title lang="en">AFC Women's Asian Cup 2026: JPN lwn VIE</title>
     <desc lang="en">AFC Women's Asian Cup 2026: Jepun lwn Vietnam dari Australia.</desc>
@@ -7947,16 +6557,6 @@
     <title lang="en">Serie A 2025/26: Cagliari lwn Como</title>
     <desc lang="en">Serie A 2025/26 - Matches</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ca3995AstroArena2_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311080000 +0800" stop="20260311100000 +0800" channel="ArenaBola">
-    <title lang="en">MSL 2025/26: KLC lwn MEL</title>
-    <desc lang="en">Liga Super 2025/26 perlawanan ke-118: Kuala Lumpur City FC lwn Melaka dari Stadium Bolasepak Kuala Lumpur, Cheras. Selangor.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b384dcAstro_ArenaBola_190x80.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="ArenaBola">
-    <title lang="en">Bola Dulu Baru Kamu!</title>
-    <desc lang="en">4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6bc250Astro_ArenaBola_190x80.png"/>
   </programme>
   <programme start="20260311110000 +0800" stop="20260311130000 +0800" channel="ArenaBola">
     <title lang="en">AFC Elite 2025/26: FMZ lwn GAN</title>
@@ -8003,11 +6603,6 @@
     <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: DPMM lwn Kuala Lumpur City.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/38ed78Astro_ArenaBola_190x80.png"/>
   </programme>
-  <programme start="20260311080100 +0800" stop="20260311110000 +0800" channel="ArenaBola2">
-    <title lang="en">AFC Elite 2025/26: BGP lwn MCY</title>
-    <desc lang="en">AFC Champions League Elite 2025/26: Buriram United lwn Melbourne City FC dari Stadium Chang Arena, Buriram, Thailand.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/5b7069AstroArenaBola2_2024_190x80.png"/>
-  </programme>
   <programme start="20260311110000 +0800" stop="20260311130000 +0800" channel="ArenaBola2">
     <title lang="en">MFL Challenge Cup 2025/26: UMD lwn PRK</title>
     <desc lang="en">MFL Challenge Cup 2025/26: UM Damansara lwn Perak FA dari Stadium UM Arena, Kuala Lumpur.</desc>
@@ -8023,15 +6618,20 @@
     <desc lang="en">AFC Women's Asian Cup 2026: India lwn Chinese Taipei dari Australia.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c7d071AstroArenaBola2_2024_190x80.png"/>
   </programme>
-  <programme start="20260311170000 +0800" stop="20260311191000 +0800" channel="ArenaBola2">
+  <programme start="20260311170000 +0800" stop="20260311200000 +0800" channel="ArenaBola2">
     <title lang="en">AFC Elite 2025/26: BGP lwn MCY</title>
     <desc lang="en">AFC Champions League Elite 2025/26: Buriram United lwn Melbourne City FC dari Stadium Chang Arena, Buriram, Thailand.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/5b7069AstroArenaBola2_2024_190x80.png"/>
   </programme>
-  <programme start="20260311191000 +0800" stop="20260311210000 +0800" channel="ArenaBola2">
-    <title lang="en">MFL Challenge Cup 2025/26: KRW lwn PEN</title>
-    <desc lang="en">MFL Challenge Cup 2025/26: Kelantan Red Warrior FC lwn Penang FC dari Stadium Sultan Muhammad ke IV, Kota Bahru, Kelantan.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8b55c0AstroArenaBola2_2024_190x80.png"/>
+  <programme start="20260311200000 +0800" stop="20260311203000 +0800" channel="ArenaBola2">
+    <title lang="en">Botak Terjah Stadium</title>
+    <desc lang="en">Kalau Abang Botak bagi mic, jangan lari! Botak Terjah Stadium membawakan perkembangan Liga Malaysia 2025/26 dari perspektif peminat-peminat bola sepak negara.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ee50caAstroArenaBola2_2024_190x80.png"/>
+  </programme>
+  <programme start="20260311203000 +0800" stop="20260311210000 +0800" channel="ArenaBola2">
+    <title lang="en">Botak Terjah Stadium</title>
+    <desc lang="en">Kalau Abang Botak bagi mic, jangan lari! Botak Terjah Stadium membawakan perkembangan Liga Malaysia 2025/26 dari perspektif peminat-peminat bola sepak negara.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4477e5AstroArenaBola2_2024_190x80.png"/>
   </programme>
   <programme start="20260311210000 +0800" stop="20260311213000 +0800" channel="ArenaBola2">
     <title lang="en">Sorotan MSL 2025/26: NSE lwn SEL</title>
@@ -8052,36 +6652,6 @@
     <title lang="en">(L) MFL Challenge Cup 2025/26: PEN lwn KTRW</title>
     <desc lang="en">(Langsung) MFL Challenge Cup 2025/26: Penang FC lwn Kelantan The Real Warriors FC dari Stadium Bandaraya Pulau Pinang, George Town, Pulau Pinang.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b82a47AstroArenaBola2_2024_190x80.png"/>
-  </programme>
-  <programme start="20260311093900 +0800" stop="20260311100400 +0800" channel="CricBuzz">
-    <title lang="en">New Zealand Tour of India Highlights: IND V NZ, 3rd T20I</title>
-    <desc lang="en">Watch the highlights from the 3rd T20I between India and New Zealand.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/732e85Cricbuzz_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100400 +0800" stop="20260311102600 +0800" channel="CricBuzz">
-    <title lang="en">India Women Tour of Australia Highlights: AUSW V INDW, 3rd T20I</title>
-    <desc lang="en">Watch the highlights from the 3rd T20I between Australia Women and India Women.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/732e85Cricbuzz_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311102600 +0800" stop="20260311104700 +0800" channel="CricBuzz">
-    <title lang="en">BBL 2025-26 Highlights: M35: HBH V BRH</title>
-    <desc lang="en">Watch the highlights from Match 35 between Hobart Hurricanes and Brisbane Heat in the BBL 2025-26.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/732e85Cricbuzz_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311104700 +0800" stop="20260311111900 +0800" channel="CricBuzz">
-    <title lang="en">New Zealand Tour of India Highlights: IND V NZ, 1st ODI</title>
-    <desc lang="en">Watch the highlights from the 1st ODI between India and New Zealand.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/732e85Cricbuzz_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311111900 +0800" stop="20260311114400 +0800" channel="CricBuzz">
-    <title lang="en">SA20 2025-26 Highlights: M23: PR V DSG</title>
-    <desc lang="en">Watch the highlights from Match 23 between Paarl Royals and Durban's Super Giants in the SA20 2025-26.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/732e85Cricbuzz_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311114400 +0800" stop="20260311121100 +0800" channel="CricBuzz">
-    <title lang="en">Australia Tour of Pakistan Highlights: PAK V AUS, 2nd T20I</title>
-    <desc lang="en">Watch the highlights from the 2nd T20I between Pakistan and Australia.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/732e85Cricbuzz_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311121100 +0800" stop="20260311123100 +0800" channel="CricBuzz">
     <title lang="en">West Indies Tour of South Africa Highlights: SA V WI, 3rd T20I</title>
@@ -8208,16 +6778,6 @@
     <desc lang="en">Watch the highlights from the Final between APS and UBL in the Abu Dhabi T10 2025.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/732e85Cricbuzz_IVP_LAND_1280x720.jpg"/>
   </programme>
-  <programme start="20260311085000 +0800" stop="20260311095000 +0800" channel="beINSPORTS1">
-    <title lang="en">Silverstone Festival Highlights 2025</title>
-    <desc lang="en">Silverstone Festival Highlights 2025: Show 1</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/97de7ebeIN_Sports1_190x80.png"/>
-  </programme>
-  <programme start="20260311095000 +0800" stop="20260311114000 +0800" channel="beINSPORTS1">
-    <title lang="en">LaLiga 2 : Deportivo Vs Granada</title>
-    <desc lang="en">LaLiga 2 2025/26: Deportivo vs Granada</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ee7c44beIN_Sports1_190x80.png"/>
-  </programme>
   <programme start="20260311114000 +0800" stop="20260311124000 +0800" channel="beINSPORTS1">
     <title lang="en">FIA World Rally Championship 2026</title>
     <desc lang="en">FIA World Rally Championship 2026: Rally Sweden SS10 Sarsjoliden</desc>
@@ -8272,16 +6832,6 @@
     <title lang="en">LaLiga Highlights 2025/26</title>
     <desc lang="en">LaLiga Highlights 2025/26: Matchday 27</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/05a9f6beIN_Sports1_190x80.png"/>
-  </programme>
-  <programme start="20260311090000 +0800" stop="20260311105000 +0800" channel="beINSPORTS2">
-    <title lang="en">TotalEnergies Africa Cup of Nations, Morocco (2025)</title>
-    <desc lang="en">TotalEnergies Africa Cup of Nations, Morocco (2025) : Uganda vs Tanzania - Group Stage</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/fa40d1beINSPORTS2_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311105000 +0800" stop="20260311110000 +0800" channel="beINSPORTS2">
-    <title lang="en">Premier Padel Match Highlights (2025)</title>
-    <desc lang="en">Premier Padel Match Highlights (2025) : Barcelona Finals Men</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/d275a3beIN_SPORTS2_190x80.png"/>
   </programme>
   <programme start="20260311110000 +0800" stop="20260311125000 +0800" channel="beINSPORTS2">
     <title lang="en">Super Lig 2025/26</title>
@@ -8373,11 +6923,6 @@
     <desc lang="en">LIVE: UCI World Tour (2026) : Paris-Nice - Stage 4</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/fa40d1beINSPORTS2_IVP_LAND_1280x720.jpg"/>
   </programme>
-  <programme start="20260311092000 +0800" stop="20260311111000 +0800" channel="beINSPORTS3">
-    <title lang="en">UCL : Atletico Madrid Vs Tottenham - R16, 1st Leg</title>
-    <desc lang="en">UEFA Champions League 2025/26: Atletico Madrid vs Tottenham - R16, 1st Leg</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/90e309beINSPORTS3_IVP_LAND_1280x720.jpg"/>
-  </programme>
   <programme start="20260311111000 +0800" stop="20260311130000 +0800" channel="beINSPORTS3">
     <title lang="en">UCL : Newcastle Vs Barcelona - R16, 1st Leg</title>
     <desc lang="en">UEFA Champions League 2025/26: Newcastle vs Barcelona - R16, 1st Leg</desc>
@@ -8442,16 +6987,6 @@
     <title lang="en">UCL : Newcastle Vs Barcelona - R16, 1st Leg</title>
     <desc lang="en">UEFA Champions League 2025/26: Newcastle vs Barcelona - R16, 1st Leg</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/90e309beINSPORTS3_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311080000 +0800" stop="20260311100000 +0800" channel="WSport">
-    <title lang="en">USL 25/26</title>
-    <desc lang="en">The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Fort Lauderdale v Brooklyn FC.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0e938dW-Sport_V1_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311120000 +0800" channel="WSport">
-    <title lang="en">Damallsvenskan 25</title>
-    <desc lang="en">The Premier Women's Football League in Sweden featuring 14 teams from around the country. Watch BK Hacken v Norrkoping.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0e938dW-Sport_V1_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311140000 +0800" channel="WSport">
     <title lang="en">Frauen Bundesliga 25/26</title>
@@ -8527,21 +7062,6 @@
     <title lang="en">Puerto Rico Open 2026 Day 4</title>
     <desc lang="en">Puerto Rico Open 2026 tournament from Grand Reserve Golf Club - Rio Grande, Puerto Rico.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/98d915AstroGolf_190x80.png"/>
-  </programme>
-  <programme start="20260311075100 +0800" stop="20260311100800 +0800" channel="wedotvSports">
-    <title lang="en">E1 - S03:E01 - E1 Jeddah GP 2026</title>
-    <desc lang="en">E1 returns to Jeddah for the 2026 season of the UIM E1 World Championship, continuing its presence in one of the championship’s key host cities. Set on the Red Sea, the E1 Jeddah GP once again brings </desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/526f80WD_Sports_190x80.png"/>
-  </programme>
-  <programme start="20260311100800 +0800" stop="20260311104400 +0800" channel="wedotvSports">
-    <title lang="en">Melbourne Cup 2025 - S03:E02 - Höhepunkte des Melbourne Cups 2025</title>
-    <desc lang="en">Relive the most thrilling moments of the 2025 Melbourne Cup — the race that stops a nation. From the electric atmosphere at Flemington to the dramatic dash down the final straight, this highlight spec</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/b2278fWD_Sports_190x80.png"/>
-  </programme>
-  <programme start="20260311104400 +0800" stop="20260311114800 +0800" channel="wedotvSports">
-    <title lang="en">Sail GP Highlights - S02:E05 - San Francisco Highlights</title>
-    <desc lang="en">Get ready for the thrill of SailGP as the tour makes waves on the famous San Francisco Bay! This highlight video showcases the most exciting parts of the San Francisco Grand Prix, featuring lightning-</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/bd6a58WD_Sports_190x80.png"/>
   </programme>
   <programme start="20260311114800 +0800" stop="20260311121700 +0800" channel="wedotvSports">
     <title lang="en">ABP Aquabike World Championship - S02:E04 - ABP Aquabike-Weltmeisterschaft – Olbia 2025</title>
@@ -8627,26 +7147,6 @@
     <title lang="en">Cheltenham Festival Day 2</title>
     <desc lang="en">Cheltenham Festival Day 2</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/8784f5WD_Sports_190x80.png"/>
-  </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="BernamaTV">
-    <title lang="en">(L) Apa Khabar Malaysia</title>
-    <desc lang="en">Sebuah program bual bicara pagi berbahasa Melayu yang mengetengahkan isu-isu semasa dari portal Bernama.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7602d1ivp_default_2201_v1_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="BernamaTV">
-    <title lang="en">(L) Sidang Dewan Negara</title>
-    <desc lang="en">Mesyuarat Pertama, Penggal Kelima, Parlimen Kelima Belas 2026, Dewan Negara.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7602d1ivp_default_2201_v1_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311110000 +0800" stop="20260311111500 +0800" channel="BernamaTV">
-    <title lang="en">(L) Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7602d1ivp_default_2201_v1_IVP_LAND_1280x720.jpg"/>
-  </programme>
-  <programme start="20260311111500 +0800" stop="20260311120000 +0800" channel="BernamaTV">
-    <title lang="en">(L) Sidang Dewan Negara</title>
-    <desc lang="en">Mesyuarat Pertama, Penggal Kelima, Parlimen Kelima Belas 2026, Dewan Negara.</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/7602d1ivp_default_2201_v1_IVP_LAND_1280x720.jpg"/>
   </programme>
   <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="BernamaTV">
     <title lang="en">(L) WORLD #QuranHour</title>
@@ -15863,50 +14363,75 @@
     <desc lang="en">Isabel y Malena sellan su pacto de amistad incondicional. Alberto obtiene copia del expediente del narcotraficante acusado de la muerte de Marco Aurelio. Magda le cuenta a Lorena lo sucedido y sugiere</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/0b75f0WD_Amor_190x80.png"/>
   </programme>
-  <programme start="20260311230000 +0800" stop="20260312020000 +0800" channel="HorseCountry">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+  <programme start="20260311235900 +0800" stop="20260312003100 +0800" channel="HorseCountry">
+    <title lang="en">GCT 2025: Prague</title>
+    <desc lang="en">Highlights from the LGCT 2025 leg from Prague.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/443404H_C_190x80.png"/>
   </programme>
-  <programme start="20260312020000 +0800" stop="20260312050000 +0800" channel="HorseCountry">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+  <programme start="20260312003100 +0800" stop="20260312010100 +0800" channel="HorseCountry">
+    <title lang="en">GCL 2025: Prague</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/dff6cfH_C_190x80.png"/>
   </programme>
-  <programme start="20260312050000 +0800" stop="20260312080000 +0800" channel="HorseCountry">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+  <programme start="20260312010100 +0800" stop="20260312030100 +0800" channel="HorseCountry">
+    <title lang="en">Equigala 2026 (3)/ Ep 1-Equigala 2026</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/30d274H_C_190x80.png"/>
+  </programme>
+  <programme start="20260312030100 +0800" stop="20260312032800 +0800" channel="HorseCountry">
+    <title lang="en">Backstage Pass with Monty Roberts: S16 Ep9</title>
+    <desc lang="en">Backstage Pass with Monty Roberts delivers an intimate, behind-the-scenes journey into Monty’s gentle-training world, showcasing his bond with exceptional horses and unveiling the art of Join-Up.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
+  </programme>
+  <programme start="20260312032800 +0800" stop="20260312040200 +0800" channel="HorseCountry">
+    <title lang="en">Dream Big (1)/ Ep 1-Dream Big - Kristy Snepvangers: The Road Begins</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
+  </programme>
+  <programme start="20260312040200 +0800" stop="20260312042900 +0800" channel="HorseCountry">
+    <title lang="en">The World of Marten Luiten 2025 (2)/ Ep 2-The World of Luiten Season 2: Episode 2</title>
+    <desc lang="en">No information available</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
+  </programme>
+  <programme start="20260312042900 +0800" stop="20260312053200 +0800" channel="HorseCountry">
+    <title lang="en">Frickley Park International Horse Trials 2024 Highlights</title>
+    <desc lang="en">Catch the exciting highlights from the 2024 Frickley Park International.</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
+  </programme>
+  <programme start="20260312053200 +0800" stop="20260312062900 +0800" channel="HorseCountry">
+    <title lang="en">The Ride to Windsor</title>
+    <desc lang="en">BBC Sport presenter and BHS Road Safety ambassador Lizzie greenwood-Hughes joins the BHS on an epic 5 day ride to help raise awareness of the shocking number of horses dying on UK roads and how to edu</desc>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/e5d5eeH_C_190x80.png"/>
   </programme>
   <programme start="20260312080000 +0800" stop="20260312110000 +0800" channel="HorseCountry">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
   <programme start="20260312110000 +0800" stop="20260312140000 +0800" channel="HorseCountry">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
   <programme start="20260312140000 +0800" stop="20260312170000 +0800" channel="HorseCountry">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
   <programme start="20260312170000 +0800" stop="20260312200000 +0800" channel="HorseCountry">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
   <programme start="20260312200000 +0800" stop="20260312230000 +0800" channel="HorseCountry">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
   <programme start="20260312230000 +0800" stop="20260313020000 +0800" channel="HorseCountry">
     <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/4d2c7eHORSE_IVP_LAND_1280x720.jpg"/>
+    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/cc6ad8H_C_190x80.png"/>
   </programme>
   <programme start="20260312000000 +0800" stop="20260312001000 +0800" channel="CBeebies">
     <title lang="en">Teletubbies</title>
@@ -17675,12 +16200,12 @@
   </programme>
   <programme start="20260312060000 +0800" stop="20260312063000 +0800" channel="TV1HD">
     <title lang="en">Ikhtilaf - Rahmat Berbeza Pendapat</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <desc lang="en">Dalam episod kali ini, mereka berdua akan bermusafir ke bandar Kaherah di Mesir untuk membicarakan perbezaan mazhab di dalam tajuk SEMBELIHAN.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260312063000 +0800" stop="20260312070000 +0800" channel="TV1HD">
     <title lang="en">Bicara Mawarith</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <desc lang="en">Huraian topik &quot;Anak Tiri&quot; menghuraikan isu pencarian harta pusaka. Bersama pengacara, Imam Muda Asyraf serta panel jemputan, Prof. Madya Dato' Dr. Mohd Izhar Ariff dan Tuan Haji Ariffin Sabirin.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260312070000 +0800" stop="20260312074400 +0800" channel="TV1HD">
@@ -17715,7 +16240,7 @@
   </programme>
   <programme start="20260312120500 +0800" stop="20260312130000 +0800" channel="TV1HD">
     <title lang="en">Expedition With Steve Backshall</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <desc lang="en">Steve Backshall berkayak di Sungai Kronotsky, Kamchatka, Russia, menempuh arus deras dan berdepan beruang grizzly dewasa sepanjang ekspedisi hingga ke laut.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260312130000 +0800" stop="20260312133000 +0800" channel="TV1HD">
@@ -17730,7 +16255,7 @@
   </programme>
   <programme start="20260312133500 +0800" stop="20260312142500 +0800" channel="TV1HD">
     <title lang="en">Aku Disisimu</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <desc lang="en">Laila tutup dan jual Rumah Seri Pagi, Mira guna KWSP bayar saman. Faizal kumpul bukti selamatkan Rumah Seri Pagi. Mira dapat tawaran kerja hospital swasta.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260312142500 +0800" stop="20260312143000 +0800" channel="TV1HD">
@@ -17740,7 +16265,7 @@
   </programme>
   <programme start="20260312143000 +0800" stop="20260312150000 +0800" channel="TV1HD">
     <title lang="en">Cinta Nasi Ambeng</title>
-    <desc lang="en">Berkisar tentang persaingan antara dua tokoh wanita, Mak Munah dan Mak Bedah dalam penyediaan nasi ambeng yang menjadi punca konflik dan percintaan .</desc>
+    <desc lang="en">Mak Minah dan Makcik Zabedah bermaafan. Remy, Johan dan Faiz belajar bahasa Jawa dengan Mak Minah, manakala hubungan Remy dan Hani semakin mesra.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260312150000 +0800" stop="20260312150500 +0800" channel="TV1HD">
@@ -17760,7 +16285,7 @@
   </programme>
   <programme start="20260312160500 +0800" stop="20260312162500 +0800" channel="TV1HD">
     <title lang="en">Redah</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <desc lang="en">Episod kali ini En.Zainudin telah memberi tips cara-cara mencari tempat berlindung di dalam hutan.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260312162500 +0800" stop="20260312163000 +0800" channel="TV1HD">
@@ -17780,7 +16305,7 @@
   </programme>
   <programme start="20260312180000 +0800" stop="20260312183000 +0800" channel="TV1HD">
     <title lang="en">Ikhtilaf - Rahmat Berbeza Pendapat</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <desc lang="en">Mereka berdua akan bermusafir ke bandar Kaherah di Mesir untuk membicarakan perbezaan mazhab di dalam tajuk SAMAK dan SERTU.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260312183000 +0800" stop="20260312184000 +0800" channel="TV1HD">
@@ -17825,7 +16350,7 @@
   </programme>
   <programme start="20260312223000 +0800" stop="20260312233000 +0800" channel="TV1HD">
     <title lang="en">Rindu Medina</title>
-    <desc lang="en">Seorang gadis Medina Raudhah yang hidupnya hanya dengan keseronakan dunia bertemu Syed Yeusof dan kisah cinta mereka bermula di bumi Rasulullah.</desc>
+    <desc lang="en">Medina dan ayahnya tiba di KLIA sebelum berangkat ke Jeddah untuk menunaikan umrah. Di sana mereka menziarahi tempat bersejarah, manakala Medina berkongsi bilik dengan Balqish.</desc>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/c8ce2aivp_default_1028_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260312233000 +0800" stop="20260312235500 +0800" channel="TV1HD">
