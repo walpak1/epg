@@ -12,13 +12,6 @@ This repository focuses on XMLTV guide coverage for:
 - Malaysia
 - Indonesia
 
-Example output files may include:
-
-- `starhub.xml`
-- `singtel.xml`
-- `astro.xml`
-- `unifi.xml`
-- `vidio.xml`
 
 ## What This Repository Contains
 
