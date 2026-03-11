@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="mana2-epg">
-  <channel id="SPOTVNOW.mana2">
-    <display-name lang="en">SPOTV NOW</display-name>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/yhwhte.png"/>
-  </channel>
   <channel id="ROCKACTION.mana2">
     <display-name lang="en">ROCK ACTION</display-name>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/kijdpg.png"/>
@@ -27,6 +23,10 @@
   <channel id="DRAMACHANNEL.mana2">
     <display-name lang="en">DRAMA CHANNEL</display-name>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/zbxljv.png"/>
+  </channel>
+  <channel id="SPOTVNOW.mana2">
+    <display-name lang="en">SPOTVNOW</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/bzjpmo.png"/>
   </channel>
   <channel id="ZOOMOO.mana2">
     <display-name lang="en">ZOO MOO</display-name>
@@ -128,10 +128,6 @@
     <display-name lang="en">TV1</display-name>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png"/>
   </channel>
-  <channel id="WorldQuranHour2026.mana2">
-    <display-name lang="en">World Quran Hour 2026</display-name>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026.png"/>
-  </channel>
   <channel id="TV2.mana2">
     <display-name lang="en">TV2</display-name>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/trokhs.png"/>
@@ -228,237 +224,6 @@
     <display-name lang="en">BORNEO TV</display-name>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/npdqkp.png"/>
   </channel>
-  <programme start="20260311000000 +0800" stop="20260311010000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311010000 +0800" stop="20260311020000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311020000 +0800" stop="20260311030000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311030000 +0800" stop="20260311040000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311040000 +0800" stop="20260311050000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311050000 +0800" stop="20260311060000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311060000 +0800" stop="20260311070000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311070000 +0800" stop="20260311080000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311080000 +0800" stop="20260311090000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311090800 +0800" stop="20260311120000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">World Baseball Classic Italy vs USA | Pool B</title>
-    <desc lang="en">World Baseball Classic
-Italy vs USA | Pool B</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311130000 +0800" stop="20260311140000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311140000 +0800" stop="20260311150000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311150000 +0800" stop="20260311160000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311160000 +0800" stop="20260311170000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311170000 +0800" stop="20260311180000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311180000 +0800" stop="20260311190000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311190000 +0800" stop="20260311200000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311200000 +0800" stop="20260311210000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311210000 +0800" stop="20260311220000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311220000 +0800" stop="20260311230000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260311230000 +0800" stop="20260312000000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312000000 +0800" stop="20260312010000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312010000 +0800" stop="20260312020000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312020000 +0800" stop="20260312030000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312030000 +0800" stop="20260312040000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312040000 +0800" stop="20260312050000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312050000 +0800" stop="20260312060000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312060000 +0800" stop="20260312070000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312070000 +0800" stop="20260312080000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312080000 +0800" stop="20260312090000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312090000 +0800" stop="20260312100000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312100000 +0800" stop="20260312110000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312110000 +0800" stop="20260312120000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312120000 +0800" stop="20260312130000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312130000 +0800" stop="20260312140000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312140000 +0800" stop="20260312150000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312150000 +0800" stop="20260312160000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312160000 +0800" stop="20260312170000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312170000 +0800" stop="20260312180000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312180000 +0800" stop="20260312190000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312190000 +0800" stop="20260312200000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312200000 +0800" stop="20260312210000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312210000 +0800" stop="20260312220000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312220000 +0800" stop="20260312230000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
-  <programme start="20260312230000 +0800" stop="20260313000000 +0800" channel="SPOTVNOW.mana2">
-    <title lang="en">LIVE ON SPOTV NOW</title>
-    <desc lang="en">LIVE ON SPOTV NOW</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
-  </programme>
   <programme start="20260310230000 +0800" stop="20260311004000 +0800" channel="ROCKACTION.mana2">
     <title lang="en">Universal Soldier  [P13]</title>
     <desc lang="en">Two soldiers killed in Vietnam are revived years later as cyborg super-soldiers. But when memories return, they break free—setting up a brutal showdown between former comrades.</desc>
@@ -1978,6 +1743,246 @@ Italy vs USA | Pool B</desc>
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en">MYTV</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/zbxljv.png"/>
+  </programme>
+  <programme start="20260311000000 +0800" stop="20260311010000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311010000 +0800" stop="20260311020000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311020000 +0800" stop="20260311030000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311030000 +0800" stop="20260311040000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311040000 +0800" stop="20260311050000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311050000 +0800" stop="20260311060000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311060000 +0800" stop="20260311070000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311070000 +0800" stop="20260311080000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311080000 +0800" stop="20260311090000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311100000 +0800" stop="20260311110000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311110000 +0800" stop="20260311120000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311120000 +0800" stop="20260311130000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311130000 +0800" stop="20260311140000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311140000 +0800" stop="20260311150000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311150000 +0800" stop="20260311160000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311160000 +0800" stop="20260311170000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311170000 +0800" stop="20260311180000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311180000 +0800" stop="20260311190000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311190000 +0800" stop="20260311200000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311200000 +0800" stop="20260311210000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311210000 +0800" stop="20260311220000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311220000 +0800" stop="20260311230000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260311230000 +0800" stop="20260312000000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312000000 +0800" stop="20260312010000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312010000 +0800" stop="20260312020000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312020000 +0800" stop="20260312030000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312030000 +0800" stop="20260312040000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312040000 +0800" stop="20260312050000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312050000 +0800" stop="20260312060000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312060000 +0800" stop="20260312070000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312070000 +0800" stop="20260312080000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312080000 +0800" stop="20260312090000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312090000 +0800" stop="20260312100000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312100000 +0800" stop="20260312110000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312110000 +0800" stop="20260312120000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312120000 +0800" stop="20260312130000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312130000 +0800" stop="20260312140000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312140000 +0800" stop="20260312150000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312150000 +0800" stop="20260312160000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312160000 +0800" stop="20260312170000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312170000 +0800" stop="20260312180000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312180000 +0800" stop="20260312190000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312190000 +0800" stop="20260312200000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312200000 +0800" stop="20260312210000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312210000 +0800" stop="20260312220000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312220000 +0800" stop="20260312230000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
+  </programme>
+  <programme start="20260312230000 +0800" stop="20260313000000 +0800" channel="SPOTVNOW.mana2">
+    <title lang="en">LIVE ON SPOTV NOW</title>
+    <desc lang="en">LIVE ON SPOTV NOW</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png"/>
   </programme>
   <programme start="20260311000000 +0800" stop="20260311001500 +0800" channel="ZOOMOO.mana2">
     <title lang="en">Animal All Stars S2  [U]</title>
@@ -8689,11 +8694,6 @@ Italy vs USA | Pool B</desc>
     <desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gkfjan.png"/>
   </programme>
-  <programme start="20260311170500 +0800" stop="20260311173000 +0800" channel="BERNAMARADIO.mana2">
-    <title lang="en">Refleksi Nuansa</title>
-    <desc lang="en">Segmen yang dikendalikan oleh Shuhadah Armawan &amp; Hanie Hamid.</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gkfjan.png"/>
-  </programme>
   <programme start="20260311173000 +0800" stop="20260311180000 +0800" channel="BERNAMARADIO.mana2">
     <title lang="en">Kotak Rezeki</title>
     <desc lang="en">Kotak Rezeki ialah program khas Ramadan yang menyorot usaha menyalurkan bantuan dan sumbangan kepada golongan memerlukan, sambil menggalakkan semangat sedekah, kebaikan dan perkongsian rezeki dalam bulan mulia.</desc>
@@ -8727,11 +8727,6 @@ Italy vs USA | Pool B</desc>
   <programme start="20260311191000 +0800" stop="20260311193000 +0800" channel="BERNAMARADIO.mana2">
     <title lang="en">Fawz Saghir Fi Ramadan / Ibrah Hadis</title>
     <desc lang="en">Program menyampaikan tazkirah dan peringatan harian bagi membantu penonton meraih kemenangan kecil melalui amalan dan penghayatan ibadah sepanjang bulan mulia ini.</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gkfjan.png"/>
-  </programme>
-  <programme start="20260311193000 +0800" stop="20260311195500 +0800" channel="BERNAMARADIO.mana2">
-    <title lang="en">Laman Iman</title>
-    <desc lang="en">Tazkirah yang memberi pedoman/nasihat mengenai sentuhan cinta dan kasih sayang dariNya dalam melahirkan jiwa yang sentiasa tenang, syukur dan reda akan ketentuanNya.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gkfjan.png"/>
   </programme>
   <programme start="20260311195500 +0800" stop="20260311200000 +0800" channel="BERNAMARADIO.mana2">
@@ -8994,11 +8989,6 @@ Italy vs USA | Pool B</desc>
     <desc lang="en">Redah membawa anda menyelusuri perjalanan survival yang dialami oleh mangsa sesebuah keadaan atau situasi dan bagaimana untuk mencari jalan keluar dari situasi tersebut.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png"/>
   </programme>
-  <programme start="20260311163000 +0800" stop="20260311170000 +0800" channel="TV1.mana2">
-    <title lang="en">LIVE : BIZ MALAYSIA</title>
-    <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png"/>
-  </programme>
   <programme start="20260311170000 +0800" stop="20260311180000 +0800" channel="TV1.mana2">
     <title lang="en">BERITA WILAYAH</title>
     <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah seluruh Malaysia dalam rangkuman berita terkini.</desc>
@@ -9144,11 +9134,6 @@ Italy vs USA | Pool B</desc>
     <desc lang="en">Dokumentari ini memaparkan pengembaraan Steve Backshall meneroka dunia liar, mencabar diri menghadapi cabaran ekstrem dan menguji ketahanan fizikal serta mental di pelbagai lokasi menakjubkan.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png"/>
   </programme>
-  <programme start="20260312130000 +0800" stop="20260312133000 +0800" channel="TV1.mana2">
-    <title lang="en">BERITA TENGAH HARI</title>
-    <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png"/>
-  </programme>
   <programme start="20260312133000 +0800" stop="20260312143000 +0800" channel="TV1.mana2">
     <title lang="en">Aku Disisimu (Ulangan)</title>
     <desc lang="en">Laila diuji apabila suaminya koma, anak menjauh dan kos rawatan tinggi. Mira, jururawat yang menerima VSS, mengajaknya membuka pusat jagaan pesakit. Mereka berganding bahu menempuh pelbagai cabaran.</desc>
@@ -9238,236 +9223,6 @@ Italy vs USA | Pool B</desc>
     <title lang="en">Voices From The Roof Of The World</title>
     <desc lang="en">Sebuah program dokumentari berbahasa Inggeris yang mengupas isu alam sekitar di kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia menyorot konflik akibat aktiviti manusia serta</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png"/>
-  </programme>
-  <programme start="20260311000000 +0800" stop="20260311010000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311010000 +0800" stop="20260311020000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311020000 +0800" stop="20260311030000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311030000 +0800" stop="20260311040000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311040000 +0800" stop="20260311050000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311050000 +0800" stop="20260311060000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311060000 +0800" stop="20260311070000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311070000 +0800" stop="20260311080000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 7:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311080000 +0800" stop="20260311090000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311090000 +0800" stop="20260311100000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311100000 +0800" stop="20260311130000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">World Quran Hour 2026</title>
-    <desc lang="en">World Quran Hour 2026</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311130000 +0800" stop="20260311140000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311140000 +0800" stop="20260311150000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311150000 +0800" stop="20260311160000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311160000 +0800" stop="20260311170000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311170000 +0800" stop="20260311180000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311180000 +0800" stop="20260311190000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 6:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311190000 +0800" stop="20260311200000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311200000 +0800" stop="20260311210000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311210000 +0800" stop="20260311220000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311220000 +0800" stop="20260311230000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260311230000 +0800" stop="20260312000000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312000000 +0800" stop="20260312010000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312010000 +0800" stop="20260312020000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312020000 +0800" stop="20260312030000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312030000 +0800" stop="20260312040000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312040000 +0800" stop="20260312050000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312050000 +0800" stop="20260312060000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312060000 +0800" stop="20260312070000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312070000 +0800" stop="20260312080000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 7:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312080000 +0800" stop="20260312090000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312090000 +0800" stop="20260312100000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312100000 +0800" stop="20260312110000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312110000 +0800" stop="20260312120000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312120000 +0800" stop="20260312130000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312130000 +0800" stop="20260312140000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312140000 +0800" stop="20260312150000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312150000 +0800" stop="20260312160000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312160000 +0800" stop="20260312170000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312170000 +0800" stop="20260312180000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312180000 +0800" stop="20260312190000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 6:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312190000 +0800" stop="20260312200000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312200000 +0800" stop="20260312210000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312210000 +0800" stop="20260312220000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312220000 +0800" stop="20260312230000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
-  </programme>
-  <programme start="20260312230000 +0800" stop="20260313000000 +0800" channel="WorldQuranHour2026.mana2">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en">World Quran Hour</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/world-quran-hour-2026-banner-1773029031323.png"/>
   </programme>
   <programme start="20260311000000 +0800" stop="20260311003000 +0800" channel="TV2.mana2">
     <title lang="en">Asian Culture</title>
@@ -12971,11 +12726,6 @@ dan tradisi..</desc>
   <programme start="20260312003000 +0800" stop="20260312010000 +0800" channel="SUKETV.mana2">
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png"/>
-  </programme>
-  <programme start="20260312010000 +0800" stop="20260312023000 +0800" channel="SUKETV.mana2">
-    <title lang="en">Suke Celeb</title>
-    <desc lang="en">Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png"/>
   </programme>
   <programme start="20260312023000 +0800" stop="20260312033000 +0800" channel="SUKETV.mana2">
