@@ -12,28 +12,6 @@ This repository focuses on XMLTV guide coverage for:
 - Malaysia
 - Indonesia
 
-
-## What This Repository Contains
-
-- XMLTV EPG files
-- provider-specific guide output
-- structured channel and programme listings
-
-## What This Repository Does Not Contain
-
-- Python source grabbers
-- IPTV streams
-- M3U playlists
-- playback URLs
-- DRM keys
-- access or bypass tooling
-
-If you are looking for stream delivery, playlist generation, or scraper source code, that is outside the scope of this public repository.
-
-## Purpose
-
-The goal of this repository is straightforward:
-
 **publish XMLTV EPG data for supported providers and markets**
 
 These files may be useful for:
