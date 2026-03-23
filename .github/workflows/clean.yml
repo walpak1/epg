@@ -1,0 +1,59 @@
+name: Cleanup ALL workflow runs
+
+on:
+  schedule:
+    - cron: "0 3 */3 * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete ALL workflow runs
+        uses: actions/github-script@v7
+        with:
+          script: |
+            while (true) {
+              // We ALWAYS pull page 1. 
+              // As we delete, the next batch "slides" into page 1 automatically.
+              const res = await github.rest.actions.listWorkflowRunsForRepo({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                per_page: 100,
+                page: 1 
+              });
+
+              const runs = res.data.workflow_runs;
+
+              // If 0 runs exist, or the ONLY run left is THIS one, we are done.
+              if (runs.length === 0 || (runs.length === 1 && runs[0].id === context.runId)) {
+                console.log("Cleanup complete. No more runs to delete.");
+                break;
+              }
+
+              for (const run of runs) {
+                // Don't let the script delete itself while it's still running!
+                if (run.id === context.runId) {
+                  continue;
+                }
+
+                try {
+                  console.log(`Deleting run ID: ${run.id} (${run.name})`);
+                  await github.rest.actions.deleteWorkflowRun({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    run_id: run.id
+                  });
+                } catch (err) {
+                  console.log(`Could not delete ${run.id}: ${err.message}`);
+                }
+              }
+
+              // A tiny 200ms pause to stay under GitHub's secondary rate limits
+              await new Promise(r => setTimeout(r, 200));
+            }
+            
