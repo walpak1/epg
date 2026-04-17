@@ -189,63 +189,6 @@
   <channel id="Elshinta TV">
     <display-name>Elshinta TV</display-name>
   </channel>
-  <programme start="20260417000000 +0800" stop="20260417013000 +0800" channel="SCTV">
-    <title>FTV Primetime : Jodohku My Bodyguard</title>
-  </programme>
-  <programme start="20260417013000 +0800" stop="20260417024100 +0800" channel="SCTV">
-    <title>FTV Utama: I'M Most Wanted</title>
-  </programme>
-  <programme start="20260417024100 +0800" stop="20260417050500 +0800" channel="SCTV">
-    <title>Nottingham Forest vs FC Porto : UEFA Europa League 2025/26</title>
-  </programme>
-  <programme start="20260417050500 +0800" stop="20260417053000 +0800" channel="SCTV">
-    <title>Barakallah</title>
-  </programme>
-  <programme start="20260417053000 +0800" stop="20260417060000 +0800" channel="SCTV">
-    <title>Buser</title>
-  </programme>
-  <programme start="20260417060000 +0800" stop="20260417070000 +0800" channel="SCTV">
-    <title>Liputan 6 Pagi - Live</title>
-  </programme>
-  <programme start="20260417070000 +0800" stop="20260417080000 +0800" channel="SCTV">
-    <title>Halo Selebriti</title>
-  </programme>
-  <programme start="20260417080000 +0800" stop="20260417090000 +0800" channel="SCTV">
-    <title>Tiba-Tiba Kuis</title>
-  </programme>
-  <programme start="20260417090000 +0800" stop="20260417110000 +0800" channel="SCTV">
-    <title>FTV Pagi Spesial: Mantanan Sama Gue Mantenan Sama Dia, Cuaks</title>
-  </programme>
-  <programme start="20260417110000 +0800" stop="20260417130000 +0800" channel="SCTV">
-    <title>FTV Pagi: Mahkota Cintamu Sedang Diukir King CEO</title>
-  </programme>
-  <programme start="20260417130000 +0800" stop="20260417133000 +0800" channel="SCTV">
-    <title>Liputan 6 Siang - Live</title>
-  </programme>
-  <programme start="20260417133000 +0800" stop="20260417150000 +0800" channel="SCTV">
-    <title>FTV Siang: Dosen Killer Bikin hati Gemeter</title>
-  </programme>
-  <programme start="20260417150000 +0800" stop="20260417164500 +0800" channel="SCTV">
-    <title>FTV Siang: My Brother Bikin Baper</title>
-  </programme>
-  <programme start="20260417164500 +0800" stop="20260417180000 +0800" channel="SCTV">
-    <title>FTV Sore: Cewek Ugal Ugalan Nabrak Hati Rembo</title>
-  </programme>
-  <programme start="20260417180000 +0800" stop="20260417191500 +0800" channel="SCTV">
-    <title>Asmara Gen Z</title>
-  </programme>
-  <programme start="20260417191500 +0800" stop="20260417210000 +0800" channel="SCTV">
-    <title>Istiqomah Cinta</title>
-  </programme>
-  <programme start="20260417210000 +0800" stop="20260417223000 +0800" channel="SCTV">
-    <title>Beri Cinta Waktu</title>
-  </programme>
-  <programme start="20260417223000 +0800" stop="20260418000000 +0800" channel="SCTV">
-    <title>Jejak Duka Diandra</title>
-  </programme>
-  <programme start="20260418000000 +0800" stop="20260418013000 +0800" channel="SCTV">
-    <title>FTV Primetime: Cinta Ob Gengsi Gede Gedean</title>
-  </programme>
   <programme start="20260418000000 +0800" stop="20260418013000 +0800" channel="SCTV">
     <title>FTV Primetime: Cinta Ob Gengsi Gede Gedean</title>
   </programme>
@@ -305,6 +248,63 @@
   </programme>
   <programme start="20260419000000 +0800" stop="20260419013000 +0800" channel="SCTV">
     <title>FTV Primetime: My Best Friend'S Wedding</title>
+  </programme>
+  <programme start="20260417000000 +0800" stop="20260417013000 +0800" channel="SCTV">
+    <title>FTV Primetime : Jodohku My Bodyguard</title>
+  </programme>
+  <programme start="20260417013000 +0800" stop="20260417024100 +0800" channel="SCTV">
+    <title>FTV Utama: I'M Most Wanted</title>
+  </programme>
+  <programme start="20260417024100 +0800" stop="20260417050500 +0800" channel="SCTV">
+    <title>Nottingham Forest vs FC Porto : UEFA Europa League 2025/26</title>
+  </programme>
+  <programme start="20260417050500 +0800" stop="20260417053000 +0800" channel="SCTV">
+    <title>Barakallah</title>
+  </programme>
+  <programme start="20260417053000 +0800" stop="20260417060000 +0800" channel="SCTV">
+    <title>Buser</title>
+  </programme>
+  <programme start="20260417060000 +0800" stop="20260417070000 +0800" channel="SCTV">
+    <title>Liputan 6 Pagi - Live</title>
+  </programme>
+  <programme start="20260417070000 +0800" stop="20260417080000 +0800" channel="SCTV">
+    <title>Halo Selebriti</title>
+  </programme>
+  <programme start="20260417080000 +0800" stop="20260417090000 +0800" channel="SCTV">
+    <title>Tiba-Tiba Kuis</title>
+  </programme>
+  <programme start="20260417090000 +0800" stop="20260417110000 +0800" channel="SCTV">
+    <title>FTV Pagi Spesial: Mantanan Sama Gue Mantenan Sama Dia, Cuaks</title>
+  </programme>
+  <programme start="20260417110000 +0800" stop="20260417130000 +0800" channel="SCTV">
+    <title>FTV Pagi: Mahkota Cintamu Sedang Diukir King CEO</title>
+  </programme>
+  <programme start="20260417130000 +0800" stop="20260417133000 +0800" channel="SCTV">
+    <title>Liputan 6 Siang - Live</title>
+  </programme>
+  <programme start="20260417133000 +0800" stop="20260417150000 +0800" channel="SCTV">
+    <title>FTV Siang: Dosen Killer Bikin hati Gemeter</title>
+  </programme>
+  <programme start="20260417150000 +0800" stop="20260417164500 +0800" channel="SCTV">
+    <title>FTV Siang: My Brother Bikin Baper</title>
+  </programme>
+  <programme start="20260417164500 +0800" stop="20260417180000 +0800" channel="SCTV">
+    <title>FTV Sore: Cewek Ugal Ugalan Nabrak Hati Rembo</title>
+  </programme>
+  <programme start="20260417180000 +0800" stop="20260417191500 +0800" channel="SCTV">
+    <title>Asmara Gen Z</title>
+  </programme>
+  <programme start="20260417191500 +0800" stop="20260417210000 +0800" channel="SCTV">
+    <title>Istiqomah Cinta</title>
+  </programme>
+  <programme start="20260417210000 +0800" stop="20260417223000 +0800" channel="SCTV">
+    <title>Beri Cinta Waktu</title>
+  </programme>
+  <programme start="20260417223000 +0800" stop="20260418000000 +0800" channel="SCTV">
+    <title>Jejak Duka Diandra</title>
+  </programme>
+  <programme start="20260418000000 +0800" stop="20260418013000 +0800" channel="SCTV">
+    <title>FTV Primetime: Cinta Ob Gengsi Gede Gedean</title>
   </programme>
   <programme start="20260417005700 +0800" stop="20260417023000 +0800" channel="Indosiar">
     <title>Mega Series Action Asia : Heroes</title>
@@ -792,153 +792,6 @@
   <programme start="20260419000900 +0800" stop="20260419013500 +0800" channel="Moji">
     <title>One Fight Night</title>
   </programme>
-  <programme start="20260417003000 +0800" stop="20260417010000 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417010500 +0800" stop="20260417013000 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417013000 +0800" stop="20260417020500 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417020500 +0800" stop="20260417023000 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417023000 +0800" stop="20260417030500 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417030500 +0800" stop="20260417033000 +0800" channel="Metro TV">
-    <title>Meet Nite Live</title>
-  </programme>
-  <programme start="20260417033000 +0800" stop="20260417040500 +0800" channel="Metro TV">
-    <title>Meet Nite Live</title>
-  </programme>
-  <programme start="20260417040500 +0800" stop="20260417043000 +0800" channel="Metro TV">
-    <title>Kontroversi</title>
-  </programme>
-  <programme start="20260417043000 +0800" stop="20260417050500 +0800" channel="Metro TV">
-    <title>Kontroversi</title>
-  </programme>
-  <programme start="20260417050500 +0800" stop="20260417053000 +0800" channel="Metro TV">
-    <title>Top News</title>
-  </programme>
-  <programme start="20260417053000 +0800" stop="20260417060500 +0800" channel="Metro TV">
-    <title>Top News</title>
-  </programme>
-  <programme start="20260417060500 +0800" stop="20260417063000 +0800" channel="Metro TV">
-    <title>Metro Pagi Primetime</title>
-  </programme>
-  <programme start="20260417063000 +0800" stop="20260417070500 +0800" channel="Metro TV">
-    <title>Metro Pagi Primetime</title>
-  </programme>
-  <programme start="20260417070500 +0800" stop="20260417073000 +0800" channel="Metro TV">
-    <title>Metro Pagi Primetime</title>
-  </programme>
-  <programme start="20260417073000 +0800" stop="20260417080500 +0800" channel="Metro TV">
-    <title>Go Healthy</title>
-  </programme>
-  <programme start="20260417080500 +0800" stop="20260417083000 +0800" channel="Metro TV">
-    <title>Editorial Media Indonesia</title>
-  </programme>
-  <programme start="20260417083000 +0800" stop="20260417090500 +0800" channel="Metro TV">
-    <title>Metro Sport</title>
-  </programme>
-  <programme start="20260417090500 +0800" stop="20260417093000 +0800" channel="Metro TV">
-    <title>Selamat Pagi Indonesia</title>
-  </programme>
-  <programme start="20260417093000 +0800" stop="20260417100500 +0800" channel="Metro TV">
-    <title>Selamat Pagi Indonesia</title>
-  </programme>
-  <programme start="20260417100500 +0800" stop="20260417103000 +0800" channel="Metro TV">
-    <title>Selamat Pagi Indonesia</title>
-  </programme>
-  <programme start="20260417103000 +0800" stop="20260417110500 +0800" channel="Metro TV">
-    <title>Zona Bisnis</title>
-  </programme>
-  <programme start="20260417110500 +0800" stop="20260417113000 +0800" channel="Metro TV">
-    <title>Zona Bisnis</title>
-  </programme>
-  <programme start="20260417113000 +0800" stop="20260417120500 +0800" channel="Metro TV">
-    <title>Go Healthy</title>
-  </programme>
-  <programme start="20260417120500 +0800" stop="20260417123000 +0800" channel="Metro TV">
-    <title>Metro Sport</title>
-  </programme>
-  <programme start="20260417123000 +0800" stop="20260417130000 +0800" channel="Metro TV">
-    <title>Metro Siang</title>
-  </programme>
-  <programme start="20260417130000 +0800" stop="20260417133000 +0800" channel="Metro TV">
-    <title>Metro Siang</title>
-  </programme>
-  <programme start="20260417133000 +0800" stop="20260417140000 +0800" channel="Metro TV">
-    <title>Metro Siang</title>
-  </programme>
-  <programme start="20260417140000 +0800" stop="20260417143000 +0800" channel="Metro TV">
-    <title>Metro Siang</title>
-  </programme>
-  <programme start="20260417143000 +0800" stop="20260417150500 +0800" channel="Metro TV">
-    <title>Prioritas Indonesia</title>
-  </programme>
-  <programme start="20260417150500 +0800" stop="20260417153000 +0800" channel="Metro TV">
-    <title>Newsline</title>
-  </programme>
-  <programme start="20260417153000 +0800" stop="20260417160500 +0800" channel="Metro TV">
-    <title>Newsline</title>
-  </programme>
-  <programme start="20260417160500 +0800" stop="20260417163000 +0800" channel="Metro TV">
-    <title>Newsline</title>
-  </programme>
-  <programme start="20260417163000 +0800" stop="20260417170500 +0800" channel="Metro TV">
-    <title>Newsline</title>
-  </programme>
-  <programme start="20260417170500 +0800" stop="20260417173000 +0800" channel="Metro TV">
-    <title>Metro Hari Ini</title>
-  </programme>
-  <programme start="20260417173000 +0800" stop="20260417180500 +0800" channel="Metro TV">
-    <title>Metro Hari Ini</title>
-  </programme>
-  <programme start="20260417180500 +0800" stop="20260417183000 +0800" channel="Metro TV">
-    <title>Metro Hari Ini</title>
-  </programme>
-  <programme start="20260417183000 +0800" stop="20260417190000 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417190000 +0800" stop="20260417193000 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417193000 +0800" stop="20260417200500 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417200500 +0800" stop="20260417203000 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417203000 +0800" stop="20260417210500 +0800" channel="Metro TV">
-    <title>Primetime News</title>
-  </programme>
-  <programme start="20260417210500 +0800" stop="20260417213000 +0800" channel="Metro TV">
-    <title>Top News</title>
-  </programme>
-  <programme start="20260417213000 +0800" stop="20260417220500 +0800" channel="Metro TV">
-    <title>Top News</title>
-  </programme>
-  <programme start="20260417220500 +0800" stop="20260417223000 +0800" channel="Metro TV">
-    <title>Top News</title>
-  </programme>
-  <programme start="20260417223000 +0800" stop="20260417230500 +0800" channel="Metro TV">
-    <title>Top News</title>
-  </programme>
-  <programme start="20260417230500 +0800" stop="20260417233000 +0800" channel="Metro TV">
-    <title>Metro Xinwen</title>
-  </programme>
-  <programme start="20260417233000 +0800" stop="20260418000500 +0800" channel="Metro TV">
-    <title>Meet Nite Live</title>
-  </programme>
-  <programme start="20260418000500 +0800" stop="20260418003000 +0800" channel="Metro TV">
-    <title>Meet Nite Live</title>
-  </programme>
-  <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="Metro TV">
-    <title>Go Healthy</title>
-  </programme>
   <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="Metro TV">
     <title>Go Healthy</title>
   </programme>
@@ -1085,6 +938,153 @@
   </programme>
   <programme start="20260419003000 +0800" stop="20260419010000 +0800" channel="Metro TV">
     <title>Q &amp; A</title>
+  </programme>
+  <programme start="20260417003000 +0800" stop="20260417010000 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417010500 +0800" stop="20260417013000 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417013000 +0800" stop="20260417020500 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417020500 +0800" stop="20260417023000 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417023000 +0800" stop="20260417030500 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417030500 +0800" stop="20260417033000 +0800" channel="Metro TV">
+    <title>Meet Nite Live</title>
+  </programme>
+  <programme start="20260417033000 +0800" stop="20260417040500 +0800" channel="Metro TV">
+    <title>Meet Nite Live</title>
+  </programme>
+  <programme start="20260417040500 +0800" stop="20260417043000 +0800" channel="Metro TV">
+    <title>Kontroversi</title>
+  </programme>
+  <programme start="20260417043000 +0800" stop="20260417050500 +0800" channel="Metro TV">
+    <title>Kontroversi</title>
+  </programme>
+  <programme start="20260417050500 +0800" stop="20260417053000 +0800" channel="Metro TV">
+    <title>Top News</title>
+  </programme>
+  <programme start="20260417053000 +0800" stop="20260417060500 +0800" channel="Metro TV">
+    <title>Top News</title>
+  </programme>
+  <programme start="20260417060500 +0800" stop="20260417063000 +0800" channel="Metro TV">
+    <title>Metro Pagi Primetime</title>
+  </programme>
+  <programme start="20260417063000 +0800" stop="20260417070500 +0800" channel="Metro TV">
+    <title>Metro Pagi Primetime</title>
+  </programme>
+  <programme start="20260417070500 +0800" stop="20260417073000 +0800" channel="Metro TV">
+    <title>Metro Pagi Primetime</title>
+  </programme>
+  <programme start="20260417073000 +0800" stop="20260417080500 +0800" channel="Metro TV">
+    <title>Go Healthy</title>
+  </programme>
+  <programme start="20260417080500 +0800" stop="20260417083000 +0800" channel="Metro TV">
+    <title>Editorial Media Indonesia</title>
+  </programme>
+  <programme start="20260417083000 +0800" stop="20260417090500 +0800" channel="Metro TV">
+    <title>Metro Sport</title>
+  </programme>
+  <programme start="20260417090500 +0800" stop="20260417093000 +0800" channel="Metro TV">
+    <title>Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20260417093000 +0800" stop="20260417100500 +0800" channel="Metro TV">
+    <title>Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20260417100500 +0800" stop="20260417103000 +0800" channel="Metro TV">
+    <title>Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20260417103000 +0800" stop="20260417110500 +0800" channel="Metro TV">
+    <title>Zona Bisnis</title>
+  </programme>
+  <programme start="20260417110500 +0800" stop="20260417113000 +0800" channel="Metro TV">
+    <title>Zona Bisnis</title>
+  </programme>
+  <programme start="20260417113000 +0800" stop="20260417120500 +0800" channel="Metro TV">
+    <title>Go Healthy</title>
+  </programme>
+  <programme start="20260417120500 +0800" stop="20260417123000 +0800" channel="Metro TV">
+    <title>Metro Sport</title>
+  </programme>
+  <programme start="20260417123000 +0800" stop="20260417130000 +0800" channel="Metro TV">
+    <title>Metro Siang</title>
+  </programme>
+  <programme start="20260417130000 +0800" stop="20260417133000 +0800" channel="Metro TV">
+    <title>Metro Siang</title>
+  </programme>
+  <programme start="20260417133000 +0800" stop="20260417140000 +0800" channel="Metro TV">
+    <title>Metro Siang</title>
+  </programme>
+  <programme start="20260417140000 +0800" stop="20260417143000 +0800" channel="Metro TV">
+    <title>Metro Siang</title>
+  </programme>
+  <programme start="20260417143000 +0800" stop="20260417150500 +0800" channel="Metro TV">
+    <title>Prioritas Indonesia</title>
+  </programme>
+  <programme start="20260417150500 +0800" stop="20260417153000 +0800" channel="Metro TV">
+    <title>Newsline</title>
+  </programme>
+  <programme start="20260417153000 +0800" stop="20260417160500 +0800" channel="Metro TV">
+    <title>Newsline</title>
+  </programme>
+  <programme start="20260417160500 +0800" stop="20260417163000 +0800" channel="Metro TV">
+    <title>Newsline</title>
+  </programme>
+  <programme start="20260417163000 +0800" stop="20260417170500 +0800" channel="Metro TV">
+    <title>Newsline</title>
+  </programme>
+  <programme start="20260417170500 +0800" stop="20260417173000 +0800" channel="Metro TV">
+    <title>Metro Hari Ini</title>
+  </programme>
+  <programme start="20260417173000 +0800" stop="20260417180500 +0800" channel="Metro TV">
+    <title>Metro Hari Ini</title>
+  </programme>
+  <programme start="20260417180500 +0800" stop="20260417183000 +0800" channel="Metro TV">
+    <title>Metro Hari Ini</title>
+  </programme>
+  <programme start="20260417183000 +0800" stop="20260417190000 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417190000 +0800" stop="20260417193000 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417193000 +0800" stop="20260417200500 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417200500 +0800" stop="20260417203000 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417203000 +0800" stop="20260417210500 +0800" channel="Metro TV">
+    <title>Primetime News</title>
+  </programme>
+  <programme start="20260417210500 +0800" stop="20260417213000 +0800" channel="Metro TV">
+    <title>Top News</title>
+  </programme>
+  <programme start="20260417213000 +0800" stop="20260417220500 +0800" channel="Metro TV">
+    <title>Top News</title>
+  </programme>
+  <programme start="20260417220500 +0800" stop="20260417223000 +0800" channel="Metro TV">
+    <title>Top News</title>
+  </programme>
+  <programme start="20260417223000 +0800" stop="20260417230500 +0800" channel="Metro TV">
+    <title>Top News</title>
+  </programme>
+  <programme start="20260417230500 +0800" stop="20260417233000 +0800" channel="Metro TV">
+    <title>Metro Xinwen</title>
+  </programme>
+  <programme start="20260417233000 +0800" stop="20260418000500 +0800" channel="Metro TV">
+    <title>Meet Nite Live</title>
+  </programme>
+  <programme start="20260418000500 +0800" stop="20260418003000 +0800" channel="Metro TV">
+    <title>Meet Nite Live</title>
+  </programme>
+  <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="Metro TV">
+    <title>Go Healthy</title>
   </programme>
   <programme start="20260417003000 +0800" stop="20260417010000 +0800" channel="Kompas TV">
     <title>Kilas Kompas</title>
@@ -1359,6 +1359,45 @@
   <programme start="20260419000000 +0800" stop="20260419023000 +0800" channel="TVOne">
     <title>Breaking News: Perang Iran v Israel - AS</title>
   </programme>
+  <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="ANTV">
+    <title>Bioskop Asia: The Dragon Chronicles: The Maidens of Heavenly Mountains</title>
+  </programme>
+  <programme start="20260418010000 +0800" stop="20260418020000 +0800" channel="ANTV">
+    <title>Bioskop Asia: The Dragon Chronicles: The Maidens of Heavenly Mountains</title>
+  </programme>
+  <programme start="20260418020000 +0800" stop="20260418021500 +0800" channel="ANTV">
+    <title>Mr. Bean</title>
+  </programme>
+  <programme start="20260418021500 +0800" stop="20260418044500 +0800" channel="ANTV">
+    <title>Serie A 2025/26: Inter vs Cagliari</title>
+  </programme>
+  <programme start="20260418044500 +0800" stop="20260418070000 +0800" channel="ANTV">
+    <title>Mega Bollywood: Band Baaja Baaraat</title>
+  </programme>
+  <programme start="20260418070000 +0800" stop="20260418083000 +0800" channel="ANTV">
+    <title>Kasautii</title>
+  </programme>
+  <programme start="20260418083000 +0800" stop="20260418103000 +0800" channel="ANTV">
+    <title>Janji Cinta Inspektur Virat</title>
+  </programme>
+  <programme start="20260418103000 +0800" stop="20260418140000 +0800" channel="ANTV">
+    <title>Mega Bollywood: Thugs of Hindostan</title>
+  </programme>
+  <programme start="20260418140000 +0800" stop="20260418160000 +0800" channel="ANTV">
+    <title>Jhanak</title>
+  </programme>
+  <programme start="20260418170000 +0800" stop="20260418191500 +0800" channel="ANTV">
+    <title>Vasudha</title>
+  </programme>
+  <programme start="20260418191500 +0800" stop="20260418210000 +0800" channel="ANTV">
+    <title>Sinema Laga Klasik: Pendekar Jagat Kelana</title>
+  </programme>
+  <programme start="20260418223000 +0800" stop="20260419003000 +0800" channel="ANTV">
+    <title>Sinema Spesial: Saranjana: Kota Ghaib</title>
+  </programme>
+  <programme start="20260419003000 +0800" stop="20260419010000 +0800" channel="ANTV">
+    <title>Bioskop Asia: Young and Dangerous: The Prequel</title>
+  </programme>
   <programme start="20260417004500 +0800" stop="20260417020000 +0800" channel="ANTV">
     <title>Bioskop Asia: Golden Spider City</title>
   </programme>
@@ -1400,48 +1439,6 @@
   </programme>
   <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="ANTV">
     <title>Bioskop Asia: The Dragon Chronicles: The Maidens of Heavenly Mountains</title>
-  </programme>
-  <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="ANTV">
-    <title>Bioskop Asia: The Dragon Chronicles: The Maidens of Heavenly Mountains</title>
-  </programme>
-  <programme start="20260418010000 +0800" stop="20260418020000 +0800" channel="ANTV">
-    <title>Bioskop Asia: The Dragon Chronicles: The Maidens of Heavenly Mountains</title>
-  </programme>
-  <programme start="20260418020000 +0800" stop="20260418021500 +0800" channel="ANTV">
-    <title>Mr. Bean</title>
-  </programme>
-  <programme start="20260418021500 +0800" stop="20260418044500 +0800" channel="ANTV">
-    <title>Serie A 2025/26: Inter vs Cagliari</title>
-  </programme>
-  <programme start="20260418044500 +0800" stop="20260418070000 +0800" channel="ANTV">
-    <title>Mega Bollywood: Band Baaja Baaraat</title>
-  </programme>
-  <programme start="20260418070000 +0800" stop="20260418083000 +0800" channel="ANTV">
-    <title>Kasautii</title>
-  </programme>
-  <programme start="20260418083000 +0800" stop="20260418103000 +0800" channel="ANTV">
-    <title>Janji Cinta Inspektur Virat</title>
-  </programme>
-  <programme start="20260418103000 +0800" stop="20260418140000 +0800" channel="ANTV">
-    <title>Mega Bollywood: Thugs of Hindostan</title>
-  </programme>
-  <programme start="20260418140000 +0800" stop="20260418160000 +0800" channel="ANTV">
-    <title>Jhanak</title>
-  </programme>
-  <programme start="20260418170000 +0800" stop="20260418191500 +0800" channel="ANTV">
-    <title>Vasudha</title>
-  </programme>
-  <programme start="20260418191500 +0800" stop="20260418210000 +0800" channel="ANTV">
-    <title>Sinema Laga Klasik: Pendekar Jagat Kelana</title>
-  </programme>
-  <programme start="20260418223000 +0800" stop="20260419003000 +0800" channel="ANTV">
-    <title>Sinema Spesial: Saranjana: Kota Ghaib</title>
-  </programme>
-  <programme start="20260419003000 +0800" stop="20260419010000 +0800" channel="ANTV">
-    <title>Bioskop Asia: Young and Dangerous: The Prequel</title>
-  </programme>
-  <programme start="20260418000000 +0800" stop="20260418010000 +0800" channel="MNCTV">
-    <title>Vision+ Originals &quot;Kejarlah Daku Kau Kutangkap&quot;</title>
   </programme>
   <programme start="20260417000000 +0800" stop="20260417030000 +0800" channel="MNCTV">
     <title>Rumahnya Keluarga &quot;Suparman Reborn&quot;</title>
@@ -1487,6 +1484,9 @@
   </programme>
   <programme start="20260417210000 +0800" stop="20260418000000 +0800" channel="MNCTV">
     <title>Rumahnya Dangdut : Dmd Panggung Rezeki</title>
+  </programme>
+  <programme start="20260418000000 +0800" stop="20260418010000 +0800" channel="MNCTV">
+    <title>Vision+ Originals &quot;Kejarlah Daku Kau Kutangkap&quot;</title>
   </programme>
   <programme start="20260418000000 +0800" stop="20260418010000 +0800" channel="MNCTV">
     <title>Vision+ Originals &quot;Kejarlah Daku Kau Kutangkap&quot;</title>
@@ -1884,75 +1884,6 @@
   <programme start="20260419000000 +0800" stop="20260419005900 +0800" channel="RTV">
     <title>Zankuro</title>
   </programme>
-  <programme start="20260417005500 +0800" stop="20260417021000 +0800" channel="MDTV">
-    <title>Malam Malam</title>
-  </programme>
-  <programme start="20260417021500 +0800" stop="20260417030000 +0800" channel="MDTV">
-    <title>RT 5</title>
-  </programme>
-  <programme start="20260417030000 +0800" stop="20260417040400 +0800" channel="MDTV">
-    <title>Tawa Tawa Santai</title>
-  </programme>
-  <programme start="20260417040400 +0800" stop="20260417050000 +0800" channel="MDTV">
-    <title>Keajaiban Dunia</title>
-  </programme>
-  <programme start="20260417050000 +0800" stop="20260417065500 +0800" channel="MDTV">
-    <title>Top Spot</title>
-  </programme>
-  <programme start="20260417065500 +0800" stop="20260417075000 +0800" channel="MDTV">
-    <title>Curahan Hati</title>
-  </programme>
-  <programme start="20260417075000 +0800" stop="20260417090500 +0800" channel="MDTV">
-    <title>AADD (Ada Apa Dengan Dunia)</title>
-  </programme>
-  <programme start="20260417090500 +0800" stop="20260417100000 +0800" channel="MDTV">
-    <title>Fakta +62</title>
-  </programme>
-  <programme start="20260417100000 +0800" stop="20260417110000 +0800" channel="MDTV">
-    <title>Sensasihot</title>
-  </programme>
-  <programme start="20260417110000 +0800" stop="20260417124500 +0800" channel="MDTV">
-    <title>Terlanjur Indah</title>
-  </programme>
-  <programme start="20260417124500 +0800" stop="20260417141500 +0800" channel="MDTV">
-    <title>Cinta Fitri S7</title>
-  </programme>
-  <programme start="20260417141500 +0800" stop="20260417153000 +0800" channel="MDTV">
-    <title>Makan Enak</title>
-  </programme>
-  <programme start="20260417153000 +0800" stop="20260417163000 +0800" channel="MDTV">
-    <title>Masak Gesss!!!</title>
-  </programme>
-  <programme start="20260417163000 +0800" stop="20260417173000 +0800" channel="MDTV">
-    <title>Sensasiseleb</title>
-  </programme>
-  <programme start="20260417173000 +0800" stop="20260417180500 +0800" channel="MDTV">
-    <title>Adit Sopo Jarwo</title>
-  </programme>
-  <programme start="20260417180500 +0800" stop="20260417190500 +0800" channel="MDTV">
-    <title>MD Teledrama: Amigos X Siempre</title>
-  </programme>
-  <programme start="20260417190500 +0800" stop="20260417195500 +0800" channel="MDTV">
-    <title>MD Teledrama: Esmeralda</title>
-  </programme>
-  <programme start="20260417195500 +0800" stop="20260417205500 +0800" channel="MDTV">
-    <title>MD Drama: Cinta Fitri</title>
-  </programme>
-  <programme start="20260417205500 +0800" stop="20260417215000 +0800" channel="MDTV">
-    <title>MD Series: Keluarga Yang Tak Dirindukan</title>
-  </programme>
-  <programme start="20260417215000 +0800" stop="20260417224000 +0800" channel="MDTV">
-    <title>Hot Drama</title>
-  </programme>
-  <programme start="20260417224000 +0800" stop="20260418000500 +0800" channel="MDTV">
-    <title>Jatanras</title>
-  </programme>
-  <programme start="20260418000500 +0800" stop="20260418005500 +0800" channel="MDTV">
-    <title>86</title>
-  </programme>
-  <programme start="20260418005500 +0800" stop="20260418021500 +0800" channel="MDTV">
-    <title>Malam Malam</title>
-  </programme>
   <programme start="20260418005500 +0800" stop="20260418021500 +0800" channel="MDTV">
     <title>Malam Malam</title>
   </programme>
@@ -2023,6 +1954,75 @@
     <title>86</title>
   </programme>
   <programme start="20260419001500 +0800" stop="20260419021500 +0800" channel="MDTV">
+    <title>Malam Malam</title>
+  </programme>
+  <programme start="20260417005500 +0800" stop="20260417021000 +0800" channel="MDTV">
+    <title>Malam Malam</title>
+  </programme>
+  <programme start="20260417021500 +0800" stop="20260417030000 +0800" channel="MDTV">
+    <title>RT 5</title>
+  </programme>
+  <programme start="20260417030000 +0800" stop="20260417040400 +0800" channel="MDTV">
+    <title>Tawa Tawa Santai</title>
+  </programme>
+  <programme start="20260417040400 +0800" stop="20260417050000 +0800" channel="MDTV">
+    <title>Keajaiban Dunia</title>
+  </programme>
+  <programme start="20260417050000 +0800" stop="20260417065500 +0800" channel="MDTV">
+    <title>Top Spot</title>
+  </programme>
+  <programme start="20260417065500 +0800" stop="20260417075000 +0800" channel="MDTV">
+    <title>Curahan Hati</title>
+  </programme>
+  <programme start="20260417075000 +0800" stop="20260417090500 +0800" channel="MDTV">
+    <title>AADD (Ada Apa Dengan Dunia)</title>
+  </programme>
+  <programme start="20260417090500 +0800" stop="20260417100000 +0800" channel="MDTV">
+    <title>Fakta +62</title>
+  </programme>
+  <programme start="20260417100000 +0800" stop="20260417110000 +0800" channel="MDTV">
+    <title>Sensasihot</title>
+  </programme>
+  <programme start="20260417110000 +0800" stop="20260417124500 +0800" channel="MDTV">
+    <title>Terlanjur Indah</title>
+  </programme>
+  <programme start="20260417124500 +0800" stop="20260417141500 +0800" channel="MDTV">
+    <title>Cinta Fitri S7</title>
+  </programme>
+  <programme start="20260417141500 +0800" stop="20260417153000 +0800" channel="MDTV">
+    <title>Makan Enak</title>
+  </programme>
+  <programme start="20260417153000 +0800" stop="20260417163000 +0800" channel="MDTV">
+    <title>Masak Gesss!!!</title>
+  </programme>
+  <programme start="20260417163000 +0800" stop="20260417173000 +0800" channel="MDTV">
+    <title>Sensasiseleb</title>
+  </programme>
+  <programme start="20260417173000 +0800" stop="20260417180500 +0800" channel="MDTV">
+    <title>Adit Sopo Jarwo</title>
+  </programme>
+  <programme start="20260417180500 +0800" stop="20260417190500 +0800" channel="MDTV">
+    <title>MD Teledrama: Amigos X Siempre</title>
+  </programme>
+  <programme start="20260417190500 +0800" stop="20260417195500 +0800" channel="MDTV">
+    <title>MD Teledrama: Esmeralda</title>
+  </programme>
+  <programme start="20260417195500 +0800" stop="20260417205500 +0800" channel="MDTV">
+    <title>MD Drama: Cinta Fitri</title>
+  </programme>
+  <programme start="20260417205500 +0800" stop="20260417215000 +0800" channel="MDTV">
+    <title>MD Series: Keluarga Yang Tak Dirindukan</title>
+  </programme>
+  <programme start="20260417215000 +0800" stop="20260417224000 +0800" channel="MDTV">
+    <title>Hot Drama</title>
+  </programme>
+  <programme start="20260417224000 +0800" stop="20260418000500 +0800" channel="MDTV">
+    <title>Jatanras</title>
+  </programme>
+  <programme start="20260418000500 +0800" stop="20260418005500 +0800" channel="MDTV">
+    <title>86</title>
+  </programme>
+  <programme start="20260418005500 +0800" stop="20260418021500 +0800" channel="MDTV">
     <title>Malam Malam</title>
   </programme>
   <programme start="20260417003000 +0800" stop="20260417013000 +0800" channel="BTV">
@@ -2229,105 +2229,6 @@
   <programme start="20260419003000 +0800" stop="20260419013000 +0800" channel="BTV">
     <title>Supercar Championship</title>
   </programme>
-  <programme start="20260418003000 +0800" stop="20260418013000 +0800" channel="Berita Satu">
-    <title>One Vault</title>
-  </programme>
-  <programme start="20260418013000 +0800" stop="20260418022700 +0800" channel="Berita Satu">
-    <title>Berita Viral</title>
-  </programme>
-  <programme start="20260418022700 +0800" stop="20260418023000 +0800" channel="Berita Satu">
-    <title>Tanah Airku</title>
-  </programme>
-  <programme start="20260418023000 +0800" stop="20260418033000 +0800" channel="Berita Satu">
-    <title>Berita Satu Sore &quot;Recorded&quot;</title>
-  </programme>
-  <programme start="20260418033000 +0800" stop="20260418043000 +0800" channel="Berita Satu">
-    <title>Berita Satu Malam &quot;Recorded&quot;</title>
-  </programme>
-  <programme start="20260418043000 +0800" stop="20260418053000 +0800" channel="Berita Satu">
-    <title>Spot On</title>
-  </programme>
-  <programme start="20260418053000 +0800" stop="20260418070000 +0800" channel="Berita Satu">
-    <title>Berita Satu Pagi</title>
-  </programme>
-  <programme start="20260418070000 +0800" stop="20260418070300 +0800" channel="Berita Satu">
-    <title>Indonesia Raya</title>
-  </programme>
-  <programme start="20260418070300 +0800" stop="20260418083000 +0800" channel="Berita Satu">
-    <title>Jalan Dakwah</title>
-  </programme>
-  <programme start="20260418083000 +0800" stop="20260418090000 +0800" channel="Berita Satu">
-    <title>Info Seleb</title>
-  </programme>
-  <programme start="20260418090000 +0800" stop="20260418090500 +0800" channel="Berita Satu">
-    <title>Berita Satu Terkini</title>
-  </programme>
-  <programme start="20260418090500 +0800" stop="20260418091500 +0800" channel="Berita Satu">
-    <title>Info Seleb</title>
-  </programme>
-  <programme start="20260418091500 +0800" stop="20260418094500 +0800" channel="Berita Satu">
-    <title>Kuyliner</title>
-  </programme>
-  <programme start="20260418094500 +0800" stop="20260418100000 +0800" channel="Berita Satu">
-    <title>Galeri Rasa</title>
-  </programme>
-  <programme start="20260418100000 +0800" stop="20260418100500 +0800" channel="Berita Satu">
-    <title>Berita Satu Terkini</title>
-  </programme>
-  <programme start="20260418100500 +0800" stop="20260418103000 +0800" channel="Berita Satu">
-    <title>Galeri Rasa</title>
-  </programme>
-  <programme start="20260418103000 +0800" stop="20260418113000 +0800" channel="Berita Satu">
-    <title>Jendela Dunia</title>
-  </programme>
-  <programme start="20260418113000 +0800" stop="20260418120000 +0800" channel="Berita Satu">
-    <title>Dunia Rans</title>
-  </programme>
-  <programme start="20260418120000 +0800" stop="20260418140000 +0800" channel="Berita Satu">
-    <title>Berita Satu Siang</title>
-  </programme>
-  <programme start="20260418140000 +0800" stop="20260418143000 +0800" channel="Berita Satu">
-    <title>Cuan Iki</title>
-  </programme>
-  <programme start="20260418143000 +0800" stop="20260418150000 +0800" channel="Berita Satu">
-    <title>Berita Viral</title>
-  </programme>
-  <programme start="20260418150000 +0800" stop="20260418153000 +0800" channel="Berita Satu">
-    <title>Jendela Nusantara &quot;Jawa Barat&quot;</title>
-  </programme>
-  <programme start="20260418153000 +0800" stop="20260418160000 +0800" channel="Berita Satu">
-    <title>Persona</title>
-  </programme>
-  <programme start="20260418160000 +0800" stop="20260418163000 +0800" channel="Berita Satu">
-    <title>Meja Redaksi</title>
-  </programme>
-  <programme start="20260418163000 +0800" stop="20260418182500 +0800" channel="Berita Satu">
-    <title>Berita Satu Sore</title>
-  </programme>
-  <programme start="20260418182500 +0800" stop="20260418185000 +0800" channel="Berita Satu">
-    <title>Berita Kriminal</title>
-  </programme>
-  <programme start="20260418185000 +0800" stop="20260418194500 +0800" channel="Berita Satu">
-    <title>Dunia Binatang</title>
-  </programme>
-  <programme start="20260418194500 +0800" stop="20260418204500 +0800" channel="Berita Satu">
-    <title>Ketulusan Hati</title>
-  </programme>
-  <programme start="20260418204500 +0800" stop="20260418214000 +0800" channel="Berita Satu">
-    <title>Berita Satu Malam</title>
-  </programme>
-  <programme start="20260418214000 +0800" stop="20260418230000 +0800" channel="Berita Satu">
-    <title>Berita Viral</title>
-  </programme>
-  <programme start="20260418230000 +0800" stop="20260419000000 +0800" channel="Berita Satu">
-    <title>Spot On</title>
-  </programme>
-  <programme start="20260419000000 +0800" stop="20260419003000 +0800" channel="Berita Satu">
-    <title>Dari Nol</title>
-  </programme>
-  <programme start="20260419003000 +0800" stop="20260419013000 +0800" channel="Berita Satu">
-    <title>Supercar Championship</title>
-  </programme>
   <programme start="20260417003000 +0800" stop="20260417013000 +0800" channel="Berita Satu">
     <title>One Vault</title>
   </programme>
@@ -2432,6 +2333,105 @@
   </programme>
   <programme start="20260418003000 +0800" stop="20260418013000 +0800" channel="Berita Satu">
     <title>One Vault</title>
+  </programme>
+  <programme start="20260418003000 +0800" stop="20260418013000 +0800" channel="Berita Satu">
+    <title>One Vault</title>
+  </programme>
+  <programme start="20260418013000 +0800" stop="20260418022700 +0800" channel="Berita Satu">
+    <title>Berita Viral</title>
+  </programme>
+  <programme start="20260418022700 +0800" stop="20260418023000 +0800" channel="Berita Satu">
+    <title>Tanah Airku</title>
+  </programme>
+  <programme start="20260418023000 +0800" stop="20260418033000 +0800" channel="Berita Satu">
+    <title>Berita Satu Sore &quot;Recorded&quot;</title>
+  </programme>
+  <programme start="20260418033000 +0800" stop="20260418043000 +0800" channel="Berita Satu">
+    <title>Berita Satu Malam &quot;Recorded&quot;</title>
+  </programme>
+  <programme start="20260418043000 +0800" stop="20260418053000 +0800" channel="Berita Satu">
+    <title>Spot On</title>
+  </programme>
+  <programme start="20260418053000 +0800" stop="20260418070000 +0800" channel="Berita Satu">
+    <title>Berita Satu Pagi</title>
+  </programme>
+  <programme start="20260418070000 +0800" stop="20260418070300 +0800" channel="Berita Satu">
+    <title>Indonesia Raya</title>
+  </programme>
+  <programme start="20260418070300 +0800" stop="20260418083000 +0800" channel="Berita Satu">
+    <title>Jalan Dakwah</title>
+  </programme>
+  <programme start="20260418083000 +0800" stop="20260418090000 +0800" channel="Berita Satu">
+    <title>Info Seleb</title>
+  </programme>
+  <programme start="20260418090000 +0800" stop="20260418090500 +0800" channel="Berita Satu">
+    <title>Berita Satu Terkini</title>
+  </programme>
+  <programme start="20260418090500 +0800" stop="20260418091500 +0800" channel="Berita Satu">
+    <title>Info Seleb</title>
+  </programme>
+  <programme start="20260418091500 +0800" stop="20260418094500 +0800" channel="Berita Satu">
+    <title>Kuyliner</title>
+  </programme>
+  <programme start="20260418094500 +0800" stop="20260418100000 +0800" channel="Berita Satu">
+    <title>Galeri Rasa</title>
+  </programme>
+  <programme start="20260418100000 +0800" stop="20260418100500 +0800" channel="Berita Satu">
+    <title>Berita Satu Terkini</title>
+  </programme>
+  <programme start="20260418100500 +0800" stop="20260418103000 +0800" channel="Berita Satu">
+    <title>Galeri Rasa</title>
+  </programme>
+  <programme start="20260418103000 +0800" stop="20260418113000 +0800" channel="Berita Satu">
+    <title>Jendela Dunia</title>
+  </programme>
+  <programme start="20260418113000 +0800" stop="20260418120000 +0800" channel="Berita Satu">
+    <title>Dunia Rans</title>
+  </programme>
+  <programme start="20260418120000 +0800" stop="20260418140000 +0800" channel="Berita Satu">
+    <title>Berita Satu Siang</title>
+  </programme>
+  <programme start="20260418140000 +0800" stop="20260418143000 +0800" channel="Berita Satu">
+    <title>Cuan Iki</title>
+  </programme>
+  <programme start="20260418143000 +0800" stop="20260418150000 +0800" channel="Berita Satu">
+    <title>Berita Viral</title>
+  </programme>
+  <programme start="20260418150000 +0800" stop="20260418153000 +0800" channel="Berita Satu">
+    <title>Jendela Nusantara &quot;Jawa Barat&quot;</title>
+  </programme>
+  <programme start="20260418153000 +0800" stop="20260418160000 +0800" channel="Berita Satu">
+    <title>Persona</title>
+  </programme>
+  <programme start="20260418160000 +0800" stop="20260418163000 +0800" channel="Berita Satu">
+    <title>Meja Redaksi</title>
+  </programme>
+  <programme start="20260418163000 +0800" stop="20260418182500 +0800" channel="Berita Satu">
+    <title>Berita Satu Sore</title>
+  </programme>
+  <programme start="20260418182500 +0800" stop="20260418185000 +0800" channel="Berita Satu">
+    <title>Berita Kriminal</title>
+  </programme>
+  <programme start="20260418185000 +0800" stop="20260418194500 +0800" channel="Berita Satu">
+    <title>Dunia Binatang</title>
+  </programme>
+  <programme start="20260418194500 +0800" stop="20260418204500 +0800" channel="Berita Satu">
+    <title>Ketulusan Hati</title>
+  </programme>
+  <programme start="20260418204500 +0800" stop="20260418214000 +0800" channel="Berita Satu">
+    <title>Berita Satu Malam</title>
+  </programme>
+  <programme start="20260418214000 +0800" stop="20260418230000 +0800" channel="Berita Satu">
+    <title>Berita Viral</title>
+  </programme>
+  <programme start="20260418230000 +0800" stop="20260419000000 +0800" channel="Berita Satu">
+    <title>Spot On</title>
+  </programme>
+  <programme start="20260419000000 +0800" stop="20260419003000 +0800" channel="Berita Satu">
+    <title>Dari Nol</title>
+  </programme>
+  <programme start="20260419003000 +0800" stop="20260419013000 +0800" channel="Berita Satu">
+    <title>Supercar Championship</title>
   </programme>
   <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="Garuda TV">
     <title>Dibalik Senjata</title>
@@ -5526,6 +5526,69 @@
   <programme start="20260418234500 +0800" stop="20260419010000 +0800" channel="Champions TV 3">
     <title>NAPOLI vs LAZIO : Serie A 2025/26</title>
   </programme>
+  <programme start="20260416230000 +0800" stop="20260417010000 +0800" channel="Champions TV 5">
+    <title>NOTTINGHAM FOREST vs ASTON VILLA : Premier League 2025/26</title>
+  </programme>
+  <programme start="20260417010000 +0800" stop="20260417030000 +0800" channel="Champions TV 5">
+    <title>BRENTFORD vs EVERTON : Premier League 2025/26</title>
+  </programme>
+  <programme start="20260417030000 +0800" stop="20260417040000 +0800" channel="Champions TV 5">
+    <title>Matchweek 30 : PL MATCH HIGHLIGHT 2025/26</title>
+  </programme>
+  <programme start="20260417040000 +0800" stop="20260417043000 +0800" channel="Champions TV 5">
+    <title>Eps 35 (Subs) : PL Stories 2025-26</title>
+  </programme>
+  <programme start="20260417043000 +0800" stop="20260417050000 +0800" channel="Champions TV 5">
+    <title>Eps 16 : THE BIG INTERVIEW 2025/26</title>
+  </programme>
+  <programme start="20260417050000 +0800" stop="20260417070000 +0800" channel="Champions TV 5">
+    <title>CHELSEA vs MANCHESTER CITY : Premier League 2025/26</title>
+  </programme>
+  <programme start="20260417070000 +0800" stop="20260417073000 +0800" channel="Champions TV 5">
+    <title>Eps 46 : PL Stories 2025-26</title>
+  </programme>
+  <programme start="20260417073000 +0800" stop="20260417083000 +0800" channel="Champions TV 5">
+    <title>EPS 38 : FANZONE 2025-2026</title>
+  </programme>
+  <programme start="20260417083000 +0800" stop="20260417090000 +0800" channel="Champions TV 5">
+    <title>Show 17 - Gary Cahill : PL REWIND 2025-26</title>
+  </programme>
+  <programme start="20260417090000 +0800" stop="20260417110000 +0800" channel="Champions TV 5">
+    <title>BRENTFORD vs EVERTON : Premier League 2025/26</title>
+  </programme>
+  <programme start="20260417110000 +0800" stop="20260417130000 +0800" channel="Champions TV 5">
+    <title>CRYSTAL PALACE vs NEWCASTLE UNITED : Premier League 2025/26</title>
+  </programme>
+  <programme start="20260417130000 +0800" stop="20260417133000 +0800" channel="Champions TV 5">
+    <title>Eps 36 : THE BIG INTERVIEW 2025/26</title>
+  </programme>
+  <programme start="20260417133000 +0800" stop="20260417143000 +0800" channel="Champions TV 5">
+    <title>EPS 35 : THE CATCH UP SHOW 2025-26</title>
+  </programme>
+  <programme start="20260417143000 +0800" stop="20260417150000 +0800" channel="Champions TV 5">
+    <title>Eps 46 : PL Stories 2025-26</title>
+  </programme>
+  <programme start="20260417150000 +0800" stop="20260417170000 +0800" channel="Champions TV 5">
+    <title>MANCHESTER UNITED vs LEEDS UNITED : Premier League 2025/26</title>
+  </programme>
+  <programme start="20260417170000 +0800" stop="20260417190000 +0800" channel="Champions TV 5">
+    <title>NOTTINGHAM FOREST vs ASTON VILLA : Premier League 2025/26</title>
+  </programme>
+  <programme start="20260417190000 +0800" stop="20260417210000 +0800" channel="Champions TV 5">
+    <title>CRYSTAL PALACE vs NEWCASTLE UNITED : Premier League 2025/26</title>
+  </programme>
+  <programme start="20260417210000 +0800" stop="20260417213000 +0800" channel="Champions TV 5">
+    <title>Eps 36 : THE BIG INTERVIEW 2025/26</title>
+  </programme>
+  <programme start="20260417213000 +0800" stop="20260417223000 +0800" channel="Champions TV 5">
+    <title>EPS 35 : THE CATCH UP SHOW 2025-26</title>
+  </programme>
+  <programme start="20260417223000 +0800" stop="20260417230000 +0800" channel="Champions TV 5">
+    <title>Eps 46 : PL Stories 2025-26</title>
+  </programme>
+  <programme start="20260417230000 +0800" stop="20260418010000 +0800" channel="Champions TV 5">
+    <title>MANCHESTER UNITED vs LEEDS UNITED : Premier League 2025/26</title>
+  </programme>
   <programme start="20260417230000 +0800" stop="20260418010000 +0800" channel="Champions TV 5">
     <title>MANCHESTER UNITED vs LEEDS UNITED : Premier League 2025/26</title>
   </programme>
@@ -5591,69 +5654,6 @@
   </programme>
   <programme start="20260419000000 +0800" stop="20260419023000 +0800" channel="Champions TV 5">
     <title>Tottenham vs Brighton - Premier League</title>
-  </programme>
-  <programme start="20260416230000 +0800" stop="20260417010000 +0800" channel="Champions TV 5">
-    <title>NOTTINGHAM FOREST vs ASTON VILLA : Premier League 2025/26</title>
-  </programme>
-  <programme start="20260417010000 +0800" stop="20260417030000 +0800" channel="Champions TV 5">
-    <title>BRENTFORD vs EVERTON : Premier League 2025/26</title>
-  </programme>
-  <programme start="20260417030000 +0800" stop="20260417040000 +0800" channel="Champions TV 5">
-    <title>Matchweek 30 : PL MATCH HIGHLIGHT 2025/26</title>
-  </programme>
-  <programme start="20260417040000 +0800" stop="20260417043000 +0800" channel="Champions TV 5">
-    <title>Eps 35 (Subs) : PL Stories 2025-26</title>
-  </programme>
-  <programme start="20260417043000 +0800" stop="20260417050000 +0800" channel="Champions TV 5">
-    <title>Eps 16 : THE BIG INTERVIEW 2025/26</title>
-  </programme>
-  <programme start="20260417050000 +0800" stop="20260417070000 +0800" channel="Champions TV 5">
-    <title>CHELSEA vs MANCHESTER CITY : Premier League 2025/26</title>
-  </programme>
-  <programme start="20260417070000 +0800" stop="20260417073000 +0800" channel="Champions TV 5">
-    <title>Eps 46 : PL Stories 2025-26</title>
-  </programme>
-  <programme start="20260417073000 +0800" stop="20260417083000 +0800" channel="Champions TV 5">
-    <title>EPS 38 : FANZONE 2025-2026</title>
-  </programme>
-  <programme start="20260417083000 +0800" stop="20260417090000 +0800" channel="Champions TV 5">
-    <title>Show 17 - Gary Cahill : PL REWIND 2025-26</title>
-  </programme>
-  <programme start="20260417090000 +0800" stop="20260417110000 +0800" channel="Champions TV 5">
-    <title>BRENTFORD vs EVERTON : Premier League 2025/26</title>
-  </programme>
-  <programme start="20260417110000 +0800" stop="20260417130000 +0800" channel="Champions TV 5">
-    <title>CRYSTAL PALACE vs NEWCASTLE UNITED : Premier League 2025/26</title>
-  </programme>
-  <programme start="20260417130000 +0800" stop="20260417133000 +0800" channel="Champions TV 5">
-    <title>Eps 36 : THE BIG INTERVIEW 2025/26</title>
-  </programme>
-  <programme start="20260417133000 +0800" stop="20260417143000 +0800" channel="Champions TV 5">
-    <title>EPS 35 : THE CATCH UP SHOW 2025-26</title>
-  </programme>
-  <programme start="20260417143000 +0800" stop="20260417150000 +0800" channel="Champions TV 5">
-    <title>Eps 46 : PL Stories 2025-26</title>
-  </programme>
-  <programme start="20260417150000 +0800" stop="20260417170000 +0800" channel="Champions TV 5">
-    <title>MANCHESTER UNITED vs LEEDS UNITED : Premier League 2025/26</title>
-  </programme>
-  <programme start="20260417170000 +0800" stop="20260417190000 +0800" channel="Champions TV 5">
-    <title>NOTTINGHAM FOREST vs ASTON VILLA : Premier League 2025/26</title>
-  </programme>
-  <programme start="20260417190000 +0800" stop="20260417210000 +0800" channel="Champions TV 5">
-    <title>CRYSTAL PALACE vs NEWCASTLE UNITED : Premier League 2025/26</title>
-  </programme>
-  <programme start="20260417210000 +0800" stop="20260417213000 +0800" channel="Champions TV 5">
-    <title>Eps 36 : THE BIG INTERVIEW 2025/26</title>
-  </programme>
-  <programme start="20260417213000 +0800" stop="20260417223000 +0800" channel="Champions TV 5">
-    <title>EPS 35 : THE CATCH UP SHOW 2025-26</title>
-  </programme>
-  <programme start="20260417223000 +0800" stop="20260417230000 +0800" channel="Champions TV 5">
-    <title>Eps 46 : PL Stories 2025-26</title>
-  </programme>
-  <programme start="20260417230000 +0800" stop="20260418010000 +0800" channel="Champions TV 5">
-    <title>MANCHESTER UNITED vs LEEDS UNITED : Premier League 2025/26</title>
   </programme>
   <programme start="20260417000000 +0800" stop="20260417010000 +0800" channel="Champions TV 6">
     <title>EPS 34 : THE CATCH UP SHOW 2025-26</title>
@@ -5760,33 +5760,6 @@
   <programme start="20260419000000 +0800" stop="20260419010000 +0800" channel="Champions TV 6">
     <title>Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
   </programme>
-  <programme start="20260418010000 +0800" stop="20260418015900 +0800" channel="Champions Golf 1">
-    <title>FedEXCup Playoffs 2025</title>
-  </programme>
-  <programme start="20260418020000 +0800" stop="20260418070000 +0800" channel="Champions Golf 1">
-    <title>RBC Heritage 2026 - Round 2</title>
-  </programme>
-  <programme start="20260418080000 +0800" stop="20260418105900 +0800" channel="Champions Golf 1">
-    <title>Valero Texas Open</title>
-  </programme>
-  <programme start="20260418110000 +0800" stop="20260418145900 +0800" channel="Champions Golf 1">
-    <title>RBC Heritage</title>
-  </programme>
-  <programme start="20260418150000 +0800" stop="20260418152900 +0800" channel="Champions Golf 1">
-    <title>The CUT 2026</title>
-  </programme>
-  <programme start="20260418153000 +0800" stop="20260418165900 +0800" channel="Champions Golf 1">
-    <title>On The Range 2026</title>
-  </programme>
-  <programme start="20260418170000 +0800" stop="20260418195900 +0800" channel="Champions Golf 1">
-    <title>Club Car Championship at The Landings Golf &amp; Athletic Club</title>
-  </programme>
-  <programme start="20260418200000 +0800" stop="20260418235900 +0800" channel="Champions Golf 1">
-    <title>RBC Heritage</title>
-  </programme>
-  <programme start="20260419000000 +0800" stop="20260419005900 +0800" channel="Champions Golf 1">
-    <title>Texas Children's Houston Open</title>
-  </programme>
   <programme start="20260417000000 +0800" stop="20260417010000 +0800" channel="Champions Golf 1">
     <title>Valero Texas Open</title>
   </programme>
@@ -5822,6 +5795,33 @@
   </programme>
   <programme start="20260418000000 +0800" stop="20260418005900 +0800" channel="Champions Golf 1">
     <title>Club Car Championship</title>
+  </programme>
+  <programme start="20260418010000 +0800" stop="20260418015900 +0800" channel="Champions Golf 1">
+    <title>FedEXCup Playoffs 2025</title>
+  </programme>
+  <programme start="20260418020000 +0800" stop="20260418070000 +0800" channel="Champions Golf 1">
+    <title>RBC Heritage 2026 - Round 2</title>
+  </programme>
+  <programme start="20260418080000 +0800" stop="20260418105900 +0800" channel="Champions Golf 1">
+    <title>Valero Texas Open</title>
+  </programme>
+  <programme start="20260418110000 +0800" stop="20260418145900 +0800" channel="Champions Golf 1">
+    <title>RBC Heritage</title>
+  </programme>
+  <programme start="20260418150000 +0800" stop="20260418152900 +0800" channel="Champions Golf 1">
+    <title>The CUT 2026</title>
+  </programme>
+  <programme start="20260418153000 +0800" stop="20260418165900 +0800" channel="Champions Golf 1">
+    <title>On The Range 2026</title>
+  </programme>
+  <programme start="20260418170000 +0800" stop="20260418195900 +0800" channel="Champions Golf 1">
+    <title>Club Car Championship at The Landings Golf &amp; Athletic Club</title>
+  </programme>
+  <programme start="20260418200000 +0800" stop="20260418235900 +0800" channel="Champions Golf 1">
+    <title>RBC Heritage</title>
+  </programme>
+  <programme start="20260419000000 +0800" stop="20260419005900 +0800" channel="Champions Golf 1">
+    <title>Texas Children's Houston Open</title>
   </programme>
   <programme start="20260417220000 +0800" stop="20260418010000 +0800" channel="Champions Golf 2">
     <title>JM EAGLE LA CHAMPIONSHIP</title>
@@ -6975,228 +6975,6 @@
   <programme start="20260419005500 +0800" stop="20260419010000 +0800" channel="NHK World Japan">
     <title>Ukiyoe Edo-Life(3)</title>
   </programme>
-  <programme start="20260417003000 +0800" stop="20260417010000 +0800" channel="DW English">
-    <title>Focus On Europe</title>
-  </programme>
-  <programme start="20260417010000 +0800" stop="20260417011500 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417011500 +0800" stop="20260417013000 +0800" channel="DW English">
-    <title>Best Of DW-Online Content</title>
-  </programme>
-  <programme start="20260417013000 +0800" stop="20260417020000 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417020000 +0800" stop="20260417023000 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417023000 +0800" stop="20260417030000 +0800" channel="DW English">
-    <title>Global Us</title>
-  </programme>
-  <programme start="20260417030000 +0800" stop="20260417030200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417030200 +0800" stop="20260417031500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417031500 +0800" stop="20260417033000 +0800" channel="DW English">
-    <title>Best Of DW-Online Content</title>
-  </programme>
-  <programme start="20260417033000 +0800" stop="20260417040000 +0800" channel="DW English">
-    <title>To The Point</title>
-  </programme>
-  <programme start="20260417040000 +0800" stop="20260417043000 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417043000 +0800" stop="20260417050000 +0800" channel="DW English">
-    <title>The Day</title>
-  </programme>
-  <programme start="20260417050000 +0800" stop="20260417050200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417050200 +0800" stop="20260417051500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417051500 +0800" stop="20260417060000 +0800" channel="DW English">
-    <title>Docfilm</title>
-  </programme>
-  <programme start="20260417060000 +0800" stop="20260417060200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417060200 +0800" stop="20260417063000 +0800" channel="DW English">
-    <title>The Day</title>
-  </programme>
-  <programme start="20260417063000 +0800" stop="20260417070000 +0800" channel="DW English">
-    <title>To The Point</title>
-  </programme>
-  <programme start="20260417070000 +0800" stop="20260417070200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417070200 +0800" stop="20260417071500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417071500 +0800" stop="20260417073000 +0800" channel="DW English">
-    <title>Best Of DW-Online Content</title>
-  </programme>
-  <programme start="20260417073000 +0800" stop="20260417080000 +0800" channel="DW English">
-    <title>Best Of DW Podcasts</title>
-  </programme>
-  <programme start="20260417080000 +0800" stop="20260417080200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417080200 +0800" stop="20260417083000 +0800" channel="DW English">
-    <title>The Day</title>
-  </programme>
-  <programme start="20260417083000 +0800" stop="20260417090000 +0800" channel="DW English">
-    <title>To The Point</title>
-  </programme>
-  <programme start="20260417090000 +0800" stop="20260417090200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417090200 +0800" stop="20260417091500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417091500 +0800" stop="20260417100000 +0800" channel="DW English">
-    <title>Docfilm</title>
-  </programme>
-  <programme start="20260417100000 +0800" stop="20260417100200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417100200 +0800" stop="20260417103000 +0800" channel="DW English">
-    <title>The Day</title>
-  </programme>
-  <programme start="20260417103000 +0800" stop="20260417110000 +0800" channel="DW English">
-    <title>Focus On Europe</title>
-  </programme>
-  <programme start="20260417110000 +0800" stop="20260417110200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417110200 +0800" stop="20260417111500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417111500 +0800" stop="20260417113000 +0800" channel="DW English">
-    <title>Best Of DW-Online Content</title>
-  </programme>
-  <programme start="20260417113000 +0800" stop="20260417120000 +0800" channel="DW English">
-    <title>Made In Germany</title>
-  </programme>
-  <programme start="20260417120000 +0800" stop="20260417120200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417120200 +0800" stop="20260417121500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417121500 +0800" stop="20260417130000 +0800" channel="DW English">
-    <title>Docfilm</title>
-  </programme>
-  <programme start="20260417130000 +0800" stop="20260417130200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417130200 +0800" stop="20260417133000 +0800" channel="DW English">
-    <title>The Day</title>
-  </programme>
-  <programme start="20260417133000 +0800" stop="20260417140000 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417140000 +0800" stop="20260417140200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417140200 +0800" stop="20260417141500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417141500 +0800" stop="20260417143000 +0800" channel="DW English">
-    <title>Best Of DW-Online Content</title>
-  </programme>
-  <programme start="20260417143000 +0800" stop="20260417150000 +0800" channel="DW English">
-    <title>Best Of DW Podcasts</title>
-  </programme>
-  <programme start="20260417150000 +0800" stop="20260417150200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417150200 +0800" stop="20260417151500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417151500 +0800" stop="20260417160000 +0800" channel="DW English">
-    <title>Docfilm</title>
-  </programme>
-  <programme start="20260417160000 +0800" stop="20260417160200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417160200 +0800" stop="20260417163000 +0800" channel="DW English">
-    <title>To The Point</title>
-  </programme>
-  <programme start="20260417163000 +0800" stop="20260417170000 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417170000 +0800" stop="20260417170200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417170200 +0800" stop="20260417171500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417171500 +0800" stop="20260417180000 +0800" channel="DW English">
-    <title>Docfilm</title>
-  </programme>
-  <programme start="20260417180000 +0800" stop="20260417180200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417180200 +0800" stop="20260417181500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417181500 +0800" stop="20260417190000 +0800" channel="DW English">
-    <title>Docfilm</title>
-  </programme>
-  <programme start="20260417190000 +0800" stop="20260417190200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417190200 +0800" stop="20260417193000 +0800" channel="DW English">
-    <title>Best Of DW Podcasts</title>
-  </programme>
-  <programme start="20260417193000 +0800" stop="20260417200000 +0800" channel="DW English">
-    <title>To The Point</title>
-  </programme>
-  <programme start="20260417200000 +0800" stop="20260417200200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417200200 +0800" stop="20260417201500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417201500 +0800" stop="20260417210000 +0800" channel="DW English">
-    <title>Docfilm</title>
-  </programme>
-  <programme start="20260417210000 +0800" stop="20260417210200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417210200 +0800" stop="20260417211500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417211500 +0800" stop="20260417213000 +0800" channel="DW English">
-    <title>Best Of DW-Online Content</title>
-  </programme>
-  <programme start="20260417213000 +0800" stop="20260417220000 +0800" channel="DW English">
-    <title>In Good Shape</title>
-  </programme>
-  <programme start="20260417220000 +0800" stop="20260417220200 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417220200 +0800" stop="20260417221500 +0800" channel="DW English">
-    <title>DW News Focus</title>
-  </programme>
-  <programme start="20260417221500 +0800" stop="20260417230000 +0800" channel="DW English">
-    <title>Docfilm</title>
-  </programme>
-  <programme start="20260417230000 +0800" stop="20260417233000 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260417233000 +0800" stop="20260418000000 +0800" channel="DW English">
-    <title>To The Point</title>
-  </programme>
-  <programme start="20260418000000 +0800" stop="20260418003000 +0800" channel="DW English">
-    <title>DW News</title>
-  </programme>
-  <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="DW English">
-    <title>Eco India</title>
-  </programme>
   <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="DW English">
     <title>Eco India</title>
   </programme>
@@ -7437,6 +7215,228 @@
   <programme start="20260419003000 +0800" stop="20260419010000 +0800" channel="DW English">
     <title>DW News</title>
   </programme>
+  <programme start="20260417003000 +0800" stop="20260417010000 +0800" channel="DW English">
+    <title>Focus On Europe</title>
+  </programme>
+  <programme start="20260417010000 +0800" stop="20260417011500 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417011500 +0800" stop="20260417013000 +0800" channel="DW English">
+    <title>Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260417013000 +0800" stop="20260417020000 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417020000 +0800" stop="20260417023000 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417023000 +0800" stop="20260417030000 +0800" channel="DW English">
+    <title>Global Us</title>
+  </programme>
+  <programme start="20260417030000 +0800" stop="20260417030200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417030200 +0800" stop="20260417031500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417031500 +0800" stop="20260417033000 +0800" channel="DW English">
+    <title>Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260417033000 +0800" stop="20260417040000 +0800" channel="DW English">
+    <title>To The Point</title>
+  </programme>
+  <programme start="20260417040000 +0800" stop="20260417043000 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417043000 +0800" stop="20260417050000 +0800" channel="DW English">
+    <title>The Day</title>
+  </programme>
+  <programme start="20260417050000 +0800" stop="20260417050200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417050200 +0800" stop="20260417051500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417051500 +0800" stop="20260417060000 +0800" channel="DW English">
+    <title>Docfilm</title>
+  </programme>
+  <programme start="20260417060000 +0800" stop="20260417060200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417060200 +0800" stop="20260417063000 +0800" channel="DW English">
+    <title>The Day</title>
+  </programme>
+  <programme start="20260417063000 +0800" stop="20260417070000 +0800" channel="DW English">
+    <title>To The Point</title>
+  </programme>
+  <programme start="20260417070000 +0800" stop="20260417070200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417070200 +0800" stop="20260417071500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417071500 +0800" stop="20260417073000 +0800" channel="DW English">
+    <title>Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260417073000 +0800" stop="20260417080000 +0800" channel="DW English">
+    <title>Best Of DW Podcasts</title>
+  </programme>
+  <programme start="20260417080000 +0800" stop="20260417080200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417080200 +0800" stop="20260417083000 +0800" channel="DW English">
+    <title>The Day</title>
+  </programme>
+  <programme start="20260417083000 +0800" stop="20260417090000 +0800" channel="DW English">
+    <title>To The Point</title>
+  </programme>
+  <programme start="20260417090000 +0800" stop="20260417090200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417090200 +0800" stop="20260417091500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417091500 +0800" stop="20260417100000 +0800" channel="DW English">
+    <title>Docfilm</title>
+  </programme>
+  <programme start="20260417100000 +0800" stop="20260417100200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417100200 +0800" stop="20260417103000 +0800" channel="DW English">
+    <title>The Day</title>
+  </programme>
+  <programme start="20260417103000 +0800" stop="20260417110000 +0800" channel="DW English">
+    <title>Focus On Europe</title>
+  </programme>
+  <programme start="20260417110000 +0800" stop="20260417110200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417110200 +0800" stop="20260417111500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417111500 +0800" stop="20260417113000 +0800" channel="DW English">
+    <title>Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260417113000 +0800" stop="20260417120000 +0800" channel="DW English">
+    <title>Made In Germany</title>
+  </programme>
+  <programme start="20260417120000 +0800" stop="20260417120200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417120200 +0800" stop="20260417121500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417121500 +0800" stop="20260417130000 +0800" channel="DW English">
+    <title>Docfilm</title>
+  </programme>
+  <programme start="20260417130000 +0800" stop="20260417130200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417130200 +0800" stop="20260417133000 +0800" channel="DW English">
+    <title>The Day</title>
+  </programme>
+  <programme start="20260417133000 +0800" stop="20260417140000 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417140000 +0800" stop="20260417140200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417140200 +0800" stop="20260417141500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417141500 +0800" stop="20260417143000 +0800" channel="DW English">
+    <title>Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260417143000 +0800" stop="20260417150000 +0800" channel="DW English">
+    <title>Best Of DW Podcasts</title>
+  </programme>
+  <programme start="20260417150000 +0800" stop="20260417150200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417150200 +0800" stop="20260417151500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417151500 +0800" stop="20260417160000 +0800" channel="DW English">
+    <title>Docfilm</title>
+  </programme>
+  <programme start="20260417160000 +0800" stop="20260417160200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417160200 +0800" stop="20260417163000 +0800" channel="DW English">
+    <title>To The Point</title>
+  </programme>
+  <programme start="20260417163000 +0800" stop="20260417170000 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417170000 +0800" stop="20260417170200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417170200 +0800" stop="20260417171500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417171500 +0800" stop="20260417180000 +0800" channel="DW English">
+    <title>Docfilm</title>
+  </programme>
+  <programme start="20260417180000 +0800" stop="20260417180200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417180200 +0800" stop="20260417181500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417181500 +0800" stop="20260417190000 +0800" channel="DW English">
+    <title>Docfilm</title>
+  </programme>
+  <programme start="20260417190000 +0800" stop="20260417190200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417190200 +0800" stop="20260417193000 +0800" channel="DW English">
+    <title>Best Of DW Podcasts</title>
+  </programme>
+  <programme start="20260417193000 +0800" stop="20260417200000 +0800" channel="DW English">
+    <title>To The Point</title>
+  </programme>
+  <programme start="20260417200000 +0800" stop="20260417200200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417200200 +0800" stop="20260417201500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417201500 +0800" stop="20260417210000 +0800" channel="DW English">
+    <title>Docfilm</title>
+  </programme>
+  <programme start="20260417210000 +0800" stop="20260417210200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417210200 +0800" stop="20260417211500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417211500 +0800" stop="20260417213000 +0800" channel="DW English">
+    <title>Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260417213000 +0800" stop="20260417220000 +0800" channel="DW English">
+    <title>In Good Shape</title>
+  </programme>
+  <programme start="20260417220000 +0800" stop="20260417220200 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417220200 +0800" stop="20260417221500 +0800" channel="DW English">
+    <title>DW News Focus</title>
+  </programme>
+  <programme start="20260417221500 +0800" stop="20260417230000 +0800" channel="DW English">
+    <title>Docfilm</title>
+  </programme>
+  <programme start="20260417230000 +0800" stop="20260417233000 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260417233000 +0800" stop="20260418000000 +0800" channel="DW English">
+    <title>To The Point</title>
+  </programme>
+  <programme start="20260418000000 +0800" stop="20260418003000 +0800" channel="DW English">
+    <title>DW News</title>
+  </programme>
+  <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="DW English">
+    <title>Eco India</title>
+  </programme>
   <programme start="20260417003000 +0800" stop="20260417010000 +0800" channel="ABC Australia">
     <title>Secret Science</title>
   </programme>
@@ -7589,6 +7589,246 @@
   </programme>
   <programme start="20260419002500 +0800" stop="20260419011000 +0800" channel="ABC Australia">
     <title>Ambulance Australia</title>
+  </programme>
+  <programme start="20260417004600 +0800" stop="20260417010000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417010000 +0800" stop="20260417011500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417011500 +0800" stop="20260417013000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417013000 +0800" stop="20260417020000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417020000 +0800" stop="20260417021400 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417021400 +0800" stop="20260417022900 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417022900 +0800" stop="20260417025200 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417025200 +0800" stop="20260417030000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417030000 +0800" stop="20260417031400 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417031400 +0800" stop="20260417034400 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417034400 +0800" stop="20260417040000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417040000 +0800" stop="20260417041500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417041500 +0800" stop="20260417043000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417043000 +0800" stop="20260417050000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417050000 +0800" stop="20260417051400 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417051400 +0800" stop="20260417053100 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417053100 +0800" stop="20260417054600 +0800" channel="Euronews">
+    <title>Europe conversation</title>
+  </programme>
+  <programme start="20260417054600 +0800" stop="20260417060000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417060000 +0800" stop="20260417061500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417061500 +0800" stop="20260417063000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417063000 +0800" stop="20260417070000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417070000 +0800" stop="20260417071500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417071500 +0800" stop="20260417073000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417073000 +0800" stop="20260417080000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417080000 +0800" stop="20260417081500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417081500 +0800" stop="20260417083000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417083000 +0800" stop="20260417090000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417090000 +0800" stop="20260417091500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417091500 +0800" stop="20260417093000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417093000 +0800" stop="20260417100000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417100000 +0800" stop="20260417101400 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417101400 +0800" stop="20260417103000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417103000 +0800" stop="20260417103700 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417103700 +0800" stop="20260417104500 +0800" channel="Euronews">
+    <title>Europe conversation</title>
+  </programme>
+  <programme start="20260417104500 +0800" stop="20260417110000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417110000 +0800" stop="20260417111500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417111500 +0800" stop="20260417113000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417113000 +0800" stop="20260417120000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417120000 +0800" stop="20260417121500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417121500 +0800" stop="20260417123000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417123000 +0800" stop="20260417130000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417130000 +0800" stop="20260417131500 +0800" channel="Euronews">
+    <title>Wake up Europe</title>
+  </programme>
+  <programme start="20260417131500 +0800" stop="20260417133000 +0800" channel="Euronews">
+    <title>Wake up Europe</title>
+  </programme>
+  <programme start="20260417133000 +0800" stop="20260417140000 +0800" channel="Euronews">
+    <title>Wake up Europe</title>
+  </programme>
+  <programme start="20260417140000 +0800" stop="20260417141500 +0800" channel="Euronews">
+    <title>Wake up Europe</title>
+  </programme>
+  <programme start="20260417141500 +0800" stop="20260417143000 +0800" channel="Euronews">
+    <title>Wake up Europe</title>
+  </programme>
+  <programme start="20260417143000 +0800" stop="20260417150000 +0800" channel="Euronews">
+    <title>Wake up Europe</title>
+  </programme>
+  <programme start="20260417150000 +0800" stop="20260417153000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417153000 +0800" stop="20260417154700 +0800" channel="Euronews">
+    <title>Wake up Europe</title>
+  </programme>
+  <programme start="20260417154700 +0800" stop="20260417160000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417160000 +0800" stop="20260417163000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417163000 +0800" stop="20260417164600 +0800" channel="Euronews">
+    <title>Wake up Europe</title>
+  </programme>
+  <programme start="20260417164600 +0800" stop="20260417170000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417170000 +0800" stop="20260417173000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417173000 +0800" stop="20260417180000 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417180000 +0800" stop="20260417180700 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417180700 +0800" stop="20260417181500 +0800" channel="Euronews">
+    <title>Europe conversation</title>
+  </programme>
+  <programme start="20260417181500 +0800" stop="20260417183000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417183000 +0800" stop="20260417190000 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417190000 +0800" stop="20260417191500 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417191500 +0800" stop="20260417193000 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417193000 +0800" stop="20260417200000 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417200000 +0800" stop="20260417201400 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417201400 +0800" stop="20260417203000 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417203000 +0800" stop="20260417203700 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417203700 +0800" stop="20260417204500 +0800" channel="Euronews">
+    <title>Europe conversation</title>
+  </programme>
+  <programme start="20260417204500 +0800" stop="20260417210000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417210000 +0800" stop="20260417211400 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417211400 +0800" stop="20260417212900 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417212900 +0800" stop="20260417215200 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417215200 +0800" stop="20260417220000 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417220000 +0800" stop="20260417221500 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417221500 +0800" stop="20260417223000 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417223000 +0800" stop="20260417230000 +0800" channel="Euronews">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20260417230000 +0800" stop="20260417231500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260417231500 +0800" stop="20260417233400 +0800" channel="Euronews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417233400 +0800" stop="20260418000000 +0800" channel="Euronews">
+    <title>Europe conversation</title>
+  </programme>
+  <programme start="20260418000000 +0800" stop="20260418001500 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260418001500 +0800" stop="20260418003000 +0800" channel="Euronews">
+    <title>The European debrief</title>
+  </programme>
+  <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="Euronews">
+    <title>The European debrief</title>
   </programme>
   <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="Euronews">
     <title>The European debrief</title>
@@ -7874,246 +8114,6 @@
   </programme>
   <programme start="20260419004800 +0800" stop="20260419010000 +0800" channel="Euronews">
     <title>News</title>
-  </programme>
-  <programme start="20260417004600 +0800" stop="20260417010000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417010000 +0800" stop="20260417011500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417011500 +0800" stop="20260417013000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417013000 +0800" stop="20260417020000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417020000 +0800" stop="20260417021400 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417021400 +0800" stop="20260417022900 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417022900 +0800" stop="20260417025200 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417025200 +0800" stop="20260417030000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417030000 +0800" stop="20260417031400 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417031400 +0800" stop="20260417034400 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417034400 +0800" stop="20260417040000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417040000 +0800" stop="20260417041500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417041500 +0800" stop="20260417043000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417043000 +0800" stop="20260417050000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417050000 +0800" stop="20260417051400 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417051400 +0800" stop="20260417053100 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417053100 +0800" stop="20260417054600 +0800" channel="Euronews">
-    <title>Europe conversation</title>
-  </programme>
-  <programme start="20260417054600 +0800" stop="20260417060000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417060000 +0800" stop="20260417061500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417061500 +0800" stop="20260417063000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417063000 +0800" stop="20260417070000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417070000 +0800" stop="20260417071500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417071500 +0800" stop="20260417073000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417073000 +0800" stop="20260417080000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417080000 +0800" stop="20260417081500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417081500 +0800" stop="20260417083000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417083000 +0800" stop="20260417090000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417090000 +0800" stop="20260417091500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417091500 +0800" stop="20260417093000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417093000 +0800" stop="20260417100000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417100000 +0800" stop="20260417101400 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417101400 +0800" stop="20260417103000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417103000 +0800" stop="20260417103700 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417103700 +0800" stop="20260417104500 +0800" channel="Euronews">
-    <title>Europe conversation</title>
-  </programme>
-  <programme start="20260417104500 +0800" stop="20260417110000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417110000 +0800" stop="20260417111500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417111500 +0800" stop="20260417113000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417113000 +0800" stop="20260417120000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417120000 +0800" stop="20260417121500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417121500 +0800" stop="20260417123000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417123000 +0800" stop="20260417130000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417130000 +0800" stop="20260417131500 +0800" channel="Euronews">
-    <title>Wake up Europe</title>
-  </programme>
-  <programme start="20260417131500 +0800" stop="20260417133000 +0800" channel="Euronews">
-    <title>Wake up Europe</title>
-  </programme>
-  <programme start="20260417133000 +0800" stop="20260417140000 +0800" channel="Euronews">
-    <title>Wake up Europe</title>
-  </programme>
-  <programme start="20260417140000 +0800" stop="20260417141500 +0800" channel="Euronews">
-    <title>Wake up Europe</title>
-  </programme>
-  <programme start="20260417141500 +0800" stop="20260417143000 +0800" channel="Euronews">
-    <title>Wake up Europe</title>
-  </programme>
-  <programme start="20260417143000 +0800" stop="20260417150000 +0800" channel="Euronews">
-    <title>Wake up Europe</title>
-  </programme>
-  <programme start="20260417150000 +0800" stop="20260417153000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417153000 +0800" stop="20260417154700 +0800" channel="Euronews">
-    <title>Wake up Europe</title>
-  </programme>
-  <programme start="20260417154700 +0800" stop="20260417160000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417160000 +0800" stop="20260417163000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417163000 +0800" stop="20260417164600 +0800" channel="Euronews">
-    <title>Wake up Europe</title>
-  </programme>
-  <programme start="20260417164600 +0800" stop="20260417170000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417170000 +0800" stop="20260417173000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417173000 +0800" stop="20260417180000 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417180000 +0800" stop="20260417180700 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417180700 +0800" stop="20260417181500 +0800" channel="Euronews">
-    <title>Europe conversation</title>
-  </programme>
-  <programme start="20260417181500 +0800" stop="20260417183000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417183000 +0800" stop="20260417190000 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417190000 +0800" stop="20260417191500 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417191500 +0800" stop="20260417193000 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417193000 +0800" stop="20260417200000 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417200000 +0800" stop="20260417201400 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417201400 +0800" stop="20260417203000 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417203000 +0800" stop="20260417203700 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417203700 +0800" stop="20260417204500 +0800" channel="Euronews">
-    <title>Europe conversation</title>
-  </programme>
-  <programme start="20260417204500 +0800" stop="20260417210000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417210000 +0800" stop="20260417211400 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417211400 +0800" stop="20260417212900 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417212900 +0800" stop="20260417215200 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417215200 +0800" stop="20260417220000 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417220000 +0800" stop="20260417221500 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417221500 +0800" stop="20260417223000 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417223000 +0800" stop="20260417230000 +0800" channel="Euronews">
-    <title>Euronews Now</title>
-  </programme>
-  <programme start="20260417230000 +0800" stop="20260417231500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260417231500 +0800" stop="20260417233400 +0800" channel="Euronews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417233400 +0800" stop="20260418000000 +0800" channel="Euronews">
-    <title>Europe conversation</title>
-  </programme>
-  <programme start="20260418000000 +0800" stop="20260418001500 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260418001500 +0800" stop="20260418003000 +0800" channel="Euronews">
-    <title>The European debrief</title>
-  </programme>
-  <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="Euronews">
-    <title>The European debrief</title>
   </programme>
   <programme start="20260417002600 +0800" stop="20260417010000 +0800" channel="TV5Monde">
     <title>Interieurs</title>
@@ -9111,6 +9111,450 @@
   <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="Daystar TV">
     <title>Gospel Truth With Andrew Wommack</title>
   </programme>
+  <programme start="20260417004700 +0800" stop="20260417010000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417010000 +0800" stop="20260417010800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417010800 +0800" stop="20260417011600 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417011600 +0800" stop="20260417012900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417012900 +0800" stop="20260417013900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417013900 +0800" stop="20260417014700 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417014700 +0800" stop="20260417020000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417020000 +0800" stop="20260417020800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417020800 +0800" stop="20260417021700 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417021700 +0800" stop="20260417023000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417023000 +0800" stop="20260417023900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417023900 +0800" stop="20260417024800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417024800 +0800" stop="20260417030000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417030000 +0800" stop="20260417030800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417030800 +0800" stop="20260417031700 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417031700 +0800" stop="20260417033000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417033000 +0800" stop="20260417033800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417033800 +0800" stop="20260417035000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417035000 +0800" stop="20260417040000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417040000 +0800" stop="20260417040600 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417040600 +0800" stop="20260417041400 +0800" channel="Africanews">
+    <title>Business Africa</title>
+  </programme>
+  <programme start="20260417041400 +0800" stop="20260417042000 +0800" channel="Africanews">
+    <title>Business Africa</title>
+  </programme>
+  <programme start="20260417042000 +0800" stop="20260417042900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417042900 +0800" stop="20260417044100 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417044100 +0800" stop="20260417045000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417045000 +0800" stop="20260417050000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417050000 +0800" stop="20260417050800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417050800 +0800" stop="20260417051700 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417051700 +0800" stop="20260417053000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417053000 +0800" stop="20260417053900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417053900 +0800" stop="20260417054800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417054800 +0800" stop="20260417060000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417060000 +0800" stop="20260417060600 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417060600 +0800" stop="20260417061400 +0800" channel="Africanews">
+    <title>Business Africa</title>
+  </programme>
+  <programme start="20260417061400 +0800" stop="20260417062000 +0800" channel="Africanews">
+    <title>Business Africa</title>
+  </programme>
+  <programme start="20260417062000 +0800" stop="20260417063000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417063000 +0800" stop="20260417064100 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417064100 +0800" stop="20260417065000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417065000 +0800" stop="20260417070000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417070000 +0800" stop="20260417070800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417070800 +0800" stop="20260417072000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417072000 +0800" stop="20260417073000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417073000 +0800" stop="20260417073900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417073900 +0800" stop="20260417075000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417075000 +0800" stop="20260417080000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417080000 +0800" stop="20260417080800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417080800 +0800" stop="20260417082000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417082000 +0800" stop="20260417083000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417083000 +0800" stop="20260417083900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417083900 +0800" stop="20260417085000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417085000 +0800" stop="20260417090000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417090000 +0800" stop="20260417090800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417090800 +0800" stop="20260417092000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417092000 +0800" stop="20260417093000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417093000 +0800" stop="20260417093900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417093900 +0800" stop="20260417095000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417095000 +0800" stop="20260417100000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417100000 +0800" stop="20260417100800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417100800 +0800" stop="20260417102000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417102000 +0800" stop="20260417103000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417103000 +0800" stop="20260417103900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417103900 +0800" stop="20260417105000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417105000 +0800" stop="20260417110000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417110000 +0800" stop="20260417110800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417110800 +0800" stop="20260417112000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417112000 +0800" stop="20260417113000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417113000 +0800" stop="20260417113900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417113900 +0800" stop="20260417115000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417115000 +0800" stop="20260417120000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417120000 +0800" stop="20260417120800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417120800 +0800" stop="20260417122000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417122000 +0800" stop="20260417123000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417123000 +0800" stop="20260417123900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417123900 +0800" stop="20260417125000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417125000 +0800" stop="20260417130000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417130000 +0800" stop="20260417130800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417130800 +0800" stop="20260417132000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417132000 +0800" stop="20260417133000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417133000 +0800" stop="20260417133900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417133900 +0800" stop="20260417135000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417135000 +0800" stop="20260417140000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417140000 +0800" stop="20260417140800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417140800 +0800" stop="20260417142000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417142000 +0800" stop="20260417143000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417143000 +0800" stop="20260417143900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417143900 +0800" stop="20260417145000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417145000 +0800" stop="20260417150000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417150000 +0800" stop="20260417150800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417150800 +0800" stop="20260417152000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417152000 +0800" stop="20260417153000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417153000 +0800" stop="20260417153900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417153900 +0800" stop="20260417155000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417155000 +0800" stop="20260417160000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417160000 +0800" stop="20260417160800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417160800 +0800" stop="20260417162000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417162000 +0800" stop="20260417163000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417163000 +0800" stop="20260417163900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417163900 +0800" stop="20260417165000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417165000 +0800" stop="20260417170000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417170000 +0800" stop="20260417170800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417170800 +0800" stop="20260417172000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417172000 +0800" stop="20260417173000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417173000 +0800" stop="20260417173900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417173900 +0800" stop="20260417175000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417175000 +0800" stop="20260417180000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417180000 +0800" stop="20260417180800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417180800 +0800" stop="20260417182000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417182000 +0800" stop="20260417183100 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417183100 +0800" stop="20260417183900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417183900 +0800" stop="20260417185000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417185000 +0800" stop="20260417190000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417190000 +0800" stop="20260417190800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417190800 +0800" stop="20260417192000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417192000 +0800" stop="20260417193000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417193000 +0800" stop="20260417193900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417193900 +0800" stop="20260417195000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417195000 +0800" stop="20260417200000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417200000 +0800" stop="20260417200800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417200800 +0800" stop="20260417202000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417202000 +0800" stop="20260417203000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417203000 +0800" stop="20260417203900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417203900 +0800" stop="20260417205000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417205000 +0800" stop="20260417210000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417210000 +0800" stop="20260417210800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417210800 +0800" stop="20260417212000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417212000 +0800" stop="20260417213000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417213000 +0800" stop="20260417213900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417213900 +0800" stop="20260417215000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417215000 +0800" stop="20260417220000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417220000 +0800" stop="20260417220600 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417220600 +0800" stop="20260417221400 +0800" channel="Africanews">
+    <title>Business Africa</title>
+  </programme>
+  <programme start="20260417221400 +0800" stop="20260417222000 +0800" channel="Africanews">
+    <title>Business Africa</title>
+  </programme>
+  <programme start="20260417222000 +0800" stop="20260417223000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417223000 +0800" stop="20260417224100 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417224100 +0800" stop="20260417225000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417225000 +0800" stop="20260417230000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417230000 +0800" stop="20260417230800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417230800 +0800" stop="20260417232000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417232000 +0800" stop="20260417233000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417233000 +0800" stop="20260417233900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417233900 +0800" stop="20260417235000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260417235000 +0800" stop="20260418000000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260418000000 +0800" stop="20260418000800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260418000800 +0800" stop="20260418001900 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260418001900 +0800" stop="20260418003000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260418003000 +0800" stop="20260418003800 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260418003800 +0800" stop="20260418005000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
+  <programme start="20260418005000 +0800" stop="20260418010000 +0800" channel="Africanews">
+    <title>News</title>
+  </programme>
   <programme start="20260418005000 +0800" stop="20260418010000 +0800" channel="Africanews">
     <title>News</title>
   </programme>
@@ -9603,450 +10047,6 @@
   <programme start="20260419005200 +0800" stop="20260419010000 +0800" channel="Africanews">
     <title>News</title>
   </programme>
-  <programme start="20260417004700 +0800" stop="20260417010000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417010000 +0800" stop="20260417010800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417010800 +0800" stop="20260417011600 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417011600 +0800" stop="20260417012900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417012900 +0800" stop="20260417013900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417013900 +0800" stop="20260417014700 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417014700 +0800" stop="20260417020000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417020000 +0800" stop="20260417020800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417020800 +0800" stop="20260417021700 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417021700 +0800" stop="20260417023000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417023000 +0800" stop="20260417023900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417023900 +0800" stop="20260417024800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417024800 +0800" stop="20260417030000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417030000 +0800" stop="20260417030800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417030800 +0800" stop="20260417031700 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417031700 +0800" stop="20260417033000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417033000 +0800" stop="20260417033800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417033800 +0800" stop="20260417035000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417035000 +0800" stop="20260417040000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417040000 +0800" stop="20260417040600 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417040600 +0800" stop="20260417041400 +0800" channel="Africanews">
-    <title>Business Africa</title>
-  </programme>
-  <programme start="20260417041400 +0800" stop="20260417042000 +0800" channel="Africanews">
-    <title>Business Africa</title>
-  </programme>
-  <programme start="20260417042000 +0800" stop="20260417042900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417042900 +0800" stop="20260417044100 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417044100 +0800" stop="20260417045000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417045000 +0800" stop="20260417050000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417050000 +0800" stop="20260417050800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417050800 +0800" stop="20260417051700 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417051700 +0800" stop="20260417053000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417053000 +0800" stop="20260417053900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417053900 +0800" stop="20260417054800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417054800 +0800" stop="20260417060000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417060000 +0800" stop="20260417060600 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417060600 +0800" stop="20260417061400 +0800" channel="Africanews">
-    <title>Business Africa</title>
-  </programme>
-  <programme start="20260417061400 +0800" stop="20260417062000 +0800" channel="Africanews">
-    <title>Business Africa</title>
-  </programme>
-  <programme start="20260417062000 +0800" stop="20260417063000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417063000 +0800" stop="20260417064100 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417064100 +0800" stop="20260417065000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417065000 +0800" stop="20260417070000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417070000 +0800" stop="20260417070800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417070800 +0800" stop="20260417072000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417072000 +0800" stop="20260417073000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417073000 +0800" stop="20260417073900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417073900 +0800" stop="20260417075000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417075000 +0800" stop="20260417080000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417080000 +0800" stop="20260417080800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417080800 +0800" stop="20260417082000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417082000 +0800" stop="20260417083000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417083000 +0800" stop="20260417083900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417083900 +0800" stop="20260417085000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417085000 +0800" stop="20260417090000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417090000 +0800" stop="20260417090800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417090800 +0800" stop="20260417092000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417092000 +0800" stop="20260417093000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417093000 +0800" stop="20260417093900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417093900 +0800" stop="20260417095000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417095000 +0800" stop="20260417100000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417100000 +0800" stop="20260417100800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417100800 +0800" stop="20260417102000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417102000 +0800" stop="20260417103000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417103000 +0800" stop="20260417103900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417103900 +0800" stop="20260417105000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417105000 +0800" stop="20260417110000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417110000 +0800" stop="20260417110800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417110800 +0800" stop="20260417112000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417112000 +0800" stop="20260417113000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417113000 +0800" stop="20260417113900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417113900 +0800" stop="20260417115000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417115000 +0800" stop="20260417120000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417120000 +0800" stop="20260417120800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417120800 +0800" stop="20260417122000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417122000 +0800" stop="20260417123000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417123000 +0800" stop="20260417123900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417123900 +0800" stop="20260417125000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417125000 +0800" stop="20260417130000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417130000 +0800" stop="20260417130800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417130800 +0800" stop="20260417132000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417132000 +0800" stop="20260417133000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417133000 +0800" stop="20260417133900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417133900 +0800" stop="20260417135000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417135000 +0800" stop="20260417140000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417140000 +0800" stop="20260417140800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417140800 +0800" stop="20260417142000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417142000 +0800" stop="20260417143000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417143000 +0800" stop="20260417143900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417143900 +0800" stop="20260417145000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417145000 +0800" stop="20260417150000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417150000 +0800" stop="20260417150800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417150800 +0800" stop="20260417152000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417152000 +0800" stop="20260417153000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417153000 +0800" stop="20260417153900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417153900 +0800" stop="20260417155000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417155000 +0800" stop="20260417160000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417160000 +0800" stop="20260417160800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417160800 +0800" stop="20260417162000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417162000 +0800" stop="20260417163000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417163000 +0800" stop="20260417163900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417163900 +0800" stop="20260417165000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417165000 +0800" stop="20260417170000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417170000 +0800" stop="20260417170800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417170800 +0800" stop="20260417172000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417172000 +0800" stop="20260417173000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417173000 +0800" stop="20260417173900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417173900 +0800" stop="20260417175000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417175000 +0800" stop="20260417180000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417180000 +0800" stop="20260417180800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417180800 +0800" stop="20260417182000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417182000 +0800" stop="20260417183100 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417183100 +0800" stop="20260417183900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417183900 +0800" stop="20260417185000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417185000 +0800" stop="20260417190000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417190000 +0800" stop="20260417190800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417190800 +0800" stop="20260417192000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417192000 +0800" stop="20260417193000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417193000 +0800" stop="20260417193900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417193900 +0800" stop="20260417195000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417195000 +0800" stop="20260417200000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417200000 +0800" stop="20260417200800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417200800 +0800" stop="20260417202000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417202000 +0800" stop="20260417203000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417203000 +0800" stop="20260417203900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417203900 +0800" stop="20260417205000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417205000 +0800" stop="20260417210000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417210000 +0800" stop="20260417210800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417210800 +0800" stop="20260417212000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417212000 +0800" stop="20260417213000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417213000 +0800" stop="20260417213900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417213900 +0800" stop="20260417215000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417215000 +0800" stop="20260417220000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417220000 +0800" stop="20260417220600 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417220600 +0800" stop="20260417221400 +0800" channel="Africanews">
-    <title>Business Africa</title>
-  </programme>
-  <programme start="20260417221400 +0800" stop="20260417222000 +0800" channel="Africanews">
-    <title>Business Africa</title>
-  </programme>
-  <programme start="20260417222000 +0800" stop="20260417223000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417223000 +0800" stop="20260417224100 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417224100 +0800" stop="20260417225000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417225000 +0800" stop="20260417230000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417230000 +0800" stop="20260417230800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417230800 +0800" stop="20260417232000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417232000 +0800" stop="20260417233000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417233000 +0800" stop="20260417233900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417233900 +0800" stop="20260417235000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260417235000 +0800" stop="20260418000000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260418000000 +0800" stop="20260418000800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260418000800 +0800" stop="20260418001900 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260418001900 +0800" stop="20260418003000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260418003000 +0800" stop="20260418003800 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260418003800 +0800" stop="20260418005000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
-  <programme start="20260418005000 +0800" stop="20260418010000 +0800" channel="Africanews">
-    <title>News</title>
-  </programme>
   <programme start="20260417000000 +0800" stop="20260417010000 +0800" channel="Premier League TV">
     <title>Ep35 : The Catch-Up Show</title>
   </programme>
@@ -10224,6 +10224,45 @@
   <programme start="20260418183000 +0800" stop="20260419053000 +0800" channel="Premier League TV">
     <title>Brentford v Fulham / Leeds United v Wolverhampton Wanderers / Tottenham Hotspur v Brighton &amp; Hove Albion / Chelsea v Manchester United : Premier League Live</title>
   </programme>
+  <programme start="20260417233500 +0800" stop="20260418020000 +0800" channel="Real Madrid TV">
+    <title>The Match</title>
+  </programme>
+  <programme start="20260418020000 +0800" stop="20260418021500 +0800" channel="Real Madrid TV">
+    <title>Real Madrid News</title>
+  </programme>
+  <programme start="20260418021500 +0800" stop="20260418043000 +0800" channel="Real Madrid TV">
+    <title>TBC: Liga 25/26: Real Madrid vs Girona</title>
+  </programme>
+  <programme start="20260418043000 +0800" stop="20260418050000 +0800" channel="Real Madrid TV">
+    <title>Realmadrid Life</title>
+  </programme>
+  <programme start="20260418050000 +0800" stop="20260418060500 +0800" channel="Real Madrid TV">
+    <title>Real Madrid Pass</title>
+  </programme>
+  <programme start="20260418060500 +0800" stop="20260418082000 +0800" channel="Real Madrid TV">
+    <title>TBC: Champions League 25/26: Bayern Munich vs Real Madrid</title>
+  </programme>
+  <programme start="20260418082000 +0800" stop="20260418084000 +0800" channel="Real Madrid TV">
+    <title>Realmadrid Life</title>
+  </programme>
+  <programme start="20260418084000 +0800" stop="20260418090000 +0800" channel="Real Madrid TV">
+    <title>Classic Highlights</title>
+  </programme>
+  <programme start="20260418090000 +0800" stop="20260418091500 +0800" channel="Real Madrid TV">
+    <title>Real Madrid News</title>
+  </programme>
+  <programme start="20260418091500 +0800" stop="20260418113000 +0800" channel="Real Madrid TV">
+    <title>The Match</title>
+  </programme>
+  <programme start="20260418113000 +0800" stop="20260418120000 +0800" channel="Real Madrid TV">
+    <title>Classic Highlights</title>
+  </programme>
+  <programme start="20260418120000 +0800" stop="20260418121500 +0800" channel="Real Madrid TV">
+    <title>Real Madrid News</title>
+  </programme>
+  <programme start="20260418121500 +0800" stop="20260418143000 +0800" channel="Real Madrid TV">
+    <title>Liga 25/26: Real Madrid vs Elche</title>
+  </programme>
   <programme start="20260416234500 +0800" stop="20260417020000 +0800" channel="Real Madrid TV">
     <title>The Match</title>
   </programme>
@@ -10268,44 +10307,5 @@
   </programme>
   <programme start="20260417233500 +0800" stop="20260418020000 +0800" channel="Real Madrid TV">
     <title>The Match</title>
-  </programme>
-  <programme start="20260417233500 +0800" stop="20260418020000 +0800" channel="Real Madrid TV">
-    <title>The Match</title>
-  </programme>
-  <programme start="20260418020000 +0800" stop="20260418021500 +0800" channel="Real Madrid TV">
-    <title>Real Madrid News</title>
-  </programme>
-  <programme start="20260418021500 +0800" stop="20260418043000 +0800" channel="Real Madrid TV">
-    <title>TBC: Liga 25/26: Real Madrid vs Girona</title>
-  </programme>
-  <programme start="20260418043000 +0800" stop="20260418050000 +0800" channel="Real Madrid TV">
-    <title>Realmadrid Life</title>
-  </programme>
-  <programme start="20260418050000 +0800" stop="20260418060500 +0800" channel="Real Madrid TV">
-    <title>Real Madrid Pass</title>
-  </programme>
-  <programme start="20260418060500 +0800" stop="20260418082000 +0800" channel="Real Madrid TV">
-    <title>TBC: Champions League 25/26: Bayern Munich vs Real Madrid</title>
-  </programme>
-  <programme start="20260418082000 +0800" stop="20260418084000 +0800" channel="Real Madrid TV">
-    <title>Realmadrid Life</title>
-  </programme>
-  <programme start="20260418084000 +0800" stop="20260418090000 +0800" channel="Real Madrid TV">
-    <title>Classic Highlights</title>
-  </programme>
-  <programme start="20260418090000 +0800" stop="20260418091500 +0800" channel="Real Madrid TV">
-    <title>Real Madrid News</title>
-  </programme>
-  <programme start="20260418091500 +0800" stop="20260418113000 +0800" channel="Real Madrid TV">
-    <title>The Match</title>
-  </programme>
-  <programme start="20260418113000 +0800" stop="20260418120000 +0800" channel="Real Madrid TV">
-    <title>Classic Highlights</title>
-  </programme>
-  <programme start="20260418120000 +0800" stop="20260418121500 +0800" channel="Real Madrid TV">
-    <title>Real Madrid News</title>
-  </programme>
-  <programme start="20260418121500 +0800" stop="20260418143000 +0800" channel="Real Madrid TV">
-    <title>Liga 25/26: Real Madrid vs Elche</title>
   </programme>
 </tv>
