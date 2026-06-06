@@ -487,6 +487,102 @@
     <display-name lang="en">Radio Bisnes</display-name>
     <icon src="https://rtm-images.glueapi.io/320x0/radio-asset/RADIOBISNES.png"/>
   </channel>
+  <channel id="TSN+01.ca">
+    <display-name lang="en">TSN+01</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+02.ca">
+    <display-name lang="en">TSN+02</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+03.ca">
+    <display-name lang="en">TSN+03</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+04.ca">
+    <display-name lang="en">TSN+04</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+05.ca">
+    <display-name lang="en">TSN+05</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+06.ca">
+    <display-name lang="en">TSN+06</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+07.ca">
+    <display-name lang="en">TSN+07</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+08.ca">
+    <display-name lang="en">TSN+08</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+09.ca">
+    <display-name lang="en">TSN+09</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+10.ca">
+    <display-name lang="en">TSN+10</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+11.ca">
+    <display-name lang="en">TSN+11</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+12.ca">
+    <display-name lang="en">TSN+12</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+13.ca">
+    <display-name lang="en">TSN+13</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+14.ca">
+    <display-name lang="en">TSN+14</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+15.ca">
+    <display-name lang="en">TSN+15</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+16.ca">
+    <display-name lang="en">TSN+16</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+17.ca">
+    <display-name lang="en">TSN+17</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+18.ca">
+    <display-name lang="en">TSN+18</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN+19.ca">
+    <display-name lang="en">TSN+19</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </channel>
+  <channel id="TSN1.ca">
+    <display-name lang="en">TSN1</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </channel>
+  <channel id="TSN2.ca">
+    <display-name lang="en">TSN2</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </channel>
+  <channel id="TSN3.ca">
+    <display-name lang="en">TSN3</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </channel>
+  <channel id="TSN4.ca">
+    <display-name lang="en">TSN4</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </channel>
+  <channel id="TSN5.ca">
+    <display-name lang="en">TSN5</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </channel>
   <programme start="20260606223000 +0800" stop="20260607000500 +0800" channel="ROCKACTION.mana2">
     <title lang="en">Hard Target   [P13]</title>
     <desc lang="en">Jean-Claude Van Damme stars in this John Woo action thriller where a man battles a deadly group that hunts humans for sport. Also features Lance Henriksen and Wilford Brimley.</desc>
@@ -11932,9 +12028,14 @@
     <desc lang="en">Seleksi klip - klip video terbaik untuk anda.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/lzrjmv.png"/>
   </programme>
-  <programme start="20260607060500 +0800" stop="20260607063000 +0800" channel="TVOKEY.mana2">
+  <programme start="20260607060500 +0800" stop="20260607061500 +0800" channel="TVOKEY.mana2">
     <title lang="en">Sampai Jadi</title>
     <desc lang="en">Terokai kehidupan remaja yang berpotensi dan bersama-sama melakukan pelbagai aktiviti yang menarik dan berfaedah.</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/lzrjmv.png"/>
+  </programme>
+  <programme start="20260607061500 +0800" stop="20260607063000 +0800" channel="TVOKEY.mana2">
+    <title lang="en">Klip Video 15 Minit</title>
+    <desc lang="en">Seleksi klip - klip video terbaik untuk anda.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/lzrjmv.png"/>
   </programme>
   <programme start="20260607063000 +0800" stop="20260607073000 +0800" channel="TVOKEY.mana2">
@@ -29996,5 +30097,415 @@ Finals MVP</desc>
     <title lang="en">RESONASIJIWA</title>
     <desc lang="en">Bila muzik berbicara, nostalgia bernyawa</desc>
     <icon src="https://rtm-images.glueapi.io/800x0/radio-asset/MUZIKFM.png"/>
+  </programme>
+  <programme start="20260606230000 +0800" stop="20260607020000 +0800" channel="TSN+08.ca">
+    <title lang="en">NCAA Baseball: Super Regionals - Mississippi State vs. Georgia</title>
+    <category lang="en">Baseball</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607080000 +0800" stop="20260607110000 +0800" channel="TSN+08.ca">
+    <title lang="en">NCAA Baseball: Super Regionals - Oregon vs. Texas</title>
+    <category lang="en">Baseball</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260606204500 +0800" stop="20260607060000 +0800" channel="TSN+09.ca">
+    <title lang="en">PGA TOUR Live: The Memorial - Third Round: Main Feed</title>
+    <category lang="en">Golf: PGA</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260606170000 +0800" stop="20260607070000 +0800" channel="TSN+01.ca">
+    <title lang="en">Roland-Garros: Day #14 - Simonne-Mathieu (ft. Legends &amp; Junior Finals)</title>
+    <category lang="en">Tennis</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607080000 +0800" stop="20260607100000 +0800" channel="TSN+04.ca">
+    <title lang="en">IndyCar Final Practice: Bommarito Automotive Group 500</title>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260606170000 +0800" stop="20260607070000 +0800" channel="TSN+02.ca">
+    <title lang="en">Roland-Garros: Day #14 - Court 14 (ft. Wheelchair &amp; Junior Finals)</title>
+    <category lang="en">Tennis</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607003000 +0800" stop="20260607013000 +0800" channel="TSN+05.ca">
+    <title lang="en">IndyCar Practice 1: Bommarito Automotive Group 500</title>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607043000 +0800" stop="20260607053000 +0800" channel="TSN+05.ca">
+    <title lang="en">IndyCar Qualifying: Bommarito Automotive Group 500</title>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607080000 +0800" stop="20260607100000 +0800" channel="TSN+05.ca">
+    <title lang="en">Premier Lacrosse League: Boston Cannons vs. Philadelphia Waterdogs</title>
+    <category lang="en">Lacrosse</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607010000 +0800" stop="20260607030000 +0800" channel="TSN+06.ca">
+    <title lang="en">Women's Lacrosse League: Boston Guard vs. California Palms</title>
+    <category lang="en">Lacrosse</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607053000 +0800" stop="20260607073000 +0800" channel="TSN+06.ca">
+    <title lang="en">Premier Lacrosse League: Denver Outlaws vs. Carolina Chaos</title>
+    <category lang="en">Lacrosse</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607134000 +0800" stop="20260607143500 +0800" channel="TSN+03.ca">
+    <title lang="en">Formula 3 Feature Race: Monte Carlo</title>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260606155500 +0800" stop="20260607023500 +0800" channel="TSN+07.ca">
+    <title lang="en">HSBC Rugby SVNS Bordeaux: Day Two - Pool Play &amp; Playoffs</title>
+    <category lang="en">Rugby</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607050000 +0800" stop="20260607070000 +0800" channel="TSN+07.ca">
+    <title lang="en">NASCAR Cup Series Practice &amp; Qualifying: FireKeepers Casino 400</title>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260606211500 +0800" stop="20260607060000 +0800" channel="TSN+11.ca">
+    <title lang="en">PGA TOUR Live: The Memorial - Third Round: Featured Groups</title>
+    <category lang="en">Golf: PGA</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260606230000 +0800" stop="20260607050000 +0800" channel="TSN+12.ca">
+    <title lang="en">2026 US Women's Open: Third Round - Bonus Featured Groups</title>
+    <category lang="en">Golf</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607000000 +0800" stop="20260607003000 +0800" channel="TSN5.ca">
+    <title lang="en">SC: Top Fan Moments</title>
+    <category lang="en">Entertainment</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607003000 +0800" stop="20260607010000 +0800" channel="TSN5.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 7 - Africa Rising</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607010000 +0800" stop="20260607013000 +0800" channel="TSN5.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 8 - Long Wait</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607013000 +0800" stop="20260607023000 +0800" channel="TSN5.ca">
+    <title lang="en">2026 PBR Tour Canada: Brandon, MB - Part 2</title>
+    <category lang="en">Strongman Competitions</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607023000 +0800" stop="20260607060000 +0800" channel="TSN5.ca">
+    <title lang="en">PGA TOUR: The Memorial - Third Round</title>
+    <category lang="en">Golf: PGA</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607060000 +0800" stop="20260607063000 +0800" channel="TSN5.ca">
+    <title lang="en">SC: May Plays of the Month</title>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607063000 +0800" stop="20260607070000 +0800" channel="TSN5.ca">
+    <title lang="en">CFL on TSN Pre-Game</title>
+    <category lang="en">CFL</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607070000 +0800" stop="20260607100000 +0800" channel="TSN5.ca">
+    <title lang="en">CFL on TSN: Elks vs. Redblacks</title>
+    <category lang="en">CFL</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607100000 +0800" stop="20260607110000 +0800" channel="TSN5.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607110000 +0800" stop="20260607120000 +0800" channel="TSN5.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607120000 +0800" stop="20260607123000 +0800" channel="TSN5.ca">
+    <title lang="en">SC: Top 50 NBA Buzzer Beaters</title>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607123000 +0800" stop="20260607130000 +0800" channel="TSN5.ca">
+    <title lang="en">SC: May Plays of the Month</title>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607130000 +0800" stop="20260607140000 +0800" channel="TSN5.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </programme>
+  <programme start="20260607013000 +0800" stop="20260607040000 +0800" channel="TSN+13.ca">
+    <title lang="en">2026 NASCAR CRAFTSMAN Truck Series: DQS Solutions &amp; Staffing 250</title>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260606233000 +0800" stop="20260607003000 +0800" channel="TSN4.ca">
+    <title lang="en">Live at Roland-Garros</title>
+    <category lang="en">Tennis</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607003000 +0800" stop="20260607010000 +0800" channel="TSN4.ca">
+    <title lang="en">WNBA Countdown</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607010000 +0800" stop="20260607030000 +0800" channel="TSN4.ca">
+    <title lang="en">WNBA on TSN: Storm vs. Lynx</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607030000 +0800" stop="20260607050000 +0800" channel="TSN4.ca">
+    <title lang="en">WNBA on TSN: Valkyries vs. Aces</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607050000 +0800" stop="20260607070000 +0800" channel="TSN4.ca">
+    <title lang="en">2026 US Women's Open: Third Round - Part I</title>
+    <category lang="en">Golf</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607070000 +0800" stop="20260607100000 +0800" channel="TSN4.ca">
+    <title lang="en">2026 US Women's Open: Third Round - Part II</title>
+    <category lang="en">Golf</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607100000 +0800" stop="20260607110000 +0800" channel="TSN4.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607110000 +0800" stop="20260607120000 +0800" channel="TSN4.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607120000 +0800" stop="20260607123000 +0800" channel="TSN4.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 1 - The World is Watching</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607123000 +0800" stop="20260607130000 +0800" channel="TSN4.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 4 - Weight of a Nation</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607130000 +0800" stop="20260607140000 +0800" channel="TSN4.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607024800 +0800" stop="20260607050000 +0800" channel="TSN+14.ca">
+    <title lang="en">LaLiga 2: Castellon vs. Almeria</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607000000 +0800" stop="20260607010000 +0800" channel="TSN3.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607010000 +0800" stop="20260607030000 +0800" channel="TSN3.ca">
+    <title lang="en">WNBA on TSN: Storm vs. Lynx</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607030000 +0800" stop="20260607050000 +0800" channel="TSN3.ca">
+    <title lang="en">WNBA on TSN: Valkyries vs. Aces</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607050000 +0800" stop="20260607053000 +0800" channel="TSN3.ca">
+    <title lang="en">2025-26 Open Gym: Playoffs</title>
+    <category lang="en">Basketball</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607053000 +0800" stop="20260607060000 +0800" channel="TSN3.ca">
+    <title lang="en">SC: Outrageous NASCAR Moments</title>
+    <category lang="en">Entertainment</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607060000 +0800" stop="20260607063000 +0800" channel="TSN3.ca">
+    <title lang="en">SC: Best and Worst Celebrations</title>
+    <category lang="en">Entertainment</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607063000 +0800" stop="20260607070000 +0800" channel="TSN3.ca">
+    <title lang="en">CFL on TSN Pre-Game</title>
+    <category lang="en">CFL</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607070000 +0800" stop="20260607100000 +0800" channel="TSN3.ca">
+    <title lang="en">CFL on TSN: Elks vs. Redblacks</title>
+    <category lang="en">CFL</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607100000 +0800" stop="20260607110000 +0800" channel="TSN3.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607110000 +0800" stop="20260607120000 +0800" channel="TSN3.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607120000 +0800" stop="20260607123000 +0800" channel="TSN3.ca">
+    <title lang="en">SC: Top 50 Goals of All-Time</title>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607123000 +0800" stop="20260607130000 +0800" channel="TSN3.ca">
+    <title lang="en">SC: Top Rivalries in Sports</title>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260607130000 +0800" stop="20260607140000 +0800" channel="TSN3.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </programme>
+  <programme start="20260606230000 +0800" stop="20260607060000 +0800" channel="TSN+10.ca">
+    <title lang="en">PGA TOUR Live: The Memorial - Third Round: Marquee Group</title>
+    <category lang="en">Golf: PGA</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
+  <programme start="20260607000000 +0800" stop="20260607003000 +0800" channel="TSN2.ca">
+    <title lang="en">SC: Top Playoff Soundbites</title>
+    <category lang="en">Entertainment</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607003000 +0800" stop="20260607010000 +0800" channel="TSN2.ca">
+    <title lang="en">SC: Top Mascot Moments</title>
+    <category lang="en">Entertainment</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607010000 +0800" stop="20260607040000 +0800" channel="TSN2.ca">
+    <title lang="en">CFL on TSN: Blue Bombers vs. Stampeders</title>
+    <category lang="en">CFL</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607040000 +0800" stop="20260607043000 +0800" channel="TSN2.ca">
+    <title lang="en">SC: Top 50 Goals of All-Time</title>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607043000 +0800" stop="20260607050000 +0800" channel="TSN2.ca">
+    <title lang="en">SC: Top Rivalries in Sports</title>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607050000 +0800" stop="20260607060000 +0800" channel="TSN2.ca">
+    <title lang="en">SC: Top 100 Catches of All-Time</title>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607060000 +0800" stop="20260607063000 +0800" channel="TSN2.ca">
+    <title lang="en">SC: Top Fan Moments</title>
+    <category lang="en">Entertainment</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607063000 +0800" stop="20260607070000 +0800" channel="TSN2.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 7 - Africa Rising</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607070000 +0800" stop="20260607090000 +0800" channel="TSN2.ca">
+    <title lang="en">CPL on TSN: FC Supra vs. Pacific FC</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607090000 +0800" stop="20260607093000 +0800" channel="TSN2.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 8 - Long Wait</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607093000 +0800" stop="20260607120000 +0800" channel="TSN2.ca">
+    <title lang="en">2026 Roland-Garros Tennis: Women's Final</title>
+    <category lang="en">Tennis</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607120000 +0800" stop="20260607130000 +0800" channel="TSN2.ca">
+    <title lang="en">Roland-Garros Films: In the Shadows of Giants</title>
+    <category lang="en">Tennis</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260607130000 +0800" stop="20260607160000 +0800" channel="TSN2.ca">
+    <title lang="en">CFL on TSN: Elks vs. Redblacks</title>
+    <category lang="en">CFL</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260606233000 +0800" stop="20260607003000 +0800" channel="TSN1.ca">
+    <title lang="en">Live at Roland-Garros</title>
+    <category lang="en">Tennis</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607003000 +0800" stop="20260607010000 +0800" channel="TSN1.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 7 - Africa Rising</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607010000 +0800" stop="20260607013000 +0800" channel="TSN1.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 8 - Long Wait</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607013000 +0800" stop="20260607023000 +0800" channel="TSN1.ca">
+    <title lang="en">2026 PBR Tour Canada: Brandon, MB - Part 2</title>
+    <category lang="en">Strongman Competitions</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607023000 +0800" stop="20260607060000 +0800" channel="TSN1.ca">
+    <title lang="en">PGA TOUR: The Memorial - Third Round</title>
+    <category lang="en">Golf: PGA</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607060000 +0800" stop="20260607063000 +0800" channel="TSN1.ca">
+    <title lang="en">SC: May Plays of the Month</title>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607063000 +0800" stop="20260607070000 +0800" channel="TSN1.ca">
+    <title lang="en">CFL on TSN Pre-Game</title>
+    <category lang="en">CFL</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607070000 +0800" stop="20260607100000 +0800" channel="TSN1.ca">
+    <title lang="en">CFL on TSN: Elks vs. Redblacks</title>
+    <category lang="en">CFL</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607100000 +0800" stop="20260607110000 +0800" channel="TSN1.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607110000 +0800" stop="20260607120000 +0800" channel="TSN1.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607120000 +0800" stop="20260607123000 +0800" channel="TSN1.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 1 - The World is Watching</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607123000 +0800" stop="20260607130000 +0800" channel="TSN1.ca">
+    <title lang="en">FIFA World Cup 26 Preview Series: Episode 4 - Weight of a Nation</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </programme>
+  <programme start="20260607130000 +0800" stop="20260607140000 +0800" channel="TSN1.ca">
+    <title lang="en">SPORTSCENTRE</title>
+    <category lang="en">News</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
   </programme>
 </tv>
