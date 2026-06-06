@@ -20737,13 +20737,15 @@ Finals MVP</desc>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_Trans.png"/>
   </programme>
   <programme start="20260608060200 +0800" stop="20260608063000 +0800" channel="TV1.rtm">
-    <title lang="en">Usratun Nisa</title>
-    <desc lang="en">Keberanian wanita untuk berkata tidak untuk menghalang dari terus terpendam dalam masalah rumah tangga.</desc>
+    <title lang="en">Eksplorasi Halal</title>
+    <desc lang="en">Program Eksplorasi Halal menyingkap isu, proses dan kepentingan pensijilan halal di Malaysia serta memberi pendedahan kepada masyarakat tentang pematuhan standard halal dalam pelbagai industri.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_Trans.png"/>
   </programme>
   <programme start="20260608063000 +0800" stop="20260608070000 +0800" channel="TV1.rtm">
-    <title lang="en">Iqra'</title>
-    <desc lang="en">Sebuah rancangan yang memfokuskan kepada pembelajaran al-Quran (talaqqi) dan bimbingan membaca al-Quran dengan tajwid yang betul untuk pelbagai peringkat usia.</desc>
+    <title lang="en">Iqra' 2025</title>
+    <desc lang="en">Saksikan Rancangan Iqra dan bertalaqqi bersama Ustaz Husaini Mahmur.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_Trans.png"/>
   </programme>
   <programme start="20260608070000 +0800" stop="20260608074400 +0800" channel="TV1.rtm">
@@ -20768,7 +20770,7 @@ Finals MVP</desc>
   </programme>
   <programme start="20260608100500 +0800" stop="20260608103000 +0800" channel="TV1.rtm">
     <title lang="en">Medik Q</title>
-    <desc lang="en">Perkongsian mengenai penyakit yang dihidapi segelintir penduduk dunia dan cara mengubatinya.</desc>
+    <desc lang="en">Perkongsian Paralisis Tidur bersama pengacara Dr. Fasiha Latiff dan tetamu undangan Prof. Dr. Tan Hui Jan (Ketua Unit Neurologi, Pakar Perunding Neurologi dan Perubatan, Pusat Perubatan Universiti Kebangsaan Malaysia).</desc>
     <episode-num system="xmltv_ns">0.7.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_Trans.png"/>
   </programme>
@@ -30098,6 +30100,11 @@ Finals MVP</desc>
     <desc lang="en">Bila muzik berbicara, nostalgia bernyawa</desc>
     <icon src="https://rtm-images.glueapi.io/800x0/radio-asset/MUZIKFM.png"/>
   </programme>
+  <programme start="20260606170000 +0800" stop="20260607070000 +0800" channel="TSN+01.ca">
+    <title lang="en">Roland-Garros: Day #14 - Simonne-Mathieu (ft. Legends &amp; Junior Finals)</title>
+    <category lang="en">Tennis</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
+  </programme>
   <programme start="20260606230000 +0800" stop="20260607020000 +0800" channel="TSN+08.ca">
     <title lang="en">NCAA Baseball: Super Regionals - Mississippi State vs. Georgia</title>
     <category lang="en">Baseball</category>
@@ -30113,19 +30120,14 @@ Finals MVP</desc>
     <category lang="en">Golf: PGA</category>
     <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
   </programme>
-  <programme start="20260606170000 +0800" stop="20260607070000 +0800" channel="TSN+01.ca">
-    <title lang="en">Roland-Garros: Day #14 - Simonne-Mathieu (ft. Legends &amp; Junior Finals)</title>
+  <programme start="20260606170000 +0800" stop="20260607070000 +0800" channel="TSN+02.ca">
+    <title lang="en">Roland-Garros: Day #14 - Court 14 (ft. Wheelchair &amp; Junior Finals)</title>
     <category lang="en">Tennis</category>
     <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
   </programme>
   <programme start="20260607080000 +0800" stop="20260607100000 +0800" channel="TSN+04.ca">
     <title lang="en">IndyCar Final Practice: Bommarito Automotive Group 500</title>
     <category lang="en">Auto Racing</category>
-    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
-  </programme>
-  <programme start="20260606170000 +0800" stop="20260607070000 +0800" channel="TSN+02.ca">
-    <title lang="en">Roland-Garros: Day #14 - Court 14 (ft. Wheelchair &amp; Junior Finals)</title>
-    <category lang="en">Tennis</category>
     <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
   </programme>
   <programme start="20260607003000 +0800" stop="20260607013000 +0800" channel="TSN+05.ca">
@@ -30171,11 +30173,6 @@ Finals MVP</desc>
   <programme start="20260606211500 +0800" stop="20260607060000 +0800" channel="TSN+11.ca">
     <title lang="en">PGA TOUR Live: The Memorial - Third Round: Featured Groups</title>
     <category lang="en">Golf: PGA</category>
-    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
-  </programme>
-  <programme start="20260606230000 +0800" stop="20260607050000 +0800" channel="TSN+12.ca">
-    <title lang="en">2026 US Women's Open: Third Round - Bonus Featured Groups</title>
-    <category lang="en">Golf</category>
     <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
   </programme>
   <programme start="20260607000000 +0800" stop="20260607003000 +0800" channel="TSN5.ca">
@@ -30243,9 +30240,9 @@ Finals MVP</desc>
     <category lang="en">News</category>
     <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
   </programme>
-  <programme start="20260607013000 +0800" stop="20260607040000 +0800" channel="TSN+13.ca">
-    <title lang="en">2026 NASCAR CRAFTSMAN Truck Series: DQS Solutions &amp; Staffing 250</title>
-    <category lang="en">Auto Racing</category>
+  <programme start="20260606230000 +0800" stop="20260607050000 +0800" channel="TSN+12.ca">
+    <title lang="en">2026 US Women's Open: Third Round - Bonus Featured Groups</title>
+    <category lang="en">Golf</category>
     <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
   </programme>
   <programme start="20260606233000 +0800" stop="20260607003000 +0800" channel="TSN4.ca">
@@ -30302,6 +30299,11 @@ Finals MVP</desc>
     <title lang="en">SPORTSCENTRE</title>
     <category lang="en">News</category>
     <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </programme>
+  <programme start="20260607013000 +0800" stop="20260607040000 +0800" channel="TSN+13.ca">
+    <title lang="en">2026 NASCAR CRAFTSMAN Truck Series: DQS Solutions &amp; Staffing 250</title>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
   </programme>
   <programme start="20260607024800 +0800" stop="20260607050000 +0800" channel="TSN+14.ca">
     <title lang="en">LaLiga 2: Castellon vs. Almeria</title>
@@ -30373,11 +30375,6 @@ Finals MVP</desc>
     <category lang="en">News</category>
     <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
   </programme>
-  <programme start="20260606230000 +0800" stop="20260607060000 +0800" channel="TSN+10.ca">
-    <title lang="en">PGA TOUR Live: The Memorial - Third Round: Marquee Group</title>
-    <category lang="en">Golf: PGA</category>
-    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
-  </programme>
   <programme start="20260607000000 +0800" stop="20260607003000 +0800" channel="TSN2.ca">
     <title lang="en">SC: Top Playoff Soundbites</title>
     <category lang="en">Entertainment</category>
@@ -30442,6 +30439,11 @@ Finals MVP</desc>
     <title lang="en">CFL on TSN: Elks vs. Redblacks</title>
     <category lang="en">CFL</category>
     <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </programme>
+  <programme start="20260606230000 +0800" stop="20260607060000 +0800" channel="TSN+10.ca">
+    <title lang="en">PGA TOUR Live: The Memorial - Third Round: Marquee Group</title>
+    <category lang="en">Golf: PGA</category>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsnp-light.webp"/>
   </programme>
   <programme start="20260606233000 +0800" stop="20260607003000 +0800" channel="TSN1.ca">
     <title lang="en">Live at Roland-Garros</title>
