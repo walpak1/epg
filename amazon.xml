@@ -3220,6 +3220,10 @@
     <display-name lang="en">Red Bull</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/red_bull_us._SL500_FMpng_.png"/>
   </channel>
+  <channel id="Reelz by Peacock">
+    <display-name lang="en">Reelz by Peacock</display-name>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Reelz_logo_For_Amazon_1920x1080_white_16x9._SL500_FMpng_.png"/>
+  </channel>
   <channel id="REELZ by Reelz+">
     <display-name lang="en">REELZ by Reelz+</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Reelz_logo_For_Amazon_1920x1080_white_16x9._SL500_FMpng_.png"/>
@@ -4602,6 +4606,11 @@
     <desc lang="en">Parker falls for a dance teacher.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1REwguZcZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085100 +0800" stop="20260821094300 +0800" channel="365BLK">
+    <title lang="en">In the Heat of the Night</title>
+    <desc lang="en">Dead man's family seeks revenge.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1REwguZcZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821003100 +0800" stop="20260821005500 +0800" channel="40 y 20">
     <title lang="en">40 and 20</title>
     <desc lang="en">A comedy series about a divorced dad who likes younger women, and his son who likes older women.</desc>
@@ -4776,11 +4785,6 @@
     <title lang="en">48 Hours</title>
     <desc lang="en">A man convicted of murdering his wife.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1TLZkoQkHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821000000 +0800" stop="20260821005100 +0800" channel="4UV">
-    <title lang="en">Bring It!</title>
-    <desc lang="en">A preview of the new season.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BUUffYd-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821014200 +0800" channel="4UV">
     <title lang="en">Bring It!</title>
@@ -5386,11 +5390,6 @@
     <title lang="en">Court Cam</title>
     <desc lang="en">A murderer sobs uncontrollably.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1gW+7yHvNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821000000 +0800" stop="20260821005200 +0800" channel="A&amp;E Live PD: Greatest Shifts">
-    <title lang="en">Live PD: Greatest Shifts</title>
-    <desc lang="en">A woman is suspected of stealing a cab.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1fNpXHTaAL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005200 +0800" stop="20260821014400 +0800" channel="A&amp;E Live PD: Greatest Shifts">
     <title lang="en">Live PD: Greatest Shifts</title>
@@ -7176,11 +7175,6 @@
     <title lang="en">Burden of Proof: Tupac Murder Trial</title>
     <desc lang="en">ABC News Live Special Programming.</desc>
     <icon src="https://m.media-amazon.com/images/I/B14UyN8URSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821000000 +0800" stop="20260821005100 +0800" channel="ABC Norfolk News (WVEC)">
-    <title lang="en">13News Now Noon</title>
-    <desc lang="en">With a passion for storytelling, 13 News Now brings you news, weather, sports, traffic, and more for the Hampton Roads and Eastern Shore areas of Virginia.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UZdMsyzNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821010000 +0800" channel="ABC Norfolk News (WVEC)">
     <title lang="en">Original local programming</title>
@@ -9737,6 +9731,11 @@
     <desc lang="en">Purse ransom.</desc>
     <icon src="https://m.media-amazon.com/images/I/81B0Tcu7H4L._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085200 +0800" stop="20260821091400 +0800" channel="America's Dumbest Criminals">
+    <title lang="en">America's Dumbest Criminals</title>
+    <desc lang="en">Peeping Toms.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B0Tcu7H4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821003700 +0800" stop="20260821012800 +0800" channel="America's Funniest Home Videos">
     <title lang="en">America's Funniest Home Videos</title>
     <desc lang="en">A countdown begins.</desc>
@@ -10442,6 +10441,11 @@
     <desc lang="en">Charlie and Jordan hire a tie-breaker.</desc>
     <icon src="https://m.media-amazon.com/images/I/91npac2GmJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085100 +0800" stop="20260821091600 +0800" channel="Anger Management">
+    <title lang="en">Anger Management</title>
+    <desc lang="en">Charlie gets Sean fired from the club.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91npac2GmJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821003200 +0800" stop="20260821005600 +0800" channel="Animation Favorites">
     <title lang="en">The Fairly OddParents</title>
     <desc lang="en">Cosmo was chosen to be the host.</desc>
@@ -10907,6 +10911,11 @@
     <desc lang="en">I always knew Ein was the stinkiest!</desc>
     <icon src="https://m.media-amazon.com/images/I/C1MJVN7N2PL._UR1920,1080_FMpng_.png"/>
   </programme>
+  <programme start="20260821085253 +0800" stop="20260821092013 +0800" channel="Aphmau TV">
+    <title lang="en">Aphmau</title>
+    <desc lang="en">Careful, they bite.</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1AUrKoclBL._UR1920,1080_FMpng_.png"/>
+  </programme>
   <programme start="20260821001600 +0800" stop="20260821010800 +0800" channel="Aqui Y Ahora">
     <title lang="en">Aquí y ahora</title>
     <desc lang="en">News</desc>
@@ -10962,6 +10971,11 @@
     <desc lang="en">News</desc>
     <icon src="https://m.media-amazon.com/images/I/91yWW5I5FsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085200 +0800" stop="20260821094100 +0800" channel="Aqui Y Ahora">
+    <title lang="en">Aquí y ahora</title>
+    <desc lang="en">News</desc>
+    <icon src="https://m.media-amazon.com/images/I/91yWW5I5FsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821001600 +0800" stop="20260821010800 +0800" channel="Aquí y Ahora">
     <title lang="en">Aquí y ahora</title>
     <desc lang="en">News</desc>
@@ -11013,6 +11027,11 @@
     <icon src="https://m.media-amazon.com/images/I/91yWW5I5FsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821082100 +0800" stop="20260821085200 +0800" channel="Aquí y Ahora">
+    <title lang="en">Aquí y ahora</title>
+    <desc lang="en">News</desc>
+    <icon src="https://m.media-amazon.com/images/I/91yWW5I5FsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085200 +0800" stop="20260821094100 +0800" channel="Aquí y Ahora">
     <title lang="en">Aquí y ahora</title>
     <desc lang="en">News</desc>
     <icon src="https://m.media-amazon.com/images/I/91yWW5I5FsL._UR1920,1080_FMpng_.jpg"/>
@@ -11246,11 +11265,6 @@
     <title lang="en">Big Girls Don't Cry ... They Get Even</title>
     <desc lang="en">Two quirky families are forced to bond after 15-year-old Laura runs away.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1o57ZIW+9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821000000 +0800" stop="20260821005100 +0800" channel="Ax Men">
-    <title lang="en">Ax Men</title>
-    <desc lang="en">A crew makes up for a slow start.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Zi-Gf9KJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821014100 +0800" channel="Ax Men">
     <title lang="en">Ax Men</title>
@@ -13137,11 +13151,6 @@
     <desc lang="en">Shery Ahn and Haidi Stroud-Watts bring insights and analysis for global investors.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1mGgL35GFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821002500 +0800" stop="20260821005100 +0800" channel="Blossom">
-    <title lang="en">Blossom</title>
-    <desc lang="en">A storm strands Six and Joey in a motel.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1PDfn-5dfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821011700 +0800" channel="Blossom">
     <title lang="en">Blossom</title>
     <desc lang="en">Vinnie says he's transferring to UCLA.</desc>
@@ -13490,6 +13499,11 @@
   <programme start="20260821082700 +0800" stop="20260821085300 +0800" channel="Boot">
     <title lang="en">Operation Repo</title>
     <desc lang="en">Sonia and Froy crash a pool party.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81JHGE2iqjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085300 +0800" stop="20260821092000 +0800" channel="Boot">
+    <title lang="en">Operation Repo</title>
+    <desc lang="en">Sign of the times.</desc>
     <icon src="https://m.media-amazon.com/images/I/81JHGE2iqjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821003700 +0800" stop="20260821013400 +0800" channel="Bosch">
@@ -14256,11 +14270,6 @@
     <title lang="en">Countdown to Murder</title>
     <desc lang="en">In October 2012, a group of friends in Kent come across the body of a young woman.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1e1EOrRBjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821000300 +0800" stop="20260821005300 +0800" channel="Caso Cerrado">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">Conflicts between parties are mediated.</desc>
-    <icon src="https://m.media-amazon.com/images/I/817sVVKnyFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005300 +0800" stop="20260821014300 +0800" channel="Caso Cerrado">
     <title lang="en">Caso cerrado</title>
@@ -18532,6 +18541,11 @@
     <desc lang="en">Celine Dept and friends navigate a chaotic round of footgolf, attempting challenges with a variety of sports balls. The day includes humorous mishaps in a golf buggy, interactions with the chat, and a high-stakes competition for a new car.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1PHb+qbR0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085216 +0800" stop="20260821090737 +0800" channel="Celine Dept">
+    <title lang="en">I Waved The Champions League Final Flag</title>
+    <desc lang="en">This was so crazy! Thank you all for your amazing support</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1Xjt8FRnOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821002749 +0800" stop="20260821005452 +0800" channel="Chaos On Cam by A&amp;E">
     <title lang="en">Customer Wars</title>
     <desc lang="en">A man in Florida attacks a fast food cashier over a lack of available straws.</desc>
@@ -20087,11 +20101,6 @@
     <desc lang="en">Dramatization of real-life situations and stories that are related to popular sayings, by Don Tomas.</desc>
     <icon src="https://m.media-amazon.com/images/I/81Hacj1YzTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821000000 +0800" stop="20260821005300 +0800" channel="Como Dice el Dicho">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Dramatization of real-life situations and stories that are related to popular sayings, by Don Tomas.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Hacj1YzTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005300 +0800" stop="20260821014700 +0800" channel="Como Dice el Dicho">
     <title lang="en">Como dice el dicho</title>
     <desc lang="en">Dramatization of real-life situations and stories that are related to popular sayings, by Don Tomas.</desc>
@@ -20912,11 +20921,6 @@
     <desc lang="en">The team tries to save lost hikers.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1+B-Zsp3CL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821000000 +0800" stop="20260821005100 +0800" channel="Crime Cults Killers by A&amp;E">
-    <title lang="en">Nightwatch</title>
-    <desc lang="en">Helping a victim trapped in a vehicle.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1uj2u2fipL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821014300 +0800" channel="Crime Cults Killers by A&amp;E">
     <title lang="en">Nightwatch</title>
     <desc lang="en">A car accident victim is trapped.</desc>
@@ -21457,6 +21461,11 @@
     <desc lang="en">A minister meets his wife's ex-husband.</desc>
     <icon src="https://m.media-amazon.com/images/I/81U75jKLCIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085100 +0800" stop="20260821094300 +0800" channel="CW Forever">
+    <title lang="en">7th Heaven</title>
+    <desc lang="en">Lucy's friend dies in a car accident.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81U75jKLCIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821003900 +0800" stop="20260821012800 +0800" channel="CW Gold">
     <title lang="en">NUMB3RS</title>
     <desc lang="en">Don and Charlie are at odds.</desc>
@@ -21536,11 +21545,6 @@
     <title lang="en">WWE NXT</title>
     <desc lang="en">Trick Williams' unprecedented TNA World Championship reign continues with his first title defense against challenger Mike Santana.</desc>
     <icon src="https://m.media-amazon.com/images/I/81niRRZRKrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821000000 +0800" stop="20260821005100 +0800" channel="Dance Moms">
-    <title lang="en">Dance Moms</title>
-    <desc lang="en">Abby decides to push the envelope.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ow3kbOaJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821014300 +0800" channel="Dance Moms">
     <title lang="en">Dance Moms</title>
@@ -21826,11 +21830,6 @@
     <title lang="en">Dateline en español</title>
     <desc lang="en">News</desc>
     <icon src="https://m.media-amazon.com/images/I/A1J-lonD7AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260820235900 +0800" stop="20260821005200 +0800" channel="DAZN Ringside">
-    <title lang="en">Boxing</title>
-    <desc lang="en">Israil Madrimov took on Luis David Salazar on the Muratalla vs. Cruz card.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1m7L7hXB4L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005200 +0800" stop="20260821015400 +0800" channel="DAZN Ringside">
     <title lang="en">Boxing</title>
@@ -22415,6 +22414,11 @@
   <programme start="20260821075956 +0800" stop="20260821085130 +0800" channel="Discovery Turbo TV">
     <title lang="en">Texas Metal's Loud and Lifted</title>
     <desc lang="en">Builds include a diesel Lamborghini and a lifted Chevy all-terrain truck.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1gqJzkJb3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085130 +0800" stop="20260821094303 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Texas Metal's Loud and Lifted</title>
+    <desc lang="en">Builds include a diesel Lamborghini and a YouTube star's amphibious SHERP.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1gqJzkJb3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821004000 +0800" stop="20260821010100 +0800" channel="Divorce Court">
@@ -23737,6 +23741,11 @@
     <desc lang="en">Unscripted</desc>
     <icon src="https://m.media-amazon.com/images/I/91TLr5o7P7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085200 +0800" stop="20260821094400 +0800" channel="Escape Perfecto">
+    <title lang="en">Escape perfecto VIP</title>
+    <desc lang="en">Unscripted</desc>
+    <icon src="https://m.media-amazon.com/images/I/91TLr5o7P7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821001200 +0800" stop="20260821011100 +0800" channel="ESPN Ocho">
     <title lang="en">Great American Events</title>
     <desc lang="en">The NWLA Tournament All-Star Game.</desc>
@@ -24236,11 +24245,6 @@
     <title lang="en">Wicked Tuna: Outer Banks</title>
     <desc lang="en">The captains feel the pressure to bring in a bluefin.</desc>
     <icon src="https://m.media-amazon.com/images/I/81ferdohpEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821000422 +0800" stop="20260821005158 +0800" channel="Extreme Living">
-    <title lang="en">Homestead Rescue</title>
-    <desc lang="en">The Raney family turns cameras on themselves as they shelter in place.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1KQg-r0o6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005158 +0800" stop="20260821013907 +0800" channel="Extreme Living">
     <title lang="en">Homestead Rescue</title>
@@ -25040,6 +25044,11 @@
   <programme start="20260821082400 +0800" stop="20260821085300 +0800" channel="Fifth Gear">
     <title lang="en">Fifth Gear</title>
     <desc lang="en">Tiff talks to David Coulthard.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qa+CQ++SL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085300 +0800" stop="20260821091900 +0800" channel="Fifth Gear">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff races the Peugeot RCZ Coupe against its Volkswagen Scirocco rival.</desc>
     <icon src="https://m.media-amazon.com/images/I/81qa+CQ++SL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005000 +0800" stop="20260821025300 +0800" channel="FilmRise Free Movies">
@@ -27852,11 +27861,6 @@
     <desc lang="en">News programming.</desc>
     <icon src="https://m.media-amazon.com/images/I/B17NXQITkiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821004500 +0800" stop="20260821005100 +0800" channel="France24 ES">
-    <title lang="en">Culture</title>
-    <desc lang="en">FRANCE 24 takes it beyond the headlines to the crossroads where culture meets the news.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1PMI0GTRTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821010000 +0800" channel="France24 ES">
     <title lang="en">Los observadores</title>
     <desc lang="en">News</desc>
@@ -29367,6 +29371,11 @@
     <desc lang="en">Actor Ricky Gervais.</desc>
     <icon src="https://m.media-amazon.com/images/I/8192i0TYIrL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085300 +0800" stop="20260821093800 +0800" channel="Graham Norton Show">
+    <title lang="en">The Graham Norton Show</title>
+    <desc lang="en">Usain Bolt; Channing Tatum.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81vr8N0fyIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821003659 +0800" stop="20260821013230 +0800" channel="Grand Designs">
     <title lang="en">Grand Designs</title>
     <desc lang="en">Peter and Christine decide to build a retirement home within the grounds of their manor house.</desc>
@@ -29461,6 +29470,11 @@
     <title lang="en">Teresa</title>
     <desc lang="en">Drama</desc>
     <icon src="https://m.media-amazon.com/images/I/91WK90r3IcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085300 +0800" stop="20260821094500 +0800" channel="Grandes Parejas">
+    <title lang="en">Si nos dejan</title>
+    <desc lang="en">After dedicating a lifetime to her husband and family, Alicia's world changes completely when she discovers a betrayal. Determined to rebuild her life, Alicia begins to fall in love with a much younger man.</desc>
+    <icon src="https://m.media-amazon.com/images/I/914Dp+dOMfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821001900 +0800" stop="20260821014100 +0800" channel="GrayStillPlays">
     <title lang="en">GrayStillPlays</title>
@@ -30792,11 +30806,6 @@
     <desc lang="en">Get over here.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1tUHl+xxBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821002900 +0800" stop="20260821005300 +0800" channel="HE-MAN &amp; THE MASTERS OF THE UNIVERSE">
-    <title lang="en">He-Man and the Masters of the Universe</title>
-    <desc lang="en">Skeletor drains the Sea of Eternity.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nv0Z2U9WL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005300 +0800" stop="20260821011800 +0800" channel="HE-MAN &amp; THE MASTERS OF THE UNIVERSE">
     <title lang="en">He-Man and the Masters of the Universe</title>
     <desc lang="en">Podi runs away from home.</desc>
@@ -31737,11 +31746,6 @@
     <desc lang="en">Sister-in-law's marital woes.</desc>
     <icon src="https://m.media-amazon.com/images/I/81pOTI6fwvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821000000 +0800" stop="20260821005200 +0800" channel="Home.Made.Nation">
-    <title lang="en">Tiny House Nation</title>
-    <desc lang="en">Jay and Jodi want a comfortable space.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91yW3++MrrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005200 +0800" stop="20260821014300 +0800" channel="Home.Made.Nation">
     <title lang="en">Tiny House Nation</title>
     <desc lang="en">Taking a design to the next level.</desc>
@@ -32320,6 +32324,11 @@
   <programme start="20260821082400 +0800" stop="20260821085200 +0800" channel="Hunter x Hunter">
     <title lang="en">Hunter X Hunter</title>
     <desc lang="en">Gon and Ging spend time together.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1dEGCT17SL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085200 +0800" stop="20260821092000 +0800" channel="Hunter x Hunter">
+    <title lang="en">Hunter X Hunter</title>
+    <desc lang="en">Gon must first fulfill a promise.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1dEGCT17SL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821004000 +0800" stop="20260821010100 +0800" channel="HuntStream">
@@ -33421,11 +33430,6 @@
     <title lang="en">Jacksepticeye</title>
     <desc lang="en">Taking on the world of Resident Evil 2.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1WmKiTm3+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821002600 +0800" stop="20260821005100 +0800" channel="JAIL">
-    <title lang="en">Jail</title>
-    <desc lang="en">Woman stalking Copperfield is arrested.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91OuDL-ZxwL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821011500 +0800" channel="JAIL">
     <title lang="en">Jail</title>
@@ -34582,11 +34586,6 @@
     <desc lang="en">A woman is sued for breach of contract.</desc>
     <icon src="https://m.media-amazon.com/images/I/91PUY181y9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821003100 +0800" stop="20260821005200 +0800" channel="Judge Faith">
-    <title lang="en">Judge Faith</title>
-    <desc lang="en">A misspent loan; a hit-and-run.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71k5G4mJe8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005200 +0800" stop="20260821011700 +0800" channel="Judge Faith">
     <title lang="en">Judge Faith</title>
     <desc lang="en">A good Samaritan says a friend's dog ruined her belongings; a vehicle collision.</desc>
@@ -34840,6 +34839,11 @@
   <programme start="20260821082700 +0800" stop="20260821085200 +0800" channel="Judy Justice">
     <title lang="en">Judy Justice</title>
     <desc lang="en">A welder allegedly damaged a gate.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1B7PPjX3QL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085200 +0800" stop="20260821091900 +0800" channel="Judy Justice">
+    <title lang="en">Judy Justice</title>
+    <desc lang="en">Parents fight over liability.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1B7PPjX3QL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821003449 +0800" stop="20260821015301 +0800" channel="K-Stories by CJ ENM">
@@ -36592,11 +36596,6 @@
     <desc lang="en">Details affecting local, regional and national news events are provided by the KWWL Evening News Team, along with timely updates on community issues in the Waterloo area, business reports, sports scores, weather conditions and traffic.</desc>
     <icon src="https://m.media-amazon.com/images/I/71nj5kC9u8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260820235900 +0800" stop="20260821005100 +0800" channel="La fea más bella">
-    <title lang="en">La fea más bella</title>
-    <desc lang="en">A woman who is frowned upon for being the ugliest woman around, falls hopelessly in love with her boss, the heir of a film enterprise.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AN4d7zjfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821014400 +0800" channel="La fea más bella">
     <title lang="en">La fea más bella</title>
     <desc lang="en">A woman who is frowned upon for being the ugliest woman around, falls hopelessly in love with her boss, the heir of a film enterprise.</desc>
@@ -36638,6 +36637,11 @@
     <icon src="https://m.media-amazon.com/images/I/81AN4d7zjfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821075900 +0800" stop="20260821085300 +0800" channel="La fea más bella">
+    <title lang="en">La fea más bella</title>
+    <desc lang="en">A woman who is frowned upon for being the ugliest woman around, falls hopelessly in love with her boss, the heir of a film enterprise.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81AN4d7zjfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085300 +0800" stop="20260821094600 +0800" channel="La fea más bella">
     <title lang="en">La fea más bella</title>
     <desc lang="en">A woman who is frowned upon for being the ugliest woman around, falls hopelessly in love with her boss, the heir of a film enterprise.</desc>
     <icon src="https://m.media-amazon.com/images/I/81AN4d7zjfL._UR1920,1080_FMpng_.jpg"/>
@@ -36816,11 +36820,6 @@
     <title lang="en">The Jeff Foxworthy Show</title>
     <desc lang="en">A storm prompts future plans.</desc>
     <icon src="https://m.media-amazon.com/images/I/714ofECICGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821002600 +0800" stop="20260821005200 +0800" channel="LAPD: Life on the Beat">
-    <title lang="en">LAPD: Life on the Beat</title>
-    <desc lang="en">Air units track man.</desc>
-    <icon src="https://m.media-amazon.com/images/I/715ZHiXIhkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005200 +0800" stop="20260821011800 +0800" channel="LAPD: Life on the Beat">
     <title lang="en">LAPD: Life on the Beat</title>
@@ -37832,6 +37831,11 @@
     <desc lang="en">The team infiltrates the music world.</desc>
     <icon src="https://m.media-amazon.com/images/I/91GStDiIcCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085100 +0800" stop="20260821094100 +0800" channel="Leverage">
+    <title lang="en">Leverage</title>
+    <desc lang="en">The crew targets a debt collector.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GStDiIcCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821003600 +0800" stop="20260821010300 +0800" channel="Lidia's Kitchen">
     <title lang="en">Lidia's Kitchen</title>
     <desc lang="en">Potato and pasta soup.</desc>
@@ -38000,6 +38004,11 @@
   <programme start="20260821082300 +0800" stop="20260821085300 +0800" channel="Life and Legend of Wyatt Earp">
     <title lang="en">The Life and Legend of Wyatt Earp</title>
     <desc lang="en">Old Man Clanton's idea of a perfect son-in-law is Wyatt.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81v7WPF1tOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085300 +0800" stop="20260821092300 +0800" channel="Life and Legend of Wyatt Earp">
+    <title lang="en">The Life and Legend of Wyatt Earp</title>
+    <desc lang="en">Outlaws raid a wagon train.</desc>
     <icon src="https://m.media-amazon.com/images/I/81v7WPF1tOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821002800 +0800" stop="20260821011900 +0800" channel="Life Below Zero">
@@ -40157,11 +40166,6 @@
     <desc lang="en">Ten anglers compete on Fort Gibson Lake to advance in the Patriot Cup presented by Venmo. Only six will move on to Sudden Death. From Muskogee, Oklahoma.</desc>
     <icon src="https://m.media-amazon.com/images/I/814b1dTABFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821000000 +0800" stop="20260821005100 +0800" channel="Modern Innovations by History">
-    <title lang="en">Mega Movers</title>
-    <desc lang="en">Salvaging four aircraft.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81b7QYDu-ZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821014200 +0800" channel="Modern Innovations by History">
     <title lang="en">Mega Movers</title>
     <desc lang="en">A World War II B-25 Mitchell.</desc>
@@ -40211,11 +40215,6 @@
     <title lang="en">Mega Movers</title>
     <desc lang="en">Kursk; H.L. Hunley.</desc>
     <icon src="https://m.media-amazon.com/images/I/81b7QYDu-ZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821000000 +0800" stop="20260821005200 +0800" channel="Modern Marvels">
-    <title lang="en">Modern Marvels</title>
-    <desc lang="en">The evolution of gadgets.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ZdO6n4ljL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005200 +0800" stop="20260821014700 +0800" channel="Modern Marvels">
     <title lang="en">Modern Marvels</title>
@@ -40942,6 +40941,11 @@
     <desc lang="en">A picky first-time buyer has trouble finding what she wants.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1mSoCoG+OL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085245 +0800" stop="20260821091818 +0800" channel="My First Place">
+    <title lang="en">My First Place</title>
+    <desc lang="en">A buyer already in sticker shock encounters unforeseen expenses.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1mSoCoG+OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821004600 +0800" stop="20260821011000 +0800" channel="My Wife and Kids">
     <title lang="en">My Wife and Kids</title>
     <desc lang="en">Michael and Jay pretend to fight.</desc>
@@ -41041,6 +41045,11 @@
     <title lang="en">My Wife and Kids</title>
     <desc lang="en">Jr. graduates from high school.</desc>
     <icon src="https://m.media-amazon.com/images/I/91UtbvR-MIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085300 +0800" stop="20260821091600 +0800" channel="My Wife and Kids">
+    <title lang="en">My Wife and Kids</title>
+    <desc lang="en">Transforming a boy into an adult.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1IkFDs6zFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821004643 +0800" stop="20260821011543 +0800" channel="Mysteria">
     <title lang="en">Crime Report with Christina Randall</title>
@@ -41642,6 +41651,11 @@
     <desc lang="en">An injured Lee keeps fighting.</desc>
     <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085100 +0800" stop="20260821091800 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Naruto leads Konohamaru, Moegi and Udon.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821000000 +0800" stop="20260821020000 +0800" channel="NASA+">
     <title lang="en">Cosmic Dawn: The Untold Story of the James Webb Space Telescope</title>
     <desc lang="en">The James Webb Space Telescope.</desc>
@@ -42047,6 +42061,11 @@
     <desc lang="en">Yosemite National Park in California.</desc>
     <icon src="https://m.media-amazon.com/images/I/9181zFuJAQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085300 +0800" stop="20260821094300 +0800" channel="National Geographic Travel">
+    <title lang="en">America's National Parks</title>
+    <desc lang="en">A sanctuary for life in Texas.</desc>
+    <icon src="https://m.media-amazon.com/images/I/9181zFuJAQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260820232700 +0800" stop="20260821010700 +0800" channel="National Lampoon">
     <title lang="en">Hot Rod</title>
     <desc lang="en">Smack destiny in the face.</desc>
@@ -42311,11 +42330,6 @@
     <title lang="en">Live: NBC10 News @ 8PM</title>
     <desc lang="en">The latest local news, weather &amp; investigative stories impacting the Philadelphia area.</desc>
     <icon src="https://m.media-amazon.com/images/I/71Ql8dIVGxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821003000 +0800" stop="20260821005200 +0800" channel="NBC 4 Los Angeles News">
-    <title lang="en">Today in L.A.</title>
-    <desc lang="en">The latest local news, weather and investigative stories impacting the community.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1B5lb+z71L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005200 +0800" stop="20260821010000 +0800" channel="NBC 4 Los Angeles News">
     <title lang="en">First Alert Forecast</title>
@@ -46902,6 +46916,11 @@
     <desc lang="en">Michael kidnaps the one person who can help him.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1xuNf0q3bL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085127 +0800" stop="20260821094157 +0800" channel="Nikita">
+    <title lang="en">La Femme Nikita</title>
+    <desc lang="en">Adrian agrees to help Michael, but can Michael save George?</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1xuNf0q3bL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821004001 +0800" stop="20260821013618 +0800" channel="Nip / Tuck">
     <title lang="en">Nip/Tuck</title>
     <desc lang="en">Christian proposes marriage to Michelle, but she has doubts.</desc>
@@ -47476,11 +47495,6 @@
     <title lang="en">On Patrol: Live</title>
     <desc lang="en">An officer is dispatched after a man disturbs a trick or treating event.</desc>
     <icon src="https://m.media-amazon.com/images/I/C1w3xQTCGwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821002800 +0800" stop="20260821005200 +0800" channel="ONE Championship TV">
-    <title lang="en">Barboza vs. Zhang: ONE Friday Fights 142-Bangkok</title>
-    <desc lang="en">From ONE Friday Fights 142.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81C5QBWiUOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005200 +0800" stop="20260821011300 +0800" channel="ONE Championship TV">
     <title lang="en">Hdidi vs. Shibata: ONE Friday Fights 144-Bangkok</title>
@@ -48167,6 +48181,11 @@
     <desc lang="en">Bindi gets the opportunity to train two of Australia Zoo's otters.</desc>
     <icon src="https://m.media-amazon.com/images/I/A12onanNbHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085110 +0800" stop="20260821093930 +0800" channel="Paws and Claws">
+    <title lang="en">Crikey! It's The Irwins</title>
+    <desc lang="en">Bindi celebrates her 21st birthday and gets a surprise of a lifetime.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A12onanNbHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821004536 +0800" stop="20260821011207 +0800" channel="PBS Antiques Roadshow">
     <title lang="en">Antiques Roadshow Recut</title>
     <desc lang="en">Electing and collecting: two great American traditions combine in one historic half-hour!</desc>
@@ -48341,11 +48360,6 @@
     <title lang="en">Agatha Christie's Poirot</title>
     <desc lang="en">Poirot uncovers a case of deception at a film studio--when is a murder not a murder?</desc>
     <icon src="https://m.media-amazon.com/images/I/91hDCbMJEZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821002309 +0800" stop="20260821005213 +0800" channel="PBS Food">
-    <title lang="en">Essential Pépin</title>
-    <desc lang="en">Jacques makes Lobster in Artichoke Hearts, Shrimp Pane and Escoffier Quenelles.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ru1QswQyL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005213 +0800" stop="20260821012107 +0800" channel="PBS Food">
     <title lang="en">Essential Pépin</title>
@@ -49412,11 +49426,6 @@
     <desc lang="en">A $5/$10 cash game.</desc>
     <icon src="https://m.media-amazon.com/images/I/91B5UrUTJIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821002508 +0800" stop="20260821005251 +0800" channel="Pokémon">
-    <title lang="en">Pokémon</title>
-    <desc lang="en">Ash and Goh search the Wild Area for giant Pokémon, and a little friend wants to join them!</desc>
-    <icon src="https://m.media-amazon.com/images/I/71yYXh5yMyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005251 +0800" stop="20260821012033 +0800" channel="Pokémon">
     <title lang="en">Pokémon</title>
     <desc lang="en">With Scorbunny by his side, Goh decides on a new goal—catch every kind of Pokémon!</desc>
@@ -49506,11 +49515,6 @@
     <title lang="en">Pokémon</title>
     <desc lang="en">An encounter with a frightening opponent gets resolved by a Pokémon who is anything but frightening!</desc>
     <icon src="https://m.media-amazon.com/images/I/71fI9PSgHzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821002600 +0800" stop="20260821005100 +0800" channel="Portlandia">
-    <title lang="en">Portlandia</title>
-    <desc lang="en">Lance and Nina's lizard dies.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1PiT02NZgL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821011700 +0800" channel="Portlandia">
     <title lang="en">Portlandia</title>
@@ -51167,6 +51171,76 @@
     <desc lang="en">The best HYROX athletes uncover what it takes to rise to the top.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1iHX3854FL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821000000 +0800" stop="20260821020000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Bigfoot: I Saw It!</title>
+    <desc lang="en">Hunters Roger Patterson and Bob Gimlin set out to search for the fabled beast.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ILskYey+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821020000 +0800" stop="20260821023000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Cops Reloaded</title>
+    <desc lang="en">A car chase suspect; a helicopter.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B16XjUDcsGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821023000 +0800" stop="20260821030000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Cops Reloaded</title>
+    <desc lang="en">Police discover a badly injured suspect.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B16XjUDcsGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821030000 +0800" stop="20260821033000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Cops Reloaded</title>
+    <desc lang="en">A suspect's mug shot photo claim.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B16XjUDcsGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821033000 +0800" stop="20260821040000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Cops Reloaded</title>
+    <desc lang="en">A motel guest's feet trip him up.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B16XjUDcsGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821040000 +0800" stop="20260821050000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Most Shocking</title>
+    <desc lang="en">Senior citizens gone wild.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81hROuqWZ+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821050000 +0800" stop="20260821053000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Jail: Las Vegas</title>
+    <desc lang="en">A man who threatened bystanders.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vgPHt5EhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821053000 +0800" stop="20260821060000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Jail: Las Vegas</title>
+    <desc lang="en">An intoxicated woman; a hooker.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vgPHt5EhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821060000 +0800" stop="20260821063000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Jail: Las Vegas</title>
+    <desc lang="en">A homeless man punches someone.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vgPHt5EhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821063000 +0800" stop="20260821070000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Jail: Las Vegas</title>
+    <desc lang="en">A young woman hides drugs in her bra.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vgPHt5EhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821070000 +0800" stop="20260821073000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Cops Reloaded</title>
+    <desc lang="en">A car chase suspect; a helicopter.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B16XjUDcsGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821073000 +0800" stop="20260821080000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Cops Reloaded</title>
+    <desc lang="en">Police discover a badly injured suspect.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B16XjUDcsGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821080000 +0800" stop="20260821083000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Cops Reloaded</title>
+    <desc lang="en">A suspect's mug shot photo claim.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B16XjUDcsGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821083000 +0800" stop="20260821090000 +0800" channel="Reelz by Peacock">
+    <title lang="en">Cops Reloaded</title>
+    <desc lang="en">A motel guest's feet trip him up.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B16XjUDcsGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821000000 +0800" stop="20260821020000 +0800" channel="REELZ by Reelz+">
     <title lang="en">Bigfoot: I Saw It!</title>
     <desc lang="en">Hunters Roger Patterson and Bob Gimlin set out to search for the fabled beast.</desc>
@@ -51276,11 +51350,6 @@
     <title lang="en">On Patrol: Live</title>
     <desc lang="en">Responding to reports of squatters.</desc>
     <icon src="https://m.media-amazon.com/images/I/C1w3xQTCGwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821002400 +0800" stop="20260821005100 +0800" channel="Relative Justice">
-    <title lang="en">Relative Justice</title>
-    <desc lang="en">Sassy, the dog, goes missing.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71+uC0Rxq-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821011900 +0800" channel="Relative Justice">
     <title lang="en">Relative Justice</title>
@@ -52574,6 +52643,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">A bride-to-be pits her expensive taste against her budget.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Z5b3DhW-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085220 +0800" stop="20260821091524 +0800" channel="Say Yes to the Dress">
+    <title lang="en">Say Yes to the Dress</title>
+    <desc lang="en">A Say Yes crew members gets the full Kleinfeld experience for her big day.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Z5b3DhW-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821002800 +0800" stop="20260821012000 +0800" channel="Scares by Shudder">
     <title lang="en">A Creepshow Animated Special</title>
     <desc lang="en">&quot;Survivor Type.&quot;</desc>
@@ -52623,11 +52697,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <title lang="en">Creepshow</title>
     <desc lang="en">Lampini is blackmailed.</desc>
     <icon src="https://m.media-amazon.com/images/I/A16g3sYVDXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821002456 +0800" stop="20260821005049 +0800" channel="Science is Amazing">
-    <title lang="en">Machines: How They Work</title>
-    <desc lang="en">The machinery behind an ATM, vacuum cleaner and skateboard is revealed.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1szes9makL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005049 +0800" stop="20260821011642 +0800" channel="Science is Amazing">
     <title lang="en">Machines: How They Work</title>
@@ -53064,6 +53133,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">A twist on a vegetable; barbecue sauce.</desc>
     <icon src="https://m.media-amazon.com/images/I/819r0RkUKEL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085200 +0800" stop="20260821094200 +0800" channel="Shark Tank">
+    <title lang="en">Shark Tank</title>
+    <desc lang="en">Faux flowers; mercury level tester.</desc>
+    <icon src="https://m.media-amazon.com/images/I/819r0RkUKEL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821004010 +0800" stop="20260821013308 +0800" channel="Shark Tank Latino">
     <title lang="en">Shark Tank México</title>
     <desc lang="en">Show</desc>
@@ -53443,11 +53517,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <title lang="en">Stingray Smooth Jazz</title>
     <desc lang="en">Easy listening jazz music and the hottest contemporary jazz artists.</desc>
     <icon src="https://m.media-amazon.com/images/I/71A1uoCp+CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260820234300 +0800" stop="20260821005100 +0800" channel="SNL Vault">
-    <title lang="en">Saturday Night Live</title>
-    <desc lang="en">&quot;Bronx Beat&quot; and &quot;Laser Cats.&quot;</desc>
-    <icon src="https://m.media-amazon.com/images/I/A187Wetz3jL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821014600 +0800" channel="SNL Vault">
     <title lang="en">Saturday Night Live</title>
@@ -53979,6 +54048,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Man-made islands are spotted near a North Korean missile facility.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1SqtSvSHIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085128 +0800" stop="20260821093933 +0800" channel="Space &amp; Beyond">
+    <title lang="en">What on Earth?</title>
+    <desc lang="en">Experts investigate the bloody past of an abandoned city in Kenya.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1SqtSvSHIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260820223000 +0800" stop="20260821010000 +0800" channel="SPEED SPORT 1">
     <title lang="en">Northeast Modifieds</title>
     <desc lang="en">From July 10, 2026.</desc>
@@ -54243,11 +54317,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <title lang="en">Las Vegas Raiders vs. Houston Texans NFL Preseason In-Game Live Gameday</title>
     <desc lang="en">Live wagering coverage.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1Xy6nPgMcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821003031 +0800" stop="20260821005225 +0800" channel="Ssundee">
-    <title lang="en">SSundee</title>
-    <desc lang="en">SSundee plays Among Us as a cat imposter.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1qN0qD7w7L._UR1920,1080_FMpng_.png"/>
   </programme>
   <programme start="20260821005225 +0800" stop="20260821011051 +0800" channel="Ssundee">
     <title lang="en">SSundee</title>
@@ -54809,11 +54878,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">The buyers visit Upland, Calif.</desc>
     <icon src="https://m.media-amazon.com/images/I/81kVoat0VFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260820235900 +0800" stop="20260821005100 +0800" channel="Stories by AMC">
-    <title lang="en">Better Call Saul</title>
-    <desc lang="en">Jimmy chafes in his work environment.</desc>
-    <icon src="https://m.media-amazon.com/images/I/910YawxPaML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821014300 +0800" channel="Stories by AMC">
     <title lang="en">Better Call Saul</title>
     <desc lang="en">Jimmy finds comfort in familiarity.</desc>
@@ -55269,11 +55333,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">The castaways receive letters from home.</desc>
     <icon src="https://m.media-amazon.com/images/I/91UaGbnse6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821000252 +0800" stop="20260821005052 +0800" channel="Sweet Escapes">
-    <title lang="en">Cake Wars</title>
-    <desc lang="en">Four bakers compete to impress the directors of Kung Fu Panda 3.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1LWi6yvQVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005052 +0800" stop="20260821013853 +0800" channel="Sweet Escapes">
     <title lang="en">Cake Wars</title>
     <desc lang="en">Minecraft, one of the biggest video games of all time, comes to Cake Wars.</desc>
@@ -55499,6 +55558,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Chef Andrew goes primal with two antelope dishes: a roasted whole leg and a simple tenderloin carpaccio.</desc>
     <icon src="https://m.media-amazon.com/images/I/91MiRrPx0gL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085204 +0800" stop="20260821092012 +0800" channel="Tastemade">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+    <desc lang="en">Chef Andrew Zimmern cooks braised squab with olives and vinegar, a perfect meal for a fall evening.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MiRrPx0gL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821000409 +0800" stop="20260821005612 +0800" channel="Tastemade Home">
     <title lang="en">Styled</title>
     <desc lang="en">Nicole and Caffery redo Denise’s main floor into a vibrant, maximalist space that reflects her personality!</desc>
@@ -55547,6 +55611,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
   <programme start="20260821075601 +0800" stop="20260821085204 +0800" channel="Tastemade Home">
     <title lang="en">Property Brothers</title>
     <desc lang="en">Tennis pros Jessica and Nathan have been living a cramped condo lifestyle for way too long.</desc>
+    <icon src="https://m.media-amazon.com/images/I/812nntqXHxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085204 +0800" stop="20260821094814 +0800" channel="Tastemade Home">
+    <title lang="en">Property Brothers</title>
+    <desc lang="en">Newlyweds and animal lovers, Sophie, Tim, and their two dogs are determined to get out of his cramped condo.</desc>
     <icon src="https://m.media-amazon.com/images/I/812nntqXHxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821000413 +0800" stop="20260821005607 +0800" channel="Tastemade Travel">
@@ -55624,6 +55693,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Jamie heads to Marseille to explore the seafood, the flavors of Provence, and multicultural dishes.</desc>
     <icon src="https://m.media-amazon.com/images/I/81fzrndzoVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085201 +0800" stop="20260821094801 +0800" channel="Tastemade Travel">
+    <title lang="en">Jamie Oliver Cooks the Mediterranean</title>
+    <desc lang="en">Jamie soaks up inspiration in Spain with tapas, flavor-charged rice dishes, and spectacular seafood.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fzrndzoVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821003000 +0800" stop="20260821010000 +0800" channel="TBN">
     <title lang="en">Winning Walk</title>
     <desc lang="en">The Rev. Dr. Ed Young, pastor of Second Baptist Church, Houston, proclaims the truth of God's word.</desc>
@@ -55693,11 +55767,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <title lang="en">Linear Programming</title>
     <desc lang="en">Linear Programming</desc>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/TBN_16x9._UR1920,1080_FMpng_.png"/>
-  </programme>
-  <programme start="20260821002200 +0800" stop="20260821005300 +0800" channel="TBN's Women of Faith">
-    <title lang="en">My First Trip to Israel</title>
-    <desc lang="en">Sheila drives to a town called Migdal.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91KISGqNGIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005300 +0800" stop="20260821012300 +0800" channel="TBN's Women of Faith">
     <title lang="en">Christine Caine</title>
@@ -56434,11 +56503,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Drama</desc>
     <icon src="https://m.media-amazon.com/images/I/91WK90r3IcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821002500 +0800" stop="20260821005100 +0800" channel="That 70s Show">
-    <title lang="en">That '70s Show</title>
-    <desc lang="en">Kelso tries to set Fez up.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1WrpEWqZjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821011700 +0800" channel="That 70s Show">
     <title lang="en">That '70s Show</title>
     <desc lang="en">Donna misses a birth control pill.</desc>
@@ -56619,6 +56683,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Everyone has suggestions for a windfall.</desc>
     <icon src="https://m.media-amazon.com/images/I/91-NGQ8LdpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085300 +0800" stop="20260821092100 +0800" channel="That Girl">
+    <title lang="en">That Girl</title>
+    <desc lang="en">Dinner becomes a loud bash.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91-NGQ8LdpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821003524 +0800" stop="20260821010527 +0800" channel="The Addams Family">
     <title lang="en">The Addams Family</title>
     <desc lang="en">Wednesday and Pugsley return in tears from trick-or-treating because a neighbor has told them there is no such thing as a witch.  Morticia and Gomez plan to prove to the children that they do exist--by summoning a witch to a séance.</desc>
@@ -56704,11 +56773,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Morticia, in order to be part of the National Beautification Program, decides to become a home decorator and offers her services to the neighbors. Next door neighbor, and insurance agent, Joe Digby hires Morticia in hopes of selling them insurance.</desc>
     <icon src="https://m.media-amazon.com/images/I/91aVhKKgvpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260820231400 +0800" stop="20260821005200 +0800" channel="The Apprentice">
-    <title lang="en">All-Star Celebrity Apprentice</title>
-    <desc lang="en">The finalists create ice cream flavors.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+FX+qjViL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005200 +0800" stop="20260821023000 +0800" channel="The Apprentice">
     <title lang="en">The Celebrity Apprentice</title>
     <desc lang="en">The celebrities create and sell pies for charity; members of the women's team complain about their project manager.</desc>
@@ -56793,11 +56857,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <title lang="en">Planetquake</title>
     <desc lang="en">A tectonic shift causes a series of escalating earthquakes.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1U8ypDgcYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821002600 +0800" stop="20260821005100 +0800" channel="The Bernie Mac Show">
-    <title lang="en">The Bernie Mac Show</title>
-    <desc lang="en">A comic must raise three children.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hslekmDQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821011600 +0800" channel="The Bernie Mac Show">
     <title lang="en">The Bernie Mac Show</title>
@@ -57249,6 +57308,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">The &quot;Shooting Stars&quot; trivia challenge.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1nZtHUP3ZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085100 +0800" stop="20260821093700 +0800" channel="The Challenge">
+    <title lang="en">The Challenge: All Stars</title>
+    <desc lang="en">The challengers make desperate moves.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1nZtHUP3ZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821004800 +0800" stop="20260821011400 +0800" channel="The Conners">
     <title lang="en">The Conners</title>
     <desc lang="en">Darlene receives advice.</desc>
@@ -57539,11 +57603,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Steve and Amy investigate terrifying paranormal activity in Layton, UT.</desc>
     <icon src="https://m.media-amazon.com/images/I/B14QvcrFwZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821002500 +0800" stop="20260821005300 +0800" channel="The Dick Van Dyke Show">
-    <title lang="en">The Dick Van Dyke Show</title>
-    <desc lang="en">Rob fears he is allergic to his family.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81e9UMaCLsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005300 +0800" stop="20260821012500 +0800" channel="The Dick Van Dyke Show">
     <title lang="en">The Dick Van Dyke Show</title>
     <desc lang="en">Rob feels guilty seeing another dentist.</desc>
@@ -57682,6 +57741,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
   <programme start="20260821080500 +0800" stop="20260821085200 +0800" channel="The Doctors">
     <title lang="en">The Doctors</title>
     <desc lang="en">Bad breath; digestion; itchy skin.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CEVSWnquL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085200 +0800" stop="20260821093700 +0800" channel="The Doctors">
+    <title lang="en">The Doctors</title>
+    <desc lang="en">What to know in an emergency.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CEVSWnquL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821000000 +0800" stop="20260821010000 +0800" channel="The Dog Whisperer with Cesar Millan">
@@ -57828,11 +57892,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <title lang="en">Ed Sullivan's Rock 'N' Roll Classics</title>
     <desc lang="en">Ed Sullivan presents performances by The Beatles, The 5th Dimension, Jackie Wilson, and more!</desc>
     <icon src="https://m.media-amazon.com/images/I/A1DDmL+E2hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821001900 +0800" stop="20260821005200 +0800" channel="The Emeril Lagasse Channel">
-    <title lang="en">Emeril Cooks</title>
-    <desc lang="en">Picanha with homemade chimichurri sauce.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1aMXD4eDZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005200 +0800" stop="20260821012600 +0800" channel="The Emeril Lagasse Channel">
     <title lang="en">Emeril Cooks</title>
@@ -57984,11 +58043,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Man disappears going to a deal.</desc>
     <icon src="https://m.media-amazon.com/images/I/71MEzrB1KjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821000000 +0800" stop="20260821005100 +0800" channel="The First 48 by A&amp;E">
-    <title lang="en">The First 48</title>
-    <desc lang="en">A young man is found dead in an apartment complex; a woman is killed.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1rU5JADrkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821014300 +0800" channel="The First 48 by A&amp;E">
     <title lang="en">The First 48</title>
     <desc lang="en">A detective tracks a sadistic killer.</desc>
@@ -58132,6 +58186,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
   <programme start="20260821082500 +0800" stop="20260821085300 +0800" channel="The Girls Next Door">
     <title lang="en">The Girls Next Door</title>
     <desc lang="en">Holly poses nude.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81DOe0L19zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085300 +0800" stop="20260821091800 +0800" channel="The Girls Next Door">
+    <title lang="en">The Girls Next Door</title>
+    <desc lang="en">Holly becomes a photo editor.</desc>
     <icon src="https://m.media-amazon.com/images/I/81DOe0L19zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821004200 +0800" stop="20260821015600 +0800" channel="The Grand Tour">
@@ -59369,6 +59428,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">A billboard is placed on the roof.</desc>
     <icon src="https://m.media-amazon.com/images/I/81+THNB2goL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085100 +0800" stop="20260821091900 +0800" channel="The Real McCoys">
+    <title lang="en">The Real McCoys</title>
+    <desc lang="en">Grampa joins a lodge.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+THNB2goL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821002808 +0800" stop="20260821011737 +0800" channel="The Repair Shop">
     <title lang="en">The Repair Shop</title>
     <desc lang="en">Richard restores a brooch; Mark and Dom fix a lamp; Brenton fixes brass.</desc>
@@ -60444,11 +60508,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Bob focuses on other projects.</desc>
     <icon src="https://m.media-amazon.com/images/I/A16+tN5FKaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821000000 +0800" stop="20260821005100 +0800" channel="Tiny House Nation">
-    <title lang="en">Tiny House Nation</title>
-    <desc lang="en">A tiny house for two bird trainers.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XC0RLyuuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821014200 +0800" channel="Tiny House Nation">
     <title lang="en">Tiny House Nation</title>
     <desc lang="en">A 207 sq. foot mobile prairie cottage.</desc>
@@ -61389,11 +61448,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">A love story between a young girl wishing to become a professional model and a rich boy who works in a fashion house and falls in love with her.</desc>
     <icon src="https://m.media-amazon.com/images/I/91T5GG12DdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821002559 +0800" stop="20260821005142 +0800" channel="True Crime &amp; Scandals">
-    <title lang="en">Live PD: Police Patrol</title>
-    <desc lang="en">An unfiltered look at police departments in action.</desc>
-    <icon src="https://m.media-amazon.com/images/I/7150SLmDW+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005142 +0800" stop="20260821011735 +0800" channel="True Crime &amp; Scandals">
     <title lang="en">Live PD: Police Patrol</title>
     <desc lang="en">An unfiltered look at police departments in action.</desc>
@@ -62150,6 +62204,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <icon src="https://m.media-amazon.com/images/I/91xcGedqvuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821082800 +0800" stop="20260821085300 +0800" channel="Una Familia de Diez">
+    <title lang="en">Una familia de diez</title>
+    <desc lang="en">A Mexican television series that centers on the López household.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xcGedqvuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085300 +0800" stop="20260821091700 +0800" channel="Una Familia de Diez">
     <title lang="en">Una familia de diez</title>
     <desc lang="en">A Mexican television series that centers on the López household.</desc>
     <icon src="https://m.media-amazon.com/images/I/91xcGedqvuL._UR1920,1080_FMpng_.jpg"/>
@@ -63003,11 +63062,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <title lang="en">40/29 News at 4</title>
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <icon src="https://m.media-amazon.com/images/I/71en0PUd-cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260820235300 +0800" stop="20260821005100 +0800" channel="Very Baltimore by WBAL-TV">
-    <title lang="en">11 News Today</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91jduwTMdsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821005100 +0800" stop="20260821015100 +0800" channel="Very Baltimore by WBAL-TV">
     <title lang="en">11 News Today</title>
@@ -63864,6 +63918,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Stay informed with local breaking news and headlines.</desc>
     <icon src="https://m.media-amazon.com/images/I/81W-geoJkZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
+  <programme start="20260821085200 +0800" stop="20260821095200 +0800" channel="Very Milwaukee by WISN 12">
+    <title lang="en">WISN 12 News This Morning 5AM</title>
+    <desc lang="en">Stay informed with local breaking news and headlines.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81W-geoJkZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
   <programme start="20260821000800 +0800" stop="20260821010700 +0800" channel="Very New Hampshire by WMUR">
     <title lang="en">News 9 at Four</title>
     <desc lang="en">Stay informed with the news and headlines.</desc>
@@ -63932,7 +63991,7 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
   <programme start="20260821015100 +0800" stop="20260821021900 +0800" channel="Very New Mexico by KOAT">
     <title lang="en">Action 7 News Live</title>
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Ry3FyclLL._UR1920,1080_FMpng_.jpg"/>
+    <icon src="https://m.media-amazon.com/images/I/91HTghBY6HL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821021900 +0800" stop="20260821024900 +0800" channel="Very New Mexico by KOAT">
     <title lang="en">7 News at 10 PM</title>
@@ -64809,11 +64868,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">The day's major news events.</desc>
     <icon src="https://m.media-amazon.com/images/I/71S0YW+T6bL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821002300 +0800" stop="20260821005300 +0800" channel="Wanted: Dead or Alive">
-    <title lang="en">Wanted: Dead or Alive</title>
-    <desc lang="en">Josh exposes a conspiracy.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dOI4QY2NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005300 +0800" stop="20260821012300 +0800" channel="Wanted: Dead or Alive">
     <title lang="en">Wanted: Dead or Alive</title>
     <desc lang="en">Two killers ambush Josh.</desc>
@@ -64892,6 +64946,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
   <programme start="20260821082300 +0800" stop="20260821085300 +0800" channel="Wanted: Dead or Alive">
     <title lang="en">Wanted: Dead or Alive</title>
     <desc lang="en">Sister's ransom.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dOI4QY2NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085300 +0800" stop="20260821092300 +0800" channel="Wanted: Dead or Alive">
+    <title lang="en">Wanted: Dead or Alive</title>
+    <desc lang="en">Josh's friend is threatened.</desc>
     <icon src="https://m.media-amazon.com/images/I/81dOI4QY2NL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260820233000 +0800" stop="20260821010000 +0800" channel="WAPA+">
@@ -65659,11 +65718,6 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <desc lang="en">Newscast covering important local topics and events.</desc>
     <icon src="https://m.media-amazon.com/images/I/61NhVtmpSkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821002700 +0800" stop="20260821005100 +0800" channel="Who Wants to be a Millionaire">
-    <title lang="en">Who Wants to Be a Millionaire</title>
-    <desc lang="en">Contestants use lifelines to answer trivia questions for cash prizes.</desc>
-    <icon src="https://m.media-amazon.com/images/S/combee-overridden-images/c/6/2/c622600792c858a0909de639042f2783._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260821005100 +0800" stop="20260821011400 +0800" channel="Who Wants to be a Millionaire">
     <title lang="en">Who Wants to Be a Millionaire</title>
     <desc lang="en">Contestants use lifelines to answer trivia questions for cash prizes.</desc>
@@ -66165,14 +66219,14 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
     <icon src="https://m.media-amazon.com/images/I/81qIRrUEFiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821000000 +0800" stop="20260821080000 +0800" channel="World Surf League 24/7">
-    <title lang="en">Surfing</title>
-    <desc lang="en">From Huntington Beach, Calif.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91tzx-Kh-kL._UR1920,1080_FMpng_.jpg"/>
+    <title lang="en">Linear Programming</title>
+    <desc lang="en">Linear Programming</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/Station_Cover_Art_WSL_3840_x_2160_px1._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260821080000 +0800" stop="20260821103000 +0800" channel="World Surf League 24/7">
-    <title lang="en">Surfing</title>
-    <desc lang="en">From Huntington Beach, Calif.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91tzx-Kh-kL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260821080000 +0800" stop="20260821100000 +0800" channel="World Surf League 24/7">
+    <title lang="en">Linear Programming</title>
+    <desc lang="en">Linear Programming</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/Station_Cover_Art_WSL_3840_x_2160_px1._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821003300 +0800" stop="20260821012400 +0800" channel="World's Most Evil Killers">
     <title lang="en">World's Most Evil Prisoners</title>
@@ -67042,6 +67096,11 @@ And in headlines, U.S. Attorney Jeanine Pirro has convened a special grand jury 
   <programme start="20260821080000 +0800" stop="20260821085100 +0800" channel="Xtreme Outdoor">
     <title lang="en">Mountain Men</title>
     <desc lang="en">The Mountain Men are back.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qvnHXPn9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821085100 +0800" stop="20260821094200 +0800" channel="Xtreme Outdoor">
+    <title lang="en">Mountain Men</title>
+    <desc lang="en">Tom defends his home against a bear.</desc>
     <icon src="https://m.media-amazon.com/images/I/81qvnHXPn9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260821003000 +0800" stop="20260821010000 +0800" channel="Yahoo Finance Live">
