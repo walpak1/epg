@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="amazon-livetv-epg">
+  <channel id="ABC7 Los Angeles">
+    <display-name lang="en">ABC7 Los Angeles</display-name>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abcotv_kabc_los_angeles._SL500_FMpng_.png"/>
+  </channel>
   <channel id="All Women's Sports Network">
     <display-name lang="en">All Women's Sports Network</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AllWomensNetwork_white_logo._SL500_FMpng_.png"/>
@@ -23,10 +27,6 @@
   <channel id="beIN SPORTS en Español">
     <display-name lang="en">beIN SPORTS en Español</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/beIN_US_es._SL500_FMpng_.png"/>
-  </channel>
-  <channel id="Billiard TV">
-    <display-name lang="en">Billiard TV</display-name>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/4.22_billiard._SL500_FMpng_.png"/>
   </channel>
   <channel id="Bizarre Foods with Andrew Zimmern">
     <display-name lang="en">Bizarre Foods with Andrew Zimmern</display-name>
@@ -72,6 +72,14 @@
     <display-name lang="en">CNN Stream</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CNN_Stream_Station_Logo_Art_1920x1080._SL500_FMpng_.png"/>
   </channel>
+  <channel id="Discovery Turbo TV">
+    <display-name lang="en">Discovery Turbo TV</display-name>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Background/DiscoveryTurboTV_1920x1080_White._SL500_FMpng_.png"/>
+  </channel>
+  <channel id="DP World Tour">
+    <display-name lang="en">DP World Tour</display-name>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/DP_World_tour._SL500_FMpng_.png"/>
+  </channel>
   <channel id="EarthXtra">
     <display-name lang="en">EarthXtra</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/EarthXtra-Channel_Logo_Art-1920x1080._SL500_FMpng_.png"/>
@@ -79,10 +87,6 @@
   <channel id="FIFA +">
     <display-name lang="en">FIFA +</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/FIFA_Logo_Amazon_Station-Logo_1920x1080._SL500_FMpng_.png"/>
-  </channel>
-  <channel id="Fubo Sports Network">
-    <display-name lang="en">Fubo Sports Network</display-name>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fubo-Channel_Logo_Art._SL500_FMpng_.png"/>
   </channel>
   <channel id="FV The Wicked Tuna Channel US">
     <display-name lang="en">FV The Wicked Tuna Channel US</display-name>
@@ -120,10 +124,6 @@
     <display-name lang="en">PGA TOUR</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/pga_tour._SL500_FMpng_.png"/>
   </channel>
-  <channel id="RugbyPass TV">
-    <display-name lang="en">RugbyPass TV</display-name>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/rugbypass._SL500_FMpng_.png"/>
-  </channel>
   <channel id="Ryz Sports">
     <display-name lang="en">Ryz Sports</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/RyzSports_Logo_3840x2160_white._SL500_FMpng_.png"/>
@@ -160,20 +160,70 @@
     <display-name lang="en">Zona TUDN</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/zona_tudn._SL500_FMpng_.png"/>
   </channel>
-  <programme start="20260823130000 +0800" stop="20260823151500 +0800" channel="All Women's Sports Network">
-    <title lang="en">Professional Softball League</title>
-    <desc lang="en">Coverage of the professional fastpitch league featuring teams from throughout the United States.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71zUZ3PBrKL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823200000 +0800" stop="20260823210000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">Eyewitness News 5AM</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81PVghTtYmL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823151500 +0800" stop="20260823173000 +0800" channel="All Women's Sports Network">
-    <title lang="en">Professional Softball League</title>
-    <desc lang="en">Coverage of the professional fastpitch league featuring teams from throughout the United States.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71zUZ3PBrKL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823210000 +0800" stop="20260823213000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">Good Morning America - Top Stories</title>
+    <desc lang="en">The stories from the GMA team - Robin Roberts, George Stephanopoulos and Michael Strahan.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+9FdCmWjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823173000 +0800" stop="20260823182800 +0800" channel="All Women's Sports Network">
-    <title lang="en">Bushido Battleground</title>
-    <desc lang="en">UWGI World Champion Bre Stikkleman takes on BJJ purple belt Gabby Romero in a Jiu Jitsu battle.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81miV84KS0L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823213000 +0800" stop="20260823220000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">The Weekend View</title>
+    <desc lang="en">Information and entertainment; discussing news and events.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1iXJusDpaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823220000 +0800" stop="20260823230000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">Eyewitness News 7AM</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wyQohSfML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823230000 +0800" stop="20260823233000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">ABC News Live Weekends</title>
+    <desc lang="en">Breaking news coverage and live video.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1ESimrB0PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823233000 +0800" stop="20260824000000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">GMA Life</title>
+    <desc lang="en">A weekly roundup of the best lifestyle content from &quot;Good Morning America.&quot;</desc>
+    <icon src="https://m.media-amazon.com/images/I/81FAGy1ufqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824000000 +0800" stop="20260824010000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">Eyewitness News 9AM</title>
+    <desc lang="en">News</desc>
+    <icon src="https://m.media-amazon.com/images/I/81v4V-ustyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824010000 +0800" stop="20260824013000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">On The Red Carpet: And The Emmy Nominees Are..</title>
+    <desc lang="en">Inside the 2026 Emmy Race; interviews with the nominated stars of TV's best shows.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1tk5syDIXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824013000 +0800" stop="20260824020000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">On The Red Carpet at D23</title>
+    <desc lang="en">News</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1SfSUWMPIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824020000 +0800" stop="20260824030000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">Eyewitness News 9AM</title>
+    <desc lang="en">News</desc>
+    <icon src="https://m.media-amazon.com/images/I/81v4V-ustyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824030000 +0800" stop="20260824033000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">ABC News Live Weekend: Sunday</title>
+    <desc lang="en">Breaking news coverage and live video.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A19ZjZfdzXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824033000 +0800" stop="20260824040000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">ABC News Live Weekend</title>
+    <desc lang="en">Breaking news coverage and live video.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A19ZjZfdzXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824040000 +0800" stop="20260824043000 +0800" channel="ABC7 Los Angeles">
+    <title lang="en">On The Red Carpet at D23</title>
+    <desc lang="en">News</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1SfSUWMPIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823182800 +0800" stop="20260823210000 +0800" channel="All Women's Sports Network">
     <title lang="en">2026 WBSC Women's Baseball World Cup - Group Stage</title>
@@ -190,15 +240,10 @@
     <desc lang="en">3XBA '26: Spokane Hoopfest Finals.</desc>
     <icon src="https://m.media-amazon.com/images/I/91A9i1HT9AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823124500 +0800" stop="20260823151500 +0800" channel="AMC">
-    <title lang="en">My Cousin Vinny</title>
-    <desc lang="en">Vinny tries to help his cousin and a friend.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71WWxtqGkCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823151500 +0800" stop="20260823181500 +0800" channel="AMC">
-    <title lang="en">The Devil's Advocate</title>
-    <desc lang="en">An attorney goes to work at a law firm run by Satan.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Q2f+Q32-L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824011500 +0800" stop="20260824045700 +0800" channel="All Women's Sports Network">
+    <title lang="en">Disc Golf Pro Tour</title>
+    <desc lang="en">The top professionals compete for prize money on the Disc Golf Pro Tour.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1EdMoSKC5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823181500 +0800" stop="20260823211500 +0800" channel="AMC">
     <title lang="en">The Rock</title>
@@ -210,40 +255,15 @@
     <desc lang="en">Every action has consequences.</desc>
     <icon src="https://m.media-amazon.com/images/I/C1xpx0JUZxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823142600 +0800" stop="20260823151000 +0800" channel="AMC +">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <desc lang="en">Maggie and Luis look for resources.</desc>
-    <icon src="https://m.media-amazon.com/images/I/D1Ej5I+T0eL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824001500 +0800" stop="20260824040000 +0800" channel="AMC">
+    <title lang="en">John Wick: Chapter 4</title>
+    <desc lang="en">John Wick takes his fight against the High Table global.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xkflkezrL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823151000 +0800" stop="20260823160300 +0800" channel="AMC +">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <desc lang="en">Maggie and Negan are back.</desc>
-    <icon src="https://m.media-amazon.com/images/I/D1Ej5I+T0eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823160300 +0800" stop="20260823165200 +0800" channel="AMC +">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <desc lang="en">Maggie and Negan deal with old enemies.</desc>
-    <icon src="https://m.media-amazon.com/images/I/D1Ej5I+T0eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823165200 +0800" stop="20260823173500 +0800" channel="AMC +">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <desc lang="en">Maggie gets an overflow of survivors.</desc>
-    <icon src="https://m.media-amazon.com/images/I/D1Ej5I+T0eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823173500 +0800" stop="20260823181800 +0800" channel="AMC +">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <desc lang="en">Maggie and Luis look for resources.</desc>
-    <icon src="https://m.media-amazon.com/images/I/D1Ej5I+T0eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823181800 +0800" stop="20260823190300 +0800" channel="AMC +">
-    <title lang="en">The Walking Dead</title>
-    <desc lang="en">Connie and Virgil hide in a house.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823190300 +0800" stop="20260823194900 +0800" channel="AMC +">
-    <title lang="en">The Walking Dead</title>
-    <desc lang="en">Daryl hunts with Leah.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824040000 +0800" stop="20260824064500 +0800" channel="AMC">
+    <title lang="en">John Wick: Chapter 2</title>
+    <desc lang="en">Bulletproof.</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1LpMbMvvYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823194900 +0800" stop="20260823203100 +0800" channel="AMC +">
     <title lang="en">The Walking Dead</title>
@@ -265,30 +285,45 @@
     <desc lang="en">Stephanie mysteriously goes missing.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823125900 +0800" stop="20260823151400 +0800" channel="BBC America">
-    <title lang="en">Galaxy Quest</title>
-    <desc lang="en">Aliens kidnap actors from an old sci-fi TV series.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91oo9Z7Sb5L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823225000 +0800" stop="20260823233600 +0800" channel="AMC +">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Pamela tours the communities.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823151400 +0800" stop="20260823163700 +0800" channel="BBC America">
-    <title lang="en">Planet Earth: Asia</title>
-    <desc lang="en">Exploring the seas of Asia.</desc>
-    <icon src="https://m.media-amazon.com/images/I/D1EC-tKtPkL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823233600 +0800" stop="20260824002100 +0800" channel="AMC +">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Aaron discusses a mission with Gabriel.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823163700 +0800" stop="20260823180000 +0800" channel="BBC America">
-    <title lang="en">Planet Earth: Asia</title>
-    <desc lang="en">Explore the mountains of Asia.</desc>
-    <icon src="https://m.media-amazon.com/images/I/D1EC-tKtPkL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824002100 +0800" stop="20260824010500 +0800" channel="AMC +">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Daryl and Rosita pull a heist.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823180000 +0800" stop="20260823190000 +0800" channel="BBC America">
-    <title lang="en">Planet Earth III</title>
-    <desc lang="en">Animals learn to adapt.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C18rZN4jbbL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010500 +0800" stop="20260824015100 +0800" channel="AMC +">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Hornsby and Daryl confront Maggie.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823190000 +0800" stop="20260823200000 +0800" channel="BBC America">
-    <title lang="en">Planet Earth III</title>
-    <desc lang="en">Exploring forests as hidden worlds.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C18rZN4jbbL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824015100 +0800" stop="20260824023300 +0800" channel="AMC +">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Maggie defends Hilltop.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824023300 +0800" stop="20260824031800 +0800" channel="AMC +">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">The Commonwealth locks down.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824031800 +0800" stop="20260824040400 +0800" channel="AMC +">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Founders Day gets under way.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824040400 +0800" stop="20260824045300 +0800" channel="AMC +">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Eugene goes on the run.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1FTbNyMQ3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823210000 +0800" channel="BBC America">
     <title lang="en">Planet Earth II</title>
@@ -305,60 +340,25 @@
     <desc lang="en">The secretive lives of mountain animals.</desc>
     <icon src="https://m.media-amazon.com/images/I/A158KNFNrXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823113000 +0800" stop="20260823143000 +0800" channel="beIN SPORTS">
-    <title lang="en">ONE Friday Fights 161</title>
-    <desc lang="en">Mixed martial arts</desc>
-    <icon src="https://m.media-amazon.com/images/I/91mIpGx3m4L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230000 +0800" stop="20260824000000 +0800" channel="BBC America">
+    <title lang="en">Planet Earth II</title>
+    <desc lang="en">Grasslands support lots of wildlife.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A158KNFNrXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823143000 +0800" stop="20260823153000 +0800" channel="beIN SPORTS">
-    <title lang="en">ONE Vault</title>
-    <desc lang="en">Women's MMA took center stage at ONE: Empower, the first full-female card in ONE history.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1SBLWVvqrL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000000 +0800" stop="20260824010000 +0800" channel="BBC America">
+    <title lang="en">Planet Earth II</title>
+    <desc lang="en">The jungles of Brazil and Costa Rica.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A158KNFNrXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153000 +0800" stop="20260823160000 +0800" channel="beIN SPORTS">
-    <title lang="en">Relieve your foot pain with WalkFit!</title>
-    <desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1QIyBEvV0L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010000 +0800" stop="20260824040000 +0800" channel="BBC America">
+    <title lang="en">Starship Troopers</title>
+    <desc lang="en">Young troops battle a vicious army of gigantic insects.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81X90XJ858L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823160000 +0800" stop="20260823163000 +0800" channel="beIN SPORTS">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823163000 +0800" stop="20260823170000 +0800" channel="beIN SPORTS">
-    <title lang="en">Relieve your foot pain with WalkFit!</title>
-    <desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1QIyBEvV0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823170000 +0800" stop="20260823173000 +0800" channel="beIN SPORTS">
-    <title lang="en">Relieve your foot pain with WalkFit!</title>
-    <desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1QIyBEvV0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823173000 +0800" stop="20260823180000 +0800" channel="beIN SPORTS">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823180000 +0800" stop="20260823183000 +0800" channel="beIN SPORTS">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823183000 +0800" stop="20260823190000 +0800" channel="beIN SPORTS">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823190000 +0800" stop="20260823193000 +0800" channel="beIN SPORTS">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823193000 +0800" stop="20260823200000 +0800" channel="beIN SPORTS">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824040000 +0800" stop="20260824070000 +0800" channel="BBC America">
+    <title lang="en">The Fifth Element</title>
+    <desc lang="en">A New York cabby tries to save Earth in 2259.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1WIrjudMML._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823203000 +0800" channel="beIN SPORTS">
     <title lang="en">90 in 30</title>
@@ -375,60 +375,40 @@
     <desc lang="en">From Raymond Kopa Stadium in Angers, Pays de la Loire, France.</desc>
     <icon src="https://m.media-amazon.com/images/I/71OBRbI5ivL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823130000 +0800" stop="20260823150000 +0800" channel="beIN SPORTS en Español">
+  <programme start="20260823230000 +0800" stop="20260823230500 +0800" channel="beIN SPORTS">
+    <title lang="en">The Express Preview</title>
+    <desc lang="en">Special previews, halftime, and postgame coverage for the matches broadcast live on beIN SPORTS.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rnfOWPHJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823230500 +0800" stop="20260824011500 +0800" channel="beIN SPORTS">
     <title lang="en">French Ligue 1 Soccer</title>
-    <desc lang="en">From Bollaert-Delelis Stadium in Lens, Nord-Pas-de-Calais, France.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81VETykMiOL._UR1920,1080_FMpng_.jpg"/>
+    <desc lang="en">From Stade Océane in Le Havre, Seine-Maritime, France.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71sht8ibtNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823150000 +0800" stop="20260823153000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824011500 +0800" stop="20260824013000 +0800" channel="beIN SPORTS">
+    <title lang="en">Best of beIN Sports</title>
+    <desc lang="en">Soccer</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1FjIT7AOTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153000 +0800" stop="20260823160000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824013000 +0800" stop="20260824020000 +0800" channel="beIN SPORTS">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">The week's best matches in 30 minutes of action, delivering the most exciting and key plays.</desc>
+    <icon src="https://m.media-amazon.com/images/I/61XRfYHmfpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823160000 +0800" stop="20260823163000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824020000 +0800" stop="20260824023000 +0800" channel="beIN SPORTS">
+    <title lang="en">This is Paris</title>
+    <desc lang="en">All the information related to the Paris Saint-Germain team.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1q5mwhBwUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823163000 +0800" stop="20260823170000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824023000 +0800" stop="20260824023500 +0800" channel="beIN SPORTS">
+    <title lang="en">The Express Preview</title>
+    <desc lang="en">Special previews, halftime, and postgame coverage for the matches broadcast live on beIN SPORTS.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rnfOWPHJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170000 +0800" stop="20260823173000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823173000 +0800" stop="20260823180000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823180000 +0800" stop="20260823183000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823183000 +0800" stop="20260823190000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823190000 +0800" stop="20260823193000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823193000 +0800" stop="20260823200000 +0800" channel="beIN SPORTS en Español">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71TTxgmJnFL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824023500 +0800" stop="20260824044500 +0800" channel="beIN SPORTS">
+    <title lang="en">French Ligue 1 Soccer</title>
+    <desc lang="en">From Roazhon Park in Rennes, Brittany, France.</desc>
+    <icon src="https://m.media-amazon.com/images/I/817pUyHw2UL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823203000 +0800" channel="beIN SPORTS en Español">
     <title lang="en">Paid Programming</title>
@@ -445,60 +425,40 @@
     <desc lang="en">From Raymond Kopa Stadium in Angers, Pays de la Loire, France.</desc>
     <icon src="https://m.media-amazon.com/images/I/71OBRbI5ivL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823123000 +0800" stop="20260823143000 +0800" channel="Billiard TV">
-    <title lang="en">Euro Tour: Longoni Italian Open Billiards</title>
-    <desc lang="en">Semifinals: Niels Feijen vs. Joshua Filler from Feb. 8, 2025.</desc>
-    <icon src="https://m.media-amazon.com/images/I/61vUORrD+pL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230000 +0800" stop="20260823230500 +0800" channel="beIN SPORTS en Español">
+    <title lang="en">The Express Preview</title>
+    <desc lang="en">Special previews, halftime, and postgame coverage for the matches broadcast live on beIN SPORTS.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rnfOWPHJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823143000 +0800" stop="20260823160000 +0800" channel="Billiard TV">
-    <title lang="en">Euro Tour: Longoni Italian Open Billiards</title>
-    <desc lang="en">Final: Stefan Kasper vs. Joshua Filler from Feb. 8, 2025.</desc>
-    <icon src="https://m.media-amazon.com/images/I/61vUORrD+pL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230500 +0800" stop="20260824011500 +0800" channel="beIN SPORTS en Español">
+    <title lang="en">French Ligue 1 Soccer</title>
+    <desc lang="en">From Stade Océane in Le Havre, Seine-Maritime, France.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71sht8ibtNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823160000 +0800" stop="20260823220000 +0800" channel="Billiard TV">
-    <title lang="en">2026 Predator EuroTour Longoni Open</title>
-    <desc lang="en">Coverage of the 2026 Predator EuroTour Longoni Open.</desc>
-    <icon src="https://m.media-amazon.com/images/I/616Ns64SQsL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824011500 +0800" stop="20260824013000 +0800" channel="beIN SPORTS en Español">
+    <title lang="en">Best of beIN</title>
+    <desc lang="en">Show</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1brV3XZEoL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823220000 +0800" stop="20260824040000 +0800" channel="Billiard TV">
-    <title lang="en">2026 Predator EuroTour Longoni Open</title>
-    <desc lang="en">Coverage of the 2026 Predator EuroTour Longoni Open.</desc>
-    <icon src="https://m.media-amazon.com/images/I/616Ns64SQsL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824013000 +0800" stop="20260824020000 +0800" channel="beIN SPORTS en Español">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">The week's best matches in 30 minutes of action, delivering the most exciting and key plays.</desc>
+    <icon src="https://m.media-amazon.com/images/I/61XRfYHmfpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823135846 +0800" stop="20260823144854 +0800" channel="Bizarre Foods with Andrew Zimmern">
-    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
-    <desc lang="en">Andrew Zimmern's tour of the world continues with a trip through Spain.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824020000 +0800" stop="20260824023000 +0800" channel="beIN SPORTS en Español">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">The week's best matches in 30 minutes of action, delivering the most exciting and key plays.</desc>
+    <icon src="https://m.media-amazon.com/images/I/61XRfYHmfpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823144854 +0800" stop="20260823153926 +0800" channel="Bizarre Foods with Andrew Zimmern">
-    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
-    <desc lang="en">Andrew puts the top down as he takes a slow cruise across the Gulf Coast.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824023000 +0800" stop="20260824023500 +0800" channel="beIN SPORTS en Español">
+    <title lang="en">The Express Preview</title>
+    <desc lang="en">Special previews, halftime, and postgame coverage for the matches broadcast live on beIN SPORTS.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rnfOWPHJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153926 +0800" stop="20260823162928 +0800" channel="Bizarre Foods with Andrew Zimmern">
-    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
-    <desc lang="en">Andrew experiences Haggis, neeps and tatties, cockles and whelks in the UK.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823162928 +0800" stop="20260823171800 +0800" channel="Bizarre Foods with Andrew Zimmern">
-    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
-    <desc lang="en">Andrew heads to Trinidad and Tobago for curried iguana and cow heel soup.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823171800 +0800" stop="20260823180601 +0800" channel="Bizarre Foods with Andrew Zimmern">
-    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
-    <desc lang="en">Andrew is on an adventure in the wild Alaskan bush.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823180601 +0800" stop="20260823185433 +0800" channel="Bizarre Foods with Andrew Zimmern">
-    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
-    <desc lang="en">Andrew's off to Taiwan--a culture that loves to eat flavorful food.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823185433 +0800" stop="20260823194301 +0800" channel="Bizarre Foods with Andrew Zimmern">
-    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
-    <desc lang="en">Andrew dives into the Vietnamese culture.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824023500 +0800" stop="20260824044500 +0800" channel="beIN SPORTS en Español">
+    <title lang="en">French Ligue 1 Soccer</title>
+    <desc lang="en">From Roazhon Park in Rennes, Brittany, France.</desc>
+    <icon src="https://m.media-amazon.com/images/I/817pUyHw2UL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823194301 +0800" stop="20260823203133 +0800" channel="Bizarre Foods with Andrew Zimmern">
     <title lang="en">Bizarre Foods with Andrew Zimmern</title>
@@ -520,25 +480,40 @@
     <desc lang="en">Andrew relives some of the best bites from the first season.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823130000 +0800" stop="20260823143000 +0800" channel="CBS Sports Golazo Network">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1rc3UlySPL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230406 +0800" stop="20260823235335 +0800" channel="Bizarre Foods with Andrew Zimmern">
+    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
+    <desc lang="en">Andrew is in Beijing, home to one of the world's most vibrant food scenes.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823143000 +0800" stop="20260823160000 +0800" channel="CBS Sports Golazo Network">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1rc3UlySPL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823235335 +0800" stop="20260824004506 +0800" channel="Bizarre Foods with Andrew Zimmern">
+    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
+    <desc lang="en">Join Andrew in Iceland as he samples such delicacies as rotted shark.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823160000 +0800" stop="20260823173000 +0800" channel="CBS Sports Golazo Network">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1rc3UlySPL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824004506 +0800" stop="20260824013437 +0800" channel="Bizarre Foods with Andrew Zimmern">
+    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
+    <desc lang="en">Andrew tours St. Petersburg, the cultural capital of Russia.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823173000 +0800" stop="20260823190000 +0800" channel="CBS Sports Golazo Network">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1rc3UlySPL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824013437 +0800" stop="20260824022409 +0800" channel="Bizarre Foods with Andrew Zimmern">
+    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
+    <desc lang="en">Join Andrew on a culinary tour through the place he calls home: Minnesota.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824022409 +0800" stop="20260824031539 +0800" channel="Bizarre Foods with Andrew Zimmern">
+    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
+    <desc lang="en">Andrew reveals Bolivia's culinary secrets on a trip of amazing discoveries.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824031539 +0800" stop="20260824040512 +0800" channel="Bizarre Foods with Andrew Zimmern">
+    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
+    <desc lang="en">Andrew's touring the world's longest, thinnest country, Chile.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824040512 +0800" stop="20260824045442 +0800" channel="Bizarre Foods with Andrew Zimmern">
+    <title lang="en">Bizarre Foods with Andrew Zimmern</title>
+    <desc lang="en">Join Andrew in Guangzhou, the bizarre-food capital of China.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1fLY1gme1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823190000 +0800" stop="20260823210000 +0800" channel="CBS Sports Golazo Network">
     <title lang="en">English Championship Soccer</title>
@@ -560,30 +535,55 @@
     <desc lang="en">Sports</desc>
     <icon src="https://m.media-amazon.com/images/S/combee-overridden-images/e/4/b/e4b11da3441905d9a311533c1a7596b1._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823130000 +0800" stop="20260823180000 +0800" channel="CBS Sports HQ">
-    <title lang="en">Scoreboard Final</title>
-    <desc lang="en">CBS Sports HQ analysts break down the day's top stories and highlights.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B15hj81zZpL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823223000 +0800" stop="20260823230000 +0800" channel="CBS Sports Golazo Network">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">Magazine show previewing the Serie A matchday.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fdmXkAJtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823230000 +0800" stop="20260823233000 +0800" channel="CBS Sports Golazo Network">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <desc lang="en">Sports</desc>
+    <icon src="https://m.media-amazon.com/images/S/combee-overridden-images/e/4/b/e4b11da3441905d9a311533c1a7596b1._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823233000 +0800" stop="20260824000000 +0800" channel="CBS Sports Golazo Network">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">Magazine show previewing the Serie A matchday.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fdmXkAJtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824000000 +0800" stop="20260824003000 +0800" channel="CBS Sports Golazo Network">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <desc lang="en">Sports</desc>
+    <icon src="https://m.media-amazon.com/images/S/combee-overridden-images/e/4/b/e4b11da3441905d9a311533c1a7596b1._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824003000 +0800" stop="20260824023000 +0800" channel="CBS Sports Golazo Network">
+    <title lang="en">Italian Serie A Soccer</title>
+    <desc lang="en">From Stadio Benito Stirpe in Frosinone, Lazio, Italy.</desc>
+    <icon src="https://m.media-amazon.com/images/I/712V8QNZMrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824023000 +0800" stop="20260824024500 +0800" channel="CBS Sports Golazo Network">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <desc lang="en">Sports</desc>
+    <icon src="https://m.media-amazon.com/images/S/combee-overridden-images/e/4/b/e4b11da3441905d9a311533c1a7596b1._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824024500 +0800" stop="20260824050000 +0800" channel="CBS Sports Golazo Network">
+    <title lang="en">Italian Serie A Soccer</title>
+    <desc lang="en">From New Balance Arena in Bergamo, Bergamo, Italy.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r8EZFcBiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823180000 +0800" stop="20260823230000 +0800" channel="CBS Sports HQ">
     <title lang="en">Scoreboard Final</title>
     <desc lang="en">CBS Sports HQ analysts break down the day's top stories and highlights.</desc>
     <icon src="https://m.media-amazon.com/images/I/B15hj81zZpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823130900 +0800" stop="20260823153400 +0800" channel="Cinemax Action">
-    <title lang="en">The Flash</title>
-    <desc lang="en">Worlds collide.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1F97skGmYL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230000 +0800" stop="20260824000000 +0800" channel="CBS Sports HQ">
+    <title lang="en">Gameday Pregame LIVE</title>
+    <desc lang="en">CBS Sports' experts and analysts preview today's top matchups.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1AxT9Zi6AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153400 +0800" stop="20260823173900 +0800" channel="Cinemax Action">
-    <title lang="en">Black Adam</title>
-    <desc lang="en">Power born from rage.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1cFSxwUYPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823173900 +0800" stop="20260823200100 +0800" channel="Cinemax Action">
-    <title lang="en">All Eyez on Me</title>
-    <desc lang="en">The untold story of Tupac Shakur.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mP0usPhhL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000000 +0800" stop="20260824060000 +0800" channel="CBS Sports HQ">
+    <title lang="en">HQ Gameday Scoreboard</title>
+    <desc lang="en">Stick with HQ all weekend for in-game updates, postgame recaps and previews of upcoming matchups.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1+CGl4sKXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200100 +0800" stop="20260823212300 +0800" channel="Cinemax Action">
     <title lang="en">Godzilla, King of the Monsters!</title>
@@ -595,20 +595,20 @@
     <desc lang="en">Two police officers try to find a stolen turbocharger.</desc>
     <icon src="https://m.media-amazon.com/images/I/81Pz8R8ZeiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823130500 +0800" stop="20260823150300 +0800" channel="Cinemax Classics">
-    <title lang="en">Mississippi Masala</title>
-    <desc lang="en">An East Indian and her lover, a black man, face racism.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1x0GtvzuNL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230200 +0800" stop="20260824005400 +0800" channel="Cinemax Action">
+    <title lang="en">Repo Men</title>
+    <desc lang="en">Consider them your final notice.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81v6889Wz9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823150300 +0800" stop="20260823170000 +0800" channel="Cinemax Classics">
-    <title lang="en">Time Bandits</title>
-    <desc lang="en">Cosmic dwarfs take boy on time-and-space odyssey.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LLdzuW7kL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824005400 +0800" stop="20260824025100 +0800" channel="Cinemax Action">
+    <title lang="en">Ghost Dog: The Way of the Samurai</title>
+    <desc lang="en">An assassin adheres to an unusual code of honor.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91604ICgnSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170000 +0800" stop="20260823182400 +0800" channel="Cinemax Classics">
-    <title lang="en">Godzilla vs. Megalon</title>
-    <desc lang="en">Godzilla comes to the rescue when Megalon threatens Japan.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1XYy9Q4rhL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824025100 +0800" stop="20260824045500 +0800" channel="Cinemax Action">
+    <title lang="en">Prometheus</title>
+    <desc lang="en">The search for our beginning could lead to our end.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Ux9QCYiiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823182400 +0800" stop="20260823210800 +0800" channel="Cinemax Classics">
     <title lang="en">The Last Emperor</title>
@@ -620,20 +620,25 @@
     <desc lang="en">When the moon is full, the legend comes to life.</desc>
     <icon src="https://m.media-amazon.com/images/I/91bj6N2zZtL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823135900 +0800" stop="20260823153100 +0800" channel="Cinemax HD East">
-    <title lang="en">Sunshine Cleaning</title>
-    <desc lang="en">Life's a messy business.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WEfctApYL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823225100 +0800" stop="20260824001300 +0800" channel="Cinemax Classics">
+    <title lang="en">Godzilla Raids Again</title>
+    <desc lang="en">Prehistoric monsters Godzilla and Anguirus battle it out.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1R7Ceg9MiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153100 +0800" stop="20260823170300 +0800" channel="Cinemax HD East">
-    <title lang="en">A Thousand Words</title>
-    <desc lang="en">A literary agent's loquaciousness will be his undoing.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1zYQXpKXYL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824001300 +0800" stop="20260824022200 +0800" channel="Cinemax Classics">
+    <title lang="en">Night on Earth</title>
+    <desc lang="en">Five encounters occur in five taxis in five global cities.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71V7fLkt12L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170300 +0800" stop="20260823192200 +0800" channel="Cinemax HD East">
-    <title lang="en">Queer</title>
-    <desc lang="en">A solitary man falls for a beautiful, elusive ex-soldier.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1q1SG+5vzL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824022200 +0800" stop="20260824035000 +0800" channel="Cinemax Classics">
+    <title lang="en">Halloween: The Curse of Michael Myers</title>
+    <desc lang="en">An ancient Celtic ritual drives a killer.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91s6z-h8OIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824035000 +0800" stop="20260824051700 +0800" channel="Cinemax Classics">
+    <title lang="en">Halloween H20: 20 Years Later</title>
+    <desc lang="en">Laurie Strode faces her psychotic brother once more.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GRNV3KlQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823192200 +0800" stop="20260823210400 +0800" channel="Cinemax HD East">
     <title lang="en">It's Kind of a Funny Story</title>
@@ -645,20 +650,20 @@
     <desc lang="en">You'll be glad you came.</desc>
     <icon src="https://m.media-amazon.com/images/I/811ZwAeRsqL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823122900 +0800" stop="20260823143400 +0800" channel="Cinemax Hits">
-    <title lang="en">Batman &amp; Robin</title>
-    <desc lang="en">The dynamic duo returns to take on an icy villain.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1FhQy79dUL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230700 +0800" stop="20260824010200 +0800" channel="Cinemax HD East">
+    <title lang="en">Spare Parts</title>
+    <desc lang="en">It takes a team to build a dream.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BAIm2RojL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823143400 +0800" stop="20260823163600 +0800" channel="Cinemax Hits">
-    <title lang="en">Batman Forever</title>
-    <desc lang="en">Batman faces threats from the Riddler and Harvey Two-Face.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1gipJfDsVL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010200 +0800" stop="20260824024400 +0800" channel="Cinemax HD East">
+    <title lang="en">The Switch</title>
+    <desc lang="en">Based on the short story &quot;Baster&quot; by Jeffrey Eugenides.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81lvJvpuz6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823163600 +0800" stop="20260823184600 +0800" channel="Cinemax Hits">
-    <title lang="en">Blue Beetle</title>
-    <desc lang="en">Based on the comic books.</desc>
-    <icon src="https://m.media-amazon.com/images/I/D1gF5SkYa7L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824024400 +0800" stop="20260824054600 +0800" channel="Cinemax HD East">
+    <title lang="en">Horizon: An American Saga: Chapter 1</title>
+    <desc lang="en">A gruff cowboy goes on the run with a prostitute and a boy.</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1154uYDvRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823184600 +0800" stop="20260823204300 +0800" channel="Cinemax Hits">
     <title lang="en">Pirate Radio</title>
@@ -675,25 +680,20 @@
     <desc lang="en">When life falls apart, friends keep it together.</desc>
     <icon src="https://m.media-amazon.com/images/I/91eaqPYnIRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823134300 +0800" stop="20260823153500 +0800" channel="Cinemax West">
-    <title lang="en">Colette</title>
-    <desc lang="en">Based on a true story. History is about to change.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LbpXThxcL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824001800 +0800" stop="20260824015200 +0800" channel="Cinemax Hits">
+    <title lang="en">Joshy</title>
+    <desc lang="en">Wedding's off. Party's on.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LMcADGWLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153500 +0800" stop="20260823165900 +0800" channel="Cinemax West">
-    <title lang="en">The Art of Getting By</title>
-    <desc lang="en">A disaffected teen meets a kindred spirit.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91K2N4AunLL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824015200 +0800" stop="20260824032800 +0800" channel="Cinemax Hits">
+    <title lang="en">Just Friends</title>
+    <desc lang="en">He loves her. She loves him not.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81jt1u-SMML._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823165900 +0800" stop="20260823183100 +0800" channel="Cinemax West">
-    <title lang="en">Sunshine Cleaning</title>
-    <desc lang="en">Life's a messy business.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WEfctApYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823183100 +0800" stop="20260823200300 +0800" channel="Cinemax West">
-    <title lang="en">A Thousand Words</title>
-    <desc lang="en">A literary agent's loquaciousness will be his undoing.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1zYQXpKXYL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824032800 +0800" stop="20260824052700 +0800" channel="Cinemax Hits">
+    <title lang="en">The Lobster</title>
+    <desc lang="en">Single people must find a mate or be turned into animals.</desc>
+    <icon src="https://m.media-amazon.com/images/I/810P89NEKmL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200300 +0800" stop="20260823222200 +0800" channel="Cinemax West">
     <title lang="en">Queer</title>
@@ -705,50 +705,30 @@
     <desc lang="en">Based on the novel by Ned Vizzini.</desc>
     <icon src="https://m.media-amazon.com/images/I/81Zcatff3oL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823100000 +0800" stop="20260823180000 +0800" channel="CNN International">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ID9YmxhNL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000400 +0800" stop="20260824020700 +0800" channel="Cinemax West">
+    <title lang="en">Girls Trip</title>
+    <desc lang="en">You'll be glad you came.</desc>
+    <icon src="https://m.media-amazon.com/images/I/811ZwAeRsqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824020700 +0800" stop="20260824040200 +0800" channel="Cinemax West">
+    <title lang="en">Spare Parts</title>
+    <desc lang="en">It takes a team to build a dream.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BAIm2RojL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824040200 +0800" stop="20260824054400 +0800" channel="Cinemax West">
+    <title lang="en">The Switch</title>
+    <desc lang="en">Based on the short story &quot;Baster&quot; by Jeffrey Eugenides.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81lvJvpuz6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823180000 +0800" stop="20260824020000 +0800" channel="CNN International">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.</desc>
     <icon src="https://m.media-amazon.com/images/I/71ID9YmxhNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823135741 +0800" stop="20260823144847 +0800" channel="CNN Originals">
-    <title lang="en">Anthony Bourdain: Parts Unknown</title>
-    <desc lang="en">Tony travels to South Africa and discovers Johannesburg's culture and food.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823144847 +0800" stop="20260823153938 +0800" channel="CNN Originals">
-    <title lang="en">Anthony Bourdain: Parts Unknown</title>
-    <desc lang="en">Tony travels to Tokyo in search of the city's dark, extreme underside.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823153938 +0800" stop="20260823163043 +0800" channel="CNN Originals">
-    <title lang="en">Anthony Bourdain: Parts Unknown</title>
-    <desc lang="en">Tony explores the past, present and future of the Motor City.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823163043 +0800" stop="20260823172150 +0800" channel="CNN Originals">
-    <title lang="en">Anthony Bourdain: Parts Unknown</title>
-    <desc lang="en">Tony dives into the state of Punjab, India, starting off in Amritsar.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823172150 +0800" stop="20260823181256 +0800" channel="CNN Originals">
-    <title lang="en">Anthony Bourdain: Parts Unknown</title>
-    <desc lang="en">Anthony Bourdain travels to Las Vegas with food author Michael Ruhlman.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823181256 +0800" stop="20260823190355 +0800" channel="CNN Originals">
-    <title lang="en">Anthony Bourdain: Parts Unknown</title>
-    <desc lang="en">Tony and noted chef Daniel Boulud visit Boulud's hometown of Lyon, France.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823190355 +0800" stop="20260823195500 +0800" channel="CNN Originals">
-    <title lang="en">Anthony Bourdain: Parts Unknown</title>
-    <desc lang="en">Tony travels to Mexico City, Oaxaca and Cuernavaca in Mexico.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824020000 +0800" stop="20260824100000 +0800" channel="CNN International">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ID9YmxhNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823195500 +0800" stop="20260823204606 +0800" channel="CNN Originals">
     <title lang="en">Anthony Bourdain: Parts Unknown</title>
@@ -770,35 +750,40 @@
     <desc lang="en">Anthony explores the beauty and cuisine of a country once known as Burma.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823140000 +0800" stop="20260823150000 +0800" channel="CNN Stream">
-    <title lang="en">CNN Newsroom Live</title>
-    <desc lang="en">The latest news from around the world.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71v+KRr-QNL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823231823 +0800" stop="20260824000829 +0800" channel="CNN Originals">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Tony takes Los Angeles, where he zeroes in on an area known as Koreatown.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823150000 +0800" stop="20260823160000 +0800" channel="CNN Stream">
-    <title lang="en">CNN Newsroom Live</title>
-    <desc lang="en">The latest news from around the world.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71v+KRr-QNL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000829 +0800" stop="20260824005835 +0800" channel="CNN Originals">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Tony explores Colombia from the mountains to the Caribbean coast.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823160000 +0800" stop="20260823170000 +0800" channel="CNN Stream">
-    <title lang="en">CNN Newsroom Live</title>
-    <desc lang="en">The latest news from around the world.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71v+KRr-QNL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824005835 +0800" stop="20260824014835 +0800" channel="CNN Originals">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">In Quebec, Tony ice fishes and spends time with two brilliant chefs.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170000 +0800" stop="20260823180000 +0800" channel="CNN Stream">
-    <title lang="en">CNN Newsroom Live</title>
-    <desc lang="en">The latest news from around the world.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71v+KRr-QNL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824014835 +0800" stop="20260824023840 +0800" channel="CNN Originals">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Tony visits the Interzone, where artists escaped from Western prohibitions.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823180000 +0800" stop="20260823190000 +0800" channel="CNN Stream">
-    <title lang="en">CNN This Morning Weekend</title>
-    <desc lang="en">Stories from across the world and refreshing conversations with Victor Blackwell.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1Vuqc6i-YL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824023840 +0800" stop="20260824032846 +0800" channel="CNN Originals">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Libya pulses with hip-hop, Italian restaurants and post-war uncertainty.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823190000 +0800" stop="20260823200000 +0800" channel="CNN Stream">
-    <title lang="en">CNN This Morning Weekend</title>
-    <desc lang="en">Stories from across the world and refreshing conversations with Victor Blackwell.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1Vuqc6i-YL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824032846 +0800" stop="20260824041941 +0800" channel="CNN Originals">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Tony searches the indigenous Andes for rare variety of wild cocoa.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824041941 +0800" stop="20260824051045 +0800" channel="CNN Originals">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <desc lang="en">Tony visits Congo, once an industrial power, now crumbling into chaos.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1VYYGkHGcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823210000 +0800" channel="CNN Stream">
     <title lang="en">Inside Politics With Manu Raju</title>
@@ -815,35 +800,155 @@
     <desc lang="en">Fareed Zakaria brings viewers his insights and analysis, and interviews Victor Cha, Evan Osnos, Katharine Hayhoe and Daron Acemoglu for the 'Global Public Square.'</desc>
     <icon src="https://m.media-amazon.com/images/I/A1-T8OSYxbL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823141500 +0800" stop="20260823153000 +0800" channel="EarthXtra">
-    <title lang="en">Future From Above</title>
-    <desc lang="en">Humans redesign and regenerate Earth.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Kz+UUkVvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230000 +0800" stop="20260824000000 +0800" channel="CNN Stream">
+    <title lang="en">Inside Politics With Manu Raju</title>
+    <desc lang="en">Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and a news-making interview with Dan Osborn.</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1Wz+MGxHsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153000 +0800" stop="20260823162600 +0800" channel="EarthXtra">
-    <title lang="en">Future From Above</title>
-    <desc lang="en">Discover how humans can redesign our future planet.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Kz+UUkVvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000000 +0800" stop="20260824010000 +0800" channel="CNN Stream">
+    <title lang="en">State of the Union With Jake Tapper and Dana Bash</title>
+    <desc lang="en">Jake Tapper and Dana Bash bring together Sec. McMahon, Jonathan Haidt and Mike Pence to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <icon src="https://m.media-amazon.com/images/I/814dsTNLYXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823162600 +0800" stop="20260823172000 +0800" channel="EarthXtra">
-    <title lang="en">The Climate Restorers</title>
-    <desc lang="en">An overview of climate restoration.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91VSbykbLlL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010000 +0800" stop="20260824020000 +0800" channel="CNN Stream">
+    <title lang="en">Fareed Zakaria GPS</title>
+    <desc lang="en">Fareed Zakaria brings viewers his insights and analysis, and interviews Victor Cha, Evan Osnos, Katharine Hayhoe and Daron Acemoglu for the 'Global Public Square.'</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1-T8OSYxbL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823172000 +0800" stop="20260823181400 +0800" channel="EarthXtra">
-    <title lang="en">The Climate Restorers</title>
-    <desc lang="en">How Blue carbon is captured and moved.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91VSbykbLlL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824020000 +0800" stop="20260824030000 +0800" channel="CNN Stream">
+    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
+    <desc lang="en">The latest news and information from around the world with Fredricka Whitfield.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71lZ2oFthqL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823181400 +0800" stop="20260823190800 +0800" channel="EarthXtra">
-    <title lang="en">The Climate Restorers</title>
-    <desc lang="en">Studying construction industry's part.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91VSbykbLlL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824030000 +0800" stop="20260824040000 +0800" channel="CNN Stream">
+    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
+    <desc lang="en">The latest news and information from around the world with Fredricka Whitfield.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71lZ2oFthqL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823190800 +0800" stop="20260823200200 +0800" channel="EarthXtra">
-    <title lang="en">The Climate Restorers</title>
-    <desc lang="en">How can we restore the climate?</desc>
-    <icon src="https://m.media-amazon.com/images/I/91VSbykbLlL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824040000 +0800" stop="20260824050000 +0800" channel="CNN Stream">
+    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
+    <desc lang="en">The latest news and information from around the world with Fredricka Whitfield.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71lZ2oFthqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823200802 +0800" stop="20260823203317 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve searches at All American Classics, a popular salvage yard in WA.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823203317 +0800" stop="20260823205833 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve Magnate finds an AMC Marlin and a Plymouth sedan in Denton, Texas.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823205833 +0800" stop="20260823212348 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve travels to Arizona to uncover a '60 Lincoln Continental Mark V.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823212348 +0800" stop="20260823214903 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve Magnante discovers a '61 Chevy Impala bubble top in Georgia.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823214903 +0800" stop="20260823221508 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve Magnante has with a new mission from David Freiburger himself.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823221508 +0800" stop="20260823224113 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve's in Fresno turning up buried treasure and projects for Roadkill.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823224113 +0800" stop="20260823230718 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve strikes gold in the form of a rusty 1964 Ford Galaxie XL.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823230718 +0800" stop="20260823233241 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve battles the dense overgrowth at a junkyard in South Carolina.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823233241 +0800" stop="20260823235732 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve is on a mission to find something small that can handle a big engine.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823235732 +0800" stop="20260824002252 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">L&amp;L Classic Auto in Idaho is packed with things that go fast.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824002252 +0800" stop="20260824004839 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve is back at Turner's Auto Wrecking in Fresno seeking more treasures.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824004839 +0800" stop="20260824011518 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve visits Sundell Auto Specialties, strict purveyors of GM muscle.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824011518 +0800" stop="20260824014134 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve explores a pair of workhorses before taking a look at some ponies.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824014134 +0800" stop="20260824020515 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve finds a '58 Chevy Delray and a '66 Studebaker Wagonaire in Arizona.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824020515 +0800" stop="20260824023106 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve loves to talk about the birds and bees -- from Plymouth and Dodge.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824023106 +0800" stop="20260824025655 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve explores AMC's transition from basic vehicles to muscle cars.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824025655 +0800" stop="20260824032246 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve visits Cadillac King to explore Cadillacs of all shapes and sizes.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824032246 +0800" stop="20260824034835 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve is Chevy hunting and snooping around a number of unique project cars.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824034835 +0800" stop="20260824041425 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve explores differences between Mopar body types in design and appeal.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824041425 +0800" stop="20260824044015 +0800" channel="Discovery Turbo TV">
+    <title lang="en">Roadkill's Junkyard Gold</title>
+    <desc lang="en">Steve is in Colorado to dive into AMC's rich history of 4x4 vehicles.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1aMxWNihpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823165500 +0800" stop="20260823221700 +0800" channel="DP World Tour">
+    <title lang="en">BMW International Open Highlights</title>
+    <desc lang="en">The best moments from the BMW International series.</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1occKHu4jL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823221700 +0800" stop="20260824001600 +0800" channel="DP World Tour">
+    <title lang="en">Catalunya Championship</title>
+    <desc lang="en">The DP World Tour is back in Europe, in the Catalan capital Barcelona.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81L8U+V8otL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824001600 +0800" stop="20260824025300 +0800" channel="DP World Tour">
+    <title lang="en">Catalunya Championship</title>
+    <desc lang="en">The DP World Tour is back in Europe, in the Catalan capital Barcelona.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81L8U+V8otL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824025300 +0800" stop="20260824043800 +0800" channel="DP World Tour">
+    <title lang="en">Catalunya Championship</title>
+    <desc lang="en">The DP World Tour is back in Europe, in the Catalan capital Barcelona.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81L8U+V8otL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200200 +0800" stop="20260823205800 +0800" channel="EarthXtra">
     <title lang="en">Future From Above</title>
@@ -860,20 +965,40 @@
     <desc lang="en">Humans redesign and regenerate Earth.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Kz+UUkVvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823141400 +0800" stop="20260823165700 +0800" channel="FIFA +">
-    <title lang="en">2010 FIFA World Cup</title>
-    <desc lang="en">Watch the full match replay from the match between Uruguay and Ghana.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B13gv0bgPUL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823225000 +0800" stop="20260823234600 +0800" channel="EarthXtra">
+    <title lang="en">Future From Above</title>
+    <desc lang="en">Discover how humans can redesign our future planet.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Kz+UUkVvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823165700 +0800" stop="20260823185000 +0800" channel="FIFA +">
-    <title lang="en">2014 FIFA World Cup</title>
-    <desc lang="en">From Belo Horizonte, Brazil.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uYraYtP7L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823234600 +0800" stop="20260824004000 +0800" channel="EarthXtra">
+    <title lang="en">The Climate Restorers</title>
+    <desc lang="en">An overview of climate restoration.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91VSbykbLlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823185000 +0800" stop="20260823193200 +0800" channel="FIFA +">
-    <title lang="en">FACTS</title>
-    <desc lang="en">England prevails over Germany FR in a thrilling finale at Wembley.</desc>
-    <icon src="https://m.media-amazon.com/images/I/61l1YDpufmL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824004000 +0800" stop="20260824013400 +0800" channel="EarthXtra">
+    <title lang="en">The Climate Restorers</title>
+    <desc lang="en">How Blue carbon is captured and moved.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91VSbykbLlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824013400 +0800" stop="20260824022800 +0800" channel="EarthXtra">
+    <title lang="en">The Climate Restorers</title>
+    <desc lang="en">Studying construction industry's part.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91VSbykbLlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824022800 +0800" stop="20260824032200 +0800" channel="EarthXtra">
+    <title lang="en">The Climate Restorers</title>
+    <desc lang="en">How can we restore the climate?</desc>
+    <icon src="https://m.media-amazon.com/images/I/91VSbykbLlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824032200 +0800" stop="20260824041800 +0800" channel="EarthXtra">
+    <title lang="en">Future From Above</title>
+    <desc lang="en">The quest for a limitless energy source.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Kz+UUkVvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824041800 +0800" stop="20260824051400 +0800" channel="EarthXtra">
+    <title lang="en">Future From Above</title>
+    <desc lang="en">AI and ancient wisdom.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Kz+UUkVvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823193200 +0800" stop="20260823215800 +0800" channel="FIFA +">
     <title lang="en">FIFA World Cup Soccer</title>
@@ -885,65 +1010,15 @@
     <desc lang="en">A look at the qualified teams, intercontinental play-off details, dates, venues and more.</desc>
     <icon src="https://m.media-amazon.com/images/I/91+U6T3u3nL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823140000 +0800" stop="20260823170000 +0800" channel="Fubo Sports Network">
-    <title lang="en">Peak Fighting Championship</title>
-    <desc lang="en">Headlining the monumental card is former Dallas Cowboy defensive end and UFC veteran Greg Hardy, who will face former Dana White's Contender Series veteran Phillip Latu in a must-see heavyweight showdown.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1kuyRsf7YL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823235000 +0800" stop="20260824023300 +0800" channel="FIFA +">
+    <title lang="en">2010 FIFA World Cup</title>
+    <desc lang="en">Watch the full match replay from the match between Uruguay and Ghana.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B13gv0bgPUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170000 +0800" stop="20260823173000 +0800" channel="Fubo Sports Network">
-    <title lang="en">Football's Greatest Stage</title>
-    <desc lang="en">Edson Arantes do Nascimento - or Pelé - is the greatest figure in football history.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zA5CB1ayL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823173000 +0800" stop="20260823180000 +0800" channel="Fubo Sports Network">
-    <title lang="en">Football's Greatest Stage</title>
-    <desc lang="en">The most prolific international goalscorer of all time defies age and logic to keep on scoring.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zA5CB1ayL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823180000 +0800" stop="20260823200000 +0800" channel="Fubo Sports Network">
-    <title lang="en">World Darts Federation</title>
-    <desc lang="en">Action from the 2023 WDF World Darts Championships semifinals, at the iconic home of darts, Lakeside in England.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91pi4K77QFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823200000 +0800" stop="20260823220000 +0800" channel="Fubo Sports Network">
-    <title lang="en">Becoming the G.O.A.T.: The Tom Brady Story</title>
-    <desc lang="en">The story of NFL quarterback Tom Brady.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1FGQ6JtSpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823220000 +0800" stop="20260824000000 +0800" channel="Fubo Sports Network">
-    <title lang="en">BIG3 Basketball</title>
-    <desc lang="en">From Moda Center in Portland, Ore.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81pdheC+XBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823142300 +0800" stop="20260823151900 +0800" channel="FV The Wicked Tuna Channel US">
-    <title lang="en">Wicked Tuna: Outer Banks</title>
-    <desc lang="en">Tyler chooses between risk and reward.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91V3GCSH-fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823151900 +0800" stop="20260823161400 +0800" channel="FV The Wicked Tuna Channel US">
-    <title lang="en">Wicked Tuna: Outer Banks</title>
-    <desc lang="en">Capt. Dave tries to salvage his season.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91V3GCSH-fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823161400 +0800" stop="20260823170900 +0800" channel="FV The Wicked Tuna Channel US">
-    <title lang="en">Wicked Tuna: Outer Banks</title>
-    <desc lang="en">The clock ticks down.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91V3GCSH-fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823170900 +0800" stop="20260823180400 +0800" channel="FV The Wicked Tuna Channel US">
-    <title lang="en">Wicked Tuna: Outer Banks</title>
-    <desc lang="en">New captains in the Southern fleet.</desc>
-    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823180400 +0800" stop="20260823185900 +0800" channel="FV The Wicked Tuna Channel US">
-    <title lang="en">Wicked Tuna: Outer Banks</title>
-    <desc lang="en">A Southern crew is stranded.</desc>
-    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823185900 +0800" stop="20260823195400 +0800" channel="FV The Wicked Tuna Channel US">
-    <title lang="en">Wicked Tuna: Outer Banks</title>
-    <desc lang="en">Rasta Rocket has something to prove.</desc>
-    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824023300 +0800" stop="20260824042600 +0800" channel="FIFA +">
+    <title lang="en">2014 FIFA World Cup</title>
+    <desc lang="en">From Belo Horizonte, Brazil.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uYraYtP7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823195400 +0800" stop="20260823204900 +0800" channel="FV The Wicked Tuna Channel US">
     <title lang="en">Wicked Tuna: Outer Banks</title>
@@ -960,50 +1035,40 @@
     <desc lang="en">Captains push limits.</desc>
     <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823141558 +0800" stop="20260823144656 +0800" channel="Game &amp; Fish TV">
-    <title lang="en">Wardens</title>
-    <desc lang="en">Busy 4th of July boat party patrol, opening day deer season, and a look behind counter at DNR's front office.</desc>
-    <icon src="https://m.media-amazon.com/images/I/718iV--9ioL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823224000 +0800" stop="20260823233500 +0800" channel="FV The Wicked Tuna Channel US">
+    <title lang="en">Wicked Tuna: Outer Banks</title>
+    <desc lang="en">The bluefin quota is extended.</desc>
+    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823144656 +0800" stop="20260823155038 +0800" channel="Game &amp; Fish TV">
-    <title lang="en">Wardens</title>
-    <desc lang="en">Montana Game Warden Bryan Golie helps when a hunter is injured. Wardens chase check-station violators.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71-7uzyv20L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823233500 +0800" stop="20260824003000 +0800" channel="FV The Wicked Tuna Channel US">
+    <title lang="en">Wicked Tuna: Outer Banks</title>
+    <desc lang="en">The boats endure rough weather.</desc>
+    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823155038 +0800" stop="20260823165415 +0800" channel="Game &amp; Fish TV">
-    <title lang="en">Wardens</title>
-    <desc lang="en">Wardens bust antler poachers, crack down on anglers cheating paddlefish and a warden handles partying campers.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1p-B+-jWBL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824003000 +0800" stop="20260824012500 +0800" channel="FV The Wicked Tuna Channel US">
+    <title lang="en">Wicked Tuna: Outer Banks</title>
+    <desc lang="en">A young crew is pitted against veterans.</desc>
+    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823165415 +0800" stop="20260823172502 +0800" channel="Game &amp; Fish TV">
-    <title lang="en">Wardens</title>
-    <desc lang="en">A conservation officer in Michigan's District 6 encounters captive fawn as D2 officers patrol walleye anglers.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1p-B+-jWBL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824012500 +0800" stop="20260824022000 +0800" channel="FV The Wicked Tuna Channel US">
+    <title lang="en">Wicked Tuna: Outer Banks</title>
+    <desc lang="en">Southern fleet fights to keep the lead.</desc>
+    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823172502 +0800" stop="20260823175547 +0800" channel="Game &amp; Fish TV">
-    <title lang="en">Wardens</title>
-    <desc lang="en">On this episode, the Wardens investigate a possible elk harassment case, and a possible poaching in Montana.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1p-B+-jWBL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824022000 +0800" stop="20260824031500 +0800" channel="FV The Wicked Tuna Channel US">
+    <title lang="en">Wicked Tuna: Outer Banks</title>
+    <desc lang="en">One fish could make all the difference.</desc>
+    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823175547 +0800" stop="20260823182342 +0800" channel="Game &amp; Fish TV">
-    <title lang="en">Wardens</title>
-    <desc lang="en">Michigan: contest to win hunting licenses and $4000+ prizes; officers patrol summer boating and deer season.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1p-B+-jWBL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824031500 +0800" stop="20260824041100 +0800" channel="FV The Wicked Tuna Channel US">
+    <title lang="en">Wicked Tuna: Outer Banks</title>
+    <desc lang="en">The fleet is feeling homesick.</desc>
+    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823182342 +0800" stop="20260823185407 +0800" channel="Game &amp; Fish TV">
-    <title lang="en">Hooked on Africa Best of</title>
-    <desc lang="en">Mother Nature and the fishing gods team up yearly to send anglers to KZN's waters; garping Carp on dry flies.</desc>
-    <icon src="https://m.media-amazon.com/images/I/711VEWBSIuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823185407 +0800" stop="20260823192534 +0800" channel="Game &amp; Fish TV">
-    <title lang="en">Hooked on Africa Best of</title>
-    <desc lang="en">On the untouched waters of Africa Banks in the Seychelles, we discover the food chain the waters support.</desc>
-    <icon src="https://m.media-amazon.com/images/I/71knioaUroL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823192534 +0800" stop="20260823195705 +0800" channel="Game &amp; Fish TV">
-    <title lang="en">Hooked on Africa Best of</title>
-    <desc lang="en">The test of nerves, patience, adrenaline and skill... teasing billfish to the transom, presenting the fly.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ESN4o0nTL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824041100 +0800" stop="20260824050600 +0800" channel="FV The Wicked Tuna Channel US">
+    <title lang="en">Wicked Tuna: Outer Banks</title>
+    <desc lang="en">A storm threatens the season.</desc>
+    <icon src="https://m.media-amazon.com/images/I/8119MWSXwfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823195705 +0800" stop="20260823202832 +0800" channel="Game &amp; Fish TV">
     <title lang="en">Hooked on Africa Best of</title>
@@ -1030,55 +1095,65 @@
     <desc lang="en">Royal Flush: a hand that beats all; we track team faces as they race to land five freshwater species in a day.</desc>
     <icon src="https://m.media-amazon.com/images/I/71OeSoutivL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823133000 +0800" stop="20260823153000 +0800" channel="IFC">
-    <title lang="en">Planes, Trains and Automobiles</title>
-    <desc lang="en">A stuffy man shares transportation with a perky salesman.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81DybIks9AL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823223102 +0800" stop="20260823230111 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Wildfly Best of</title>
+    <desc lang="en">The Orange is South Africa's largest fresh water eco system. Wildfly's obsession as they drift down waterway.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71WCbCx-tPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153000 +0800" stop="20260823160000 +0800" channel="IFC">
-    <title lang="en">Night Court</title>
-    <desc lang="en">Dan battles an attorney who tricked him.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zVZijy8DL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230111 +0800" stop="20260823233122 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Wildfly Best of</title>
+    <desc lang="en">The Maldives has a reputation as an idyllic holiday destination, and this resort exemplifies that.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71r8v8JnQHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823160000 +0800" stop="20260823163000 +0800" channel="IFC">
-    <title lang="en">Night Court</title>
-    <desc lang="en">Dan fights for his professional life.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zVZijy8DL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823233122 +0800" stop="20260824000250 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">The Speargun Hunter Team go Hawaiian style with master speargun hunter and Hawaiian local Dr. Daryl Wong.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fpqpr97qL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823163000 +0800" stop="20260823170000 +0800" channel="IFC">
-    <title lang="en">Night Court</title>
-    <desc lang="en">A journalist admires Harry.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zVZijy8DL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000250 +0800" stop="20260824003411 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">This week on Speargun Hunter it's part 2 of our Hawaiian style adventure.</desc>
+    <icon src="https://m.media-amazon.com/images/I/51GDsC4ltBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170000 +0800" stop="20260823173000 +0800" channel="IFC">
-    <title lang="en">Night Court</title>
-    <desc lang="en">Christine's beau breaks their dates.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zVZijy8DL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824003411 +0800" stop="20260824010536 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">This week on Speargun Hunter, we prowl the waters of south Florida with US national spear champ Mike Hickey.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71lDq6n2m+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823173000 +0800" stop="20260823180000 +0800" channel="IFC">
-    <title lang="en">Night Court</title>
-    <desc lang="en">Bull chains himself to a theater.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zVZijy8DL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010536 +0800" stop="20260824013657 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">This week Speargun Hunter crew is in Gulf of Mexico with Helldivers as they search offshore rigs for big fish.</desc>
+    <icon src="https://m.media-amazon.com/images/I/61S9A5WxATL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823180000 +0800" stop="20260823183000 +0800" channel="IFC">
-    <title lang="en">Night Court</title>
-    <desc lang="en">Christine's boyfriend proposes.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zVZijy8DL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824013657 +0800" stop="20260824020819 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">Speargun Hunter team visits spots revealing ocean beauty and the danger of hunting large prey in open ocean.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XgTXxs-KL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823183000 +0800" stop="20260823190000 +0800" channel="IFC">
-    <title lang="en">Night Court</title>
-    <desc lang="en">Pregnant Christine considers quitting.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zVZijy8DL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824020819 +0800" stop="20260824023940 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">This week on Speargun Hunter we're going down to the dark and dangerous waters of the Gulf of Mexico.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71zpvTSmWWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823190000 +0800" stop="20260823193000 +0800" channel="IFC">
-    <title lang="en">Night Court</title>
-    <desc lang="en">A &quot;futureman&quot; holds Dan hostage.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zVZijy8DL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824023940 +0800" stop="20260824031103 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">We head out west to California and the Channel Islands. Speargun Hunter team seeks white sea bass.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71xzO2dRkbL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823193000 +0800" stop="20260823200000 +0800" channel="IFC">
-    <title lang="en">Night Court</title>
-    <desc lang="en">Christine and Dan on a talk show.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zVZijy8DL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824031103 +0800" stop="20260824034225 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">Week on Speargun Hunter, Chad Palan is the guest as they hunt wrecks and reefs off of Florida's Jupiter Beach.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71qq-aeEqcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824034225 +0800" stop="20260824041346 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">The Speargun Hunter team dives with Miguel Mojarra Gionovart, who came to States in an inner tube from Cuba.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71DsxgPQo-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824041346 +0800" stop="20260824044508 +0800" channel="Game &amp; Fish TV">
+    <title lang="en">Speargun Hunter</title>
+    <desc lang="en">Join us for another exciting episode of Speargun Hunter.</desc>
+    <icon src="https://m.media-amazon.com/images/I/61Wlb91JxKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823203000 +0800" channel="IFC">
     <title lang="en">Night Court</title>
@@ -1090,35 +1165,20 @@
     <desc lang="en">A stuffy man shares transportation with a perky salesman.</desc>
     <icon src="https://m.media-amazon.com/images/I/81DybIks9AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823142700 +0800" stop="20260823151800 +0800" channel="Life Below Zero">
-    <title lang="en">Life Below Zero</title>
-    <desc lang="en">The quest for sustenance in winter.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91BPRQL922L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823223000 +0800" stop="20260824004500 +0800" channel="IFC">
+    <title lang="en">Brewster's Millions</title>
+    <desc lang="en">Pitcher (Richard Pryor) inherits $300 million, with a catch.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91dGRYPTfUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823151800 +0800" stop="20260823161000 +0800" channel="Life Below Zero">
-    <title lang="en">Life Below Zero</title>
-    <desc lang="en">Gathering and managing scarce resources.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91BPRQL922L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824004500 +0800" stop="20260824024500 +0800" channel="IFC">
+    <title lang="en">Summer Rental</title>
+    <desc lang="en">An air traffic controller takes his family to Florida.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1-jLh3jUwL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823161000 +0800" stop="20260823170200 +0800" channel="Life Below Zero">
-    <title lang="en">Life Below Zero</title>
-    <desc lang="en">Six Alaskans must prepare for winter.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91BPRQL922L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823170200 +0800" stop="20260823175300 +0800" channel="Life Below Zero">
-    <title lang="en">Life Below Zero</title>
-    <desc lang="en">Mechanical breakdowns and predators.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91BPRQL922L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823175300 +0800" stop="20260823184500 +0800" channel="Life Below Zero">
-    <title lang="en">Life Below Zero</title>
-    <desc lang="en">A storm threatens Sue's fuel supply.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91BPRQL922L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823184500 +0800" stop="20260823193700 +0800" channel="Life Below Zero">
-    <title lang="en">Life Below Zero</title>
-    <desc lang="en">Kate joins Andy to collect lumber.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91BPRQL922L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824024500 +0800" stop="20260824044500 +0800" channel="IFC">
+    <title lang="en">The Great Outdoors</title>
+    <desc lang="en">A family getaway goes awry when obnoxious relatives arrive.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Vrbj7i0JL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823193700 +0800" stop="20260823202800 +0800" channel="Life Below Zero">
     <title lang="en">Life Below Zero</title>
@@ -1140,20 +1200,40 @@
     <desc lang="en">Erik rents out his property.</desc>
     <icon src="https://m.media-amazon.com/images/I/91BPRQL922L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823135900 +0800" stop="20260823153100 +0800" channel="MAX Latino East">
-    <title lang="en">Sunshine Cleaning</title>
-    <desc lang="en">Life's a messy business.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WEfctApYL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230000 +0800" stop="20260823235100 +0800" channel="Life Below Zero">
+    <title lang="en">Life Below Zero</title>
+    <desc lang="en">The changing season brings new dangers.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91J79dlBhkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153100 +0800" stop="20260823170300 +0800" channel="MAX Latino East">
-    <title lang="en">A Thousand Words</title>
-    <desc lang="en">A literary agent's loquaciousness will be his undoing.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1zYQXpKXYL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823235100 +0800" stop="20260824004200 +0800" channel="Life Below Zero">
+    <title lang="en">Life Below Zero</title>
+    <desc lang="en">Melting snow is affecting Sue's camp.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91J79dlBhkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170300 +0800" stop="20260823192200 +0800" channel="MAX Latino East">
-    <title lang="en">Queer</title>
-    <desc lang="en">A solitary man falls for a beautiful, elusive ex-soldier.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1q1SG+5vzL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824004200 +0800" stop="20260824013300 +0800" channel="Life Below Zero">
+    <title lang="en">Life Below Zero</title>
+    <desc lang="en">Guests at Kavik River Camp.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91J79dlBhkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824013300 +0800" stop="20260824022300 +0800" channel="Life Below Zero">
+    <title lang="en">Life Below Zero</title>
+    <desc lang="en">Glenn is running low on food.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91J79dlBhkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824022300 +0800" stop="20260824031400 +0800" channel="Life Below Zero">
+    <title lang="en">Life Below Zero</title>
+    <desc lang="en">Preparing for the upcoming winter.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91J79dlBhkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824031400 +0800" stop="20260824040400 +0800" channel="Life Below Zero">
+    <title lang="en">Life Below Zero</title>
+    <desc lang="en">Lack of food forces Glenn on long trip.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91J79dlBhkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824040400 +0800" stop="20260824045500 +0800" channel="Life Below Zero">
+    <title lang="en">Life Below Zero</title>
+    <desc lang="en">Struggles of four groups of Alaskans.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1nrtBExuzL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823192200 +0800" stop="20260823210400 +0800" channel="MAX Latino East">
     <title lang="en">It's Kind of a Funny Story</title>
@@ -1165,75 +1245,20 @@
     <desc lang="en">You'll be glad you came.</desc>
     <icon src="https://m.media-amazon.com/images/I/811ZwAeRsqL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823141201 +0800" stop="20260823143701 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">With the help of guide and friend Remi Warren, Steven Rinella gears up for a massive climb into New Zealand's Southern Alps in pursuit of Chamois and Tahr. The hunters will travel light and base out of an alpine hut to find animals Steve has never hunted. Things turns adventurous quickly; with an impassable glacial river between Steve and his goal. But with hard work, Steve experiences a do-it-yourself high country hunt like no other.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230700 +0800" stop="20260824010200 +0800" channel="MAX Latino East">
+    <title lang="en">Spare Parts</title>
+    <desc lang="en">It takes a team to build a dream.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BAIm2RojL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823143701 +0800" stop="20260823150401 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">With the help of guide and friend Remi Warren, Steven Rinella gears up for a massive climb into New Zealand's Southern Alps in pursuit of Chamois and Tahr. The hunters will travel light and base out of an alpine hut to find animals Steve has never hunted. Things turns adventurous quickly; with an impassable glacial river between Steve and his goal. But with hard work, Steve experiences a do-it-yourself high country hunt like no other.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010200 +0800" stop="20260824024400 +0800" channel="MAX Latino East">
+    <title lang="en">Switch</title>
+    <desc lang="en">A murdered womanizer comes back in the body of a woman.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QPM-GZzSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823150401 +0800" stop="20260823153101 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">The Pilgrims didn't get their turkey at the store and neither does Steven Rinella. On this special Holiday episode Steve cooks three enticing dishes: Wild Turkey Galantine, Smoked Black Bear Ham, and his take on the traditional Mincemeat Pie. Appetites will run large as Steve makes a special meal for his family and friends.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823153101 +0800" stop="20260823155546 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">Steven Rinella and special guest, the author Tim Ferriss, travel to the remote north slope of Alaska.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823155546 +0800" stop="20260823162032 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">After drawing one of the most coveted big game tags in North America, a Tok Management Area Dall sheep tag, Steven Rinella heads out for a truly rare and epic Alaskan experience. Along with his brother Danny and friend Paul, Steve is dropped deep into the Alaska Range. After a rugged hike through nasty weather, Steve's skills and fortitude are tested against his elusive, high-climbing quarry.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823162032 +0800" stop="20260823164513 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">After drawing one of the most coveted big game tags in North America a Tok Management Area Dall sheep tag Steven Rinella heads out for a truly rare and epic Alaskan experience. Along with his brother Danny and friend Paul, Steve is dropped deep into the Alaska Range. After a rugged hike through nasty weather, Steve's skills and fortitude are tested against his elusive, high-climbing quarry.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823164513 +0800" stop="20260823170958 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">Steven Rinella crosses the border into Mexico's desert to call in the Gould's wild turkey. Of the five turkey subspecies in North America, the Gould's is the largest but rarest. On this unique Mexican adventure, Steve finds exciting action for gobbling toms. With locally made charcoal at his disposal, he'll grill up a big, brined, delicious bird.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823170958 +0800" stop="20260823173442 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">Steven Rinella and his friend Ronny Boehme drive into the mountains of southwest Montana to hunt the high ridge tops for dusky grouse. Ronny's Bracco Italiano hunting dogs have been bred and trained for this work, but can Ronny handle the altitude? The duo prepares dusky grouse jalape√±o poppers and grouse fettuccine with a white wine and cream sauce.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823173442 +0800" stop="20260823175925 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">The goal on MeatEater has always been to make viewers feel like they're on a hunt with Steven Rinella, but on this two-part episode Rinella grants his viewers an all-access pass to see just how the MeatEater crew works together to make the show. Strap-in for some behind-the-scenes action.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823175925 +0800" stop="20260823182621 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">The goal on MeatEater has always been to make viewers feel like theyre on a hunt with Steven Rinella, but.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823182621 +0800" stop="20260823185106 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">Television personality Joe Rogan and his best friend, comedian Bryan Callen, join Steven Rinella for their very first hunt. On a float trip for mule deer through the rugged Missouri Breaks, this is as adventurous of a first hunt as anyone could hope for, and Steve's special guests are in for a memorable experience and delicious wild game field cooking in some gorgeous country.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823185106 +0800" stop="20260823191551 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">Television personality Joe Rogan and his best friend, comedian Bryan Callen, join Steven Rinella for their very first hunt. On a float trip for mule deer through the rugged Missouri Breaks, this is as adventurous of a first hunt as anyone could hope for, and Steve's special guests are in for a memorable experience and delicious wild game field cooking in some gorgeous country.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823191551 +0800" stop="20260823194236 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">While Steven Rinella has hunted for javelina, in this episode hes shown an entirely new tactic when his buddy.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823194236 +0800" stop="20260823200720 +0800" channel="Meateater">
-    <title lang="en">MeatEater</title>
-    <desc lang="en">Steven Rinella returns to his cherished boyhood stomping grounds along Michigans Muskegon River.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824024400 +0800" stop="20260824054600 +0800" channel="MAX Latino East">
+    <title lang="en">Horizon: An American Saga: Chapter 1</title>
+    <desc lang="en">A gruff cowboy goes on the run with a prostitute and a boy.</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1154uYDvRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200720 +0800" stop="20260823203509 +0800" channel="Meateater">
     <title lang="en">MeatEater</title>
@@ -1265,70 +1290,75 @@
     <desc lang="en">Steven Rinella breaks down an entire boar and shares some of his favorite recipes in this Cooking Special. Matt Weingarter helps steve make head cheese, pork skin cracklins, smoked pork butt, and a tied-roast boned-out ham. Each dish requires thoughtful butchering, processing, and cooking to execute to perfection.</desc>
     <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823141900 +0800" stop="20260823144500 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Naruto is on the brink of collapse.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823224054 +0800" stop="20260823230538 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steve and his buddy Ryan Callaghan float a remote river on a bull moose hunt.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823144500 +0800" stop="20260823151200 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Naruto uses the Summoning Jutsu.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230538 +0800" stop="20260823233022 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steve must deal with bad weather and fierce competition during a late-season central Montana elk hunt.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823151200 +0800" stop="20260823154000 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Gaara disappears from the inn and goes to Hidden Leaf Hospital.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823233022 +0800" stop="20260823235506 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steve and his buddy Ryan Callaghan, a British Columbia guide, hike into the steep backcountry of northern British Columbia in search of grizzlies and black bears. Among the beutiful alpine vista, this adventure includes some intense and up-close bear action ‚Äì almost too close.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823154000 +0800" stop="20260823160700 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">The day of the Exam arrives and Naruto's first opponent is Neji Hyuga.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823235506 +0800" stop="20260824001949 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steve and his buddy Ryan Callaghan, a British Columbia guide, hike into the steep backcountry of northern British Columbia in search of grizzlies and black bears. Among the beutiful alpine vista, this adventure includes some intense and up-close bear action ‚Äì almost too close.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823160700 +0800" stop="20260823163400 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Chunin Exam begins with the eight Ninja who qualified.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824001949 +0800" stop="20260824004434 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steven Rinella and his buddy Doug Duren give comedians Joe Rogan and Bryan Callen their first taste.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823163400 +0800" stop="20260823170200 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Naruto can't use his Shadow Clone Jutsu against Neji.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824004434 +0800" stop="20260824010919 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steven Rinella and his buddy Doug Duren hunt with Joe Rogan.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170200 +0800" stop="20260823172900 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Naruto and Neji's battle continues.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010919 +0800" stop="20260824013401 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steven Rinella and his friend and wild turkey specialist, Robert Abernathy, head to southern Florida to hunt.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823172900 +0800" stop="20260823175500 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Defeated by Naruto, Neji is taken to the hospital.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824013401 +0800" stop="20260824020045 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steven Rinella is invited by the Rocky Mountain Elk Foundation for a special opportunity to hunt elk during the rut in the mountainous coal country of southeastern Kentucky, a place where his hero Daniel Boone once roamed. This is Steve's first eastern elk hunt, and he quickly realizes that the rules of the game here are different. If he manages to track one down, he'll prepare what was supposedly Boone's favorite meal: elk liver.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823175500 +0800" stop="20260823182200 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Sasuke's match is postponed, and it is now Shikamaru's turn.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824020045 +0800" stop="20260824022530 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Join Steve on this Cooking Special as he dives into the best of Alaskan seafood, featuring shrimp, crab, fish, and clams. Learn how to make easy, delicious seafood recipes that showcase the fresh flavors of the sea. Whether you're a seasoned cook or a beginner, Steve's simple steps will help you prepare mouthwatering dishes that capture the essence of Alaskan waters.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823182200 +0800" stop="20260823185000 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Shikamaru, who has the upper hand against Temari, suddenly makes a surprising decision.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824022530 +0800" stop="20260824025215 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steve's annual quest for a giant mule deer buck continues this year in southwest Colorado. Here, Steve fills us in on his favorite critter, the mule deer. As he hunts will share his vast knowledge about these special western game animals including how to hunt, butcher, and most importantly how cook them-if he can put his tag on one.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823185000 +0800" stop="20260823191700 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Sasuke and Gaara's match begins and Gaara begins talking to himself, as if addressing someone.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824025215 +0800" stop="20260824031700 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Steven Rinella scratches his spring turkey itch this year as he visits Southeast Wisconsin to call in some big eastern Toms with his buddy Jerod Fink. The guys also plan to do some bow fishing after dark so they can enjoy a real Midwest turkey and fish fry.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823191700 +0800" stop="20260823194300 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Gaara cannot be easily defeated.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824031700 +0800" stop="20260824034144 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">Breakfast is the most important meal of the day, but is often overlooked by wild game cooks at home. Following a series of successful hunts across North America this past fall, Steve demonstrates how to cook a variety of breakfast classics using wild game ingredients‚Äîincluding black bear bacon, which Steve has never tried before.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823194300 +0800" stop="20260823201000 +0800" channel="Naruto">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Someone uses Genjutsu to put everyone in the arena to sleep.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824034144 +0800" stop="20260824040842 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">After four years of waiting, Steven Rinella draws a coveted, limited-entry public land bull elk tag for New Mexico's Gila National Forest. Steve heads into the backcountry on a solo backpack hunt where his biggest challenge is the vast expanse of hills covered in thick timber. This demanding hunt requires lots of glassing and even more hiking. Here, even just one missed opportunity could result in an empty freezer.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824040842 +0800" stop="20260824043325 +0800" channel="Meateater">
+    <title lang="en">MeatEater</title>
+    <desc lang="en">While its considered a long-standing hunting tradition to eat the heart of your first kill, the heart.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A15KJ0YZ-vL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823201000 +0800" stop="20260823203800 +0800" channel="Naruto">
     <title lang="en">Naruto</title>
@@ -1360,40 +1390,70 @@
     <desc lang="en">Shino shows up as Sasuke and Kankuro battle.</desc>
     <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823133900 +0800" stop="20260823144500 +0800" channel="NFL">
-    <title lang="en">Preseason Highlights</title>
-    <desc lang="en">Relive the biggest moments, top plays and standout performances from every game during Preseason Week 2.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1me-8kTYlL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823225400 +0800" stop="20260823232100 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Half of Gaara's body has been transformed and Sasuke continues the battle against him.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823144500 +0800" stop="20260823150300 +0800" channel="NFL">
-    <title lang="en">NFL Throwback</title>
-    <desc lang="en">See which Madden teams were the biggest cheat codes.</desc>
-    <icon src="https://m.media-amazon.com/images/I/912mbdWLynL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823232100 +0800" stop="20260823234900 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">By the time Naruto and Sakura catch up, Sasuke has collapsed.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823150300 +0800" stop="20260823152800 +0800" channel="NFL">
-    <title lang="en">NFL Highlights</title>
-    <desc lang="en">Highlights of the top blocks of 2025.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CFtbKPgbL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823234900 +0800" stop="20260824001700 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Naruto declares that he fights for his comrades but Gaara contends he fights only for himself.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823152800 +0800" stop="20260823160000 +0800" channel="NFL">
-    <title lang="en">NFL Highlights</title>
-    <desc lang="en">A list of the top 10 fantasy performances of 2025.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CFtbKPgbL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824001700 +0800" stop="20260824004200 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Naruto is helpless against Gaara's strength.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823160000 +0800" stop="20260823175000 +0800" channel="NFL">
-    <title lang="en">Preseason Highlights</title>
-    <desc lang="en">Relive the biggest moments, top plays and standout performances from every game during Preseason Week 2.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1me-8kTYlL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824004200 +0800" stop="20260824011000 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Gaara uses Playing Possum Jutsu.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823175000 +0800" stop="20260823194000 +0800" channel="NFL">
-    <title lang="en">Preseason Highlights</title>
-    <desc lang="en">Relive the biggest moments, top plays and standout performances from every game during Preseason Week 2.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1me-8kTYlL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824011000 +0800" stop="20260824013700 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Set on protecting Sakura, Naruto attacks Gaara over and over.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823194000 +0800" stop="20260823201000 +0800" channel="NFL">
-    <title lang="en">NFL Highlights</title>
-    <desc lang="en">Highlights from Los Angeles Rams quarterback Matthew Stafford's 2025 MVP winning season.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CFtbKPgbL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824013700 +0800" stop="20260824020500 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Orochimaru's plan to destroy the Village Hidden in the Leaves is thwarted.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824020500 +0800" stop="20260824023200 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Kakashi arrives just in time to help Asuma and Kurenai.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824023200 +0800" stop="20260824025800 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Jiraiya and Naruto are on a mission to find one of the legendary Sannin.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824025800 +0800" stop="20260824032600 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Sasuke rushes to the town where Naruto is staying.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824032600 +0800" stop="20260824035400 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Jiraya saves Naruto.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824035400 +0800" stop="20260824042100 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Sasuke is taken back to the Hidden Leaf Village by Guy.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824042100 +0800" stop="20260824044900 +0800" channel="Naruto">
+    <title lang="en">Naruto</title>
+    <desc lang="en">Naruto begins his training with Jiraiya.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14y8LdAgvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823201000 +0800" stop="20260823204000 +0800" channel="NFL">
     <title lang="en">NFL Fantasy Football Show</title>
@@ -1410,35 +1470,20 @@
     <desc lang="en">Relive the biggest moments, top plays and standout performances from every game during Preseason Week 2.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1me-8kTYlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823114000 +0800" stop="20260823161000 +0800" channel="PGA TOUR">
-    <title lang="en">2019 BMW Championship - Final Round</title>
-    <desc lang="en">The final round of the 2019 BMW Championship, where Justin Thomas claimed his 10th victory on the PGA TOUR and the No. 1 spot in the FedExCup standings heading into the TOUR Championship.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1HUIkhMlrL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230000 +0800" stop="20260824005000 +0800" channel="NFL">
+    <title lang="en">Preseason Highlights</title>
+    <desc lang="en">Relive the biggest moments, top plays and standout performances from every game during Preseason Week 2.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1me-8kTYlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823161000 +0800" stop="20260823163000 +0800" channel="PGA TOUR">
-    <title lang="en">The Starter</title>
-    <desc lang="en">The latest happenings on the PGA TOUR.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1U3gE7AUXL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824005000 +0800" stop="20260824024000 +0800" channel="NFL">
+    <title lang="en">Preseason Highlights</title>
+    <desc lang="en">Relive the biggest moments, top plays and standout performances from every game during Preseason Week 2.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1me-8kTYlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823163000 +0800" stop="20260823170000 +0800" channel="PGA TOUR">
-    <title lang="en">PGA TOUR Backspin</title>
-    <desc lang="en">Watch the latest highlights from the best players in the world from courses around the PGA TOUR.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1dLjcvvWGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823170000 +0800" stop="20260823180000 +0800" channel="PGA TOUR">
-    <title lang="en">Bud Cauley Wins the 2026 RBC Canadian Open</title>
-    <desc lang="en">Bud Cauley completes his comeback from a near-fatal car accident to win for the first time on the PGA TOUR.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1V6RB5R14L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823180000 +0800" stop="20260823190000 +0800" channel="PGA TOUR">
-    <title lang="en">Tommy Fleetwood Wins the 2025 TOUR Championship</title>
-    <desc lang="en">Tommy Fleetwood breaks through for his first PGA TOUR win and the FedExCup at the 2025 TOUR Championship.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B10elVY892L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823190000 +0800" stop="20260823200000 +0800" channel="PGA TOUR">
-    <title lang="en">2025 Rogers Charity Classic</title>
-    <desc lang="en">Watch PGA TOUR Champions action from Canyon Meadows G&amp;CC in Calgary, Alberta, Canada.</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1c4dBWzYvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824024000 +0800" stop="20260824043100 +0800" channel="NFL">
+    <title lang="en">Preseason Highlights</title>
+    <desc lang="en">Relive the biggest moments, top plays and standout performances from every game during Preseason Week 2.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1me-8kTYlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823203000 +0800" channel="PGA TOUR">
     <title lang="en">PGA TOUR -- The Drop</title>
@@ -1450,70 +1495,35 @@
     <desc lang="en">Scottie Scheffler won his 5th event of 2025 and his 18th on the PGA TOUR at Caves Valley Golf Club.</desc>
     <icon src="https://m.media-amazon.com/images/I/91iZtiQZmrL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823130000 +0800" stop="20260823153000 +0800" channel="RugbyPass TV">
-    <title lang="en">Waikato v Bay of Plenty | NPC</title>
-    <desc lang="en">Live coverage from the National Provincial Championship.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1y9go+McbL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010000 +0800" stop="20260824060000 +0800" channel="PGA TOUR">
+    <title lang="en">TOURCAST  from BMW Championship Round 1</title>
+    <desc lang="en">TOURCAST Live lets you follow leaders and other players with live audio coverage from SiriusXM PGA TOUR Radio.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1QIxCAzLFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153000 +0800" stop="20260823180300 +0800" channel="RugbyPass TV">
-    <title lang="en">World Rugby Under 20 Championship</title>
-    <desc lang="en">From Avchala Stadium in Tbilisi, Georgia.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81D3cArWh-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823180300 +0800" stop="20260823182900 +0800" channel="RugbyPass TV">
-    <title lang="en">Coin Rugby</title>
-    <desc lang="en">Jordan Vaha'akolo takes on All Blacks stars in a classic game of rugby.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91o+rwkZrEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823182900 +0800" stop="20260823205500 +0800" channel="RugbyPass TV">
-    <title lang="en">World Rugby Under 20 Championship</title>
-    <desc lang="en">First Semifinal.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AafjlewLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823205500 +0800" stop="20260823232500 +0800" channel="RugbyPass TV">
-    <title lang="en">Currie Cup: Lions v Blue Bulls</title>
-    <desc lang="en">Currie Cup: Lions v Blue Bulls</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Koo8KBWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823120000 +0800" stop="20260823152600 +0800" channel="Ryz Sports">
-    <title lang="en">Nippon Professional Baseball</title>
-    <desc lang="en">From Mizuho PayPay Dome Fukuoka in Japan.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HY8kFEw6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823152600 +0800" stop="20260823155400 +0800" channel="Ryz Sports">
-    <title lang="en">Pony League World Series</title>
-    <desc lang="en">Interview about the Pony League World Series.</desc>
-    <icon src="https://m.media-amazon.com/images/I/61prg13Ol4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823155400 +0800" stop="20260823191400 +0800" channel="Ryz Sports">
-    <title lang="en">Baseball</title>
-    <desc lang="en">2026 PLWS School Kids Baseball on Ryz as Pennsylvania takes on Mexico.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91MCWIGUepL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823191400 +0800" stop="20260823213300 +0800" channel="Ryz Sports">
+  <programme start="20260823181900 +0800" stop="20260823203700 +0800" channel="Ryz Sports">
     <title lang="en">World Championship Sumo</title>
     <desc lang="en">NJ sets the stage for the first event of the inaugural season of World Championship Sumo!</desc>
     <icon src="https://m.media-amazon.com/images/I/81LnNMjIUiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823213300 +0800" stop="20260824000900 +0800" channel="Ryz Sports">
+  <programme start="20260823203700 +0800" stop="20260823231300 +0800" channel="Ryz Sports">
     <title lang="en">Collegiate Summer Baseball</title>
     <desc lang="en">Northwoods Baseball Season Great Lakes Division Traverse City Pit Spitters host Kenosha Kingfish.</desc>
     <icon src="https://m.media-amazon.com/images/I/B1ULXZl1uGL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823133000 +0800" stop="20260823150000 +0800" channel="Scripps Sports">
-    <title lang="en">Major League Volleyball</title>
-    <desc lang="en">From CHI Health Center in Omaha, Neb.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1OKdq7aReL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823231300 +0800" stop="20260824022400 +0800" channel="Ryz Sports">
+    <title lang="en">Ultimate Frisbee Association</title>
+    <desc lang="en">Final.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1LdcV0tSCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823150000 +0800" stop="20260823180000 +0800" channel="Scripps Sports">
-    <title lang="en">WNBA Basketball</title>
-    <desc lang="en">Cameron Brink continues her comeback as her Sparks head north for a match with the Storm.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81RQSN-BilL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824022400 +0800" stop="20260824032000 +0800" channel="Ryz Sports">
+    <title lang="en">Ultimate Frisbee Association</title>
+    <desc lang="en">From May 8, 2024.</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1XhmOSUAVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823180000 +0800" stop="20260823200000 +0800" channel="Scripps Sports">
-    <title lang="en">Professional Women's Hockey League</title>
-    <desc lang="en">Game 1.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81q35z3HS9L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824032000 +0800" stop="20260824050000 +0800" channel="Ryz Sports">
+    <title lang="en">Ultimate Frisbee Association</title>
+    <desc lang="en">From May 8, 2024.</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1XhmOSUAVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823220000 +0800" channel="Scripps Sports">
     <title lang="en">Professional Women's Hockey League</title>
@@ -1525,25 +1535,20 @@
     <desc lang="en">Game 3.</desc>
     <icon src="https://m.media-amazon.com/images/I/81wv5gWHuLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823140000 +0800" stop="20260823163000 +0800" channel="Sundance TV">
-    <title lang="en">S.W.A.T.</title>
-    <desc lang="en">Based on the television series.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91r+xgyANkL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000000 +0800" stop="20260824020000 +0800" channel="Scripps Sports">
+    <title lang="en">Professional Women's Hockey League</title>
+    <desc lang="en">Walter Cup Final, Game 4.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wv5gWHuLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823163000 +0800" stop="20260823173000 +0800" channel="Sundance TV">
-    <title lang="en">The A-Team</title>
-    <desc lang="en">They recall Murdock's bravery.</desc>
-    <icon src="https://m.media-amazon.com/images/I/715usdXsPSL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824020000 +0800" stop="20260824040000 +0800" channel="Scripps Sports">
+    <title lang="en">UpShot League Basketball</title>
+    <desc lang="en">From Bojangles Coliseum in Charlotte, N.C.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Zor-6BHVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823173000 +0800" stop="20260823183000 +0800" channel="Sundance TV">
-    <title lang="en">The A-Team</title>
-    <desc lang="en">Mobster pressures sisters to sell.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81OaVS9fb8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823183000 +0800" stop="20260823193000 +0800" channel="Sundance TV">
-    <title lang="en">The A-Team</title>
-    <desc lang="en">Adventurer captured by pirates.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81OaVS9fb8L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824040000 +0800" stop="20260824043000 +0800" channel="Scripps Sports">
+    <title lang="en">Cold as Balls</title>
+    <desc lang="en">With Ric Flair and Reggie Bush.</desc>
+    <icon src="https://m.media-amazon.com/images/I/719eTnS2ZaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823193000 +0800" stop="20260823203000 +0800" channel="Sundance TV">
     <title lang="en">The A-Team</title>
@@ -1555,55 +1560,35 @@
     <desc lang="en">U.S. kickboxer learns from Asian master.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1yKrWVLspL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823100000 +0800" stop="20260823150000 +0800" channel="Tennis Channel 2">
-    <title lang="en">ATP Challenger</title>
-    <desc lang="en">PEPS Gymnase</desc>
-    <icon src="https://m.media-amazon.com/images/I/914HBaE9vBL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823224500 +0800" stop="20260824014500 +0800" channel="Sundance TV">
+    <title lang="en">Outbreak</title>
+    <desc lang="en">Army doctor (Dustin Hoffman) fights spread of deadly virus.</desc>
+    <icon src="https://m.media-amazon.com/images/I/71q+ttTdXBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823150000 +0800" stop="20260823180000 +0800" channel="Tennis Channel 2">
-    <title lang="en">2026 Cincinnati Open Tennis</title>
-    <desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1iMrQYJsyL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824014500 +0800" stop="20260824041500 +0800" channel="Sundance TV">
+    <title lang="en">S.W.A.T.</title>
+    <desc lang="en">Based on the television series.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91r+xgyANkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824041500 +0800" stop="20260824070000 +0800" channel="Sundance TV">
+    <title lang="en">Iron Eagle</title>
+    <desc lang="en">A teenager embarks on a mission to rescue his father.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81evWzSkVNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823180000 +0800" stop="20260823230000 +0800" channel="Tennis Channel 2">
     <title lang="en">ATP Challenger</title>
     <desc lang="en">PEPS Gymnase</desc>
     <icon src="https://m.media-amazon.com/images/I/914HBaE9vBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823142500 +0800" stop="20260823151400 +0800" channel="The Walking Dead Channel">
-    <title lang="en">Fear the Walking Dead</title>
-    <desc lang="en">A lone traveler's new acquaintances.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230000 +0800" stop="20260824010000 +0800" channel="Tennis Channel 2">
+    <title lang="en">ATP Challenger</title>
+    <desc lang="en">PEPS Gymnase</desc>
+    <icon src="https://m.media-amazon.com/images/I/914HBaE9vBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823151400 +0800" stop="20260823155900 +0800" channel="The Walking Dead Channel">
-    <title lang="en">Fear the Walking Dead</title>
-    <desc lang="en">Madison's beliefs are tested.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823155900 +0800" stop="20260823164500 +0800" channel="The Walking Dead Channel">
-    <title lang="en">Fear the Walking Dead</title>
-    <desc lang="en">Nick battles his demons.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823164500 +0800" stop="20260823173200 +0800" channel="The Walking Dead Channel">
-    <title lang="en">Fear the Walking Dead</title>
-    <desc lang="en">Al's questioning uncovers some truths.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823173200 +0800" stop="20260823181800 +0800" channel="The Walking Dead Channel">
-    <title lang="en">Fear the Walking Dead</title>
-    <desc lang="en">John Dorie gets a visitor.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823181800 +0800" stop="20260823190300 +0800" channel="The Walking Dead Channel">
-    <title lang="en">Fear the Walking Dead</title>
-    <desc lang="en">Madison trusts Naomi.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823190300 +0800" stop="20260823194600 +0800" channel="The Walking Dead Channel">
-    <title lang="en">Fear the Walking Dead</title>
-    <desc lang="en">Madison decides to help an adversary.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010000 +0800" stop="20260824050000 +0800" channel="Tennis Channel 2">
+    <title lang="en">Tennis Today Live</title>
+    <desc lang="en">Coverage from Winston Salem 2025.</desc>
+    <icon src="https://m.media-amazon.com/images/S/combee-overridden-images/7/2/1/721796bcde738343bb32569cd596bdf8._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823194600 +0800" stop="20260823203300 +0800" channel="The Walking Dead Channel">
     <title lang="en">Fear the Walking Dead</title>
@@ -1625,70 +1610,45 @@
     <desc lang="en">Morgan's journey is derailed.</desc>
     <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823141700 +0800" stop="20260823143000 +0800" channel="Waypoint TV">
-    <title lang="en">The Raven Project</title>
-    <desc lang="en">The story of a true old school deer camp meeting new world management practices.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1ZEVJeG-OL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823225300 +0800" stop="20260823233700 +0800" channel="The Walking Dead Channel">
+    <title lang="en">Fear the Walking Dead</title>
+    <desc lang="en">Morgan searches for lost friends.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823143000 +0800" stop="20260823144700 +0800" channel="Waypoint TV">
-    <title lang="en">The Raven Project</title>
-    <desc lang="en">Heading to the Powder River in Montana.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1ZEVJeG-OL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823233700 +0800" stop="20260824002300 +0800" channel="The Walking Dead Channel">
+    <title lang="en">Fear the Walking Dead</title>
+    <desc lang="en">A new danger emerges.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823144700 +0800" stop="20260823150000 +0800" channel="Waypoint TV">
-    <title lang="en">The Raven Project</title>
-    <desc lang="en">Randy, Cody and Big Rig are in Oklahoma.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1ZEVJeG-OL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824002300 +0800" stop="20260824010800 +0800" channel="The Walking Dead Channel">
+    <title lang="en">Fear the Walking Dead</title>
+    <desc lang="en">Alicia delivers on a promise to Charlie.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823150000 +0800" stop="20260823153000 +0800" channel="Waypoint TV">
-    <title lang="en">The Captain's Log</title>
-    <desc lang="en">Chris is ready to face a little havoc.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1iBhNec+qL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010800 +0800" stop="20260824015400 +0800" channel="The Walking Dead Channel">
+    <title lang="en">Fear the Walking Dead</title>
+    <desc lang="en">The group seeks a way out.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823153000 +0800" stop="20260823160000 +0800" channel="Waypoint TV">
-    <title lang="en">Saltwater Experience</title>
-    <desc lang="en">Fishing the Marathon Hump.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824015400 +0800" stop="20260824024900 +0800" channel="The Walking Dead Channel">
+    <title lang="en">Fear the Walking Dead</title>
+    <desc lang="en">Morgan tries to help friends in need.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823160000 +0800" stop="20260823163000 +0800" channel="Waypoint TV">
-    <title lang="en">Saltwater Experience</title>
-    <desc lang="en">Preserving stressed catch.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824024900 +0800" stop="20260824033900 +0800" channel="The Walking Dead Channel">
+    <title lang="en">Fear the Walking Dead</title>
+    <desc lang="en">A lone traveler's new acquaintances.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823163000 +0800" stop="20260823170000 +0800" channel="Waypoint TV">
-    <title lang="en">Saltwater Experience</title>
-    <desc lang="en">Reed joins Rich Tudor and Tom Rowland.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824033900 +0800" stop="20260824042400 +0800" channel="The Walking Dead Channel">
+    <title lang="en">Fear the Walking Dead</title>
+    <desc lang="en">Madison's beliefs are tested.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170000 +0800" stop="20260823173000 +0800" channel="Waypoint TV">
-    <title lang="en">Saltwater Experience</title>
-    <desc lang="en">Captains are joined by Hunter Smallback.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823173000 +0800" stop="20260823180000 +0800" channel="Waypoint TV">
-    <title lang="en">Saltwater Experience</title>
-    <desc lang="en">Some exciting flats fishing.</desc>
-    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823180000 +0800" stop="20260823183000 +0800" channel="Waypoint TV">
-    <title lang="en">Reel Animals</title>
-    <desc lang="en">Reel Animals is an action packed fishing adventure!</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sBm9uMGsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823183000 +0800" stop="20260823190000 +0800" channel="Waypoint TV">
-    <title lang="en">Sportsman's Journal</title>
-    <desc lang="en">Ice fishing for giant crappies.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1pUdZ+yfkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823190000 +0800" stop="20260823193000 +0800" channel="Waypoint TV">
-    <title lang="en">The Reel American Road Trip</title>
-    <desc lang="en">Danny Pruitt travels around the country fishing in some of the nation's best kept secrets.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1z-t4IG-HL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823193000 +0800" stop="20260823200000 +0800" channel="Waypoint TV">
-    <title lang="en">Goin' Coastal</title>
-    <desc lang="en">Despite the weather, Capt. Josh Calhoon and his wife Anna take a day off to target mangrove snapper before moving into deeper water to search for quality amberjacks.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1aX6Nu1gPL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824042400 +0800" stop="20260824051000 +0800" channel="The Walking Dead Channel">
+    <title lang="en">Fear the Walking Dead</title>
+    <desc lang="en">Nick battles his demons.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oJ-D5O6lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823203000 +0800" channel="Waypoint TV">
     <title lang="en">Silver Kings</title>
@@ -1715,35 +1675,70 @@
     <desc lang="en">The value of the Trash Can Slam.</desc>
     <icon src="https://m.media-amazon.com/images/I/81tRRl+xKjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823123000 +0800" stop="20260823143000 +0800" channel="Willow Sports">
-    <title lang="en">Zimbabwe vs Bangladesh : One Off Test - Day 2</title>
-    <desc lang="en">From Sinhalese Sports Club Ground in Colombo, Sri Lanka.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mGgTHCv6L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823223000 +0800" stop="20260823230000 +0800" channel="Waypoint TV">
+    <title lang="en">Chasin' the Sun</title>
+    <desc lang="en">Finding snapper success.</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tRRl+xKjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823143000 +0800" stop="20260823151000 +0800" channel="Willow Sports">
-    <title lang="en">Zimbabwe vs Bangladesh : One Off Test - Day 2</title>
-    <desc lang="en">From Sinhalese Sports Club Ground in Colombo, Sri Lanka.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mGgTHCv6L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230000 +0800" stop="20260823231400 +0800" channel="Waypoint TV">
+    <title lang="en">Storytellers</title>
+    <desc lang="en">Denny teaches at the police academy.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1dSSj8Em7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823151000 +0800" stop="20260823171000 +0800" channel="Willow Sports">
-    <title lang="en">Zimbabwe vs Bangladesh : One Off Test - Day 2</title>
-    <desc lang="en">From Sinhalese Sports Club Ground in Colombo, Sri Lanka.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mGgTHCv6L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823231400 +0800" stop="20260823233000 +0800" channel="Waypoint TV">
+    <title lang="en">Storytellers</title>
+    <desc lang="en">Amberley's harvest of an Axis buck.</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1dSSj8Em7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823171000 +0800" stop="20260823173000 +0800" channel="Willow Sports">
-    <title lang="en">Zimbabwe vs Bangladesh : One Off Test - Day 2</title>
-    <desc lang="en">From Sinhalese Sports Club Ground in Colombo, Sri Lanka.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mGgTHCv6L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823233000 +0800" stop="20260824000000 +0800" channel="Waypoint TV">
+    <title lang="en">Deer and Deer Hunting TV</title>
+    <desc lang="en">Knowing when to spot and stalk is crucial for any hunter. In this episode of DDH-TV, Mark Kayser breaks down three key factors for success, while Dan Schmidt puts them into action as he stalks a buck in Nebraska's Sandhills.</desc>
+    <icon src="https://m.media-amazon.com/images/I/61eXEzGI1lL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823173000 +0800" stop="20260823193000 +0800" channel="Willow Sports">
-    <title lang="en">Zimbabwe vs Bangladesh : One Off Test - Day 2</title>
-    <desc lang="en">From Sinhalese Sports Club Ground in Colombo, Sri Lanka.</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mGgTHCv6L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000000 +0800" stop="20260824003000 +0800" channel="Waypoint TV">
+    <title lang="en">Winchester Life</title>
+    <desc lang="en">Highlighting those who have made the shooting sports and hunting lifestyle a part of their lives.</desc>
+    <icon src="https://m.media-amazon.com/images/I/9148XtGFAAL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823193000 +0800" stop="20260823200000 +0800" channel="Willow Sports">
-    <title lang="en">Cricket Review</title>
-    <desc lang="en">Action from cricket matches around the world.</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1c9wylKGRL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824003000 +0800" stop="20260824010000 +0800" channel="Waypoint TV">
+    <title lang="en">Hard Truths of Conservation</title>
+    <desc lang="en">Wild harvest in rural North American communities.</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1jiJyg2WXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824010000 +0800" stop="20260824013000 +0800" channel="Waypoint TV">
+    <title lang="en">Saltwater Experience</title>
+    <desc lang="en">Rowland and Tudor to Seven Mile.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824013000 +0800" stop="20260824020000 +0800" channel="Waypoint TV">
+    <title lang="en">Saltwater Experience</title>
+    <desc lang="en">Fishing the Marathon Hump.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824020000 +0800" stop="20260824023000 +0800" channel="Waypoint TV">
+    <title lang="en">Saltwater Experience</title>
+    <desc lang="en">Preserving stressed catch.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824023000 +0800" stop="20260824030000 +0800" channel="Waypoint TV">
+    <title lang="en">Saltwater Experience</title>
+    <desc lang="en">Reed joins Rich Tudor and Tom Rowland.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824030000 +0800" stop="20260824033000 +0800" channel="Waypoint TV">
+    <title lang="en">Saltwater Experience</title>
+    <desc lang="en">Captains are joined by Hunter Smallback.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824033000 +0800" stop="20260824040000 +0800" channel="Waypoint TV">
+    <title lang="en">Saltwater Experience</title>
+    <desc lang="en">Some exciting flats fishing.</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JNwgLSgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824040000 +0800" stop="20260824043000 +0800" channel="Waypoint TV">
+    <title lang="en">Blair Wiggins Outdoors</title>
+    <desc lang="en">Blair Wiggins continues his fishing adventures but also shares his love of everything outdoors.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1qdAz0YmeL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823210000 +0800" channel="Willow Sports">
     <title lang="en">Cricket Highlights</title>
@@ -1760,35 +1755,35 @@
     <desc lang="en">Cricket action and highlights from around the world.</desc>
     <icon src="https://m.media-amazon.com/images/I/910ZyHIFJcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823140000 +0800" stop="20260823151300 +0800" channel="Xtreme Outdoor">
-    <title lang="en">Swamp People</title>
-    <desc lang="en">The Landrys help Ronnie and Ashley.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230000 +0800" stop="20260824000000 +0800" channel="Willow Sports">
+    <title lang="en">Cricket Highlights</title>
+    <desc lang="en">Qualifier 1, Highlights.</desc>
+    <icon src="https://m.media-amazon.com/images/I/910ZyHIFJcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823151300 +0800" stop="20260823161300 +0800" channel="Xtreme Outdoor">
-    <title lang="en">Swamp People</title>
-    <desc lang="en">The Edwards make up for lost time.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000000 +0800" stop="20260824010000 +0800" channel="Willow Sports">
+    <title lang="en">Cricket Highlights</title>
+    <desc lang="en">Highlights of the third ODI fixture between England and India.</desc>
+    <icon src="https://m.media-amazon.com/images/I/910ZyHIFJcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823161300 +0800" stop="20260823170900 +0800" channel="Xtreme Outdoor">
-    <title lang="en">Swamp People</title>
-    <desc lang="en">Ronnie and Ashley find a gas leak.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010000 +0800" stop="20260824020000 +0800" channel="Willow Sports">
+    <title lang="en">Cricket Highlights</title>
+    <desc lang="en">Cricket action and highlights from around the world.</desc>
+    <icon src="https://m.media-amazon.com/images/I/910ZyHIFJcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823170900 +0800" stop="20260823180600 +0800" channel="Xtreme Outdoor">
-    <title lang="en">Swamp People</title>
-    <desc lang="en">Joey and Zak race to fill their tags.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824020000 +0800" stop="20260824030000 +0800" channel="Willow Sports">
+    <title lang="en">Cricket Highlights</title>
+    <desc lang="en">Cricket action and highlights from around the world.</desc>
+    <icon src="https://m.media-amazon.com/images/I/910ZyHIFJcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823180600 +0800" stop="20260823190200 +0800" channel="Xtreme Outdoor">
-    <title lang="en">Swamp People</title>
-    <desc lang="en">Pickle tries out her special bait.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824030000 +0800" stop="20260824040000 +0800" channel="Willow Sports">
+    <title lang="en">Cricket Highlights</title>
+    <desc lang="en">Cricket action and highlights from around the world.</desc>
+    <icon src="https://m.media-amazon.com/images/I/910ZyHIFJcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823190200 +0800" stop="20260823200000 +0800" channel="Xtreme Outdoor">
-    <title lang="en">Swamp People</title>
-    <desc lang="en">Leron and Porkchop race the tide.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824040000 +0800" stop="20260824050000 +0800" channel="Willow Sports">
+    <title lang="en">Cricket Highlights</title>
+    <desc lang="en">Cricket action and highlights from around the world.</desc>
+    <icon src="https://m.media-amazon.com/images/I/910ZyHIFJcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823211300 +0800" channel="Xtreme Outdoor">
     <title lang="en">Swamp People</title>
@@ -1805,30 +1800,35 @@
     <desc lang="en">Ronnie and Ashley find a gas leak.</desc>
     <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823142000 +0800" stop="20260823145000 +0800" channel="Zona TUDN">
-    <title lang="en">Liga MX Clips</title>
-    <desc lang="en">Soccer</desc>
-    <icon src="https://m.media-amazon.com/images/I/71sbSGDSGiL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260823230900 +0800" stop="20260824000600 +0800" channel="Xtreme Outdoor">
+    <title lang="en">Swamp People</title>
+    <desc lang="en">Joey and Zak race to fill their tags.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823145000 +0800" stop="20260823152000 +0800" channel="Zona TUDN">
-    <title lang="en">Liga MX Clips</title>
-    <desc lang="en">Soccer</desc>
-    <icon src="https://m.media-amazon.com/images/I/71sbSGDSGiL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824000600 +0800" stop="20260824010200 +0800" channel="Xtreme Outdoor">
+    <title lang="en">Swamp People</title>
+    <desc lang="en">Pickle tries out her special bait.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823152000 +0800" stop="20260823172000 +0800" channel="Zona TUDN">
-    <title lang="en">Liga MX Soccer</title>
-    <desc lang="en">Soccer match coverage from the Mexico Primera División.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zu8A-JT0L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824010200 +0800" stop="20260824020000 +0800" channel="Xtreme Outdoor">
+    <title lang="en">Swamp People</title>
+    <desc lang="en">Leron and Porkchop race the tide.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823172000 +0800" stop="20260823180000 +0800" channel="Zona TUDN">
-    <title lang="en">Liga MX Clips</title>
-    <desc lang="en">Soccer</desc>
-    <icon src="https://m.media-amazon.com/images/I/71sbSGDSGiL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824020000 +0800" stop="20260824031300 +0800" channel="Xtreme Outdoor">
+    <title lang="en">Swamp People</title>
+    <desc lang="en">The Landrys help Ronnie and Ashley.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260823180000 +0800" stop="20260823200000 +0800" channel="Zona TUDN">
-    <title lang="en">Liga MX Soccer</title>
-    <desc lang="en">Soccer match coverage from the Mexico Primera División.</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zu8A-JT0L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260824031300 +0800" stop="20260824041300 +0800" channel="Xtreme Outdoor">
+    <title lang="en">Swamp People</title>
+    <desc lang="en">The Edwards make up for lost time.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824041300 +0800" stop="20260824050900 +0800" channel="Xtreme Outdoor">
+    <title lang="en">Swamp People</title>
+    <desc lang="en">Ronnie and Ashley find a gas leak.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A13he0zyR-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260823200000 +0800" stop="20260823220000 +0800" channel="Zona TUDN">
     <title lang="en">Liga MX Soccer</title>
@@ -1839,5 +1839,35 @@
     <title lang="en">Liga MX Clips</title>
     <desc lang="en">Soccer</desc>
     <icon src="https://m.media-amazon.com/images/I/71sbSGDSGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823223000 +0800" stop="20260823230000 +0800" channel="Zona TUDN">
+    <title lang="en">Liga MX Clips</title>
+    <desc lang="en">Soccer</desc>
+    <icon src="https://m.media-amazon.com/images/I/71sbSGDSGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823230000 +0800" stop="20260823233000 +0800" channel="Zona TUDN">
+    <title lang="en">Liga MX Clips</title>
+    <desc lang="en">Soccer</desc>
+    <icon src="https://m.media-amazon.com/images/I/71sbSGDSGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823233000 +0800" stop="20260824000000 +0800" channel="Zona TUDN">
+    <title lang="en">Liga MX Clips</title>
+    <desc lang="en">Soccer</desc>
+    <icon src="https://m.media-amazon.com/images/I/71sbSGDSGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824000000 +0800" stop="20260824020000 +0800" channel="Zona TUDN">
+    <title lang="en">Liga MX Soccer</title>
+    <desc lang="en">Soccer match coverage from the Mexico Primera División.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zu8A-JT0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824020000 +0800" stop="20260824040000 +0800" channel="Zona TUDN">
+    <title lang="en">Liga MX Soccer</title>
+    <desc lang="en">Soccer match coverage from the Mexico Primera División.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zu8A-JT0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824040000 +0800" stop="20260824060000 +0800" channel="Zona TUDN">
+    <title lang="en">Liga MX Soccer</title>
+    <desc lang="en">Soccer match coverage from the Mexico Primera División.</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zu8A-JT0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
