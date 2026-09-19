@@ -803,6 +803,26 @@
     <display-name lang="en">TRAXXfm</display-name>
     <icon src="https://rtm-images.glueapi.io/320x0/live_channel/thumbnail_Radio_1920x1080px_Traxx_FM.png"/>
   </channel>
+  <channel id="TSN1.ca">
+    <display-name lang="en">TSN1</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn1-light.webp"/>
+  </channel>
+  <channel id="TSN2.ca">
+    <display-name lang="en">TSN2</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn2-light.webp"/>
+  </channel>
+  <channel id="TSN3.ca">
+    <display-name lang="en">TSN3</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn3-light.webp"/>
+  </channel>
+  <channel id="TSN4.ca">
+    <display-name lang="en">TSN4</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn4-light.webp"/>
+  </channel>
+  <channel id="TSN5.ca">
+    <display-name lang="en">TSN5</display-name>
+    <icon src="https://bellmedia-images.stats.bellmedia.ca/images/sports/channel-logos/tsn5-light.webp"/>
+  </channel>
   <channel id="TV1.rtm">
     <display-name lang="en">TV1</display-name>
     <icon src="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png"/>
@@ -45986,6 +46006,866 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
     <title lang="en">Music Blast Off</title>
     <desc lang="en">Latest Hits.</desc>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/thumbnail_Radio_1920x1080px_Traxx_FM.png"/>
+  </programme>
+  <programme start="20260918233000 +0800" stop="20260919003000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232644&amp;EntityType=LinearSchedule&amp;EntityId=17887e12-902a-4f5f-82df-e337b58f5e86&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919003000 +0800" stop="20260919013000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232646&amp;EntityType=LinearSchedule&amp;EntityId=74e0e687-1d5f-4b04-8953-56c514754823&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919013000 +0800" stop="20260919020000 +0800" channel="TSN1.ca">
+    <title lang="en">Top Bloopers of All-Time</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232648&amp;EntityType=LinearSchedule&amp;EntityId=24d3db30-8a74-4f42-9abb-56a359102611&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919020000 +0800" stop="20260919023000 +0800" channel="TSN1.ca">
+    <title lang="en">Round 4: Pro Supersport, Race 1</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232650&amp;EntityType=LinearSchedule&amp;EntityId=44ecda9f-e727-47ba-8ef0-de4e4b6b4103&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919023000 +0800" stop="20260919030000 +0800" channel="TSN1.ca">
+    <title lang="en">Motorcycle Experience</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232652&amp;EntityType=LinearSchedule&amp;EntityId=1145706e-2522-4302-a4e2-f2034a7b69b8&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919030000 +0800" stop="20260919040000 +0800" channel="TSN1.ca">
+    <title lang="en">NBA Today</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232654&amp;EntityType=LinearSchedule&amp;EntityId=4c029e70-432e-4d87-b34e-8f6b766f1aaf&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919040000 +0800" stop="20260919050000 +0800" channel="TSN1.ca">
+    <title lang="en">NFL Live</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232656&amp;EntityType=LinearSchedule&amp;EntityId=2c69b6dc-22dd-4743-ac8f-ac49150ef8ce&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919050000 +0800" stop="20260919053000 +0800" channel="TSN1.ca">
+    <title lang="en">College Football Live</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232658&amp;EntityType=LinearSchedule&amp;EntityId=ffa711ed-1b10-414f-9bd7-9659c9aea6ec&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919053000 +0800" stop="20260919060000 +0800" channel="TSN1.ca">
+    <title lang="en">Pardon the Interruption</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232660&amp;EntityType=LinearSchedule&amp;EntityId=f066c48e-8c16-45b1-8eac-188e36e51828&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919060000 +0800" stop="20260919070000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232662&amp;EntityType=LinearSchedule&amp;EntityId=0b5894c1-6eb5-4956-a46f-cdcf4e809065&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919070000 +0800" stop="20260919073000 +0800" channel="TSN1.ca">
+    <title lang="en">CFL on TSN Pregame</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232664&amp;EntityType=LinearSchedule&amp;EntityId=99f83f21-3593-4bdf-89e2-b743446336da&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919073000 +0800" stop="20260919103000 +0800" channel="TSN1.ca">
+    <title lang="en">Montreal Alouettes at Hamilton Tiger-Cats</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232666&amp;EntityType=LinearSchedule&amp;EntityId=e2110fbf-188a-4c25-aa64-b0019ffb3dd9&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919103000 +0800" stop="20260919120000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233110&amp;EntityType=LinearSchedule&amp;EntityId=3a35bffa-8ee9-47b4-9f69-f813548db3b7&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919120000 +0800" stop="20260919123000 +0800" channel="TSN1.ca">
+    <title lang="en">NBA Plays of the Year</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233112&amp;EntityType=LinearSchedule&amp;EntityId=e8aa90ac-9a86-49ce-9bd7-6027108476b9&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919123000 +0800" stop="20260919130000 +0800" channel="TSN1.ca">
+    <title lang="en">Top 50 NBA Circus Shots</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233114&amp;EntityType=LinearSchedule&amp;EntityId=d9301d4e-2cef-43c4-9985-1936bb5fd902&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919130000 +0800" stop="20260919140000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233116&amp;EntityType=LinearSchedule&amp;EntityId=bfc26ab8-e2ce-42f9-9ffa-1fe900cd7f46&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919150000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233118&amp;EntityType=LinearSchedule&amp;EntityId=c63dd99f-d91c-4919-83bc-a99549bcf415&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919160000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233120&amp;EntityType=LinearSchedule&amp;EntityId=0df5fdb7-7857-456c-8860-469df8a2e085&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919170000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233122&amp;EntityType=LinearSchedule&amp;EntityId=c7ea85bf-479b-4100-8057-e07622e562f2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919170000 +0800" stop="20260919180000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233124&amp;EntityType=LinearSchedule&amp;EntityId=be8b6aaf-d1a8-48f0-9628-3936200efd4e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919190000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233126&amp;EntityType=LinearSchedule&amp;EntityId=032b0954-5559-409f-a9ef-ec4fbb855848&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919190000 +0800" stop="20260919200000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233128&amp;EntityType=LinearSchedule&amp;EntityId=c289133a-7276-4693-94e8-cf13a096d09b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919200000 +0800" stop="20260919210000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233130&amp;EntityType=LinearSchedule&amp;EntityId=9c07a55a-6c02-493e-ac26-83f37a6f0946&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919210000 +0800" stop="20260919220000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233132&amp;EntityType=LinearSchedule&amp;EntityId=b38d68c8-e8d6-4e64-9d6a-7a6ca14dc7e9&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919220000 +0800" stop="20260919230000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233134&amp;EntityType=LinearSchedule&amp;EntityId=0d563295-4444-4b97-b153-df74f14bf85b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919230000 +0800" stop="20260920000000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233136&amp;EntityType=LinearSchedule&amp;EntityId=63d7241b-3724-4099-9251-8abe3e94a2a3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920000000 +0800" stop="20260920010000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233138&amp;EntityType=LinearSchedule&amp;EntityId=5f7687d5-44bf-4f98-85dc-8daede711470&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920010000 +0800" stop="20260920020000 +0800" channel="TSN1.ca">
+    <title lang="en">Top 50 Rides and Wrecks</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233140&amp;EntityType=LinearSchedule&amp;EntityId=2da53dec-5fb8-49d4-b091-824354aa0fd1&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920020000 +0800" stop="20260920023000 +0800" channel="TSN1.ca">
+    <title lang="en">Top Mascot Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233142&amp;EntityType=LinearSchedule&amp;EntityId=267f29d9-a3bd-44e2-b6d4-fc96ac3c1035&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920023000 +0800" stop="20260920030000 +0800" channel="TSN1.ca">
+    <title lang="en">TSN Hockey Top 50 Players Special</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233144&amp;EntityType=LinearSchedule&amp;EntityId=48e2a14f-c5bd-42d2-9254-0f0718ff7e46&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920030000 +0800" stop="20260920060000 +0800" channel="TSN1.ca">
+    <title lang="en">Edmonton Elks at Toronto Argonauts</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233146&amp;EntityType=LinearSchedule&amp;EntityId=c4275087-24d2-4c23-93c2-fbbfa9765638&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920060000 +0800" stop="20260920063000 +0800" channel="TSN1.ca">
+    <title lang="en">Wacky CFL Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233148&amp;EntityType=LinearSchedule&amp;EntityId=ac05535e-002e-42b1-89a0-b72e4b670c73&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920063000 +0800" stop="20260920070000 +0800" channel="TSN1.ca">
+    <title lang="en">TSN Hockey Top 50 Players Special</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233150&amp;EntityType=LinearSchedule&amp;EntityId=b2799037-9a48-4b1f-a66d-b44fd9d0caae&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920070000 +0800" stop="20260920100000 +0800" channel="TSN1.ca">
+    <title lang="en">Ottawa Redblacks at Calgary Stampeders</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233152&amp;EntityType=LinearSchedule&amp;EntityId=9e3fca74-237a-463f-ac7d-79e84a62afd2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920100000 +0800" stop="20260920113000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233556&amp;EntityType=LinearSchedule&amp;EntityId=5d165818-f8ba-4970-bacf-2ee2454c331e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920113000 +0800" stop="20260920120000 +0800" channel="TSN1.ca">
+    <title lang="en">TSN Hockey Top 50 Players Special</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233558&amp;EntityType=LinearSchedule&amp;EntityId=610b7635-0ebf-4e00-b8f7-e6a4b54f94d9&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920120000 +0800" stop="20260920123000 +0800" channel="TSN1.ca">
+    <title lang="en">Top 40 Hail Marys</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233560&amp;EntityType=LinearSchedule&amp;EntityId=4e6c9997-f555-4434-9d13-73ea5c13e9b5&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920123000 +0800" stop="20260920130000 +0800" channel="TSN1.ca">
+    <title lang="en">Top 40 Trick Plays of All-Time</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233562&amp;EntityType=LinearSchedule&amp;EntityId=a94817df-5093-4991-a20a-2fbdee562c3c&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920130000 +0800" stop="20260920140000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233564&amp;EntityType=LinearSchedule&amp;EntityId=67450c30-e6d3-4619-95b8-3751bd9db4a2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920140000 +0800" stop="20260920150000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233566&amp;EntityType=LinearSchedule&amp;EntityId=2c89ae26-9f0d-4350-bec7-0d11ac96b35b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920150000 +0800" stop="20260920160000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233568&amp;EntityType=LinearSchedule&amp;EntityId=c6ce9fae-d446-41dd-b153-0eaac7c90146&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920160000 +0800" stop="20260920170000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233570&amp;EntityType=LinearSchedule&amp;EntityId=9db3b317-9d0c-497c-af42-668dabdb4185&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920170000 +0800" stop="20260920180000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233572&amp;EntityType=LinearSchedule&amp;EntityId=85d7f086-2c69-4979-99f3-c9ea34fc039b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920180000 +0800" stop="20260920190000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233574&amp;EntityType=LinearSchedule&amp;EntityId=9f55e446-27b1-48fd-b3d7-d0cf4b6fff1a&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920190000 +0800" stop="20260920200000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233576&amp;EntityType=LinearSchedule&amp;EntityId=a33ba7d3-4704-43f1-8ef4-90d215c81d1f&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920200000 +0800" stop="20260920210000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233578&amp;EntityType=LinearSchedule&amp;EntityId=98abbb5b-6156-4837-92b7-3dcec11627a1&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920210000 +0800" stop="20260920220000 +0800" channel="TSN1.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233580&amp;EntityType=LinearSchedule&amp;EntityId=08d97a66-9161-44be-8341-917970699e06&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920220000 +0800" stop="20260921010000 +0800" channel="TSN1.ca">
+    <title lang="en">NFL Countdown</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233582&amp;EntityType=LinearSchedule&amp;EntityId=a5f4d328-62ab-4e48-b32b-87aa74025966&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919000000 +0800" stop="20260919010000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 100 Catches of All-Time</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232706&amp;EntityType=LinearSchedule&amp;EntityId=b6a2c946-0f10-483e-9e84-9e3267e7cb24&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919010000 +0800" stop="20260919013000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 40 Hail Marys</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232708&amp;EntityType=LinearSchedule&amp;EntityId=a75a6262-347b-46e2-87eb-6a19124dc8c1&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919013000 +0800" stop="20260919020000 +0800" channel="TSN2.ca">
+    <title lang="en">Top Moments of the FIFA World Cup</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232710&amp;EntityType=LinearSchedule&amp;EntityId=85a22c2a-9e86-4f06-98bb-910e5bf3efd0&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919020000 +0800" stop="20260919030000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 50 Rides and Wrecks</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232712&amp;EntityType=LinearSchedule&amp;EntityId=13a4a598-c6c6-414a-bf03-686ad79daaa6&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919030000 +0800" stop="20260919033000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 50 Saves of All-Time</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232716&amp;EntityType=LinearSchedule&amp;EntityId=7a8acd06-b651-4e67-82bc-be1d989947bf&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919033000 +0800" stop="20260919040000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 50 Goals of All-Time</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232718&amp;EntityType=LinearSchedule&amp;EntityId=f38da396-ecd0-4509-a778-7456b6876da9&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919040000 +0800" stop="20260919060000 +0800" channel="TSN2.ca">
+    <title lang="en">Hawthorn Hawks vs. North Melbourne Kangaroos</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232724&amp;EntityType=LinearSchedule&amp;EntityId=a5d61a2e-6343-4f89-9ea9-38827bc2056e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919060000 +0800" stop="20260919063000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 10 Women's World Hockey Championship Games</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232728&amp;EntityType=LinearSchedule&amp;EntityId=90a15953-6f04-4327-badc-698a62468361&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919063000 +0800" stop="20260919070000 +0800" channel="TSN2.ca">
+    <title lang="en">Top World Juniors Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233022&amp;EntityType=LinearSchedule&amp;EntityId=df239e60-12a5-4166-913b-ffc438932804&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919070000 +0800" stop="20260919073000 +0800" channel="TSN2.ca">
+    <title lang="en">College Football Countdown</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232730&amp;EntityType=LinearSchedule&amp;EntityId=b680b870-0664-4dd0-b1c4-7a3ae1374a2f&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919073000 +0800" stop="20260919110000 +0800" channel="TSN2.ca">
+    <title lang="en">Miami at Wake Forest</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232732&amp;EntityType=LinearSchedule&amp;EntityId=821ebc8b-9064-4208-9e1e-faa683761129&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919110000 +0800" stop="20260919113000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 40 Hail Marys</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233158&amp;EntityType=LinearSchedule&amp;EntityId=ef777e43-7856-439b-988d-e1a8c7aadf15&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919113000 +0800" stop="20260919120000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 50 Defensive Plays of All-Time</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233160&amp;EntityType=LinearSchedule&amp;EntityId=a5c452c8-d576-46ca-96fe-f935602cbe13&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919120000 +0800" stop="20260919123000 +0800" channel="TSN2.ca">
+    <title lang="en">TSN Hockey Top 50 Players Special</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233162&amp;EntityType=LinearSchedule&amp;EntityId=4cad7878-270f-4aa3-903e-93bb53e62905&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919123000 +0800" stop="20260919130000 +0800" channel="TSN2.ca">
+    <title lang="en">Coaches Gone Wild</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233164&amp;EntityType=LinearSchedule&amp;EntityId=b90a5f2d-5749-43f9-b6f9-d478f58f3617&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919130000 +0800" stop="20260919150000 +0800" channel="TSN2.ca">
+    <title lang="en">Fremantle Dockers vs. Western Bulldogs</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233166&amp;EntityType=LinearSchedule&amp;EntityId=e4b807f8-d19b-4c6c-baf3-8b3a1df1eaf4&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919180000 +0800" channel="TSN2.ca">
+    <title lang="en">Hawthorn vs. Brisbane Lions</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233168&amp;EntityType=LinearSchedule&amp;EntityId=222ec25c-9a0b-4121-93d7-2e450fe10fbf&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919210000 +0800" channel="TSN2.ca">
+    <title lang="en">Montreal Alouettes at Hamilton Tiger-Cats</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233170&amp;EntityType=LinearSchedule&amp;EntityId=b9fb3b78-f8a4-4043-b514-ae4f54b257a3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919210000 +0800" stop="20260920000000 +0800" channel="TSN2.ca">
+    <title lang="en">College GameDay</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233172&amp;EntityType=LinearSchedule&amp;EntityId=3140aca1-2b7f-475b-b1f4-aa2f8a182a69&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920000000 +0800" stop="20260920033000 +0800" channel="TSN2.ca">
+    <title lang="en">Georgia at Arkansas</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233174&amp;EntityType=LinearSchedule&amp;EntityId=4eb3e14a-06ed-4ca8-bf74-854440b1767e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920033000 +0800" stop="20260920040000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 40 Hail Marys</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233176&amp;EntityType=LinearSchedule&amp;EntityId=125008c9-9282-4085-aabc-db33ae6d7e95&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920040000 +0800" stop="20260920043000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 50 NBA Circus Shots</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233178&amp;EntityType=LinearSchedule&amp;EntityId=1b4e1edf-59d9-4c32-9e3f-f120b80bb0e8&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920043000 +0800" stop="20260920070000 +0800" channel="TSN2.ca">
+    <title lang="en">Max vs. 100</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233786&amp;EntityType=LinearSchedule&amp;EntityId=8b033b55-420e-4665-8497-9a389e85626c&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920070000 +0800" stop="20260920093000 +0800" channel="TSN2.ca">
+    <title lang="en">Toronto Maple Leafs at Montreal Canadiens</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233188&amp;EntityType=LinearSchedule&amp;EntityId=16b0db14-f4b3-43b6-ba32-394fe2bd34c5&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920093000 +0800" stop="20260920103000 +0800" channel="TSN2.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233590&amp;EntityType=LinearSchedule&amp;EntityId=5550a3ac-d9fd-456f-81e4-7207253a2a96&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920103000 +0800" stop="20260920110000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 40 Wild and Wacky Finishes</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233592&amp;EntityType=LinearSchedule&amp;EntityId=5a21f978-82f6-4e6f-80a0-603b38cc1d12&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920110000 +0800" stop="20260920113000 +0800" channel="TSN2.ca">
+    <title lang="en">Top Super Bowl Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233594&amp;EntityType=LinearSchedule&amp;EntityId=f302e8ed-8ede-4124-a262-fe6826a663ac&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920113000 +0800" stop="20260920120000 +0800" channel="TSN2.ca">
+    <title lang="en">Top 10 Grey Cup Games</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233596&amp;EntityType=LinearSchedule&amp;EntityId=9daa86c6-8bee-4f55-a7e0-4d654a52e589&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920120000 +0800" stop="20260920150000 +0800" channel="TSN2.ca">
+    <title lang="en">Edmonton Elks at Toronto Argonauts</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233598&amp;EntityType=LinearSchedule&amp;EntityId=64f74419-9dc1-4e74-ab2a-daf25867f9fd&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920150000 +0800" stop="20260920180000 +0800" channel="TSN2.ca">
+    <title lang="en">Ottawa Redblacks at Calgary Stampeders</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233600&amp;EntityType=LinearSchedule&amp;EntityId=fad66ce1-9757-47d5-92d9-9ef6255a555b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920180000 +0800" stop="20260920210000 +0800" channel="TSN2.ca">
+    <title lang="en">Edmonton Elks at Toronto Argonauts</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233602&amp;EntityType=LinearSchedule&amp;EntityId=8b668779-c3cf-44cc-8b35-c7205522339a&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920210000 +0800" stop="20260921000000 +0800" channel="TSN2.ca">
+    <title lang="en">Ottawa Redblacks at Calgary Stampeders</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233604&amp;EntityType=LinearSchedule&amp;EntityId=5c3efdbf-7983-46ba-847f-3debb87caffa&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260918233000 +0800" stop="20260919003000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232760&amp;EntityType=LinearSchedule&amp;EntityId=c8de8ab2-2239-4d0f-97ee-636fb85307cd&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919003000 +0800" stop="20260919010000 +0800" channel="TSN3.ca">
+    <title lang="en">Week 1</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232762&amp;EntityType=LinearSchedule&amp;EntityId=f66c1229-c850-4c0c-8c84-93e601c63bd4&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919010000 +0800" stop="20260919013000 +0800" channel="TSN3.ca">
+    <title lang="en">Top PWHL Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232764&amp;EntityType=LinearSchedule&amp;EntityId=b676993a-78e9-4360-a2cf-88a580c46da9&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919013000 +0800" stop="20260919020000 +0800" channel="TSN3.ca">
+    <title lang="en">Top 50 CHL Goals</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232766&amp;EntityType=LinearSchedule&amp;EntityId=89561666-4002-4341-9639-5a236e7b1ba2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919020000 +0800" stop="20260919023000 +0800" channel="TSN3.ca">
+    <title lang="en">Round 4: Pro Supersport, Race 1</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232768&amp;EntityType=LinearSchedule&amp;EntityId=e1c82d13-fab6-46f4-834a-d252dd1cfde3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919023000 +0800" stop="20260919030000 +0800" channel="TSN3.ca">
+    <title lang="en">Motorcycle Experience</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232770&amp;EntityType=LinearSchedule&amp;EntityId=0003c09f-cf5a-4349-9d30-d5a686e298ac&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919030000 +0800" stop="20260919040000 +0800" channel="TSN3.ca">
+    <title lang="en">NBA Today</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232772&amp;EntityType=LinearSchedule&amp;EntityId=b040d58b-7ab1-4e22-8961-04a75e75a230&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919040000 +0800" stop="20260919050000 +0800" channel="TSN3.ca">
+    <title lang="en">NFL Live</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232774&amp;EntityType=LinearSchedule&amp;EntityId=ad5bcf6d-62ef-43e7-bca4-4a601a7766f9&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919050000 +0800" stop="20260919053000 +0800" channel="TSN3.ca">
+    <title lang="en">College Football Live</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232776&amp;EntityType=LinearSchedule&amp;EntityId=6f9316d2-b49c-430f-b62b-8c78b612c40a&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919053000 +0800" stop="20260919060000 +0800" channel="TSN3.ca">
+    <title lang="en">Pardon the Interruption</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232778&amp;EntityType=LinearSchedule&amp;EntityId=8c7f4ab1-1961-4cbb-8dbb-2057fa0f55a0&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919060000 +0800" stop="20260919070000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232780&amp;EntityType=LinearSchedule&amp;EntityId=6331942b-0e07-45c6-82d5-58657fa18a29&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919070000 +0800" stop="20260919073000 +0800" channel="TSN3.ca">
+    <title lang="en">CFL on TSN Pregame</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232782&amp;EntityType=LinearSchedule&amp;EntityId=9b6aaa05-a5fa-4253-9582-e2863871b0b1&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919073000 +0800" stop="20260919103000 +0800" channel="TSN3.ca">
+    <title lang="en">Montreal Alouettes at Hamilton Tiger-Cats</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232784&amp;EntityType=LinearSchedule&amp;EntityId=c22151a7-f36a-4111-a1c4-57e28b9799e2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919103000 +0800" stop="20260919120000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233190&amp;EntityType=LinearSchedule&amp;EntityId=d0645d0d-eed2-4e7c-a767-be7ee955c114&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919120000 +0800" stop="20260919130000 +0800" channel="TSN3.ca">
+    <title lang="en">Dai! Dai! Dai!</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233192&amp;EntityType=LinearSchedule&amp;EntityId=1bf1d03d-60df-4751-a8b7-f4defe5633e4&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919130000 +0800" stop="20260919140000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233194&amp;EntityType=LinearSchedule&amp;EntityId=333d5c58-236f-4e90-be87-d62269b8c370&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919150000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233196&amp;EntityType=LinearSchedule&amp;EntityId=a1a5464c-6dd8-4abf-abb5-e48db3655a9b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919160000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233198&amp;EntityType=LinearSchedule&amp;EntityId=5fcd2788-f0b7-4a58-8b61-fe073f8c57b0&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919170000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233200&amp;EntityType=LinearSchedule&amp;EntityId=94b86a54-958a-4511-b35e-9e68553b884d&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919170000 +0800" stop="20260919180000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233202&amp;EntityType=LinearSchedule&amp;EntityId=e5c80bbd-2613-4d0a-9484-4c3df83eb6ec&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919190000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233204&amp;EntityType=LinearSchedule&amp;EntityId=842df2a1-793e-4e02-a778-978748c94ca2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919190000 +0800" stop="20260919200000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233206&amp;EntityType=LinearSchedule&amp;EntityId=e6de5228-eb0a-4949-aa7d-779581cb66ce&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919200000 +0800" stop="20260919210000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233208&amp;EntityType=LinearSchedule&amp;EntityId=b734549a-1575-4d74-89bc-919e84ca73f3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919210000 +0800" stop="20260919220000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233210&amp;EntityType=LinearSchedule&amp;EntityId=7b8ae6b7-4264-49fb-9780-5014f7aafba3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919220000 +0800" stop="20260919230000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233212&amp;EntityType=LinearSchedule&amp;EntityId=4f5e9979-614c-4349-8e55-8c78a5db015c&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919230000 +0800" stop="20260920000000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233214&amp;EntityType=LinearSchedule&amp;EntityId=65572e39-5b6b-4421-bc92-42becc24cbd3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920000000 +0800" stop="20260920010000 +0800" channel="TSN3.ca">
+    <title lang="en">Maple Leaf Pro Wrestling Mayhem</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233216&amp;EntityType=LinearSchedule&amp;EntityId=14134bc0-1483-4a1c-bc8f-e83199f4b20e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920010000 +0800" stop="20260920030000 +0800" channel="TSN3.ca">
+    <title lang="en">Phoenix Mercury at Dallas Wings</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233218&amp;EntityType=LinearSchedule&amp;EntityId=e6a3ad28-a1a7-42db-9159-841826a8dd86&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920030000 +0800" stop="20260920060000 +0800" channel="TSN3.ca">
+    <title lang="en">Edmonton Elks at Toronto Argonauts</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233220&amp;EntityType=LinearSchedule&amp;EntityId=1947cbee-b66c-4858-8146-15539fb40af5&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920060000 +0800" stop="20260920070000 +0800" channel="TSN3.ca">
+    <title lang="en">Dai! Dai! Dai!</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233222&amp;EntityType=LinearSchedule&amp;EntityId=a8eaaccf-5344-4861-aad8-d4889802d8e2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920070000 +0800" stop="20260920073000 +0800" channel="TSN3.ca">
+    <title lang="en">Bass Pro Shops Night Race</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233224&amp;EntityType=LinearSchedule&amp;EntityId=c2304c18-1328-4f98-9df9-e6228a8f273b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920073000 +0800" stop="20260920110000 +0800" channel="TSN3.ca">
+    <title lang="en">Bass Pro Shops Night Race</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233226&amp;EntityType=LinearSchedule&amp;EntityId=85bac86e-b3ab-496d-81fb-d5cf066a2da8&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920110000 +0800" stop="20260920113000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233626&amp;EntityType=LinearSchedule&amp;EntityId=561b4e98-5a90-44e1-93e7-af3b5896dac3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920113000 +0800" stop="20260920120000 +0800" channel="TSN3.ca">
+    <title lang="en">August Plays of the Month</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233628&amp;EntityType=LinearSchedule&amp;EntityId=c48ec47d-e06d-45fa-ba0c-1768b213f550&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920120000 +0800" stop="20260920130000 +0800" channel="TSN3.ca">
+    <title lang="en">Top 50 Rides and Wrecks</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233630&amp;EntityType=LinearSchedule&amp;EntityId=10268115-bc9d-4401-9380-6a7120fa5364&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920130000 +0800" stop="20260920140000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233632&amp;EntityType=LinearSchedule&amp;EntityId=65ae79bb-815e-4f14-b850-fa051cf80b48&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920140000 +0800" stop="20260920150000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233634&amp;EntityType=LinearSchedule&amp;EntityId=223e296e-3a25-4d11-abc3-1c9531ab5c6b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920150000 +0800" stop="20260920160000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233636&amp;EntityType=LinearSchedule&amp;EntityId=8a561d74-6cbe-4312-82cd-c32cb9ae0de2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920160000 +0800" stop="20260920170000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233638&amp;EntityType=LinearSchedule&amp;EntityId=3e718d50-488f-4e3e-a38f-ecb7079e49ed&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920170000 +0800" stop="20260920180000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233640&amp;EntityType=LinearSchedule&amp;EntityId=d09cd4fe-3e4d-4152-a1e4-95fc78438b1b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920180000 +0800" stop="20260920190000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233644&amp;EntityType=LinearSchedule&amp;EntityId=50eba075-424c-416f-a255-6414c10f15c0&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920190000 +0800" stop="20260920200000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233648&amp;EntityType=LinearSchedule&amp;EntityId=944fe74f-ce11-4e48-897f-a594dfe80fe7&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920200000 +0800" stop="20260920210000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233650&amp;EntityType=LinearSchedule&amp;EntityId=6f83cc76-3c44-406e-aeec-ee974f1aee5c&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920210000 +0800" stop="20260920220000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233652&amp;EntityType=LinearSchedule&amp;EntityId=a856c403-4fd9-40cf-9a60-3521b7d77f93&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920220000 +0800" stop="20260920230000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233654&amp;EntityType=LinearSchedule&amp;EntityId=fe928cf6-f6ef-44cc-81d0-7fbfffa49207&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920230000 +0800" stop="20260921000000 +0800" channel="TSN3.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233656&amp;EntityType=LinearSchedule&amp;EntityId=fdf044e5-e812-467a-8511-bb4ec600bd70&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919000000 +0800" stop="20260919020000 +0800" channel="TSN4.ca">
+    <title lang="en">First Take</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232814&amp;EntityType=LinearSchedule&amp;EntityId=bfe4ad53-b2b0-41f1-873e-f8e465ee31ba&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919020000 +0800" stop="20260919023000 +0800" channel="TSN4.ca">
+    <title lang="en">Top Overtime Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232816&amp;EntityType=LinearSchedule&amp;EntityId=7f656c21-38f5-410a-90a4-0c110fe79f6f&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919023000 +0800" stop="20260919033000 +0800" channel="TSN4.ca">
+    <title lang="en">Dai! Dai! Dai!</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232818&amp;EntityType=LinearSchedule&amp;EntityId=db7bba72-7148-46a1-be13-0ba5a837ff79&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919033000 +0800" stop="20260919040000 +0800" channel="TSN4.ca">
+    <title lang="en">TSN Hockey Top 50 Players Special</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232820&amp;EntityType=LinearSchedule&amp;EntityId=d5cf4eea-9fb2-428a-8b75-0726c5b6b1ee&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919040000 +0800" stop="20260919060000 +0800" channel="TSN4.ca">
+    <title lang="en">Overdrive</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232822&amp;EntityType=LinearSchedule&amp;EntityId=d59124fb-fecf-40c4-af6e-09ca81cd5d65&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919060000 +0800" stop="20260919070000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232824&amp;EntityType=LinearSchedule&amp;EntityId=19a91d15-20ac-48a4-ac71-07533e03d20e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919070000 +0800" stop="20260919073000 +0800" channel="TSN4.ca">
+    <title lang="en">Toronto Tempo Basketball Pregame</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232826&amp;EntityType=LinearSchedule&amp;EntityId=c8fc857b-9a9e-4955-8fba-df68898c3683&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919073000 +0800" stop="20260919093000 +0800" channel="TSN4.ca">
+    <title lang="en">Indiana Fever at Toronto Tempo</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232828&amp;EntityType=LinearSchedule&amp;EntityId=d688e05b-374c-4a1d-a2e4-27f2fed5fd51&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919093000 +0800" stop="20260919103000 +0800" channel="TSN4.ca">
+    <title lang="en">Montreal Alouettes at Hamilton Tiger-Cats</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233228&amp;EntityType=LinearSchedule&amp;EntityId=38bc71cc-bc2e-47be-ba9a-da41429753a0&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919103000 +0800" stop="20260919120000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233230&amp;EntityType=LinearSchedule&amp;EntityId=ec261521-1ef6-4f4c-9da1-c2cb0ec39b8e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919120000 +0800" stop="20260919123000 +0800" channel="TSN4.ca">
+    <title lang="en">NBA Plays of the Year</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233232&amp;EntityType=LinearSchedule&amp;EntityId=18c7be48-1f0e-42d4-a215-450982313175&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919123000 +0800" stop="20260919130000 +0800" channel="TSN4.ca">
+    <title lang="en">Top 50 NBA Circus Shots</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233234&amp;EntityType=LinearSchedule&amp;EntityId=2e8759b3-7d57-4983-9d51-96e500f2628e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919130000 +0800" stop="20260919140000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233236&amp;EntityType=LinearSchedule&amp;EntityId=7b6091b7-34ac-4a98-b38b-a886be1fdac0&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919143000 +0800" channel="TSN4.ca">
+    <title lang="en">Top 50 CHL Goals</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233238&amp;EntityType=LinearSchedule&amp;EntityId=a062f9d2-7d31-41d9-9e19-2537184d2f4d&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919143000 +0800" stop="20260919145000 +0800" channel="TSN4.ca">
+    <title lang="en">Top World Juniors Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233240&amp;EntityType=LinearSchedule&amp;EntityId=04755936-0410-4936-8958-8da7a2f71ea2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919145000 +0800" stop="20260919170000 +0800" channel="TSN4.ca">
+    <title lang="en">Third-Place Playoff: Canada vs. United States</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233352&amp;EntityType=LinearSchedule&amp;EntityId=032c5ffc-07a8-4c9f-8725-3aa77f2d88cf&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919170000 +0800" stop="20260919175500 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233244&amp;EntityType=LinearSchedule&amp;EntityId=382a3cc6-6ee3-4d16-8cc9-04312871bcda&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919175500 +0800" stop="20260919200000 +0800" channel="TSN4.ca">
+    <title lang="en">Grand Final: Fiji vs. Japan</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233356&amp;EntityType=LinearSchedule&amp;EntityId=74059aee-a1ec-4249-bbf6-23c3e5ca5795&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919200000 +0800" stop="20260919210000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233248&amp;EntityType=LinearSchedule&amp;EntityId=fb67b1db-9efc-40dd-a1b7-06b54ffe4608&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919210000 +0800" stop="20260919213000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233250&amp;EntityType=LinearSchedule&amp;EntityId=e08ef96d-0f1e-4d98-b8e9-0e4056c3a68b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919213000 +0800" stop="20260919230000 +0800" channel="TSN4.ca">
+    <title lang="en">Geneva, Day 1</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233252&amp;EntityType=LinearSchedule&amp;EntityId=02c8fdc0-3175-4215-ab16-f52674f72668&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919230000 +0800" stop="20260920000000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233254&amp;EntityType=LinearSchedule&amp;EntityId=df2699c0-7151-401d-9f3e-9cc6eb4bf68a&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920000000 +0800" stop="20260920003000 +0800" channel="TSN4.ca">
+    <title lang="en">Outrageous NASCAR Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233256&amp;EntityType=LinearSchedule&amp;EntityId=76c5b991-1840-4c6c-aa26-4c9d32fb8ad3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920003000 +0800" stop="20260920013000 +0800" channel="TSN4.ca">
+    <title lang="en">2026 Canadian Championship, Part 2</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233258&amp;EntityType=LinearSchedule&amp;EntityId=1c798439-5dca-41bc-9fa9-ea1a500d12f0&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920013000 +0800" stop="20260920030000 +0800" channel="TSN4.ca">
+    <title lang="en">NTN BCA 200</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233260&amp;EntityType=LinearSchedule&amp;EntityId=0bb28671-670c-4ccb-89e2-7e27a4ae4a0d&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920030000 +0800" stop="20260920060000 +0800" channel="TSN4.ca">
+    <title lang="en">Edmonton Elks at Toronto Argonauts</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233262&amp;EntityType=LinearSchedule&amp;EntityId=45bd0dd5-f3af-43cc-895c-f2be9dc703e5&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920060000 +0800" stop="20260920063000 +0800" channel="TSN4.ca">
+    <title lang="en">Wacky CFL Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233264&amp;EntityType=LinearSchedule&amp;EntityId=7270c3ba-9ac0-4e2a-899a-d93520bcb544&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920063000 +0800" stop="20260920070000 +0800" channel="TSN4.ca">
+    <title lang="en">TSN Hockey Top 50 Players Special</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233266&amp;EntityType=LinearSchedule&amp;EntityId=14e0583b-80c4-489b-b9ba-c9007944dd32&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920070000 +0800" stop="20260920093000 +0800" channel="TSN4.ca">
+    <title lang="en">Toronto Maple Leafs at Montreal Canadiens</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233268&amp;EntityType=LinearSchedule&amp;EntityId=c114dc16-0e43-4e65-a115-5711deeb1a97&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920093000 +0800" stop="20260920103000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233668&amp;EntityType=LinearSchedule&amp;EntityId=6f0a774b-8b63-42aa-9034-5dda24a86b4b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920103000 +0800" stop="20260920113000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233670&amp;EntityType=LinearSchedule&amp;EntityId=6f4eaa98-0890-4db9-8fb3-54250d786e8b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920113000 +0800" stop="20260920120000 +0800" channel="TSN4.ca">
+    <title lang="en">TSN Hockey Top 50 Players Special</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233672&amp;EntityType=LinearSchedule&amp;EntityId=da4dff64-505f-42f8-8475-7ee7133b984e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920120000 +0800" stop="20260920123000 +0800" channel="TSN4.ca">
+    <title lang="en">Top 40 Hail Marys</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233674&amp;EntityType=LinearSchedule&amp;EntityId=c3abde69-9275-41d9-bc28-fcd75c510317&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920123000 +0800" stop="20260920130000 +0800" channel="TSN4.ca">
+    <title lang="en">Top 40 Trick Plays of All-Time</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233676&amp;EntityType=LinearSchedule&amp;EntityId=703db42b-1886-44aa-a124-598b651dbc39&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920130000 +0800" stop="20260920140000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233678&amp;EntityType=LinearSchedule&amp;EntityId=d03b08cf-3735-49a6-a3f2-6208c70d1556&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920140000 +0800" stop="20260920150000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233680&amp;EntityType=LinearSchedule&amp;EntityId=b58b98a3-524b-43fb-b9bc-56bdfa535992&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920150000 +0800" stop="20260920160000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233682&amp;EntityType=LinearSchedule&amp;EntityId=c0b98d0f-54b0-4cf3-b28a-333489e91626&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920160000 +0800" stop="20260920170000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233684&amp;EntityType=LinearSchedule&amp;EntityId=cad1e8b8-6565-4ef1-a16b-c9c5e340edc5&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920170000 +0800" stop="20260920180000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233686&amp;EntityType=LinearSchedule&amp;EntityId=8d929517-565f-4575-b3c3-d4feb046befb&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920180000 +0800" stop="20260920190000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233688&amp;EntityType=LinearSchedule&amp;EntityId=c76c8eb2-457c-4040-9fdd-de790f29321f&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920190000 +0800" stop="20260920200000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233690&amp;EntityType=LinearSchedule&amp;EntityId=00ca376b-64e4-4b68-a63e-11e39ae934e0&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920200000 +0800" stop="20260920210000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233692&amp;EntityType=LinearSchedule&amp;EntityId=1daec440-b945-4e65-a89c-cfa6eb66bd54&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920210000 +0800" stop="20260920213000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233694&amp;EntityType=LinearSchedule&amp;EntityId=629f8bf8-0e15-4798-9151-3998fd9907a9&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920213000 +0800" stop="20260920230000 +0800" channel="TSN4.ca">
+    <title lang="en">Geneva, Day 2</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233696&amp;EntityType=LinearSchedule&amp;EntityId=7688df54-fadc-4d04-9c6d-b609ad250802&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920230000 +0800" stop="20260921000000 +0800" channel="TSN4.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233698&amp;EntityType=LinearSchedule&amp;EntityId=44434f9c-2ec0-41c8-8d25-0312cf89718b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919000000 +0800" stop="20260919003000 +0800" channel="TSN5.ca">
+    <title lang="en">Top Super Bowl Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232864&amp;EntityType=LinearSchedule&amp;EntityId=a6f44675-7a35-4de7-9be9-c25bd3cf9195&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919003000 +0800" stop="20260919010000 +0800" channel="TSN5.ca">
+    <title lang="en">Week 1</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232866&amp;EntityType=LinearSchedule&amp;EntityId=cf1f1475-e824-4b10-ac9e-aa33143048d5&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919010000 +0800" stop="20260919013000 +0800" channel="TSN5.ca">
+    <title lang="en">Top PWHL Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232868&amp;EntityType=LinearSchedule&amp;EntityId=e8b71f37-006e-4aa5-97df-912c0c862d03&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919013000 +0800" stop="20260919020000 +0800" channel="TSN5.ca">
+    <title lang="en">Top 50 CHL Goals</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232870&amp;EntityType=LinearSchedule&amp;EntityId=cfd2e315-8223-43e3-a529-d86eb56a38e3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919020000 +0800" stop="20260919023000 +0800" channel="TSN5.ca">
+    <title lang="en">Top Overtime Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232872&amp;EntityType=LinearSchedule&amp;EntityId=6a97ae26-6e86-4534-bede-187356d7f296&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919023000 +0800" stop="20260919033000 +0800" channel="TSN5.ca">
+    <title lang="en">Dai! Dai! Dai!</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232874&amp;EntityType=LinearSchedule&amp;EntityId=1919a85f-6a38-4ce0-94cb-6e8ad78b4c01&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919033000 +0800" stop="20260919040000 +0800" channel="TSN5.ca">
+    <title lang="en">TSN Hockey Top 50 Players Special</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232876&amp;EntityType=LinearSchedule&amp;EntityId=09c05360-0a94-49b5-bda1-521410a61564&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919040000 +0800" stop="20260919060000 +0800" channel="TSN5.ca">
+    <title lang="en">Overdrive</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232878&amp;EntityType=LinearSchedule&amp;EntityId=85a98aec-64a3-465e-b7e0-11beaaa5219d&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919060000 +0800" stop="20260919070000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232880&amp;EntityType=LinearSchedule&amp;EntityId=36b96b8b-522f-44d3-8dcf-c3110c1e65b2&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919070000 +0800" stop="20260919073000 +0800" channel="TSN5.ca">
+    <title lang="en">TSN Hockey Top 50 Players Special</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232882&amp;EntityType=LinearSchedule&amp;EntityId=da9ecfc6-2848-4674-9ebc-54dce45be53d&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919073000 +0800" stop="20260919093000 +0800" channel="TSN5.ca">
+    <title lang="en">New York Red Bulls at New York City FC</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=232884&amp;EntityType=LinearSchedule&amp;EntityId=275672a7-ccf0-49b0-b62c-47c7baeeede9&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919093000 +0800" stop="20260919103000 +0800" channel="TSN5.ca">
+    <title lang="en">Montreal Alouettes at Hamilton Tiger-Cats</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233270&amp;EntityType=LinearSchedule&amp;EntityId=c44e605a-54b9-4d91-b69d-75b49f6e0710&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919103000 +0800" stop="20260919120000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233272&amp;EntityType=LinearSchedule&amp;EntityId=c4932cdf-fc18-4b2f-829b-0cacb886cb1a&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919120000 +0800" stop="20260919130000 +0800" channel="TSN5.ca">
+    <title lang="en">Dai! Dai! Dai!</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233274&amp;EntityType=LinearSchedule&amp;EntityId=b332001d-9ae7-4761-b1f7-db1be3e05559&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919130000 +0800" stop="20260919140000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233276&amp;EntityType=LinearSchedule&amp;EntityId=19b6bf6a-4ed4-47a4-96ed-0681aab19963&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919150000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233278&amp;EntityType=LinearSchedule&amp;EntityId=12d1c8a5-2c33-4c63-84df-472c881e4037&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919160000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233280&amp;EntityType=LinearSchedule&amp;EntityId=2252f8d1-9dd6-4c9b-899e-7dafda4e11b7&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919170000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233282&amp;EntityType=LinearSchedule&amp;EntityId=30b2f0ef-3ee1-4616-afeb-d6affb551b62&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919170000 +0800" stop="20260919180000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233284&amp;EntityType=LinearSchedule&amp;EntityId=77af424c-d920-4642-a30e-47369487817e&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919190000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233286&amp;EntityType=LinearSchedule&amp;EntityId=58a2f6da-8c2c-46d0-adcd-fa7aed845c39&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919190000 +0800" stop="20260919200000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233288&amp;EntityType=LinearSchedule&amp;EntityId=febc7000-9734-407b-88db-641fa0b2c8cc&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919200000 +0800" stop="20260919210000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233290&amp;EntityType=LinearSchedule&amp;EntityId=82e4f1c8-628c-460f-a001-419108845a65&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919210000 +0800" stop="20260919215000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233292&amp;EntityType=LinearSchedule&amp;EntityId=e6c6420c-2e99-49e2-afed-2e31478c5f82&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260919215000 +0800" stop="20260920000000 +0800" channel="TSN5.ca">
+    <title lang="en">WXV Global Series: England vs. Canada</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=234810&amp;EntityType=LinearSchedule&amp;EntityId=b1c3d454-95e7-4659-a975-e64a7f109cae&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920000000 +0800" stop="20260920010000 +0800" channel="TSN5.ca">
+    <title lang="en">Dai! Dai! Dai!</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233296&amp;EntityType=LinearSchedule&amp;EntityId=b412f5e1-b66c-4087-bcc1-09d0c2a8bed0&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920010000 +0800" stop="20260920030000 +0800" channel="TSN5.ca">
+    <title lang="en">Phoenix Mercury at Dallas Wings</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233298&amp;EntityType=LinearSchedule&amp;EntityId=e0fa17f9-1f65-4c22-b6fa-b43f032db19a&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920030000 +0800" stop="20260920033000 +0800" channel="TSN5.ca">
+    <title lang="en">Top WNBA Moments</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233300&amp;EntityType=LinearSchedule&amp;EntityId=370ceb60-48a7-4240-a0a8-3a69e8c7d280&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920033000 +0800" stop="20260920050000 +0800" channel="TSN5.ca">
+    <title lang="en">Geneva, Day 1</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233302&amp;EntityType=LinearSchedule&amp;EntityId=0aadad3f-5f3c-4d61-be17-69c730e30335&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920050000 +0800" stop="20260920070000 +0800" channel="TSN5.ca">
+    <title lang="en">Montreal Roses at Vancouver Rise</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233304&amp;EntityType=LinearSchedule&amp;EntityId=b5fdaecc-de13-44e2-96ab-a3fde8dc60b3&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920070000 +0800" stop="20260920073000 +0800" channel="TSN5.ca">
+    <title lang="en">Top Moments of the FIFA World Cup</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233306&amp;EntityType=LinearSchedule&amp;EntityId=a41e237e-fcbb-4c19-8390-da9b7f2d8628&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920073000 +0800" stop="20260920093000 +0800" channel="TSN5.ca">
+    <title lang="en">Columbus Crew at CF Montréal</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233308&amp;EntityType=LinearSchedule&amp;EntityId=3ae5d979-1c5d-4ab7-a34b-79d9e211b3a6&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920093000 +0800" stop="20260920113000 +0800" channel="TSN5.ca">
+    <title lang="en">Vancouver Whitecaps FC at Real Salt Lake</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233720&amp;EntityType=LinearSchedule&amp;EntityId=ca14b7f6-f02b-4114-901a-d69abf71f1bc&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920113000 +0800" stop="20260920120000 +0800" channel="TSN5.ca">
+    <title lang="en">August Plays of the Month</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233722&amp;EntityType=LinearSchedule&amp;EntityId=418a7e79-32bd-41e0-a476-9d44e3a7fd51&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920120000 +0800" stop="20260920130000 +0800" channel="TSN5.ca">
+    <title lang="en">Top 50 Rides and Wrecks</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233726&amp;EntityType=LinearSchedule&amp;EntityId=74ec7f87-3e04-4650-a76f-a86019676515&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920130000 +0800" stop="20260920140000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233728&amp;EntityType=LinearSchedule&amp;EntityId=c428a6ec-0f1c-4390-ac8b-54e157c7ab05&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920140000 +0800" stop="20260920150000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233730&amp;EntityType=LinearSchedule&amp;EntityId=449c6cd8-8a03-4f91-b006-02c813874991&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920150000 +0800" stop="20260920160000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233732&amp;EntityType=LinearSchedule&amp;EntityId=380df0f5-50eb-412d-a712-50234e7a1cee&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920160000 +0800" stop="20260920170000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233734&amp;EntityType=LinearSchedule&amp;EntityId=6b7423d7-e2ac-46a8-91f1-6b1c13a7287d&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920170000 +0800" stop="20260920180000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233736&amp;EntityType=LinearSchedule&amp;EntityId=671c5ec9-5d70-4c36-8aab-fe331b392032&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920180000 +0800" stop="20260920190000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233738&amp;EntityType=LinearSchedule&amp;EntityId=d6a05124-c84f-43b0-99db-e5b71e46de31&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920190000 +0800" stop="20260920200000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233740&amp;EntityType=LinearSchedule&amp;EntityId=11af89d9-a374-4a2f-a4ac-551855745e00&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920200000 +0800" stop="20260920210000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233742&amp;EntityType=LinearSchedule&amp;EntityId=f681c0d8-39cb-4288-bdab-a8eab052e43b&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920210000 +0800" stop="20260920220000 +0800" channel="TSN5.ca">
+    <title lang="en">SportsCentre</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233744&amp;EntityType=LinearSchedule&amp;EntityId=aa13b478-05b7-4320-b89e-b19a8a3be44c&amp;Width=960&amp;Height=540"/>
+  </programme>
+  <programme start="20260920220000 +0800" stop="20260921001500 +0800" channel="TSN5.ca">
+    <title lang="en">Atlético Madrid vs. Real Madrid</title>
+    <icon src="https://tsn-static-prd.tsn.d3-bell.com/api/shain/v1/dataservice/ResizeImage/$value?Format=jpg&amp;Quality=85&amp;ImageId=233746&amp;EntityType=LinearSchedule&amp;EntityId=87571787-9b41-4821-8ff7-ae8e1a0df0a7&amp;Width=960&amp;Height=540"/>
   </programme>
   <programme start="20260919000000 +0800" stop="20260919003000 +0800" channel="TV1.rtm">
     <title lang="en">Berita Tengah Malam</title>
