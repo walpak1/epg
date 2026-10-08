@@ -840,11 +840,6 @@
     <desc lang="en">Australian Pro Tour: Wagga Wagga 2 - Day 1</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/TNAPT_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg"/>
   </programme>
-  <programme start="20261008130000 +0800" stop="20261008180000 +0800" channel="117963.beinau">
-    <title lang="en">Wagga Wagga 2 - Evening 1</title>
-    <desc lang="en">Australian Pro Tour: Wagga Wagga 2 - Evening 1</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/TNAPT_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg"/>
-  </programme>
   <programme start="20261009080000 +0800" stop="20261009140000 +0800" channel="117963.beinau">
     <title lang="en">Wagga Wagga 2 - Day 2</title>
     <desc lang="en">Australian Pro Tour: Wagga Wagga 2 - Day 2</desc>
@@ -1511,8 +1506,8 @@
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008110000 +0800" stop="20261008114500 +0800" channel="213186.beinau">
-    <title lang="en">Inside Carrington Podcast - Regeneration</title>
-    <desc lang="en">Podcast</desc>
+    <title lang="en">Inside Carrington - Regeneration</title>
+    <desc lang="en">Podcast: Inside Carrington - Regeneration</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008114500 +0800" stop="20261008120000 +0800" channel="213186.beinau">
@@ -1521,8 +1516,8 @@
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008120000 +0800" stop="20261008130000 +0800" channel="213186.beinau">
-    <title lang="en">Inside Carrington Podcast - Adidas</title>
-    <desc lang="en">Podcast</desc>
+    <title lang="en">Inside Carrington - Inigo Turner</title>
+    <desc lang="en">Podcast: Inside Carrington - Inigo Turner</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008130000 +0800" stop="20261008133000 +0800" channel="213186.beinau">
@@ -1566,8 +1561,8 @@
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008170000 +0800" stop="20261008174500 +0800" channel="213186.beinau">
-    <title lang="en">Inside Carrington Podcast - Regeneration</title>
-    <desc lang="en">Podcast</desc>
+    <title lang="en">Inside Carrington - Regeneration</title>
+    <desc lang="en">Podcast: Inside Carrington - Regeneration</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008174500 +0800" stop="20261008180000 +0800" channel="213186.beinau">
@@ -1576,8 +1571,8 @@
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008180000 +0800" stop="20261008190000 +0800" channel="213186.beinau">
-    <title lang="en">Inside Carrington Podcast - Adidas</title>
-    <desc lang="en">Podcast</desc>
+    <title lang="en">Inside Carrington - Inigo Turner</title>
+    <desc lang="en">Podcast: Inside Carrington - Inigo Turner</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008190000 +0800" stop="20261008193000 +0800" channel="213186.beinau">
@@ -1596,13 +1591,13 @@
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008203000 +0800" stop="20261008204500 +0800" channel="213186.beinau">
-    <title lang="en">New: Press Conference: Tottenham (H)</title>
-    <desc lang="en">New: Press Conference</desc>
+    <title lang="en">Top 20 European Away Goals</title>
+    <desc lang="en">Top 20 Goals: Top 20 European Away Goals</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008204500 +0800" stop="20261008210000 +0800" channel="213186.beinau">
-    <title lang="en">Summer Sessions: Episode 2</title>
-    <desc lang="en">Player Spotlight: Summer Sessions: Episode 2</desc>
+    <title lang="en">Top 20 Goals 2006/07</title>
+    <desc lang="en">Top 20 Goals</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008210000 +0800" stop="20261008213000 +0800" channel="213186.beinau">
@@ -1626,8 +1621,8 @@
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008224500 +0800" stop="20261008230000 +0800" channel="213186.beinau">
-    <title lang="en">Press Conference: Tottenham (H)</title>
-    <desc lang="en">Press Conference</desc>
+    <title lang="en">Top 20 European Away Goals</title>
+    <desc lang="en">Top 20 Goals: Top 20 European Away Goals</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261008230000 +0800" stop="20261008234500 +0800" channel="213186.beinau">
@@ -1655,19 +1650,9 @@
     <desc lang="en">Podcast: Inside Carrington - Bruno Fernandes</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009020000 +0800" stop="20261009023000 +0800" channel="213186.beinau">
+  <programme start="20261009020000 +0800" stop="20261009030000 +0800" channel="213186.beinau">
     <title lang="en">Inside Carrington - Youri Tielemans</title>
     <desc lang="en">Podcast: Inside Carrington - Youri Tielemans</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009023000 +0800" stop="20261009024500 +0800" channel="213186.beinau">
-    <title lang="en">Press Conference: Tottenham (H)</title>
-    <desc lang="en">Press Conference</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009024500 +0800" stop="20261009030000 +0800" channel="213186.beinau">
-    <title lang="en">Wayne Rooney: Exclusive Interview</title>
-    <desc lang="en">Player Spotlight: Wayne Rooney: Exclusive Interview</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261009030000 +0800" stop="20261009033000 +0800" channel="213186.beinau">
@@ -1680,49 +1665,34 @@
     <desc lang="en">MUTV Gold - Sir Alex's 25 Greatest Moments</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009040000 +0800" stop="20261009043000 +0800" channel="213186.beinau">
-    <title lang="en">PL Highlights: Fulham (A) 26/27</title>
-    <desc lang="en">Premier League Highlights 26/27: PL Highlights: Fulham (A) 26/27</desc>
+  <programme start="20261009040000 +0800" stop="20261009041500 +0800" channel="213186.beinau">
+    <title lang="en">Top 20 European Away Goals</title>
+    <desc lang="en">Top 20 Goals: Top 20 European Away Goals</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009043000 +0800" stop="20261009044500 +0800" channel="213186.beinau">
-    <title lang="en">Wayne Rooney: Exclusive Interview</title>
-    <desc lang="en">Player Spotlight: Wayne Rooney: Exclusive Interview</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009044500 +0800" stop="20261009050000 +0800" channel="213186.beinau">
-    <title lang="en">Press Conference: Tottenham (H)</title>
-    <desc lang="en">Press Conference</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009050000 +0800" stop="20261009054500 +0800" channel="213186.beinau">
-    <title lang="en">Inside Carrington - Breaking Barriers</title>
-    <desc lang="en">Podcast: Inside Carrington - Breaking Barriers</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009054500 +0800" stop="20261009060000 +0800" channel="213186.beinau">
-    <title lang="en">A Day in the Life: Andrea Medina</title>
-    <desc lang="en">A Day in the Life</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009060000 +0800" stop="20261009070000 +0800" channel="213186.beinau">
-    <title lang="en">Inside Carrington Podcast - Adidas</title>
-    <desc lang="en">Podcast</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009070000 +0800" stop="20261009073000 +0800" channel="213186.beinau">
+  <programme start="20261009041500 +0800" stop="20261009051500 +0800" channel="213186.beinau">
     <title lang="en">Inside Carrington - Youri Tielemans</title>
     <desc lang="en">Podcast: Inside Carrington - Youri Tielemans</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009073000 +0800" stop="20261009080000 +0800" channel="213186.beinau">
-    <title lang="en">Inside Carrington - Bruno Fernandes</title>
-    <desc lang="en">Podcast: Inside Carrington - Bruno Fernandes</desc>
+  <programme start="20261009051500 +0800" stop="20261009060000 +0800" channel="213186.beinau">
+    <title lang="en">Inside Carrington - Breaking Barriers</title>
+    <desc lang="en">Podcast: Inside Carrington - Breaking Barriers</desc>
+    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
+  </programme>
+  <programme start="20261009060000 +0800" stop="20261009070000 +0800" channel="213186.beinau">
+    <title lang="en">Inside Carrington - Inigo Turner</title>
+    <desc lang="en">Podcast: Inside Carrington - Inigo Turner</desc>
+    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
+  </programme>
+  <programme start="20261009070000 +0800" stop="20261009080000 +0800" channel="213186.beinau">
+    <title lang="en">Inside Carrington - Youri Tielemans</title>
+    <desc lang="en">Podcast: Inside Carrington - Youri Tielemans</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261009080000 +0800" stop="20261009081500 +0800" channel="213186.beinau">
-    <title lang="en">Press Conference: Tottenham (H)</title>
-    <desc lang="en">Press Conference</desc>
+    <title lang="en">Top 20 Goals 2007/08</title>
+    <desc lang="en">Top 20 Goals</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261009081500 +0800" stop="20261009083000 +0800" channel="213186.beinau">
@@ -1735,19 +1705,9 @@
     <desc lang="en">All The Goals</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009100000 +0800" stop="20261009103000 +0800" channel="213186.beinau">
+  <programme start="20261009100000 +0800" stop="20261009110000 +0800" channel="213186.beinau">
     <title lang="en">Inside Carrington - Youri Tielemans</title>
     <desc lang="en">Podcast: Inside Carrington - Youri Tielemans</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009103000 +0800" stop="20261009104500 +0800" channel="213186.beinau">
-    <title lang="en">Press Conference: Tottenham (H)</title>
-    <desc lang="en">Press Conference</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009104500 +0800" stop="20261009110000 +0800" channel="213186.beinau">
-    <title lang="en">Summer Sessions: Episode 2</title>
-    <desc lang="en">Player Spotlight: Summer Sessions: Episode 2</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261009110000 +0800" stop="20261009113000 +0800" channel="213186.beinau">
@@ -1770,37 +1730,27 @@
     <desc lang="en">The United Archives: PL: Tottenham v United 98/99</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009130000 +0800" stop="20261009131500 +0800" channel="213186.beinau">
-    <title lang="en">Press Conference: Tottenham (H)</title>
-    <desc lang="en">Press Conference</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009131500 +0800" stop="20261009133000 +0800" channel="213186.beinau">
-    <title lang="en">Summer Sessions: Episode 2</title>
-    <desc lang="en">Player Spotlight: Summer Sessions: Episode 2</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009133000 +0800" stop="20261009140000 +0800" channel="213186.beinau">
+  <programme start="20261009130000 +0800" stop="20261009133000 +0800" channel="213186.beinau">
     <title lang="en">PL: United v Tottenham Hotspur 98/99</title>
     <desc lang="en">The United Archives: PL: United v Tottenham Hotspur 98/99</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009140000 +0800" stop="20261009143000 +0800" channel="213186.beinau">
+  <programme start="20261009133000 +0800" stop="20261009140000 +0800" channel="213186.beinau">
     <title lang="en">PL: United v Tottenham 00/01</title>
     <desc lang="en">The United Archives: PL: United v Tottenham 00/01</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009143000 +0800" stop="20261009150000 +0800" channel="213186.beinau">
+  <programme start="20261009140000 +0800" stop="20261009143000 +0800" channel="213186.beinau">
     <title lang="en">PL: Tottenham Hotspur v United 01/02</title>
     <desc lang="en">The United Archives: PL: Tottenham Hotspur v United 01/02</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009150000 +0800" stop="20261009153000 +0800" channel="213186.beinau">
+  <programme start="20261009143000 +0800" stop="20261009150000 +0800" channel="213186.beinau">
     <title lang="en">PL: United v Tottenham Hotspur 01/02</title>
     <desc lang="en">The United Archives: PL: United v Tottenham Hotspur 01/02</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009153000 +0800" stop="20261009160000 +0800" channel="213186.beinau">
+  <programme start="20261009150000 +0800" stop="20261009160000 +0800" channel="213186.beinau">
     <title lang="en">Inside Carrington - Youri Tielemans</title>
     <desc lang="en">Podcast: Inside Carrington - Youri Tielemans</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
@@ -1825,14 +1775,9 @@
     <desc lang="en">The United Archives: PL: United v Tottenham Hotspur 09/10</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009180000 +0800" stop="20261009181500 +0800" channel="213186.beinau">
-    <title lang="en">Press Conference: Tottenham (H)</title>
-    <desc lang="en">Press Conference</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
-  </programme>
-  <programme start="20261009181500 +0800" stop="20261009183000 +0800" channel="213186.beinau">
-    <title lang="en">A Day in the Life: Andrea Medina</title>
-    <desc lang="en">A Day in the Life</desc>
+  <programme start="20261009180000 +0800" stop="20261009183000 +0800" channel="213186.beinau">
+    <title lang="en">Paul Parker: Tackling the Game</title>
+    <desc lang="en">Paul Parker: Tackling the Game</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261009183000 +0800" stop="20261009190000 +0800" channel="213186.beinau">
@@ -1850,19 +1795,24 @@
     <desc lang="en">The United Archives: PL: United v Tottenham 14/15</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009200000 +0800" stop="20261009203000 +0800" channel="213186.beinau">
-    <title lang="en">PL: United v Tottenham Hotspur 15/16</title>
-    <desc lang="en">The United Archives: PL: United v Tottenham Hotspur 15/16</desc>
+  <programme start="20261009200000 +0800" stop="20261009201500 +0800" channel="213186.beinau">
+    <title lang="en">United with Fans</title>
+    <desc lang="en">Player Spotlight: United with Fans</desc>
+    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
+  </programme>
+  <programme start="20261009201500 +0800" stop="20261009203000 +0800" channel="213186.beinau">
+    <title lang="en">Live: Press Conference: Tottenham (H)</title>
+    <desc lang="en">Live: Press Conference</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261009203000 +0800" stop="20261009204500 +0800" channel="213186.beinau">
-    <title lang="en">A Day in the Life: Andrea Medina</title>
-    <desc lang="en">A Day in the Life</desc>
+    <title lang="en">Top 20 European Away Goals</title>
+    <desc lang="en">Top 20 Goals: Top 20 European Away Goals</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261009204500 +0800" stop="20261009210000 +0800" channel="213186.beinau">
-    <title lang="en">Press Conference: Tottenham (H)</title>
-    <desc lang="en">Press Conference</desc>
+    <title lang="en">A Day in the Life: Andrea Medina</title>
+    <desc lang="en">A Day in the Life</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261009210000 +0800" stop="20261009211500 +0800" channel="213186.beinau">
@@ -1885,19 +1835,19 @@
     <desc lang="en">The United Archives: PL: United v Tottenham 21/22</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009220000 +0800" stop="20261009224500 +0800" channel="213186.beinau">
-    <title lang="en">Inside Carrington - Breaking Barriers</title>
-    <desc lang="en">Podcast: Inside Carrington - Breaking Barriers</desc>
+  <programme start="20261009220000 +0800" stop="20261009230000 +0800" channel="213186.beinau">
+    <title lang="en">Inside Carrington - Youri Tielemans</title>
+    <desc lang="en">Podcast: Inside Carrington - Youri Tielemans</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009224500 +0800" stop="20261009230000 +0800" channel="213186.beinau">
+  <programme start="20261009230000 +0800" stop="20261009231500 +0800" channel="213186.beinau">
     <title lang="en">Press Conference: Tottenham (H)</title>
     <desc lang="en">Press Conference</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
-  <programme start="20261009230000 +0800" stop="20261009233000 +0800" channel="213186.beinau">
-    <title lang="en">Div 1: Tottenham Hotspur v United 70/71</title>
-    <desc lang="en">The United Archives: Div 1: Tottenham Hotspur v United 70/71</desc>
+  <programme start="20261009231500 +0800" stop="20261009233000 +0800" channel="213186.beinau">
+    <title lang="en">United with Fans</title>
+    <desc lang="en">Player Spotlight: United with Fans</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOMUT_LEAGUE_POSTER_SINGAPORE_1920X1080.JPG"/>
   </programme>
   <programme start="20261009233000 +0800" stop="20261010000000 +0800" channel="213186.beinau">
@@ -2220,19 +2170,24 @@
     <desc lang="en">Goal Rush: Champions League 2018/19</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
   </programme>
-  <programme start="20261009200000 +0800" stop="20261009203000 +0800" channel="264796.beinau">
-    <title lang="en">Rush Scored Four</title>
-    <desc lang="en">Rush Scored Four</desc>
+  <programme start="20261009200000 +0800" stop="20261009201500 +0800" channel="264796.beinau">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Doncaster v Liverpool U21: Shortcut</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
   </programme>
-  <programme start="20261009203000 +0800" stop="20261009210000 +0800" channel="264796.beinau">
+  <programme start="20261009201500 +0800" stop="20261009211500 +0800" channel="264796.beinau">
+    <title lang="en">The Premier League Preview Show</title>
+    <desc lang="en">Live: The Premier League Preview Show</desc>
+    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
+  </programme>
+  <programme start="20261009211500 +0800" stop="20261009213000 +0800" channel="264796.beinau">
+    <title lang="en">Virgil Van Dijk</title>
+    <desc lang="en">Goal Rush: Virgil Van Dijk</desc>
+    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
+  </programme>
+  <programme start="20261009213000 +0800" stop="20261009220000 +0800" channel="264796.beinau">
     <title lang="en">Manchester City</title>
     <desc lang="en">Kop 10: Manchester City</desc>
-    <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
-  </programme>
-  <programme start="20261009210000 +0800" stop="20261009220000 +0800" channel="264796.beinau">
-    <title lang="en">LFC Trending</title>
-    <desc lang="en">LFC Trending</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
   </programme>
   <programme start="20261009220000 +0800" stop="20261009224500 +0800" channel="264796.beinau">
@@ -48358,26 +48313,32 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
     <episode-num system="xmltv_ns">0.12.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/1920SUKAN_Logo_-01.jpg"/>
   </programme>
-  <programme start="20261009180000 +0800" stop="20261009195000 +0800" channel="Sukan RTM.rtm">
-    <title lang="en">FIH HOCKEY WORLD CUP 2026 (Ulangan)</title>
-    <desc lang="en">Saksikan kembali FIH HOCKEY WORLD CUP 2026 - SPAIN VS SOUTH AFRICA</desc>
-    <episode-num system="xmltv_ns">0.76.0</episode-num>
+  <programme start="20261009180000 +0800" stop="20261009184700 +0800" channel="Sukan RTM.rtm">
+    <title lang="en">SUKAN ASIA AICHI - NAGOYA 2026</title>
+    <desc lang="en">Saksikan SUKAN ASIA AICHI - NAGOYA 2026 : MALAYSIAN ATHLETE IN ACTION SWIMMING (M) FREESTYLE</desc>
+    <episode-num system="xmltv_ns">0.46.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/1920SUKAN_Logo_-01.jpg"/>
   </programme>
-  <programme start="20261009195000 +0800" stop="20261009200000 +0800" channel="Sukan RTM.rtm">
+  <programme start="20261009184700 +0800" stop="20261009190000 +0800" channel="Sukan RTM.rtm">
     <title lang="en">Kapsul RTM Sports</title>
     <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/1920SUKAN_Logo_-01.jpg"/>
   </programme>
-  <programme start="20261009200000 +0800" stop="20261009201500 +0800" channel="Sukan RTM.rtm">
-    <title lang="en">Sports Shoot</title>
-    <desc lang="en">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual  aksi sukan.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  <programme start="20261009190000 +0800" stop="20261009194100 +0800" channel="Sukan RTM.rtm">
+    <title lang="en">SUKAN ASIA AICHI - NAGOYA 2026</title>
+    <desc lang="en">Saksikan SUKAN ASIA AICHI - NAGOYA 2026 : MALAYSIAN ATHLETE IN ACTION ARTISTIC GYMNASTICS</desc>
+    <episode-num system="xmltv_ns">0.30.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/1920SUKAN_Logo_-01.jpg"/>
   </programme>
-  <programme start="20261009201500 +0800" stop="20261009203000 +0800" channel="Sukan RTM.rtm">
+  <programme start="20261009194100 +0800" stop="20261009200000 +0800" channel="Sukan RTM.rtm">
     <title lang="en">Kapsul RTM Sports</title>
     <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/800x0/live_channel/1920SUKAN_Logo_-01.jpg"/>
+  </programme>
+  <programme start="20261009200000 +0800" stop="20261009203000 +0800" channel="Sukan RTM.rtm">
+    <title lang="en">Aksi Kayuhan</title>
+    <desc lang="en">Saksikan rancangan menarik untuk tontonan anda.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/1920SUKAN_Logo_-01.jpg"/>
   </programme>
   <programme start="20261009203000 +0800" stop="20261009213000 +0800" channel="Sukan RTM.rtm">
