@@ -120,160 +120,28 @@
     <display-name lang="en">FAST2</display-name>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png"/>
   </channel>
-  <programme start="20261018130000 +0800" stop="20261018140000 +0800" channel="ITV.itvx">
-    <title lang="en">The Voice UK</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S9</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018140000 +0800" stop="20261018162500 +0800" channel="ITV.itvx">
-    <title lang="en">James Martin's Saturday Morning</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S9</episode-num>
-    <category lang="en">Documentaries &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261018162500 +0800" stop="20261018163000 +0800" channel="ITV.itvx">
-    <title lang="en">ITV News</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261018163000 +0800" stop="20261018183000 +0800" channel="ITV.itvx">
-    <title lang="en">Love Your Weekend with Alan Titchmarsh</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S8</episode-num>
-    <category lang="en">Documentaries &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261018183000 +0800" stop="20261018193000 +0800" channel="ITV.itvx">
-    <title lang="en">Fletchers' Family Farm</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S5</episode-num>
-    <category lang="en">Documentaries &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261018193000 +0800" stop="20261018200000 +0800" channel="ITV.itvx">
-    <title lang="en">Cooking With the Stars</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S6</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018200000 +0800" stop="20261018203000 +0800" channel="ITV.itvx">
-    <title lang="en">Talking Royals</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S2</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018203000 +0800" stop="20261018204200 +0800" channel="ITV.itvx">
-    <title lang="en">ITV News</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261018204200 +0800" stop="20261018204300 +0800" channel="ITV.itvx">
-    <title lang="en">ITV Weather</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261018204300 +0800" stop="20261018204500 +0800" channel="ITV.itvx">
-    <title lang="en">ITV Regional Weather</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261018204500 +0800" stop="20261018230000 +0800" channel="ITV.itvx">
-    <title lang="en">Tomorrow Never Dies</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261018230000 +0800" stop="20261018233000 +0800" channel="ITV.itvx">
-    <title lang="en">Celebrity Lingo</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S2</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018233000 +0800" stop="20261019003000 +0800" channel="ITV.itvx">
-    <title lang="en">Tipping Point: Lucky Stars</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019003000 +0800" stop="20261019013000 +0800" channel="ITV.itvx">
-    <title lang="en">The Chase</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S17</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261019013000 +0800" stop="20261019014300 +0800" channel="ITV.itvx">
-    <title lang="en">ITV News Weekend Teatime</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019014300 +0800" stop="20261019014500 +0800" channel="ITV.itvx">
-    <title lang="en">ITV Weather</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019014500 +0800" stop="20261019015800 +0800" channel="ITV.itvx">
-    <title lang="en">ITV News Regional</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019015800 +0800" stop="20261019020000 +0800" channel="ITV.itvx">
-    <title lang="en">ITV Regional Weather</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019020000 +0800" stop="20261019030000 +0800" channel="ITV.itvx">
-    <title lang="en">Celebrity Catchphrase</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S11</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261019030000 +0800" stop="20261019040000 +0800" channel="ITV.itvx">
-    <title lang="en">Who Wants to Be a Millionaire?</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S36</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261019040000 +0800" stop="20261019050000 +0800" channel="ITV.itvx">
-    <title lang="en">The Party</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261019050000 +0800" stop="20261019051700 +0800" channel="ITV.itvx">
-    <title lang="en">ITV News</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019051700 +0800" stop="20261019051800 +0800" channel="ITV.itvx">
-    <title lang="en">ITV Weather</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019051800 +0800" stop="20261019052000 +0800" channel="ITV.itvx">
-    <title lang="en">ITV Regional Weather</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019052000 +0800" stop="20261019070000 +0800" channel="ITV.itvx">
-    <title lang="en">Exposure</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019070000 +0800" stop="20261019100000 +0800" channel="ITV.itvx">
-    <title lang="en">Shop On TV</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019100000 +0800" stop="20261019105000 +0800" channel="ITV.itvx">
-    <title lang="en">Motorsport UK</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S22</episode-num>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20261019105000 +0800" stop="20261019120500 +0800" channel="ITV.itvx">
-    <title lang="en">Unwind With ITV1</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-  </programme>
-  <programme start="20261019120500 +0800" stop="20261019125900 +0800" channel="ITV.itvx">
-    <title lang="en">Joanna Lumley's Danube</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
-    <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Documentaries &amp; Lifestyle</category>
-  </programme>
+  <channel id="FAST10.itvx">
+    <display-name lang="en">All Star Movies 24/7 Channel</display-name>
+    <display-name lang="en">FAST10</display-name>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7ExoEoFWNzCV9rhpumaiVT/7e2d38fed96fdcf90a0bbfa7e4028be1/small-ShowTitle_09_TitleLogo-_7_.png"/>
+  </channel>
   <programme start="20261019130000 +0800" stop="20261019163000 +0800" channel="ITV.itvx">
     <title lang="en">Good Morning Britain</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S13</episode-num>
+    <category lang="en">News</category>
   </programme>
   <programme start="20261019163000 +0800" stop="20261019170000 +0800" channel="ITV.itvx">
     <title lang="en">Lorraine</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S18</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
   <programme start="20261019170000 +0800" stop="20261019180300 +0800" channel="ITV.itvx">
     <title lang="en">This Morning</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S38</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
   <programme start="20261019180300 +0800" stop="20261019181000 +0800" channel="ITV.itvx">
     <title lang="en">ITV Regional Weather</title>
@@ -282,10 +150,14 @@
   <programme start="20261019181000 +0800" stop="20261019193000 +0800" channel="ITV.itvx">
     <title lang="en">This Morning</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S38</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
   <programme start="20261019193000 +0800" stop="20261019203000 +0800" channel="ITV.itvx">
     <title lang="en">Loose Women</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S30</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
   <programme start="20261019203000 +0800" stop="20261019205300 +0800" channel="ITV.itvx">
     <title lang="en">ITV Lunchtime News</title>
@@ -419,173 +291,155 @@
     <episode-num system="onscreen">S2</episode-num>
     <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018130000 +0800" stop="20261018140000 +0800" channel="ITV2.itvx">
-    <title lang="en">Dinner Date</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S6</episode-num>
+  <programme start="20261020130000 +0800" stop="20261020163000 +0800" channel="ITV.itvx">
+    <title lang="en">Good Morning Britain</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020163000 +0800" stop="20261020170000 +0800" channel="ITV.itvx">
+    <title lang="en">Lorraine</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020170000 +0800" stop="20261020180300 +0800" channel="ITV.itvx">
+    <title lang="en">This Morning</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020180300 +0800" stop="20261020181000 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Regional Weather</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020181000 +0800" stop="20261020193000 +0800" channel="ITV.itvx">
+    <title lang="en">This Morning</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020193000 +0800" stop="20261020203000 +0800" channel="ITV.itvx">
+    <title lang="en">Loose Women</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020203000 +0800" stop="20261020205300 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Lunchtime News</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020205300 +0800" stop="20261020205500 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Weather</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020205500 +0800" stop="20261020205800 +0800" channel="ITV.itvx">
+    <title lang="en">ITV News Regional</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020205800 +0800" stop="20261020210000 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Regional Weather</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261020210000 +0800" stop="20261020220000 +0800" channel="ITV.itvx">
+    <title lang="en">Dickinson's Real Deal</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S18</episode-num>
     <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
-  <programme start="20261018140000 +0800" stop="20261018150000 +0800" channel="ITV2.itvx">
-    <title lang="en">60 Minute Makeover</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Documentaries &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261018150000 +0800" stop="20261018160000 +0800" channel="ITV2.itvx">
-    <title lang="en">60 Minute Makeover</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Documentaries &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261018160000 +0800" stop="20261018170000 +0800" channel="ITV2.itvx">
-    <title lang="en">Deal or No Deal</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S2</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018170000 +0800" stop="20261018180000 +0800" channel="ITV2.itvx">
-    <title lang="en">Deal or No Deal</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S2</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018180000 +0800" stop="20261018190000 +0800" channel="ITV2.itvx">
-    <title lang="en">Deal or No Deal</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S2</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018190000 +0800" stop="20261018201500 +0800" channel="ITV2.itvx">
-    <title lang="en">The Voice UK</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S9</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018201500 +0800" stop="20261018212000 +0800" channel="ITV2.itvx">
-    <title lang="en">Celebrity Catchphrase</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S7</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018212000 +0800" stop="20261018222500 +0800" channel="ITV2.itvx">
-    <title lang="en">Hotel Transylvania</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <category lang="en">Kids</category>
-  </programme>
-  <programme start="20261018222500 +0800" stop="20261018223000 +0800" channel="ITV2.itvx">
-    <title lang="en">Fyi Daily</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-  </programme>
-  <programme start="20261018223000 +0800" stop="20261018231000 +0800" channel="ITV2.itvx">
-    <title lang="en">Hotel Transylvania</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <category lang="en">Kids</category>
-  </programme>
-  <programme start="20261018231000 +0800" stop="20261019001000 +0800" channel="ITV2.itvx">
-    <title lang="en">The Addams Family</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261019001000 +0800" stop="20261019001500 +0800" channel="ITV2.itvx">
-    <title lang="en">Fyi Daily</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-  </programme>
-  <programme start="20261019001500 +0800" stop="20261019011500 +0800" channel="ITV2.itvx">
-    <title lang="en">The Addams Family</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261019011500 +0800" stop="20261019021500 +0800" channel="ITV2.itvx">
-    <title lang="en">Fantastic Beasts: The Secrets of Dumbledore</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261019021500 +0800" stop="20261019022000 +0800" channel="ITV2.itvx">
-    <title lang="en">Fyi Daily</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-  </programme>
-  <programme start="20261019022000 +0800" stop="20261019040000 +0800" channel="ITV2.itvx">
-    <title lang="en">Fantastic Beasts: The Secrets of Dumbledore</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261019040000 +0800" stop="20261019051500 +0800" channel="ITV2.itvx">
-    <title lang="en">Big Brother</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-  </programme>
-  <programme start="20261019051500 +0800" stop="20261019060500 +0800" channel="ITV2.itvx">
-    <title lang="en">Big Brother: The Group Chat</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-  </programme>
-  <programme start="20261019060500 +0800" stop="20261019063500 +0800" channel="ITV2.itvx">
-    <title lang="en">Family Guy</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S11</episode-num>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20261019063500 +0800" stop="20261019070500 +0800" channel="ITV2.itvx">
-    <title lang="en">Family Guy</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20261019070500 +0800" stop="20261019073500 +0800" channel="ITV2.itvx">
-    <title lang="en">American Dad!</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S9</episode-num>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20261019073500 +0800" stop="20261019080500 +0800" channel="ITV2.itvx">
-    <title lang="en">American Dad!</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S8</episode-num>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20261019080500 +0800" stop="20261019083500 +0800" channel="ITV2.itvx">
-    <title lang="en">Plebs</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S5</episode-num>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20261019083500 +0800" stop="20261019091000 +0800" channel="ITV2.itvx">
-    <title lang="en">G'wed</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
-    <episode-num system="onscreen">S3</episode-num>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20261019091000 +0800" stop="20261019093500 +0800" channel="ITV2.itvx">
-    <title lang="en">Piglets</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  <programme start="20261020220000 +0800" stop="20261020225800 +0800" channel="ITV.itvx">
+    <title lang="en">Lingo</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
     <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Comedy</category>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019093500 +0800" stop="20261019100000 +0800" channel="ITV2.itvx">
-    <title lang="en">Unwind With ITV2</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  <programme start="20261020225800 +0800" stop="20261020230000 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Regional Weather</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
   </programme>
-  <programme start="20261019100000 +0800" stop="20261019103000 +0800" channel="ITV2.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  <programme start="20261020230000 +0800" stop="20261021000000 +0800" channel="ITV.itvx">
+    <title lang="en">Deal or No Deal</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S2</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019103000 +0800" stop="20261019110000 +0800" channel="ITV2.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  <programme start="20261021000000 +0800" stop="20261021010000 +0800" channel="ITV.itvx">
+    <title lang="en">The Chase</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S17</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019110000 +0800" stop="20261019113000 +0800" channel="ITV2.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  <programme start="20261021010000 +0800" stop="20261021012800 +0800" channel="ITV.itvx">
+    <title lang="en">ITV News Regional</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
   </programme>
-  <programme start="20261019113000 +0800" stop="20261019120000 +0800" channel="ITV2.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  <programme start="20261021012800 +0800" stop="20261021013000 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Regional Weather</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
   </programme>
-  <programme start="20261019120000 +0800" stop="20261019123000 +0800" channel="ITV2.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  <programme start="20261021013000 +0800" stop="20261021021300 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Evening News</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
   </programme>
-  <programme start="20261019123000 +0800" stop="20261019125900 +0800" channel="ITV2.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  <programme start="20261021021300 +0800" stop="20261021021500 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Weather</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021021500 +0800" stop="20261021030000 +0800" channel="ITV.itvx">
+    <title lang="en">The Martin Lewis Money Show Live</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021030000 +0800" stop="20261021033000 +0800" channel="ITV.itvx">
+    <title lang="en">Emmerdale</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S55</episode-num>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261021033000 +0800" stop="20261021040000 +0800" channel="ITV.itvx">
+    <title lang="en">Coronation Street</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S67</episode-num>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261021040000 +0800" stop="20261021050000 +0800" channel="ITV.itvx">
+    <title lang="en">Unbelievable Moments Caught On Camera</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021050000 +0800" stop="20261021052800 +0800" channel="ITV.itvx">
+    <title lang="en">ITV News at Ten</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021052800 +0800" stop="20261021053000 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Weather</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021053000 +0800" stop="20261021054300 +0800" channel="ITV.itvx">
+    <title lang="en">ITV News Regional</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021054300 +0800" stop="20261021054500 +0800" channel="ITV.itvx">
+    <title lang="en">ITV Regional Weather</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021054500 +0800" stop="20261021064500 +0800" channel="ITV.itvx">
+    <title lang="en">True Crime Presents</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021064500 +0800" stop="20261021071000 +0800" channel="ITV.itvx">
+    <title lang="en">Sorry, I Didn't Know</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S6</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261021071000 +0800" stop="20261021100000 +0800" channel="ITV.itvx">
+    <title lang="en">Shop On TV</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021100000 +0800" stop="20261021105000 +0800" channel="ITV.itvx">
+    <title lang="en">Joanna Lumley's Danube</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S1</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261021105000 +0800" stop="20261021120500 +0800" channel="ITV.itvx">
+    <title lang="en">Unwind With ITV1</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+  </programme>
+  <programme start="20261021120500 +0800" stop="20261021125900 +0800" channel="ITV.itvx">
+    <title lang="en">Deal or No Deal</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S2</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
   <programme start="20261019130000 +0800" stop="20261019132500 +0800" channel="ITV2.itvx">
     <title lang="en">Backyard Builds</title>
@@ -761,165 +615,181 @@
     <title lang="en">Teleshopping</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
   </programme>
-  <programme start="20261018130000 +0800" stop="20261018133000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-  </programme>
-  <programme start="20261018133000 +0800" stop="20261018140000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-  </programme>
-  <programme start="20261018140000 +0800" stop="20261018143000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-  </programme>
-  <programme start="20261018143000 +0800" stop="20261018150000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-  </programme>
-  <programme start="20261018150000 +0800" stop="20261018153000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-  </programme>
-  <programme start="20261018153000 +0800" stop="20261018160000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-  </programme>
-  <programme start="20261018160000 +0800" stop="20261018170000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Deal or No Deal</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20261020130000 +0800" stop="20261020132500 +0800" channel="ITV2.itvx">
+    <title lang="en">Backyard Builds</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S4</episode-num>
     <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018170000 +0800" stop="20261018180000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Tipping Point</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018180000 +0800" stop="20261018190000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Tipping Point</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018190000 +0800" stop="20261018200000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Tipping Point</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018200000 +0800" stop="20261018210000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Celebrity Catchphrase</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S11</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261018210000 +0800" stop="20261018220000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Tenable</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  <programme start="20261020132500 +0800" stop="20261020143000 +0800" channel="ITV2.itvx">
+    <title lang="en">Dinner Date</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
     <episode-num system="onscreen">S6</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261020143000 +0800" stop="20261020152000 +0800" channel="ITV2.itvx">
+    <title lang="en">The Real Housewives of Potomac</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S10</episode-num>
     <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018220000 +0800" stop="20261018230000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Supermarket Sweep</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  <programme start="20261020152000 +0800" stop="20261020161500 +0800" channel="ITV2.itvx">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S15</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261020161500 +0800" stop="20261020171500 +0800" channel="ITV2.itvx">
+    <title lang="en">The Only Way is Essex</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S35</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261020171500 +0800" stop="20261020181000 +0800" channel="ITV2.itvx">
+    <title lang="en">Dawson's Creek</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S3</episode-num>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261020181000 +0800" stop="20261020190500 +0800" channel="ITV2.itvx">
+    <title lang="en">Charmed</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S3</episode-num>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261020190500 +0800" stop="20261020200500 +0800" channel="ITV2.itvx">
+    <title lang="en">Deal or No Deal</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
     <episode-num system="onscreen">S2</episode-num>
     <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018230000 +0800" stop="20261019000000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Riddiculous</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20261020200500 +0800" stop="20261020210500 +0800" channel="ITV2.itvx">
+    <title lang="en">Ant &amp; Dec's Limitless Win</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S5</episode-num>
     <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019000000 +0800" stop="20261019010000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Deal or No Deal</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261019010000 +0800" stop="20261019020000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Lingo</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S3</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261019020000 +0800" stop="20261019030000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Lingo</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S3</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261019030000 +0800" stop="20261019040000 +0800" channel="ITVBe.itvx">
+  <programme start="20261020210500 +0800" stop="20261020221000 +0800" channel="ITV2.itvx">
     <title lang="en">Celebrity Catchphrase</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S4</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261020221000 +0800" stop="20261020231000 +0800" channel="ITV2.itvx">
+    <title lang="en">The Only Way is Essex</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S35</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261020231000 +0800" stop="20261021000000 +0800" channel="ITV2.itvx">
+    <title lang="en">The Real Housewives of Potomac</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S10</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261021000000 +0800" stop="20261021010000 +0800" channel="ITV2.itvx">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S15</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261021010000 +0800" stop="20261021020000 +0800" channel="ITV2.itvx">
+    <title lang="en">Celebrity Catchphrase</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S5</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261021020000 +0800" stop="20261021030000 +0800" channel="ITV2.itvx">
+    <title lang="en">Ant &amp; Dec's Limitless Win</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S5</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261021030000 +0800" stop="20261021040000 +0800" channel="ITV2.itvx">
+    <title lang="en">The 1% Club</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S4</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261021040000 +0800" stop="20261021050000 +0800" channel="ITV2.itvx">
+    <title lang="en">Big Brother</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  </programme>
+  <programme start="20261021050000 +0800" stop="20261021060500 +0800" channel="ITV2.itvx">
+    <title lang="en">Big Brother: The Group Chat</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  </programme>
+  <programme start="20261021060500 +0800" stop="20261021063500 +0800" channel="ITV2.itvx">
+    <title lang="en">Family Guy</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
     <episode-num system="onscreen">S11</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261019040000 +0800" stop="20261019050500 +0800" channel="ITVBe.itvx">
-    <title lang="en">Romesh Ranganathan's Parents' Evening</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
-  </programme>
-  <programme start="20261019050500 +0800" stop="20261019060500 +0800" channel="ITVBe.itvx">
-    <title lang="en">Tipping Point</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  <programme start="20261021063500 +0800" stop="20261021070500 +0800" channel="ITV2.itvx">
+    <title lang="en">Family Guy</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
     <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261019060500 +0800" stop="20261019070500 +0800" channel="ITVBe.itvx">
-    <title lang="en">Tipping Point</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
+  <programme start="20261021070500 +0800" stop="20261021073500 +0800" channel="ITV2.itvx">
+    <title lang="en">American Dad!</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S9</episode-num>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261019070500 +0800" stop="20261019080000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Tipping Point</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
+  <programme start="20261021073500 +0800" stop="20261021080500 +0800" channel="ITV2.itvx">
+    <title lang="en">American Dad!</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S9</episode-num>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261019080000 +0800" stop="20261019085500 +0800" channel="ITVBe.itvx">
-    <title lang="en">Tenable</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S6</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
+  <programme start="20261021080500 +0800" stop="20261021083000 +0800" channel="ITV2.itvx">
+    <title lang="en">Bob's Burgers</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S14</episode-num>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261019085500 +0800" stop="20261019094000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Wheel of Fortune</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-    <episode-num system="onscreen">S3</episode-num>
-    <category lang="en">Entertainment &amp; Reality</category>
+  <programme start="20261021083000 +0800" stop="20261021085500 +0800" channel="ITV2.itvx">
+    <title lang="en">Bob's Burgers</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S14</episode-num>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261019094000 +0800" stop="20261019100000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Unwind With ITV Quiz (S3)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  <programme start="20261021085500 +0800" stop="20261021092000 +0800" channel="ITV2.itvx">
+    <title lang="en">Plebs</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S5</episode-num>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261019100000 +0800" stop="20261019103000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  <programme start="20261021092000 +0800" stop="20261021100000 +0800" channel="ITV2.itvx">
+    <title lang="en">Unwind With ITV1</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+    <episode-num system="onscreen">S5</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
-  <programme start="20261019103000 +0800" stop="20261019110000 +0800" channel="ITVBe.itvx">
+  <programme start="20261021100000 +0800" stop="20261021103000 +0800" channel="ITV2.itvx">
     <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
   </programme>
-  <programme start="20261019110000 +0800" stop="20261019113000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
-  </programme>
-  <programme start="20261019113000 +0800" stop="20261019120000 +0800" channel="ITVBe.itvx">
+  <programme start="20261021103000 +0800" stop="20261021110000 +0800" channel="ITV2.itvx">
     <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
   </programme>
-  <programme start="20261019120000 +0800" stop="20261019123000 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  <programme start="20261021110000 +0800" stop="20261021113000 +0800" channel="ITV2.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
   </programme>
-  <programme start="20261019123000 +0800" stop="20261019125900 +0800" channel="ITVBe.itvx">
-    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  <programme start="20261021113000 +0800" stop="20261021120000 +0800" channel="ITV2.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021123000 +0800" channel="ITV2.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
+  </programme>
+  <programme start="20261021123000 +0800" stop="20261021125900 +0800" channel="ITV2.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"/>
   </programme>
   <programme start="20261019130000 +0800" stop="20261019133000 +0800" channel="ITVBe.itvx">
     <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
@@ -1081,129 +951,171 @@
     <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
   </programme>
-  <programme start="20261018130000 +0800" stop="20261018151500 +0800" channel="ITV3.itvx">
-    <title lang="en">Inspector Morse</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S5</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261020130000 +0800" stop="20261020133000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
   </programme>
-  <programme start="20261018151500 +0800" stop="20261018171500 +0800" channel="ITV3.itvx">
-    <title lang="en">Agatha Christie's Poirot</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  <programme start="20261020133000 +0800" stop="20261020140000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  </programme>
+  <programme start="20261020140000 +0800" stop="20261020143000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  </programme>
+  <programme start="20261020143000 +0800" stop="20261020150000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  </programme>
+  <programme start="20261020150000 +0800" stop="20261020153000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  </programme>
+  <programme start="20261020153000 +0800" stop="20261020160000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+  </programme>
+  <programme start="20261020160000 +0800" stop="20261020170000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Deal or No Deal</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S1</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261020170000 +0800" stop="20261020180000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Tipping Point</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
     <episode-num system="onscreen">S10</episode-num>
-    <category lang="en">Drama</category>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018171500 +0800" stop="20261018182000 +0800" channel="ITV3.itvx">
-    <title lang="en">The Darling Buds of May</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  <programme start="20261020180000 +0800" stop="20261020190000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Tipping Point</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S10</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261020190000 +0800" stop="20261020200000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Tipping Point</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S10</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261020200000 +0800" stop="20261020210000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Lingo</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
     <episode-num system="onscreen">S3</episode-num>
-    <category lang="en">Drama</category>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018182000 +0800" stop="20261018193000 +0800" channel="ITV3.itvx">
-    <title lang="en">The Darling Buds of May</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  <programme start="20261020210000 +0800" stop="20261020220000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Tenable</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S6</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261020220000 +0800" stop="20261020230000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Who Wants to Be a Millionaire?</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S35</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261020230000 +0800" stop="20261021000000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Riddiculous</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S2</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261021000000 +0800" stop="20261021010000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Deal or No Deal</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S1</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
+  </programme>
+  <programme start="20261021010000 +0800" stop="20261021020000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Lingo</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
     <episode-num system="onscreen">S3</episode-num>
-    <category lang="en">Drama</category>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018193000 +0800" stop="20261018210000 +0800" channel="ITV3.itvx">
-    <title lang="en">Downton Abbey</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S4</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021020000 +0800" stop="20261021030000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Lingo</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S3</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018210000 +0800" stop="20261018220000 +0800" channel="ITV3.itvx">
-    <title lang="en">Downton Abbey</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S4</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021030000 +0800" stop="20261021040000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Lingo</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S3</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018220000 +0800" stop="20261018230500 +0800" channel="ITV3.itvx">
-    <title lang="en">Downton Abbey</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S4</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021040000 +0800" stop="20261021043000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Millionaire Hot Seat</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S2</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261018230500 +0800" stop="20261019000500 +0800" channel="ITV3.itvx">
-    <title lang="en">Downton Abbey</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S4</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021043000 +0800" stop="20261021050000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Millionaire Hot Seat</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S2</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019000500 +0800" stop="20261019010500 +0800" channel="ITV3.itvx">
-    <title lang="en">Downton Abbey</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S4</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021050000 +0800" stop="20261021060000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Tipping Point</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S10</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019010500 +0800" stop="20261019020500 +0800" channel="ITV3.itvx">
-    <title lang="en">Blue Murder Motel</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021060000 +0800" stop="20261021070000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Tipping Point</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S10</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019020500 +0800" stop="20261019030500 +0800" channel="ITV3.itvx">
-    <title lang="en">Blue Murder Motel</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021070000 +0800" stop="20261021075500 +0800" channel="ITVBe.itvx">
+    <title lang="en">Tipping Point</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S10</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019030500 +0800" stop="20261019050500 +0800" channel="ITV3.itvx">
-    <title lang="en">Midsomer Murders</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S9</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021075500 +0800" stop="20261021085000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Tenable</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S6</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019050500 +0800" stop="20261019065500 +0800" channel="ITV3.itvx">
-    <title lang="en">Midsomer Murders</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S7</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021085000 +0800" stop="20261021094500 +0800" channel="ITVBe.itvx">
+    <title lang="en">Riddiculous</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
+    <episode-num system="onscreen">S2</episode-num>
+    <category lang="en">Entertainment &amp; Reality</category>
   </programme>
-  <programme start="20261019065500 +0800" stop="20261019080000 +0800" channel="ITV3.itvx">
-    <title lang="en">Wycliffe</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S4</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021094500 +0800" stop="20261021100000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Unwind With ITV Quiz (S3)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
   </programme>
-  <programme start="20261019080000 +0800" stop="20261019090000 +0800" channel="ITV3.itvx">
-    <title lang="en">The Blame</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Drama</category>
+  <programme start="20261021100000 +0800" stop="20261021103000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
   </programme>
-  <programme start="20261019090000 +0800" stop="20261019093000 +0800" channel="ITV3.itvx">
-    <title lang="en">George &amp; Mildred</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-    <episode-num system="onscreen">S5</episode-num>
-    <category lang="en">Comedy</category>
+  <programme start="20261021103000 +0800" stop="20261021110000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
   </programme>
-  <programme start="20261019093000 +0800" stop="20261019100000 +0800" channel="ITV3.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  <programme start="20261021110000 +0800" stop="20261021113000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
   </programme>
-  <programme start="20261019100000 +0800" stop="20261019103000 +0800" channel="ITV3.itvx">
-    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  <programme start="20261021113000 +0800" stop="20261021120000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
   </programme>
-  <programme start="20261019103000 +0800" stop="20261019110000 +0800" channel="ITV3.itvx">
-    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  <programme start="20261021120000 +0800" stop="20261021123000 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
   </programme>
-  <programme start="20261019110000 +0800" stop="20261019113000 +0800" channel="ITV3.itvx">
-    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-  </programme>
-  <programme start="20261019113000 +0800" stop="20261019120000 +0800" channel="ITV3.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-  </programme>
-  <programme start="20261019120000 +0800" stop="20261019123000 +0800" channel="ITV3.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
-  </programme>
-  <programme start="20261019123000 +0800" stop="20261019125900 +0800" channel="ITV3.itvx">
-    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  <programme start="20261021123000 +0800" stop="20261021125900 +0800" channel="ITVBe.itvx">
+    <title lang="en">Teleshopping (ITV Quiz - Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6P6qsqdjIJOlumDK8mDP0P/90e45b5246fbc029d9c098e88bc5c2a6/ITV_Quiz-ITVX__mono_white.png"/>
   </programme>
   <programme start="20261019130000 +0800" stop="20261019140500 +0800" channel="ITV3.itvx">
     <title lang="en">Wild at Heart</title>
@@ -1345,157 +1257,145 @@
     <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
   </programme>
-  <programme start="20261018130000 +0800" stop="20261018133500 +0800" channel="ITV4.itvx">
-    <title lang="en">The Protectors</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20261020130000 +0800" stop="20261020140500 +0800" channel="ITV3.itvx">
+    <title lang="en">Wild at Heart</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S4</episode-num>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261018133500 +0800" stop="20261018140000 +0800" channel="ITV4.itvx">
-    <title lang="en">Motorsport Mundial</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S5</episode-num>
-    <category lang="en">Sport</category>
+  <programme start="20261020140500 +0800" stop="20261020150500 +0800" channel="ITV3.itvx">
+    <title lang="en">Classic Emmerdale</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S38</episode-num>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20261018140000 +0800" stop="20261018143000 +0800" channel="ITV4.itvx">
-    <title lang="en">Auto Mundial</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S7</episode-num>
-    <category lang="en">Sport</category>
+  <programme start="20261020150500 +0800" stop="20261020154000 +0800" channel="ITV3.itvx">
+    <title lang="en">Classic Coronation Street</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
   </programme>
-  <programme start="20261018143000 +0800" stop="20261018160000 +0800" channel="ITV4.itvx">
-    <title lang="en">British Touring Car Championship Highlights</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S12</episode-num>
-    <category lang="en">Sport</category>
+  <programme start="20261020154000 +0800" stop="20261020161500 +0800" channel="ITV3.itvx">
+    <title lang="en">Classic Coronation Street</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
   </programme>
-  <programme start="20261018160000 +0800" stop="20261018173000 +0800" channel="ITV4.itvx">
-    <title lang="en">English Football League Highlights</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S5</episode-num>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20261018173000 +0800" stop="20261018183500 +0800" channel="ITV4.itvx">
-    <title lang="en">The Big Match Revisited</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S11</episode-num>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20261018183500 +0800" stop="20261018194000 +0800" channel="ITV4.itvx">
-    <title lang="en">Minder</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  <programme start="20261020161500 +0800" stop="20261020183000 +0800" channel="ITV3.itvx">
+    <title lang="en">Inspector Morse</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
     <episode-num system="onscreen">S6</episode-num>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261018194000 +0800" stop="20261018204000 +0800" channel="ITV4.itvx">
-    <title lang="en">Nevada Smith</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <category lang="en">Film</category>
+  <programme start="20261020183000 +0800" stop="20261020193500 +0800" channel="ITV3.itvx">
+    <title lang="en">Heartbeat</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S15</episode-num>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20261018204000 +0800" stop="20261018204500 +0800" channel="ITV4.itvx">
-    <title lang="en">Fyi Daily</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  <programme start="20261020193500 +0800" stop="20261020203500 +0800" channel="ITV3.itvx">
+    <title lang="en">Heartbeat</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S16</episode-num>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20261018204500 +0800" stop="20261018222000 +0800" channel="ITV4.itvx">
-    <title lang="en">Nevada Smith</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <category lang="en">Film</category>
+  <programme start="20261020203500 +0800" stop="20261020224000 +0800" channel="ITV3.itvx">
+    <title lang="en">Midsomer Murders</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S9</episode-num>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20261018222000 +0800" stop="20261018235000 +0800" channel="ITV4.itvx">
-    <title lang="en">The Grand Fishing Adventure</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  <programme start="20261020224000 +0800" stop="20261020231000 +0800" channel="ITV3.itvx">
+    <title lang="en">Classic Emmerdale</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  </programme>
+  <programme start="20261020231000 +0800" stop="20261020234000 +0800" channel="ITV3.itvx">
+    <title lang="en">Classic Emmerdale</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  </programme>
+  <programme start="20261020234000 +0800" stop="20261021001500 +0800" channel="ITV3.itvx">
+    <title lang="en">Classic Coronation Street</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  </programme>
+  <programme start="20261021001500 +0800" stop="20261021005000 +0800" channel="ITV3.itvx">
+    <title lang="en">Classic Coronation Street</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  </programme>
+  <programme start="20261021005000 +0800" stop="20261021015500 +0800" channel="ITV3.itvx">
+    <title lang="en">Heartbeat</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S16</episode-num>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261021015500 +0800" stop="20261021030000 +0800" channel="ITV3.itvx">
+    <title lang="en">Heartbeat</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S16</episode-num>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261021030000 +0800" stop="20261021050000 +0800" channel="ITV3.itvx">
+    <title lang="en">Vera</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S11</episode-num>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261021050000 +0800" stop="20261021060000 +0800" channel="ITV3.itvx">
+    <title lang="en">Downton Abbey</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
     <episode-num system="onscreen">S4</episode-num>
-    <category lang="en">Documentaries &amp; Lifestyle</category>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20261018235000 +0800" stop="20261019005000 +0800" channel="ITV4.itvx">
-    <title lang="en">The Motorbike Show</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S7</episode-num>
-    <category lang="en">Documentaries &amp; Lifestyle</category>
+  <programme start="20261021060000 +0800" stop="20261021065000 +0800" channel="ITV3.itvx">
+    <title lang="en">DCI Banks</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S5</episode-num>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20261019005000 +0800" stop="20261019015000 +0800" channel="ITV4.itvx">
-    <title lang="en">The Motorbike Show</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S8</episode-num>
-    <category lang="en">Documentaries &amp; Lifestyle</category>
+  <programme start="20261021065000 +0800" stop="20261021075000 +0800" channel="ITV3.itvx">
+    <title lang="en">DCI Banks</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+    <episode-num system="onscreen">S5</episode-num>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20261019015000 +0800" stop="20261019040000 +0800" channel="ITV4.itvx">
-    <title lang="en">Sharpe</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  <programme start="20261021075000 +0800" stop="20261021085500 +0800" channel="ITV3.itvx">
+    <title lang="en">The Royal</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
     <episode-num system="onscreen">S4</episode-num>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261019040000 +0800" stop="20261019050000 +0800" channel="ITV4.itvx">
-    <title lang="en">Robocop 3</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261019050000 +0800" stop="20261019050500 +0800" channel="ITV4.itvx">
-    <title lang="en">Fyi Daily</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-  </programme>
-  <programme start="20261019050500 +0800" stop="20261019060500 +0800" channel="ITV4.itvx">
-    <title lang="en">Robocop 3</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261019060500 +0800" stop="20261019071000 +0800" channel="ITV4.itvx">
-    <title lang="en">Auf Wiedersehen, Pet</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  <programme start="20261021085500 +0800" stop="20261021092000 +0800" channel="ITV3.itvx">
+    <title lang="en">George &amp; Mildred</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
     <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261019071000 +0800" stop="20261019081000 +0800" channel="ITV4.itvx">
-    <title lang="en">Minder</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S7</episode-num>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261019081000 +0800" stop="20261019085500 +0800" channel="ITV4.itvx">
-    <title lang="en">Lioness</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S1</episode-num>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261019085500 +0800" stop="20261019092000 +0800" channel="ITV4.itvx">
-    <title lang="en">Two and a Half Men</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S7</episode-num>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261019092000 +0800" stop="20261019094500 +0800" channel="ITV4.itvx">
-    <title lang="en">Two and a Half Men</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-    <episode-num system="onscreen">S7</episode-num>
-    <category lang="en">Comedy</category>
+  <programme start="20261021092000 +0800" stop="20261021093000 +0800" channel="ITV3.itvx">
+    <title lang="en">Unwind With ITV3 (S4)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
   </programme>
-  <programme start="20261019094500 +0800" stop="20261019100000 +0800" channel="ITV4.itvx">
-    <title lang="en">Unwind With ITV4</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  <programme start="20261021093000 +0800" stop="20261021100000 +0800" channel="ITV3.itvx">
+    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
   </programme>
-  <programme start="20261019100000 +0800" stop="20261019103000 +0800" channel="ITV4.itvx">
+  <programme start="20261021100000 +0800" stop="20261021103000 +0800" channel="ITV3.itvx">
+    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  </programme>
+  <programme start="20261021103000 +0800" stop="20261021110000 +0800" channel="ITV3.itvx">
+    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  </programme>
+  <programme start="20261021110000 +0800" stop="20261021113000 +0800" channel="ITV3.itvx">
+    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  </programme>
+  <programme start="20261021113000 +0800" stop="20261021120000 +0800" channel="ITV3.itvx">
+    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021123000 +0800" channel="ITV3.itvx">
     <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
   </programme>
-  <programme start="20261019103000 +0800" stop="20261019110000 +0800" channel="ITV4.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-  </programme>
-  <programme start="20261019110000 +0800" stop="20261019113000 +0800" channel="ITV4.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-  </programme>
-  <programme start="20261019113000 +0800" stop="20261019120000 +0800" channel="ITV4.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-  </programme>
-  <programme start="20261019120000 +0800" stop="20261019123000 +0800" channel="ITV4.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
-  </programme>
-  <programme start="20261019123000 +0800" stop="20261019125900 +0800" channel="ITV4.itvx">
-    <title lang="en">Teleshopping</title>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  <programme start="20261021123000 +0800" stop="20261021125900 +0800" channel="ITV3.itvx">
+    <title lang="en">Teleshopping (ITV3  Oct 2026)</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"/>
   </programme>
   <programme start="20261019130000 +0800" stop="20261019132500 +0800" channel="ITV4.itvx">
     <title lang="en">Sport Filler Shows</title>
@@ -1645,124 +1545,241 @@
     <title lang="en">Teleshopping</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
   </programme>
-  <programme start="20261019000000 +0800" stop="20261019010000 +0800" channel="FAST14.itvx">
+  <programme start="20261020130000 +0800" stop="20261020133500 +0800" channel="ITV4.itvx">
+    <title lang="en">The Protectors</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+    <episode-num system="onscreen">S1</episode-num>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261020133500 +0800" stop="20261020143000 +0800" channel="ITV4.itvx">
+    <title lang="en">American Pickers</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020143000 +0800" stop="20261020152500 +0800" channel="ITV4.itvx">
+    <title lang="en">American Pickers</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020152500 +0800" stop="20261020163000 +0800" channel="ITV4.itvx">
+    <title lang="en">Minder</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020163000 +0800" stop="20261020173500 +0800" channel="ITV4.itvx">
+    <title lang="en">Dempsey &amp; Makepeace</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020173500 +0800" stop="20261020184500 +0800" channel="ITV4.itvx">
+    <title lang="en">Sherlock Holmes</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020184500 +0800" stop="20261020195500 +0800" channel="ITV4.itvx">
+    <title lang="en">Robin of Sherwood</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020195500 +0800" stop="20261020205500 +0800" channel="ITV4.itvx">
+    <title lang="en">Dempsey &amp; Makepeace</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020205500 +0800" stop="20261020215500 +0800" channel="ITV4.itvx">
+    <title lang="en">American Pickers</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020215500 +0800" stop="20261020225500 +0800" channel="ITV4.itvx">
+    <title lang="en">American Pickers</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020225500 +0800" stop="20261020235000 +0800" channel="ITV4.itvx">
+    <title lang="en">Ice Road Truckers</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261020235000 +0800" stop="20261021020000 +0800" channel="ITV4.itvx">
+    <title lang="en">Sharpe</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+    <episode-num system="onscreen">S4</episode-num>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261021020000 +0800" stop="20261021030000 +0800" channel="ITV4.itvx">
+    <title lang="en">Ice Road Truckers - Deadliest Roads</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021030000 +0800" stop="20261021040000 +0800" channel="ITV4.itvx">
+    <title lang="en">World Superbike Highlights</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021040000 +0800" stop="20261021050500 +0800" channel="ITV4.itvx">
+    <title lang="en">Rocky Balboa</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021050500 +0800" stop="20261021051000 +0800" channel="ITV4.itvx">
+    <title lang="en">Fyi Daily</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021051000 +0800" stop="20261021061000 +0800" channel="ITV4.itvx">
+    <title lang="en">Rocky Balboa</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021061000 +0800" stop="20261021080500 +0800" channel="ITV4.itvx">
+    <title lang="en">All Elite Wrestling: Collision</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021080500 +0800" stop="20261021090000 +0800" channel="ITV4.itvx">
+    <title lang="en">Benidorm</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+    <episode-num system="onscreen">S4</episode-num>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20261021090000 +0800" stop="20261021094500 +0800" channel="ITV4.itvx">
+    <title lang="en">Battlebots</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021094500 +0800" stop="20261021100000 +0800" channel="ITV4.itvx">
+    <title lang="en">Unwind With ITV4</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021100000 +0800" stop="20261021103000 +0800" channel="ITV4.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021103000 +0800" stop="20261021110000 +0800" channel="ITV4.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021110000 +0800" stop="20261021113000 +0800" channel="ITV4.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021113000 +0800" stop="20261021120000 +0800" channel="ITV4.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021123000 +0800" channel="ITV4.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261021123000 +0800" stop="20261021125900 +0800" channel="ITV4.itvx">
+    <title lang="en">Teleshopping</title>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
+  </programme>
+  <programme start="20261019234600 +0800" stop="20261020001800 +0800" channel="FAST14.itvx">
     <title lang="en">Classic Coronation Street</title>
-    <sub-title lang="en">26/12/01 - Dev &amp; Deirdre's Festive Fling</sub-title>
-    <desc lang="en">The police are looking for Terry Duckworth, while a Barlow family row drives Deirdre round to Dev's.</desc>
+    <sub-title lang="en">01/01/66 - Fancy Dress Festivities</sub-title>
+    <desc lang="en">Competition for the best costume accolade is fierce at the Boxing Day fancy dress party.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/1bela7cOFKhS1g04hqgkb1/f60bf4338ead7abc2f06c9706285e27f/1x1_logo.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S42 E221</episode-num>
-    <episode-num system="xmltv_ns">41.220.</episode-num>
+    <episode-num system="onscreen">S7 E103</episode-num>
+    <episode-num system="xmltv_ns">6.102.</episode-num>
   </programme>
-  <programme start="20261019010000 +0800" stop="20261019012800 +0800" channel="FAST14.itvx">
+  <programme start="20261020001800 +0800" stop="20261020004900 +0800" channel="FAST14.itvx">
     <title lang="en">Classic Coronation Street</title>
-    <sub-title lang="en">Karen Sets Up Dev</sub-title>
-    <desc lang="en">Karen McDonald teams up with Geena's mother to put Dev in a compromising situation.</desc>
+    <sub-title lang="en">08/05/67 - Train off the Viaduct</sub-title>
+    <desc lang="en">Elsie introduces old flame Steve Tanner, but tragedy is around the corner.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/1bela7cOFKhS1g04hqgkb1/f60bf4338ead7abc2f06c9706285e27f/1x1_logo.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S43 E14</episode-num>
-    <episode-num system="xmltv_ns">42.13.</episode-num>
+    <episode-num system="onscreen">S8 E36</episode-num>
+    <episode-num system="xmltv_ns">7.35.</episode-num>
   </programme>
-  <programme start="20261018231900 +0800" stop="20261019004900 +0800" channel="FAST1.itvx">
-    <title lang="en">A Candlelit Christmas</title>
-    <desc lang="en">Heart-warming romance about a woman who visits her father over Christmas to help with his candle business. Little does she know that he has a charming house guest staying.</desc>
+  <programme start="20261019231600 +0800" stop="20261020005500 +0800" channel="FAST1.itvx">
+    <title lang="en">The Christmas Chalet</title>
+    <desc lang="en">A Christmas lover meets a Christmas hater - can one win over the other? When a divorcee books a chalet for her family holiday, they're surprised to meet a man who hates Christmas.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4L81YGfY8cLXWLYg5zadFF/05473afb02e7b70a49faee1fe4d27adf/09_Logo_ArtLoader__1_.png"/>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20261019004900 +0800" stop="20261019021900 +0800" channel="FAST1.itvx">
-    <title lang="en">Christmas Pen Pals</title>
-    <desc lang="en">When a successful tech whizz dating-app creator returns home for the holidays after a shock dumping, the annual Christmas matchmaking event throws up some surprises.</desc>
+  <programme start="20261020005500 +0800" stop="20261020022600 +0800" channel="FAST1.itvx">
+    <title lang="en">Time for Him to Come Home For Christmas</title>
+    <desc lang="en">A festive mystery inspired by the music of country megastar Blake Shelton. One day, Elizabeth Athens receives a mysterious voicemail from a stranger begging for a second chance.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4L81YGfY8cLXWLYg5zadFF/05473afb02e7b70a49faee1fe4d27adf/09_Logo_ArtLoader__1_.png"/>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20261018233200 +0800" stop="20261019002000 +0800" channel="FAST15.itvx">
+  <programme start="20261019231300 +0800" stop="20261020000600 +0800" channel="FAST15.itvx">
     <title lang="en">Fear The Walking Dead</title>
-    <sub-title lang="en">S4,E7 Fear The Walking Dead: The Wrong Side of Where You Are Now</sub-title>
-    <desc lang="en">Madison decides to help a foe. John Dorie clings to life.</desc>
+    <sub-title lang="en">S5,E5 Fear The Walking Dead: The End of Everything</sub-title>
+    <desc lang="en">Althea chases a story, putting the mission, and her life, in danger.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3OwBLMGK02eYAulQUXZhb9/f3897536ff65b92677ea50e70f0a8f27/BRAND_AMC_TheWalkingDeadUniverse_IMAGE006_PNG.png"/>
     <category lang="en">Drama</category>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+  </programme>
+  <programme start="20261020000600 +0800" stop="20261020005600 +0800" channel="FAST15.itvx">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">S4,E13 The Walking Dead: Alone</sub-title>
+    <desc lang="en">One group comes to realise that the best protection comes from those around them.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3OwBLMGK02eYAulQUXZhb9/f3897536ff65b92677ea50e70f0a8f27/BRAND_AMC_TheWalkingDeadUniverse_IMAGE006_PNG.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <episode-num system="xmltv_ns">3.12.</episode-num>
+  </programme>
+  <programme start="20261020000100 +0800" stop="20261020002800 +0800" channel="FAST17.itvx">
+    <title lang="en">Rising Damp</title>
+    <sub-title lang="en">S2,E7 Things That Go Bump in the Night</sub-title>
+    <desc lang="en">Rigsby convinces Alan that the house is haunted by the spirit of ‘the Grey Lady’ but Philip comes up with a plan to give Rigsby a taste of his own medicine.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4e4aO1OGl1QI5cx3EE6PCc/dd556e088b8e26c72f08e3b715508093/itv-comedy-logo.png"/>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20261020002800 +0800" stop="20261020005400 +0800" channel="FAST17.itvx">
+    <title lang="en">Rising Damp</title>
+    <sub-title lang="en">S3,E1 That's My Boy</sub-title>
+    <desc lang="en">Classic sitcom about a boarding house and its unsavoury landlord. Miss Jones turns up with a baby - forbidden according to the house rules.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4e4aO1OGl1QI5cx3EE6PCc/dd556e088b8e26c72f08e3b715508093/itv-comedy-logo.png"/>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+  </programme>
+  <programme start="20261019232700 +0800" stop="20261020002500 +0800" channel="FAST19.itvx">
+    <title lang="en">UFO</title>
+    <sub-title lang="en">S1,E21 Computer Affair</sub-title>
+    <desc lang="en">Sci-fi adventure series about a secret organisation set up to combat alien invaders. The death of an astronaut during the interception of a UFO has strange implications for those left behind.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3154HA9RKzU4fBlqNYEus7/e48cd374000ce18d8ceee3bf3baee8eb/tbirdslogo.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+  </programme>
+  <programme start="20261020002500 +0800" stop="20261020012300 +0800" channel="FAST19.itvx">
+    <title lang="en">UFO</title>
+    <sub-title lang="en">S1,E22 Confetti Check A-OK</sub-title>
+    <desc lang="en">After Lt. Grey becomes a father, Straker recalls the early days of SHADO, when in 1970 the United Nations granted Straker the finance to set up his defence organisation. The long hours and secrecy had a disastrous effect on his marriage.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3154HA9RKzU4fBlqNYEus7/e48cd374000ce18d8ceee3bf3baee8eb/tbirdslogo.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+  </programme>
+  <programme start="20261019232800 +0800" stop="20261020002300 +0800" channel="FAST13.itvx">
+    <title lang="en">The Only Way is Essex</title>
+    <sub-title lang="en">S34,E9</sub-title>
+    <desc lang="en">Reality series. Dan and Ella discuss Freddie as the camping trip draws to a close, Diags has doubts about Jodie moving to Essex, and Junaid questions Jordan's recent friendliness.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png"/>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">S34 E9</episode-num>
+    <episode-num system="xmltv_ns">33.8.</episode-num>
+  </programme>
+  <programme start="20261020002300 +0800" stop="20261020011700 +0800" channel="FAST13.itvx">
+    <title lang="en">The Only Way is Essex</title>
+    <sub-title lang="en">S34,E10</sub-title>
+    <desc lang="en">Reality series. Love is in the air as Freddie and Jake go on a double date with Dan and Ella, Sammy surprises Liv by asking her on a date, and Junaid asks Joe to be exclusive.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png"/>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">S34 E10</episode-num>
+    <episode-num system="xmltv_ns">33.9.</episode-num>
+  </programme>
+  <programme start="20261019232600 +0800" stop="20261020002000 +0800" channel="FAST20.itvx">
+    <title lang="en">Homicide Hunter</title>
+    <sub-title lang="en">S4,E6</sub-title>
+    <desc lang="en">In the dead of night, a shooter rips through a home, leaving a grandmother disfigured, her 24 year old daughter dead, and a two year-old child clinging to life. Pursuing a convoluted trail Kenda comes face to face with a cold-blooded killer.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5A5M9GwGzPXWq4pXR9NWOp/6fad6a774fb57da5de34ec677decdff2/1x1_tile.png"/>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+  </programme>
+  <programme start="20261020002000 +0800" stop="20261020011400 +0800" channel="FAST20.itvx">
+    <title lang="en">Homicide Hunter</title>
+    <sub-title lang="en">S4,E7</sub-title>
+    <desc lang="en">A 4th of July house party erupts in violence. A young man tries to flee the scene, but is shot dead behind the wheel of his car.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5A5M9GwGzPXWq4pXR9NWOp/6fad6a774fb57da5de34ec677decdff2/1x1_tile.png"/>
+    <category lang="en">Factual</category>
     <episode-num system="onscreen">S4 E7</episode-num>
     <episode-num system="xmltv_ns">3.6.</episode-num>
   </programme>
-  <programme start="20261019002000 +0800" stop="20261019011000 +0800" channel="FAST15.itvx">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">S3,E15 The Walking Dead: This Sorrowful Life</sub-title>
-    <desc lang="en">If Rick's group wants a truce with the Governor, they will have to make a huge sacrifice.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3OwBLMGK02eYAulQUXZhb9/f3897536ff65b92677ea50e70f0a8f27/BRAND_AMC_TheWalkingDeadUniverse_IMAGE006_PNG.png"/>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S3 E15</episode-num>
-    <episode-num system="xmltv_ns">2.14.</episode-num>
-  </programme>
-  <programme start="20261018234700 +0800" stop="20261019001300 +0800" channel="FAST17.itvx">
-    <title lang="en">Rising Damp</title>
-    <sub-title lang="en">S1,E3 A Night Out</sub-title>
-    <desc lang="en">Classic sitcom. Rigsby is dressed to kill as he takes Miss Jones out to dinner to celebrate her birthday.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4e4aO1OGl1QI5cx3EE6PCc/dd556e088b8e26c72f08e3b715508093/itv-comedy-logo.png"/>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261019001300 +0800" stop="20261019015600 +0800" channel="FAST17.itvx">
-    <title lang="en">Weekend at Bernie's</title>
-    <desc lang="en">Outrageous comedy about two insurance workers whose boss dies whilst they're staying on his plush estate... and then they try and pretend that he hasn't.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4e4aO1OGl1QI5cx3EE6PCc/dd556e088b8e26c72f08e3b715508093/itv-comedy-logo.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261018233900 +0800" stop="20261019001000 +0800" channel="FAST19.itvx">
-    <title lang="en">The Secret Service</title>
-    <sub-title lang="en">S1,E1 A Case for the Bishop</sub-title>
-    <desc lang="en">A Healey KX20 Mini-Computer has been stolen by the Dreisenberg agents and is believed to be in the hands of the Dreisenberg Ambassador, who plans to leave the country with the device.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3154HA9RKzU4fBlqNYEus7/e48cd374000ce18d8ceee3bf3baee8eb/tbirdslogo.png"/>
-    <category lang="en">Childrens</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261019001000 +0800" stop="20261019003900 +0800" channel="FAST19.itvx">
-    <title lang="en">The Secret Service</title>
-    <sub-title lang="en">S1,E3 To Catch a Spy</sub-title>
-    <desc lang="en">Enemy agent George Grey is believed to be being hidden by the influential Sir Humphrey Burton at his country residence.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3154HA9RKzU4fBlqNYEus7/e48cd374000ce18d8ceee3bf3baee8eb/tbirdslogo.png"/>
-    <category lang="en">Childrens</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261018235100 +0800" stop="20261019004500 +0800" channel="FAST13.itvx">
-    <title lang="en">The Only Way is Essex</title>
-    <sub-title lang="en">S32,E5</sub-title>
-    <desc lang="en">With harsh words having been exchanged on both sides, Elma and Brockett have taken their relationship to the brink of destruction. Can they make amends?</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png"/>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S32 E5</episode-num>
-    <episode-num system="xmltv_ns">31.4.</episode-num>
-  </programme>
-  <programme start="20261019004500 +0800" stop="20261019014000 +0800" channel="FAST13.itvx">
-    <title lang="en">The Only Way is Essex</title>
-    <sub-title lang="en">S32,E6</sub-title>
-    <desc lang="en">Harry feels at a loss with how to move forward from his fall out with Junaid. When Junaid reaches out with an olive branch text, will the former besties be able to call a truce?</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png"/>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S32 E6</episode-num>
-    <episode-num system="xmltv_ns">31.5.</episode-num>
-  </programme>
-  <programme start="20261018231100 +0800" stop="20261019000500 +0800" channel="FAST20.itvx">
-    <title lang="en">Homicide Hunter</title>
-    <sub-title lang="en">S2,E5</sub-title>
-    <desc lang="en">A young woman is found naked and strangled in a park not 200 yards from her home. It isn't until Lt. Joe Kenda rethinks the entire case that he realises someone has been lying.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5A5M9GwGzPXWq4pXR9NWOp/6fad6a774fb57da5de34ec677decdff2/1x1_tile.png"/>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-  </programme>
-  <programme start="20261019000500 +0800" stop="20261019005900 +0800" channel="FAST20.itvx">
-    <title lang="en">Homicide Hunter</title>
-    <sub-title lang="en">S2,E6</sub-title>
-    <desc lang="en">When a family of four is brutally murdered, it sends a shockwave of fear through the town. Police believe they have a spree killer on their hands, until Lt. Joe Kenda discovers a gruesome connection.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5A5M9GwGzPXWq4pXR9NWOp/6fad6a774fb57da5de34ec677decdff2/1x1_tile.png"/>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-  </programme>
-  <programme start="20261018130000 +0800" stop="20261019125900 +0800" channel="FAST22.itvx">
+  <programme start="20261019130000 +0800" stop="20261020125900 +0800" channel="FAST22.itvx">
     <title lang="en">Space Live - Powered by Sen</title>
     <sub-title lang="en">Watch Live</sub-title>
     <desc lang="en">The world’s first continuous livestream of our planet. The new way to experience Earth.</desc>
@@ -1771,195 +1788,207 @@
     <episode-num system="onscreen">S1 E1</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20261018233400 +0800" stop="20261019003000 +0800" channel="FAST3.itvx">
+  <programme start="20261019232200 +0800" stop="20261020001700 +0800" channel="FAST3.itvx">
     <title lang="en">The Chase</title>
-    <desc lang="en">Bradley Walsh hosts as all that stands between Ishan from Macclesfield, Marie from Essex, Taylor originally from Iowa, Fiona from Gloucestershire and some big money is a Chaser.</desc>
+    <desc lang="en">All that stands between Ally from Fort William, Sylvia from Darlington, Jan from Gloucester, Ro from Salford and thousands of pounds is the small matter of one of the Chasers.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/1qjkPCSIfR1nYPYcLyKef2/dea8a504e77a4771ae0d07c7cfb8c351/TheChase.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S16 E85</episode-num>
-    <episode-num system="xmltv_ns">15.84.</episode-num>
+    <episode-num system="onscreen">S16 E112</episode-num>
+    <episode-num system="xmltv_ns">15.111.</episode-num>
   </programme>
-  <programme start="20261019003000 +0800" stop="20261019012500 +0800" channel="FAST3.itvx">
+  <programme start="20261020001700 +0800" stop="20261020011200 +0800" channel="FAST3.itvx">
     <title lang="en">The Chase</title>
-    <sub-title lang="en">Episode 86</sub-title>
-    <desc lang="en">All that stands between Matt from Kent, Serena from Derbyshire, Steve from Manchester, Nadia from Cardiff and big money is the small matter of one of the country's finest quizzers.</desc>
+    <sub-title lang="en">Episode 113</sub-title>
+    <desc lang="en">Bradley Walsh hosts as all that stands between Kat from Esher, Matti from Birmingham, Paul from London, Sarah from Kettering and thousands of pounds is the not-so-small matter of one of the country's finest quiz brains.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/1qjkPCSIfR1nYPYcLyKef2/dea8a504e77a4771ae0d07c7cfb8c351/TheChase.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S16 E86</episode-num>
-    <episode-num system="xmltv_ns">15.85.</episode-num>
+    <episode-num system="onscreen">S16 E113</episode-num>
+    <episode-num system="xmltv_ns">15.112.</episode-num>
   </programme>
-  <programme start="20261019000100 +0800" stop="20261019000700 +0800" channel="FAST6.itvx">
-    <title lang="en">The Sound Collector</title>
-    <sub-title lang="en">S1,E51 Sound of the Town</sub-title>
-    <desc lang="en">The Sound Collector loves the sounds around the mill, but today he catches a lift into town to record some more lively noises! The town is a complete cacophony.</desc>
+  <programme start="20261019235800 +0800" stop="20261020001000 +0800" channel="FAST6.itvx">
+    <title lang="en">Coop Troop</title>
+    <sub-title lang="en">S1,E19 Mac Takes a Walk</sub-title>
+    <desc lang="en">Puppy Mac wants to walk to the park by himself, so the Troop convince Sam to let him, as they will be watching him every step of the way. When each member of the Troop blows their cover, Mac runs away and leads them on a frantic chase.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7cQcK18rZ9ssKtDsoDP47S/5fe8943093162cab6ff0e4caa063a089/ITVXKids.png"/>
     <category lang="en">Childrens</category>
-    <episode-num system="onscreen">S1 E51</episode-num>
-    <episode-num system="xmltv_ns">0.50.</episode-num>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
   </programme>
-  <programme start="20261019000700 +0800" stop="20261019001300 +0800" channel="FAST6.itvx">
-    <title lang="en">The Sound Collector</title>
-    <sub-title lang="en">S1,E52 Watch the Birdy</sub-title>
-    <desc lang="en">The Sound Collector goes to the wildlife park to record sounds. On the way, he sees the Little Girl, bursting with sound. He waves to the Seed Collector and Hebe.</desc>
+  <programme start="20261020001000 +0800" stop="20261020002200 +0800" channel="FAST6.itvx">
+    <title lang="en">Coop Troop</title>
+    <sub-title lang="en">S1,E20 Agnes &amp; Reggie Forever</sub-title>
+    <desc lang="en">Reggie calls the Troop because he wants to learn to dance with Agnes. Agnes calls the Troop too, as she wants a picture of herself for Reggie. While Clive teaches Reggie, Flo takes Agnes on a crazy photoshoot.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7cQcK18rZ9ssKtDsoDP47S/5fe8943093162cab6ff0e4caa063a089/ITVXKids.png"/>
     <category lang="en">Childrens</category>
-    <episode-num system="onscreen">S1 E52</episode-num>
-    <episode-num system="xmltv_ns">0.51.</episode-num>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
   </programme>
-  <programme start="20261018232700 +0800" stop="20261019001100 +0800" channel="FAST7.itvx">
-    <title lang="en">The Loch</title>
-    <sub-title lang="en">S1,E3</sub-title>
-    <desc lang="en">The police hold an appeal for the safe return of Jonjo. Everyone's anxiety is exacerbated by the fact that Jonjo suffers from bipolar disorder and has neglected his medication.</desc>
+  <programme start="20261019234900 +0800" stop="20261020003200 +0800" channel="FAST7.itvx">
+    <title lang="en">Suspicion</title>
+    <sub-title lang="en">S1,E8 Unmasked</sub-title>
+    <desc lang="en">The final episode of the psychological mystery thriller series. Leo's countdown begins as Cresswell's past leads Vanessa and Scott to uncover the truth.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5QmuRQKMe5KbCjL970chzL/82f09f0d8896509c7410b1c2bd934fb7/itvSigned__1_.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20261019001100 +0800" stop="20261019005700 +0800" channel="FAST7.itvx">
-    <title lang="en">The Loch</title>
-    <sub-title lang="en">S1,E4</sub-title>
-    <desc lang="en">As Annie becomes more entrenched in the investigation, Alan feels increasingly marginalised and their relationship begins to suffer.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5QmuRQKMe5KbCjL970chzL/82f09f0d8896509c7410b1c2bd934fb7/itvSigned__1_.png"/>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-  </programme>
-  <programme start="20261018232500 +0800" stop="20261019012300 +0800" channel="FAST8.itvx">
-    <title lang="en">Prime Suspect</title>
-    <sub-title lang="en">S4,E2 Inner Circles</sub-title>
-    <desc lang="en">DS Tennison travels to a residential commuter suburb to investigate a murder which has been staged to look like suicide.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6rtWiU6OtjkfT9Npfc5P0X/93055b91fe2b1cc98d041cdbd8c6421f/ITV_CrimeDrama_Lockup.png"/>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-  </programme>
-  <programme start="20261019012300 +0800" stop="20261019032100 +0800" channel="FAST8.itvx">
-    <title lang="en">Prime Suspect</title>
-    <sub-title lang="en">S4,E3 The Scent of Darkness</sub-title>
-    <desc lang="en">Detective Superintendent Jane Tennison finds her private and professional life in tatters when a series of murders lead to her old adversary George Marlow.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6rtWiU6OtjkfT9Npfc5P0X/93055b91fe2b1cc98d041cdbd8c6421f/ITV_CrimeDrama_Lockup.png"/>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-  </programme>
-  <programme start="20261018233500 +0800" stop="20261019002300 +0800" channel="FAST5.itvx">
-    <title lang="en">Island of the Monsoon</title>
-    <sub-title lang="en">S1,E6 Life on the Wing</sub-title>
-    <desc lang="en">Yala Park is an avian Eden, home to 215 bird species. Join them as they work to raise their young and find homes before the rains arrive. Discover a myriad of winged beauties from massive sea eagles to ornate flycatchers and tiny fantails.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4xICGB849oEi7Nop3SWlgr/94c367d324b5428549977cc799c353ea/ITV_NatureTime_Lockup2__1_.png"/>
-    <category lang="en">Wildlife</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-  <programme start="20261019002300 +0800" stop="20261019011800 +0800" channel="FAST5.itvx">
-    <title lang="en">Brazil Untamed</title>
+  <programme start="20261020003200 +0800" stop="20261020005500 +0800" channel="FAST7.itvx">
+    <title lang="en">Significant Other</title>
     <sub-title lang="en">S1,E1</sub-title>
-    <desc lang="en">Explore the southern edge of the Pantanal, where brown capuchin monkeys live in their own Garden of Eden. Dry season in the highlands treats them well until a drought dries up their food sources. Can an industrious agouti save them from starvation?</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4xICGB849oEi7Nop3SWlgr/94c367d324b5428549977cc799c353ea/ITV_NatureTime_Lockup2__1_.png"/>
-    <category lang="en">Wildlife</category>
+    <desc lang="en">Brand new comedy drama. After both hitting rock bottom, the lives of two lonely neighbours are changed forever following an ill-fated first encounter.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5QmuRQKMe5KbCjL970chzL/82f09f0d8896509c7410b1c2bd934fb7/itvSigned__1_.png"/>
+    <category lang="en">Drama</category>
     <episode-num system="onscreen">S1 E1</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20261018232500 +0800" stop="20261019005900 +0800" channel="FAST16.itvx">
-    <title lang="en">Carry On Behind</title>
-    <desc lang="en">Cheeky comedy about two professors, each thrilled by the discovery of Roman ruins on a campsite - but they don't bank on the saucy antics of the other holiday makers.</desc>
+  <programme start="20261019235200 +0800" stop="20261020014200 +0800" channel="FAST8.itvx">
+    <title lang="en">Prime Suspect</title>
+    <sub-title lang="en">S7,E1 The Final Act - Part One</sub-title>
+    <desc lang="en">Helen Mirren stars as DSI Jane Tennison, a woman on the edge. She is plunged into the alien world of teenage girls when a 14-year-old goes missing.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6rtWiU6OtjkfT9Npfc5P0X/93055b91fe2b1cc98d041cdbd8c6421f/ITV_CrimeDrama_Lockup.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <episode-num system="xmltv_ns">6.0.</episode-num>
+  </programme>
+  <programme start="20261020014200 +0800" stop="20261020033000 +0800" channel="FAST8.itvx">
+    <title lang="en">Prime Suspect</title>
+    <sub-title lang="en">S7,E2 The Final Act - Part Two</sub-title>
+    <desc lang="en">Tennison has to make one of her toughest decisions as the truth about Sallie's death emerges and the search for her killer ends in a confrontation.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6rtWiU6OtjkfT9Npfc5P0X/93055b91fe2b1cc98d041cdbd8c6421f/ITV_CrimeDrama_Lockup.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <episode-num system="xmltv_ns">6.1.</episode-num>
+  </programme>
+  <programme start="20261019230700 +0800" stop="20261020000200 +0800" channel="FAST5.itvx">
+    <title lang="en">Brazil Untamed</title>
+    <sub-title lang="en">S1,E7</sub-title>
+    <desc lang="en">Meet the Pantanal’s mind-blowingly large capybaras, which can weigh up to 40 kilos! With a big litter of babies to raise, these rodents stay busy in and out of the region’s ponds, where they interact with unique insects, amphibians, and molluscs.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4xICGB849oEi7Nop3SWlgr/94c367d324b5428549977cc799c353ea/ITV_NatureTime_Lockup2__1_.png"/>
+    <category lang="en">Wildlife</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20261020000200 +0800" stop="20261020005000 +0800" channel="FAST5.itvx">
+    <title lang="en">Brazil Untamed</title>
+    <sub-title lang="en">S1,E8</sub-title>
+    <desc lang="en">The rhea, a large, flightless bird, rules the roost in the Pantanal’s grasslands. Watch as rainy-season floods disappear and the region hosts myriad species, including marsh deer, crab-eating foxes, vultures, and giant anteaters.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4xICGB849oEi7Nop3SWlgr/94c367d324b5428549977cc799c353ea/ITV_NatureTime_Lockup2__1_.png"/>
+    <category lang="en">Wildlife</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20261019224400 +0800" stop="20261020002100 +0800" channel="FAST16.itvx">
+    <title lang="en">Carry On... Follow That Camel</title>
+    <desc lang="en">Desert-themed high jinks abound in this Foreign Legion spoof about a disgraced aristocrat who gets under the skin of an arrogant sergeant. Now beautifully remastered!</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/Tvv19BUUJB1Dc0Vn1fxgW/1b71c943973e8659424487af75ff6b66/logo-itv-carryon2.png"/>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20261019005900 +0800" stop="20261019023000 +0800" channel="FAST16.itvx">
-    <title lang="en">That's Carry On</title>
-    <desc lang="en">Hilarious feature-length highlights compilation - Kenneth Williams &amp; Barbara Windsor lace up the laughs and unspool classic clips from 20 years' worth of Carry On films.</desc>
+  <programme start="20261020002100 +0800" stop="20261020015700 +0800" channel="FAST16.itvx">
+    <title lang="en">Carry On Up The Khyber</title>
+    <desc lang="en">Expect lashings of innuendo in this delightfully remastered comedy set in 1890s India. Trouble looms as the third Foot &amp; Mouth regiment protect their outpost.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/Tvv19BUUJB1Dc0Vn1fxgW/1b71c943973e8659424487af75ff6b66/logo-itv-carryon2.png"/>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20261018232300 +0800" stop="20261019001700 +0800" channel="FAST11.itvx">
+  <programme start="20261019235800 +0800" stop="20261020005300 +0800" channel="FAST11.itvx">
     <title lang="en">The Real Housewives of Cheshire</title>
-    <sub-title lang="en">S9,E7 Dubai Be Good to Me</sub-title>
-    <desc lang="en">The Housewives head to Dubai in search of sun, sand, and sharks! As temperatures soar, Rachel's questions about Ester are answered.</desc>
+    <sub-title lang="en">S12,E3 A Diva for Dinner</sub-title>
+    <desc lang="en">As Ester makes the decision to spend more time in Spain with her partner, the Housewives welcome a new face to Cheshire, Lystra.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7K16Jra1usctsViohfCOnc/c15d5181ad5d043483ca8267207180ae/RealHousewivesUK.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S9 E7</episode-num>
-    <episode-num system="xmltv_ns">8.6.</episode-num>
+    <episode-num system="onscreen">S12 E3</episode-num>
+    <episode-num system="xmltv_ns">11.2.</episode-num>
   </programme>
-  <programme start="20261019001700 +0800" stop="20261019011100 +0800" channel="FAST11.itvx">
+  <programme start="20261020005300 +0800" stop="20261020014700 +0800" channel="FAST11.itvx">
     <title lang="en">The Real Housewives of Cheshire</title>
-    <sub-title lang="en">S9,E8 Why, Why, Why, Dubai?</sub-title>
-    <desc lang="en">The Dubai trip concludes, and Seema's decision to keep Perla's story quiet puzzles Dawn. A trip to the desert gets everyone back on track.</desc>
+    <sub-title lang="en">S12,E4 Anything with a Pulse</sub-title>
+    <desc lang="en">Hanna reels from her row with Lystra, Dawn copes with a frightening diagnosis, and Lauren tests her spiritual side.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7K16Jra1usctsViohfCOnc/c15d5181ad5d043483ca8267207180ae/RealHousewivesUK.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S9 E8</episode-num>
-    <episode-num system="xmltv_ns">8.7.</episode-num>
+    <episode-num system="onscreen">S12 E4</episode-num>
+    <episode-num system="xmltv_ns">11.3.</episode-num>
   </programme>
-  <programme start="20261018232600 +0800" stop="20261019002100 +0800" channel="FAST4.itvx">
-    <title lang="en">Moneyball</title>
+  <programme start="20261019232300 +0800" stop="20261020001700 +0800" channel="FAST4.itvx">
+    <title lang="en">Ant &amp; Dec's Limitless Win</title>
     <sub-title lang="en">S1,E4</sub-title>
-    <desc lang="en">Ian Wright hosts the game show which can make you rich with the roll of a ball. Col, Sasha, Joel and Jamie all step up to take on The Launcher, a massive money-making machine.</desc>
+    <desc lang="en">Ant and Dec host the quiz with the biggest cash prize in British TV history as Sarah and her mum Fiona face the ultimate challenge in trying to climb the never-ending money ladder.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/keA8ygf8d4v92gpRfHmzu/1c7835b0622ebe65e787670d872b2d39/logo-itv-satnight.png"/>
     <category lang="en">Entertainment</category>
     <episode-num system="onscreen">S1 E4</episode-num>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20261019002100 +0800" stop="20261019011700 +0800" channel="FAST4.itvx">
-    <title lang="en">Moneyball</title>
+  <programme start="20261020001700 +0800" stop="20261020011300 +0800" channel="FAST4.itvx">
+    <title lang="en">Ant &amp; Dec's Limitless Win</title>
     <sub-title lang="en">S1,E5</sub-title>
-    <desc lang="en">Ian Wright hosts the game show which can make you rich with the roll of a ball. Eaton, Charlotte and Liz all step up to take on The Launcher, a massive money-making machine.</desc>
+    <desc lang="en">Ant and Dec host the quiz with the biggest cash prize in British TV history as brothers Lee and Kye return to take on the Limitless money ladder, but how high will they climb?</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/keA8ygf8d4v92gpRfHmzu/1c7835b0622ebe65e787670d872b2d39/logo-itv-satnight.png"/>
     <category lang="en">Entertainment</category>
     <episode-num system="onscreen">S1 E5</episode-num>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20261018234800 +0800" stop="20261019004500 +0800" channel="FAST9.itvx">
+  <programme start="20261020000100 +0800" stop="20261020005700 +0800" channel="FAST9.itvx">
     <title lang="en">Love Island</title>
-    <sub-title lang="en">S7,E26</sub-title>
-    <desc lang="en">There are more twists, turns and decisions to be made in the Love Island Villa. As our Islanders enjoy life in the luxury villa, everyone's eager to find out who will be coupling up with who and who's in danger of getting dumped?</desc>
+    <sub-title lang="en">S7,E56</sub-title>
+    <desc lang="en">It's the eve of the live final and the temperature is soaring in the nation's most talked-about villa. Who will be going home with the money?</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3itg2dJFj2WLT35tUhfA1K/72d79a4c9ccfdf6ef626c8b5d5ff0a0e/LoveIsland.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S7 E26</episode-num>
-    <episode-num system="xmltv_ns">6.25.</episode-num>
+    <episode-num system="onscreen">S7 E56</episode-num>
+    <episode-num system="xmltv_ns">6.55.</episode-num>
   </programme>
-  <programme start="20261019004500 +0800" stop="20261019014300 +0800" channel="FAST9.itvx">
+  <programme start="20261020005700 +0800" stop="20261020022100 +0800" channel="FAST9.itvx">
     <title lang="en">Love Island</title>
-    <sub-title lang="en">S7,E28</sub-title>
-    <desc lang="en">It's a new week in the Love Island villa. The Islanders have been tested and it looks like there's no let up as the drama continues in paradise.</desc>
+    <sub-title lang="en">S7,E57</sub-title>
+    <desc lang="en">It's the live finale of Love Island 2021. Laura Whitmore hosts the finalists, and it's up to the viewers to decide who should get their hands on the big cash prize.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3itg2dJFj2WLT35tUhfA1K/72d79a4c9ccfdf6ef626c8b5d5ff0a0e/LoveIsland.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S7 E28</episode-num>
-    <episode-num system="xmltv_ns">6.27.</episode-num>
+    <episode-num system="onscreen">S7 E57</episode-num>
+    <episode-num system="xmltv_ns">6.56.</episode-num>
   </programme>
-  <programme start="20261018233300 +0800" stop="20261019012300 +0800" channel="FAST12.itvx">
+  <programme start="20261019225000 +0800" stop="20261020003900 +0800" channel="FAST12.itvx">
     <title lang="en">Midsomer Murders</title>
-    <sub-title lang="en">S10,E3 King's Crystal</sub-title>
-    <desc lang="en">A glassware factory faces ruin, an accountant is murdered with a Masonic dagger, and a production of Hamlet seems to contain a message for DCI Barnaby.</desc>
+    <sub-title lang="en">S12,E1 The Dogleg Murders</sub-title>
+    <desc lang="en">A golf club is rocked by controversy when a golfer is bludgeoned to death. Barnaby and Jones uncover a tale of gambling, illegal money lending and assault.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2Je2uvxSQQMnM7alo6956p/c171dc2158472333b566d3e16c383482/MidsomerMurders.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S12 E1</episode-num>
+    <episode-num system="xmltv_ns">11.0.</episode-num>
+  </programme>
+  <programme start="20261020003900 +0800" stop="20261020022900 +0800" channel="FAST12.itvx">
+    <title lang="en">Midsomer Murders</title>
+    <sub-title lang="en">S12,E2 Secrets and Spies</sub-title>
+    <desc lang="en">Peter Davison guest stars. DCI Barnaby's secret past as a spy is revealed when a former agent is found dead following a cricket match in Midsomer Parva.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2Je2uvxSQQMnM7alo6956p/c171dc2158472333b566d3e16c383482/MidsomerMurders.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S12 E2</episode-num>
+    <episode-num system="xmltv_ns">11.1.</episode-num>
+  </programme>
+  <programme start="20261019234300 +0800" stop="20261020012900 +0800" channel="FAST2.itvx">
+    <title lang="en">Vera</title>
+    <sub-title lang="en">S10,E2 Parent Not Expected</sub-title>
+    <desc lang="en">DCI Vera Stanhope must unravel a tangled web of deceit between two wildly different families, when the body of a teenage boy is discovered near a salmon farm.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S10 E2</episode-num>
+    <episode-num system="xmltv_ns">9.1.</episode-num>
+  </programme>
+  <programme start="20261020012900 +0800" stop="20261020031400 +0800" channel="FAST2.itvx">
+    <title lang="en">Vera</title>
+    <sub-title lang="en">S10,E3 Dirty</sub-title>
+    <desc lang="en">Crime drama. The murder of a cleaner whose death occurred several hours after the killer blow landed puts DCI Vera Stanhope on an intriguing trail while piecing his final hours together.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png"/>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S10 E3</episode-num>
     <episode-num system="xmltv_ns">9.2.</episode-num>
   </programme>
-  <programme start="20261019012300 +0800" stop="20261019030800 +0800" channel="FAST12.itvx">
-    <title lang="en">Midsomer Murders</title>
-    <sub-title lang="en">S10,E4 The Axeman Cometh</sub-title>
-    <desc lang="en">Badger's Drift plays host to the Midsomer Rock Festival, and the long-awaited return of the Hired Gun rock band, but there are murderous consequences.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2Je2uvxSQQMnM7alo6956p/c171dc2158472333b566d3e16c383482/MidsomerMurders.png"/>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S10 E4</episode-num>
-    <episode-num system="xmltv_ns">9.3.</episode-num>
+  <programme start="20261019231100 +0800" stop="20261020010400 +0800" channel="FAST10.itvx">
+    <title lang="en">Jack and Sarah</title>
+    <desc lang="en">Richard E Grant, Judi Dench and Ian McKellen lead a stellar cast in this funny - and moving - 90s romcom. Jack's life comes crashing down around him after tragedy strikes.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7ExoEoFWNzCV9rhpumaiVT/7e2d38fed96fdcf90a0bbfa7e4028be1/small-ShowTitle_09_TitleLogo-_7_.png"/>
+    <category lang="en">Film</category>
   </programme>
-  <programme start="20261018230500 +0800" stop="20261019005000 +0800" channel="FAST2.itvx">
-    <title lang="en">Vera</title>
-    <sub-title lang="en">S6,E4 The Sea Glass</sub-title>
-    <desc lang="en">When the body of a missing trawlerman is pulled from the sea, Vera must delve into the lives of his family in a close-knit fishing community.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png"/>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S6 E4</episode-num>
-    <episode-num system="xmltv_ns">5.3.</episode-num>
-  </programme>
-  <programme start="20261019005000 +0800" stop="20261019023600 +0800" channel="FAST2.itvx">
-    <title lang="en">Vera</title>
-    <sub-title lang="en">S7,E1 Natural Selection</sub-title>
-    <desc lang="en">DCI Vera Stanhope investigates the mysterious death of a wildlife ranger whose body is discovered on the shore of a remote island off the coast of Northumberland.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png"/>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S7 E1</episode-num>
-    <episode-num system="xmltv_ns">6.0.</episode-num>
+  <programme start="20261020010400 +0800" stop="20261020024600 +0800" channel="FAST10.itvx">
+    <title lang="en">Reservoir Dogs</title>
+    <desc lang="en">Don't miss Quentin Tarantino’s smash-hit crime debut with an all-star cast. Six strangers team up to pull off the perfect heist, but there's a big problem...</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7ExoEoFWNzCV9rhpumaiVT/7e2d38fed96fdcf90a0bbfa7e4028be1/small-ShowTitle_09_TitleLogo-_7_.png"/>
+    <category lang="en">Film</category>
   </programme>
 </tv>
