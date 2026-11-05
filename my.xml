@@ -902,12 +902,12 @@
     <desc lang="en">FC Masar Women vs FUS Rabat Women - CAF WCL</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOAWL_LEAGUE_POSTER_INDONESIA_1920X1080.jpg"/>
   </programme>
-  <programme start="20261104180008 +0800" stop="20261105020008 +0800" channel="117977.beinau">
+  <programme start="20261104180008 +0800" stop="20261105020601 +0800" channel="117977.beinau">
     <title lang="en">Paris Day 3</title>
     <desc lang="en">ATP 1000: Paris Day 3</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/epg_poster/1792554435483-MP000167210_640X360.jpg"/>
   </programme>
-  <programme start="20261105020000 +0800" stop="20261105070000 +0800" channel="117977.beinau">
+  <programme start="20261105020601 +0800" stop="20261105070007 +0800" channel="117977.beinau">
     <title lang="en">Paris Evening 3</title>
     <desc lang="en">ATP 1000: Paris Evening 3</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/epg_poster/1792554457664-MP000167210_640X360.jpg"/>
@@ -1212,7 +1212,7 @@
     <desc lang="en">Bundesliga Goals: Team Goal</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOBU_LEAGUE_POSTER_SINGAPORE_1920X1080.jpg"/>
   </programme>
-  <programme start="20261105035200 +0800" stop="20261105060000 +0800" channel="117979.beinau">
+  <programme start="20261105035205 +0800" stop="20261105063003 +0800" channel="117979.beinau">
     <title lang="en">Bristol City vs Wolves</title>
     <desc lang="en">Bristol City vs Wolves - EFL Championship</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOEF_LEAGUE_POSTER_NEW_ZEALAND_1920X1080.jpg"/>
@@ -1858,8 +1858,8 @@
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
   </programme>
   <programme start="20261105180000 +0800" stop="20261105200000 +0800" channel="264796.beinau">
-    <title lang="en">The Match</title>
-    <desc lang="en">Fenerbahce v Liverpool U19: The Match</desc>
+    <title lang="en">Liverpool's Greatest</title>
+    <desc lang="en">Liverpool's Greatest</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
   </programme>
   <programme start="20261105200000 +0800" stop="20261105201500 +0800" channel="264796.beinau">
@@ -1879,7 +1879,7 @@
   </programme>
   <programme start="20261105230000 +0800" stop="20261106010000 +0800" channel="264796.beinau">
     <title lang="en">The Match</title>
-    <desc lang="en">Fenerbahce v Liverpool U19: The Match</desc>
+    <desc lang="en">Liverpool v Chelsea: The Match</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
   </programme>
   <programme start="20261106010000 +0800" stop="20261106011500 +0800" channel="264796.beinau">
@@ -1948,8 +1948,8 @@
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
   </programme>
   <programme start="20261106063000 +0800" stop="20261106083000 +0800" channel="264796.beinau">
-    <title lang="en">The Match</title>
-    <desc lang="en">Fenerbahce v Liverpool U19: The Match</desc>
+    <title lang="en">Liverpool's Greatest</title>
+    <desc lang="en">Liverpool's Greatest</desc>
     <icon src="https://mediacms01.apac.beiniz.biz/league_logo/SOCCL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg"/>
   </programme>
   <programme start="20261106083000 +0800" stop="20261106103000 +0800" channel="264796.beinau">
@@ -3419,102 +3419,92 @@
     <desc lang="en">Sports coverage from around the globe.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
   </programme>
-  <programme start="20261105090000 +0800" stop="20261105100000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
-  </programme>
-  <programme start="20261105100000 +0800" stop="20261105110000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
-  </programme>
-  <programme start="20261105110000 +0800" stop="20261105120000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261105090000 +0800" stop="20261105120000 +0800" channel="AD Sports Extra">
+    <title lang="en">UAE Falconry</title>
+    <desc lang="en">Follow the latest events of the UAE Falconry.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG445864_landscape10_MASTER945880.jpg"/>
   </programme>
   <programme start="20261105120000 +0800" stop="20261105130000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+    <title lang="en">Al Merkad</title>
+    <desc lang="en">This program sheds lights on the Arabian Camels and all activities and races in UAE and the other Gulf countries.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG333401_landscape10-702e7980-310d-4cf0-9b59-e274d1a1ecde.jpg"/>
   </programme>
   <programme start="20261105130000 +0800" stop="20261105140000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+    <title lang="en">The Track</title>
+    <desc lang="en">Follow this program (The Track)</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG629011_landscape10-096cb4c0-5754-4bca-b690-1dc58321d5d6.jpg"/>
   </programme>
   <programme start="20261105140000 +0800" stop="20261105150000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+    <title lang="en">Shaikh Zayed Heritage Festival</title>
+    <desc lang="en">A comprehensive coverage of activities carried out within Sheikh Zayed Heritage Festival that is held yearly in recognition of late Sheikh Zayed's pivotal role to preserve the nation's history.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG202393_landscape10_MASTER293366.jpg"/>
   </programme>
-  <programme start="20261105150000 +0800" stop="20261105160000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261105150000 +0800" stop="20261105155000 +0800" channel="AD Sports Extra">
+    <title lang="en">Saheel</title>
+    <desc lang="en">Follow this event Saheel.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG627733_landscape10-73514a82-4882-4622-95c5-109eff9cfeab.jpg"/>
   </programme>
-  <programme start="20261105160000 +0800" stop="20261105170000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261105155000 +0800" stop="20261105162500 +0800" channel="AD Sports Extra">
+    <title lang="en">The Boat Show</title>
+    <desc lang="en">Experience the latest and finest collection of super yachts and boats from across the globe.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG27317_landscape10-7d276c99-7737-4b83-acc7-3f96c4560ef1.jpg"/>
   </programme>
-  <programme start="20261105170000 +0800" stop="20261105180000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261105162500 +0800" stop="20261105184000 +0800" channel="AD Sports Extra">
+    <title lang="en">UAE Horse Show Jumping Champion</title>
+    <desc lang="en">Follow UAE Horse Show Jumping Champion.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG184925_landscape10-c30c4f50-920d-4a7a-a859-5f1f4004fb97.jpg"/>
   </programme>
-  <programme start="20261105180000 +0800" stop="20261105190000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261105184000 +0800" stop="20261105204500 +0800" channel="AD Sports Extra">
+    <title lang="en">Dubai Traditional Sailing Race</title>
+    <desc lang="en">Stay tuned to Dubai Traditional Sailing Race events.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG280524_landscape10-2285cb5b-03b8-4157-ad7b-7fb492c5c252.jpg"/>
   </programme>
-  <programme start="20261105190000 +0800" stop="20261105200000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261105204500 +0800" stop="20261105214500 +0800" channel="AD Sports Extra">
+    <title lang="en">Al Merkad</title>
+    <desc lang="en">This program sheds lights on the Arabian Camels and all activities and races in UAE and the other Gulf countries.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG333401_landscape10-702e7980-310d-4cf0-9b59-e274d1a1ecde.jpg"/>
   </programme>
-  <programme start="20261105200000 +0800" stop="20261105210000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261105214500 +0800" stop="20261105221500 +0800" channel="AD Sports Extra">
+    <title lang="en">Racing on the Edge</title>
+    <desc lang="en">Stay tuned to Racing on the Edge.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG571790_landscape10-370bbd75-6b2d-4178-a396-2b2c0abafd79.jpg"/>
   </programme>
-  <programme start="20261105210000 +0800" stop="20261105220000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261105221500 +0800" stop="20261105223000 +0800" channel="AD Sports Extra">
+    <title lang="en">Endurance Horse Racing</title>
+    <desc lang="en">A sports program highlighting endurance horse racing competitions, showcasing riders' skills and horses' stamina over long distances.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG644043_landscape10-51b3cebb-a2c4-49f4-98e9-6904ce2c13f0.jpg"/>
   </programme>
-  <programme start="20261105220000 +0800" stop="20261105230000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261105223000 +0800" stop="20261105230000 +0800" channel="AD Sports Extra">
+    <title lang="en">Amwaj</title>
+    <desc lang="en">Follow this event Amwaj.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG627732_landscape10-1a7b42bb-08f7-43a7-b188-8425fbf6bed9.jpg"/>
   </programme>
   <programme start="20261105230000 +0800" stop="20261106000000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+    <title lang="en">Shaikh Zayed Heritage Festival</title>
+    <desc lang="en">A comprehensive coverage of activities carried out within Sheikh Zayed Heritage Festival that is held yearly in recognition of late Sheikh Zayed's pivotal role to preserve the nation's history.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG202393_landscape10_MASTER293366.jpg"/>
   </programme>
-  <programme start="20261106000000 +0800" stop="20261106010000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261106000000 +0800" stop="20261106003000 +0800" channel="AD Sports Extra">
+    <title lang="en">Documentary</title>
+    <desc lang="en">An in-depth look into wide-ranging topics history and civilization, to politics, sports, science and technology.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG40357_landscape10-94e26ac4-6f2b-42b0-b384-1a95980c6691.jpg"/>
   </programme>
-  <programme start="20261106010000 +0800" stop="20261106020000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261106003000 +0800" stop="20261106014500 +0800" channel="AD Sports Extra">
+    <title lang="en">UIM F1H2O World Championship</title>
+    <desc lang="en">Follow the latest events of the Powerboats UIM F1H2O World Championship.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG187729_landscape10_MASTER292513.jpg"/>
   </programme>
-  <programme start="20261106020000 +0800" stop="20261106030000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261106014500 +0800" stop="20261106023000 +0800" channel="AD Sports Extra">
+    <title lang="en">UAE Horse Show Jumping Champion</title>
+    <desc lang="en">Follow UAE Horse Show Jumping Champion.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG184925_landscape10-c30c4f50-920d-4a7a-a859-5f1f4004fb97.jpg"/>
   </programme>
-  <programme start="20261106030000 +0800" stop="20261106040000 +0800" channel="AD Sports Extra">
-    <title lang="en">Abu Dhabi Sports Asia 2</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
+  <programme start="20261106023000 +0800" stop="20261106043000 +0800" channel="AD Sports Extra">
+    <title lang="en">Studio</title>
+    <desc lang="en">Stay tuned to all the action and analysis live from the studio.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG170908_landscape10-e17f5630-c16e-4765-bc5d-2c33cadac162.jpg"/>
   </programme>
-  <programme start="20261106040000 +0800" stop="20261106050000 +0800" channel="AD Sports Extra">
+  <programme start="20261106043000 +0800" stop="20261106050000 +0800" channel="AD Sports Extra">
     <title lang="en">Abu Dhabi Sports Asia 2</title>
     <desc lang="en">Sports coverage from around the globe.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519745_landscape10-34aa5344-9cac-4b81-849f-3cf7e27b65cf.jpg"/>
@@ -4739,12 +4729,12 @@
     <desc lang="en">A contemporary look at the UAE, covering national, political, and economic issues while highlighting the country's achievements and the latest local, regional, and international developments.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261105160000 +0800" stop="20261105163800 +0800" channel="Abu Dhabi TV">
+  <programme start="20261105160000 +0800" stop="20261105163000 +0800" channel="Abu Dhabi TV">
     <title lang="en">International News</title>
     <desc lang="en">International News</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261105163800 +0800" stop="20261105170000 +0800" channel="Abu Dhabi TV">
+  <programme start="20261105163000 +0800" stop="20261105170000 +0800" channel="Abu Dhabi TV">
     <title lang="en">Kawalees Abu Dhabi</title>
     <desc lang="en">An initiative in praise of heroes who work in the shadows and remain unseen to maintain Abu Dhabi and its stance as the vibrant city recognized for high quality life and residents well-being.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
@@ -4754,19 +4744,19 @@
     <desc lang="en">The 2026 edition of Abu Dhabi International Petroleum Exhibition &amp; Conference where nations &amp; industries worldwide unite to facilitate collaboration across diverse sectors &amp; advance energy transition.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261105180000 +0800" stop="20261105190235 +0800" channel="Abu Dhabi TV">
+  <programme start="20261105180000 +0800" stop="20261105185416 +0800" channel="Abu Dhabi TV">
     <title lang="en">Ameer Al-Shu'araa' (S12) (2026)</title>
     <desc lang="en">Ameer Al-Shu'araa' (S12) (2026) (12): Ep   3</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261105190235 +0800" stop="20261105200000 +0800" channel="Abu Dhabi TV">
+  <programme start="20261105185416 +0800" stop="20261105203000 +0800" channel="Abu Dhabi TV">
     <title lang="en">News Bulletin</title>
     <desc lang="en">News bulletin</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261105200000 +0800" stop="20261105210000 +0800" channel="Abu Dhabi TV">
-    <title lang="en">Al-Mamarr</title>
-    <desc lang="en">An exploratory journey with Arab celebrities roaming ‘virtually’ through the passages of their lives to mirror the cumulative experiences that shaped the sense of who each guest is at many levels.</desc>
+  <programme start="20261105203000 +0800" stop="20261105210000 +0800" channel="Abu Dhabi TV">
+    <title lang="en">Men Al Masdar</title>
+    <desc lang="en">An investigative documentary series exploring key public-interest issues through in-depth research and verified analysis, uncovering hidden aspects with fact-based insights supported by official sources.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
   <programme start="20261105210000 +0800" stop="20261105220000 +0800" channel="Abu Dhabi TV">
@@ -5174,9 +5164,14 @@
     <desc lang="en">A classic car bearing a unique number plate has Bou Thanyan play by women's rules as he tries to acquire it from Sumayya &amp; offer it as Amani’s dowry while Hanadi manipulates him throughout the dilemma.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261106110000 +0800" stop="20261106113000 +0800" channel="Al Emarat TV">
+  <programme start="20261106110000 +0800" stop="20261106112000 +0800" channel="Al Emarat TV">
     <title lang="en">MAJID WORLD</title>
     <desc lang="en">MAJID WORLD: Ep   3</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20261106112000 +0800" stop="20261106113000 +0800" channel="Al Emarat TV">
+    <title lang="en">Shabab Al-Emarat</title>
+    <desc lang="en">Inspirational glimpses of success stories accomplished by the distinguished youth of the UAE who exemplify perseverance and excellence and set an example for their youthful peers.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
   <programme start="20261106113000 +0800" stop="20261106123000 +0800" channel="Al Emarat TV">
@@ -5214,27 +5209,32 @@
     <desc lang="en">International News</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261106163000 +0800" stop="20261106170000 +0800" channel="Al Emarat TV">
+  <programme start="20261106163000 +0800" stop="20261106164300 +0800" channel="Al Emarat TV">
+    <title lang="en">Daqa'eq</title>
+    <desc lang="en">Enriching minutes of knowledge delve into the broad spectrum of science and technology across the globe to deliver interesting facts articulated in a simple informative context.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20261106164300 +0800" stop="20261106171000 +0800" channel="Al Emarat TV">
     <title lang="en">Friday Prayer</title>
     <desc lang="en">Live coverage of Salat Al-Juma'h (Friday Prayer).</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261106170000 +0800" stop="20261106171300 +0800" channel="Al Emarat TV">
-    <title lang="en">Mannequin</title>
-    <desc lang="en">Assuming that she too is a magnet to bad luck with men like generations of her maternal family, Mariam forms a war front with her female friends against a troop of men who move to work nearby.</desc>
-    <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261106171300 +0800" stop="20261106180000 +0800" channel="Al Emarat TV">
+  <programme start="20261106171000 +0800" stop="20261106174000 +0800" channel="Al Emarat TV">
     <title lang="en">Bil Hikma (S4)</title>
     <desc lang="en">Bil Hikma (S4): Ep  38</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261106180000 +0800" stop="20261106190000 +0800" channel="Al Emarat TV">
+  <programme start="20261106174000 +0800" stop="20261106182500 +0800" channel="Al Emarat TV">
+    <title lang="en">Mannequin</title>
+    <desc lang="en">Assuming that she too is a magnet to bad luck with men like generations of her maternal family, Mariam forms a war front with her female friends against a troop of men who move to work nearby.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20261106182500 +0800" stop="20261106191500 +0800" channel="Al Emarat TV">
     <title lang="en">Haya Al-Rouh</title>
     <desc lang="en">Haya rejects being pigeonholed in the narrow scope of her physical disability and thus strives to prove her capability to become a woman of excellence amidst much prejudice and common bias.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261106190000 +0800" stop="20261106200000 +0800" channel="Al Emarat TV">
+  <programme start="20261106191500 +0800" stop="20261106200000 +0800" channel="Al Emarat TV">
     <title lang="en">Kayd Al-Hareem</title>
     <desc lang="en">A classic car bearing a unique number plate has Bou Thanyan play by women's rules as he tries to acquire it from Sumayya &amp; offer it as Amani’s dowry while Hanadi manipulates him throughout the dilemma.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
@@ -5259,9 +5259,14 @@
     <desc lang="en">The series talks about 6 children and their mother. This family used to be gathered in one place in the dining area, each child faces many problems</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261106230000 +0800" stop="20261107000000 +0800" channel="Al Emarat TV">
+  <programme start="20261106230000 +0800" stop="20261106235000 +0800" channel="Al Emarat TV">
     <title lang="en">Mannequin</title>
     <desc lang="en">Assuming that she too is a magnet to bad luck with men like generations of her maternal family, Mariam forms a war front with her female friends against a troop of men who move to work nearby.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20261106235000 +0800" stop="20261107000000 +0800" channel="Al Emarat TV">
+    <title lang="en">Shabab Al-Emarat</title>
+    <desc lang="en">Inspirational glimpses of success stories accomplished by the distinguished youth of the UAE who exemplify perseverance and excellence and set an example for their youthful peers.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
   <programme start="20261105000000 +0800" stop="20261105010000 +0800" channel="Al Jadeed">
@@ -26595,44 +26600,169 @@
     <desc lang="en">Kanal D Drama</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/rObEoPq7.jpg"/>
   </programme>
-  <programme start="20261105020000 +0800" stop="20261105060000 +0800" channel="Kanal D Drama">
-    <title lang="en">Kanal D Drama</title>
-    <desc lang="en">Kanal D Drama</desc>
+  <programme start="20261105020000 +0800" stop="20261105023000 +0800" channel="Kanal D Drama">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/livechannels/KANALDDRAMAY2026MAR/KANALDDRAMAY2026MAR-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20261105023000 +0800" stop="20261105033000 +0800" channel="Kanal D Drama">
+    <title lang="en">Istanbul Al Dhaleemah</title>
+    <desc lang="en">S1 , E10 : A mother with three children moves to Istanbul to work for a wealthy family, leading everyone to deal with unexpected situations interspersed with love, betrayal and deception.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34158027_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105033000 +0800" stop="20261105043000 +0800" channel="Kanal D Drama">
+    <title lang="en">Al Ishq Al Fakhr</title>
+    <desc lang="en">S1 , E136 : Being followed by a scandal that ruined her life and reputation, Ayse is forced to marry Kerem, a reckless and philandering young man who comes from a wealthy family.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32975493_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105043000 +0800" stop="20261105053000 +0800" channel="Kanal D Drama">
+    <title lang="en">Hekayat Bodrum</title>
+    <desc lang="en">S1 , E12 : After going bankrupt, a formerly wealthy family relocates from Istanbul to Bodrum, where Yildiz finds a new life and true love.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34157983_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105053000 +0800" stop="20261105063000 +0800" channel="Kanal D Drama">
+    <title lang="en">Al Enteqam Al Helw</title>
+    <desc lang="en">S1 , E56 : A desperate Pelin asks someone from her past for forgiveness, believing her bad luck to be a result of the way she treated him, unaware of how much he is willing to humiliate her.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p33699392_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105063000 +0800" stop="20261105073000 +0800" channel="Kanal D Drama">
+    <title lang="en">Telk Al Fatah</title>
+    <desc lang="en">S1 , E2 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/rObEoPq7.jpg"/>
   </programme>
-  <programme start="20261105060000 +0800" stop="20261105100000 +0800" channel="Kanal D Drama">
-    <title lang="en">Kanal D Drama</title>
-    <desc lang="en">Kanal D Drama</desc>
+  <programme start="20261105073000 +0800" stop="20261105083000 +0800" channel="Kanal D Drama">
+    <title lang="en">Fatemah</title>
+    <desc lang="en">S1 , E136 : Passionate about art and music, Fatima learns to play the violin despite growing up in a conservative environment that does not encourage self-expression.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32429921_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105083000 +0800" stop="20261105093000 +0800" channel="Kanal D Drama">
+    <title lang="en">Istanbul Al Dhaleemah</title>
+    <desc lang="en">S1 , E10 : A mother with three children moves to Istanbul to work for a wealthy family, leading everyone to deal with unexpected situations interspersed with love, betrayal and deception.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34158027_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105093000 +0800" stop="20261105103000 +0800" channel="Kanal D Drama">
+    <title lang="en">Al Ishq Al Fakhr</title>
+    <desc lang="en">S1 , E136 : Being followed by a scandal that ruined her life and reputation, Ayse is forced to marry Kerem, a reckless and philandering young man who comes from a wealthy family.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32975493_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105103000 +0800" stop="20261105113000 +0800" channel="Kanal D Drama">
+    <title lang="en">Hekayat Bodrum</title>
+    <desc lang="en">S1 , E12 : After going bankrupt, a formerly wealthy family relocates from Istanbul to Bodrum, where Yildiz finds a new life and true love.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34157983_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105113000 +0800" stop="20261105123000 +0800" channel="Kanal D Drama">
+    <title lang="en">Al Enteqam Al Helw</title>
+    <desc lang="en">S1 , E56 : A desperate Pelin asks someone from her past for forgiveness, believing her bad luck to be a result of the way she treated him, unaware of how much he is willing to humiliate her.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p33699392_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105123000 +0800" stop="20261105133000 +0800" channel="Kanal D Drama">
+    <title lang="en">Telk Al Fatah</title>
+    <desc lang="en">S1 , E2 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/rObEoPq7.jpg"/>
   </programme>
-  <programme start="20261105100000 +0800" stop="20261105140000 +0800" channel="Kanal D Drama">
-    <title lang="en">Kanal D Drama</title>
-    <desc lang="en">Kanal D Drama</desc>
+  <programme start="20261105133000 +0800" stop="20261105143000 +0800" channel="Kanal D Drama">
+    <title lang="en">Fatemah</title>
+    <desc lang="en">S1 , E136 : Passionate about art and music, Fatima learns to play the violin despite growing up in a conservative environment that does not encourage self-expression.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32429921_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105143000 +0800" stop="20261105153000 +0800" channel="Kanal D Drama">
+    <title lang="en">Istanbul Al Dhaleemah</title>
+    <desc lang="en">S1 , E10 : A mother with three children moves to Istanbul to work for a wealthy family, leading everyone to deal with unexpected situations interspersed with love, betrayal and deception.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34158027_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105153000 +0800" stop="20261105163000 +0800" channel="Kanal D Drama">
+    <title lang="en">Al Ishq Al Fakhr</title>
+    <desc lang="en">S1 , E136 : Being followed by a scandal that ruined her life and reputation, Ayse is forced to marry Kerem, a reckless and philandering young man who comes from a wealthy family.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32975493_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105163000 +0800" stop="20261105173000 +0800" channel="Kanal D Drama">
+    <title lang="en">Hekayat Bodrum</title>
+    <desc lang="en">S1 , E12 : After going bankrupt, a formerly wealthy family relocates from Istanbul to Bodrum, where Yildiz finds a new life and true love.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34157983_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105173000 +0800" stop="20261105183000 +0800" channel="Kanal D Drama">
+    <title lang="en">Al Enteqam Al Helw</title>
+    <desc lang="en">S1 , E56 : A desperate Pelin asks someone from her past for forgiveness, believing her bad luck to be a result of the way she treated him, unaware of how much he is willing to humiliate her.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p33699392_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105183000 +0800" stop="20261105193000 +0800" channel="Kanal D Drama">
+    <title lang="en">Telk Al Fatah</title>
+    <desc lang="en">S1 , E2 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/rObEoPq7.jpg"/>
   </programme>
-  <programme start="20261105140000 +0800" stop="20261105180000 +0800" channel="Kanal D Drama">
-    <title lang="en">Kanal D Drama</title>
-    <desc lang="en">Kanal D Drama</desc>
+  <programme start="20261105193000 +0800" stop="20261105203000 +0800" channel="Kanal D Drama">
+    <title lang="en">Fatemah</title>
+    <desc lang="en">S1 , E136 : Passionate about art and music, Fatima learns to play the violin despite growing up in a conservative environment that does not encourage self-expression.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32429921_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105203000 +0800" stop="20261105213000 +0800" channel="Kanal D Drama">
+    <title lang="en">Istanbul Al Dhaleemah</title>
+    <desc lang="en">S1 , E10 : A mother with three children moves to Istanbul to work for a wealthy family, leading everyone to deal with unexpected situations interspersed with love, betrayal and deception.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34158027_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105213000 +0800" stop="20261105223000 +0800" channel="Kanal D Drama">
+    <title lang="en">Al Ishq Al Fakhr</title>
+    <desc lang="en">S1 , E136 : Being followed by a scandal that ruined her life and reputation, Ayse is forced to marry Kerem, a reckless and philandering young man who comes from a wealthy family.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32975493_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105223000 +0800" stop="20261105233000 +0800" channel="Kanal D Drama">
+    <title lang="en">Hekayat Bodrum</title>
+    <desc lang="en">S1 , E13 : After going bankrupt, a formerly wealthy family relocates from Istanbul to Bodrum, where Yildiz finds a new life and true love.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34157983_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261105233000 +0800" stop="20261106003000 +0800" channel="Kanal D Drama">
+    <title lang="en">Al Enteqam Al Helw</title>
+    <desc lang="en">S1 , E57 : A desperate Pelin asks someone from her past for forgiveness, believing her bad luck to be a result of the way she treated him, unaware of how much he is willing to humiliate her.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p33699392_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261106003000 +0800" stop="20261106013000 +0800" channel="Kanal D Drama">
+    <title lang="en">Telk Al Fatah</title>
+    <desc lang="en">S1 , E3 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/rObEoPq7.jpg"/>
   </programme>
-  <programme start="20261105180000 +0800" stop="20261105220000 +0800" channel="Kanal D Drama">
-    <title lang="en">Kanal D Drama</title>
-    <desc lang="en">Kanal D Drama</desc>
+  <programme start="20261106013000 +0800" stop="20261106023000 +0800" channel="Kanal D Drama">
+    <title lang="en">Fatemah</title>
+    <desc lang="en">S1 , E137 : Passionate about art and music, Fatima learns to play the violin despite growing up in a conservative environment that does not encourage self-expression.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32429921_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261106023000 +0800" stop="20261106033000 +0800" channel="Kanal D Drama">
+    <title lang="en">Istanbul Al Dhaleemah</title>
+    <desc lang="en">S1 , E11 : A mother with three children moves to Istanbul to work for a wealthy family, leading everyone to deal with unexpected situations interspersed with love, betrayal and deception.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34158027_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261106033000 +0800" stop="20261106043000 +0800" channel="Kanal D Drama">
+    <title lang="en">Eshq</title>
+    <desc lang="en">S1 , E1 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/rObEoPq7.jpg"/>
   </programme>
-  <programme start="20261105220000 +0800" stop="20261106020000 +0800" channel="Kanal D Drama">
-    <title lang="en">Kanal D Drama</title>
-    <desc lang="en">Kanal D Drama</desc>
+  <programme start="20261106043000 +0800" stop="20261106053000 +0800" channel="Kanal D Drama">
+    <title lang="en">Hekayat Bodrum</title>
+    <desc lang="en">S1 , E13 : After going bankrupt, a formerly wealthy family relocates from Istanbul to Bodrum, where Yildiz finds a new life and true love.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34157983_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261106053000 +0800" stop="20261106063000 +0800" channel="Kanal D Drama">
+    <title lang="en">Al Enteqam Al Helw</title>
+    <desc lang="en">S1 , E57 : A desperate Pelin asks someone from her past for forgiveness, believing her bad luck to be a result of the way she treated him, unaware of how much he is willing to humiliate her.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p33699392_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261106063000 +0800" stop="20261106073000 +0800" channel="Kanal D Drama">
+    <title lang="en">Telk Al Fatah</title>
+    <desc lang="en">S1 , E3 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/rObEoPq7.jpg"/>
   </programme>
-  <programme start="20261106020000 +0800" stop="20261106060000 +0800" channel="Kanal D Drama">
-    <title lang="en">Kanal D Drama</title>
-    <desc lang="en">Kanal D Drama</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/rObEoPq7.jpg"/>
+  <programme start="20261106073000 +0800" stop="20261106083000 +0800" channel="Kanal D Drama">
+    <title lang="en">Fatemah</title>
+    <desc lang="en">S1 , E137 : Passionate about art and music, Fatima learns to play the violin despite growing up in a conservative environment that does not encourage self-expression.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32429921_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261106060000 +0800" stop="20261106103000 +0800" channel="Kanal D Drama">
-    <title lang="en">Kanal D Drama</title>
-    <desc lang="en">Kanal D Drama</desc>
+  <programme start="20261106083000 +0800" stop="20261106093000 +0800" channel="Kanal D Drama">
+    <title lang="en">Istanbul Al Dhaleemah</title>
+    <desc lang="en">S1 , E11 : A mother with three children moves to Istanbul to work for a wealthy family, leading everyone to deal with unexpected situations interspersed with love, betrayal and deception.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p34158027_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261106093000 +0800" stop="20261106103000 +0800" channel="Kanal D Drama">
+    <title lang="en">Eshq</title>
+    <desc lang="en">S1 , E1 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/rObEoPq7.jpg"/>
   </programme>
   <programme start="20261106103000 +0800" stop="20261106113000 +0800" channel="Kanal D Drama">
@@ -30768,7 +30898,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261105040000 +0800" stop="20261105053000 +0800" channel="MBC+ e&amp;">
     <title lang="en">Nadina</title>
-    <desc lang="en">S3 , E85 : The go-to platform for fans to share their views, celebrate their passion, and debate everything about Saudi league matches and their favourite clubs.</desc>
+    <desc lang="en">S3 , E85 : The host invites sports experts to analyse the latest news and updates related to the Saudi league matches and shed light on the fans' reaction, opinions and much more.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32797278_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261105053000 +0800" stop="20261105063000 +0800" channel="MBC+ e&amp;">
@@ -30803,7 +30933,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261105100000 +0800" stop="20261105120000 +0800" channel="MBC+ e&amp;">
     <title lang="en">Sabah Al Khair Ya Arab</title>
-    <desc lang="en">S2026 , E193 : The hosts are joined by experts in various fields. Together they present a round-up of the latest news and developments from the world of entertainment, sports and current affairs.</desc>
+    <desc lang="en">S2026 , E193 : The hosts present a round-up of the latest news and developments from the world of entertainment, sports and current affairs.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32052263_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261105120000 +0800" stop="20261105123000 +0800" channel="MBC+ e&amp;">
@@ -30811,12 +30941,12 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
     <desc lang="en">S2 , E9 : After the bankruptcy of his TV channel, the owner and the employees go through various hilarious situations, as they try to keep going despite the hardships they encounter.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p21947236_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261105123000 +0800" stop="20261105140000 +0800" channel="MBC+ e&amp;">
+  <programme start="20261105123000 +0800" stop="20261105140100 +0800" channel="MBC+ e&amp;">
     <title lang="en">Nadina</title>
-    <desc lang="en">S3 , E85 : The go-to platform for fans to share their views, celebrate their passion, and debate everything about Saudi league matches and their favourite clubs.</desc>
+    <desc lang="en">S3 , E85 : The host invites sports experts to analyse the latest news and updates related to the Saudi league matches and shed light on the fans' reaction, opinions and much more.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32797278_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261105140000 +0800" stop="20261105150000 +0800" channel="MBC+ e&amp;">
+  <programme start="20261105140100 +0800" stop="20261105150000 +0800" channel="MBC+ e&amp;">
     <title lang="en">Haret Al Qobba</title>
     <desc lang="en">S2 , E13 : The people of the ancient city of Damascus encounter various hardships and challenges, as they try to defend their lands against the Ottoman Empire.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p27789617_b_h10_aa.jpg"/>
@@ -30858,12 +30988,12 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261105230000 +0800" stop="20261105233000 +0800" channel="MBC+ e&amp;">
     <title lang="en">Al Qadha'</title>
-    <desc lang="en">S1 , E139 : The paths of a prosecutor and a lawyer intersect due to a murder case. The duo need to work together to track down the murderer and reach an irreversible breaking point in their lives.</desc>
+    <desc lang="en">S1 , E139 : While working on a murder case, a lawyer and a prosecutor find themselves forced to team up, unaware of each other's impact on one another.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/RkuWDj83.jpg"/>
   </programme>
   <programme start="20261105233000 +0800" stop="20261106000000 +0800" channel="MBC+ e&amp;">
     <title lang="en">Al Qadha'</title>
-    <desc lang="en">S1 , E140 : The paths of a prosecutor and a lawyer intersect due to a murder case. The duo need to work together to track down the murderer and reach an irreversible breaking point in their lives.</desc>
+    <desc lang="en">S1 , E140 : While working on a murder case, a lawyer and a prosecutor find themselves forced to team up, unaware of each other's impact on one another.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/RkuWDj83.jpg"/>
   </programme>
   <programme start="20261106000000 +0800" stop="20261106010000 +0800" channel="MBC+ e&amp;">
@@ -30901,27 +31031,27 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
     <desc lang="en">S1 , E15 : Rania finds out that Mado plans to betray her and runs away with Sakina to seek Arabi's help. The gangsters try to track Mado down.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p21943396_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261106073000 +0800" stop="20261106081500 +0800" channel="MBC+ e&amp;">
+  <programme start="20261106073000 +0800" stop="20261106081600 +0800" channel="MBC+ e&amp;">
     <title lang="en">Al Najiya Al Waheeda</title>
     <desc lang="en">S1 , E18 : When a fire causes her to lose her entire family, a grieving woman, who is the only survivor, becomes the prime suspect of an otherwise normal-seeming incident, and decides to pretend to have lost her memory.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/RkuWDj83.jpg"/>
   </programme>
-  <programme start="20261106081500 +0800" stop="20261106091500 +0800" channel="MBC+ e&amp;">
+  <programme start="20261106081600 +0800" stop="20261106091500 +0800" channel="MBC+ e&amp;">
     <title lang="en">Haret Al Qobba</title>
     <desc lang="en">S2 , E14 : Following a quarrel with her husband, Umm Al Ezz leaves the house. Ghazi goes crazy when he finds out that Fares has sold the land to Asef.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p27543138_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261106091500 +0800" stop="20261106093000 +0800" channel="MBC+ e&amp;">
+  <programme start="20261106091500 +0800" stop="20261106094400 +0800" channel="MBC+ e&amp;">
     <title lang="en">Al Qadha'</title>
-    <desc lang="en">S1 , E139 : The paths of a prosecutor and a lawyer intersect due to a murder case. The duo need to work together to track down the murderer and reach an irreversible breaking point in their lives.</desc>
+    <desc lang="en">S1 , E139 : While working on a murder case, a lawyer and a prosecutor find themselves forced to team up, unaware of each other's impact on one another.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/RkuWDj83.jpg"/>
   </programme>
-  <programme start="20261106093000 +0800" stop="20261106100000 +0800" channel="MBC+ e&amp;">
+  <programme start="20261106094400 +0800" stop="20261106101200 +0800" channel="MBC+ e&amp;">
     <title lang="en">Al Qadha'</title>
-    <desc lang="en">S1 , E140 : The paths of a prosecutor and a lawyer intersect due to a murder case. The duo need to work together to track down the murderer and reach an irreversible breaking point in their lives.</desc>
+    <desc lang="en">S1 , E140 : While working on a murder case, a lawyer and a prosecutor find themselves forced to team up, unaware of each other's impact on one another.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/RkuWDj83.jpg"/>
   </programme>
-  <programme start="20261106100000 +0800" stop="20261106120000 +0800" channel="MBC+ e&amp;">
+  <programme start="20261106101200 +0800" stop="20261106120000 +0800" channel="MBC+ e&amp;">
     <title lang="en">Sabah Al Khair Ya Arab</title>
     <desc lang="en">S2026 , E194 : The hosts are joined by experts in various fields. Together they present a round-up of the latest news and developments from the world of entertainment, sports and current affairs.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32052263_b_h8_aa.jpg"/>
@@ -30931,12 +31061,12 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
     <desc lang="en">S2 , E9 : After the bankruptcy of his TV channel, the owner and the employees go through various hilarious situations, as they try to keep going despite the hardships they encounter.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p21947236_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261106123000 +0800" stop="20261106134500 +0800" channel="MBC+ e&amp;">
+  <programme start="20261106123000 +0800" stop="20261106134700 +0800" channel="MBC+ e&amp;">
     <title lang="en">Nadina</title>
     <desc lang="en">S3 , E86 : The host invites sports experts to analyse the latest news and updates related to various local and international football matches.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p32797278_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261106134500 +0800" stop="20261106140000 +0800" channel="MBC+ e&amp;">
+  <programme start="20261106134700 +0800" stop="20261106140000 +0800" channel="MBC+ e&amp;">
     <title lang="en">Al Dunia Allamatni: Best Of</title>
     <desc lang="en">S2 , E22 : A compilation of the moments and talks from the show 'Al Dunia Allamatni', in which Arab achievers walk onto the stage to share their stories and inspire others to seek success.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p27796284_b_h10_ab.jpg"/>
@@ -32728,7 +32858,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261105051200 +0800" stop="20261105053400 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E3 : </desc>
+    <desc lang="en">S1 , E3 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261105053400 +0800" stop="20261105055600 +0800" channel="Mazhavil Manorama">
@@ -32748,7 +32878,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261105074600 +0800" stop="20261105081000 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E3 : </desc>
+    <desc lang="en">S1 , E3 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261105081000 +0800" stop="20261105083200 +0800" channel="Mazhavil Manorama">
@@ -32788,7 +32918,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261105113200 +0800" stop="20261105115500 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E3 : </desc>
+    <desc lang="en">S1 , E3 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261105115500 +0800" stop="20261105124100 +0800" channel="Mazhavil Manorama">
@@ -32813,7 +32943,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261105143600 +0800" stop="20261105150200 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E3 : </desc>
+    <desc lang="en">S1 , E3 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261105150200 +0800" stop="20261105152500 +0800" channel="Mazhavil Manorama">
@@ -32853,7 +32983,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261105230000 +0800" stop="20261105233000 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E4 : </desc>
+    <desc lang="en">S1 , E4 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261105233000 +0800" stop="20261106000000 +0800" channel="Mazhavil Manorama">
@@ -32888,7 +33018,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261106051200 +0800" stop="20261106053400 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E4 : </desc>
+    <desc lang="en">S1 , E4 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261106053400 +0800" stop="20261106055600 +0800" channel="Mazhavil Manorama">
@@ -32908,7 +33038,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261106074600 +0800" stop="20261106081000 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E4 : </desc>
+    <desc lang="en">S1 , E4 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261106081000 +0800" stop="20261106083200 +0800" channel="Mazhavil Manorama">
@@ -32948,7 +33078,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261106113200 +0800" stop="20261106115500 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E4 : </desc>
+    <desc lang="en">S1 , E4 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261106115500 +0800" stop="20261106124100 +0800" channel="Mazhavil Manorama">
@@ -32973,7 +33103,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261106143600 +0800" stop="20261106150200 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E4 : </desc>
+    <desc lang="en">S1 , E4 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261106150200 +0800" stop="20261106152500 +0800" channel="Mazhavil Manorama">
@@ -33013,7 +33143,7 @@ Follow Bugs Bunny, Daffy Duck, Tweety and the rest of our classic Looney charact
   </programme>
   <programme start="20261106230000 +0800" stop="20261106233000 +0800" channel="Mazhavil Manorama">
     <title lang="en">Kunjumalakha</title>
-    <desc lang="en">S1 , E5 : </desc>
+    <desc lang="en">S1 , E5 : An unanticipated infant creates severe disorder and thrills for Joncy and Tracy. Meanwhile, Ebi and Jessie simulate parenthood amid conflict.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/C5aMcv6M.jpg"/>
   </programme>
   <programme start="20261106233000 +0800" stop="20261107000000 +0800" channel="Mazhavil Manorama">
@@ -48759,12 +48889,12 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105031000 +0800" stop="20261105040000 +0800" channel="Star World">
     <title lang="en">Lost</title>
-    <desc lang="en">S5 , E1 : After a plane crash, the survivors end up on an unknown island. However, they realise they're not alone in their struggle to survive.</desc>
+    <desc lang="en">S5 , E1 : The survivors left on the island begin skipping through time after Ben moves it. Ben works to convince the Oceanic 6 in Los Angeles to return.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p7892021_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261105040000 +0800" stop="20261105050000 +0800" channel="Star World">
     <title lang="en">Lost</title>
-    <desc lang="en">S5 , E2 : After a plane crash, the survivors end up on an unknown island. However, they realise they're not alone in their struggle to survive.</desc>
+    <desc lang="en">S5 , E2 : Ben and Jack try to round up the Oceanic 6 while Sayid and Hurley flee the law. The island survivors come under attack as they skip through time.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p7892021_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261105050000 +0800" stop="20261105060000 +0800" channel="Star World">
@@ -48779,12 +48909,12 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105070000 +0800" stop="20261105080000 +0800" channel="Star World">
     <title lang="en">Lost</title>
-    <desc lang="en">S5 , E1 : After a plane crash, the survivors end up on an unknown island. However, they realise they're not alone in their struggle to survive.</desc>
+    <desc lang="en">S5 , E1 : The survivors left on the island begin skipping through time after Ben moves it. Ben works to convince the Oceanic 6 in Los Angeles to return.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p7892021_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261105080000 +0800" stop="20261105090000 +0800" channel="Star World">
     <title lang="en">Lost</title>
-    <desc lang="en">S5 , E2 : After a plane crash, the survivors end up on an unknown island. However, they realise they're not alone in their struggle to survive.</desc>
+    <desc lang="en">S5 , E2 : Ben and Jack try to round up the Oceanic 6 while Sayid and Hurley flee the law. The island survivors come under attack as they skip through time.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p7892021_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261105090000 +0800" stop="20261105100000 +0800" channel="Star World">
@@ -48799,12 +48929,12 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105111000 +0800" stop="20261105121000 +0800" channel="Star World">
     <title lang="en">Lost</title>
-    <desc lang="en">S5 , E1 : After a plane crash, the survivors end up on an unknown island. However, they realise they're not alone in their struggle to survive.</desc>
+    <desc lang="en">S5 , E1 : The survivors left on the island begin skipping through time after Ben moves it. Ben works to convince the Oceanic 6 in Los Angeles to return.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p7892021_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261105121000 +0800" stop="20261105131000 +0800" channel="Star World">
     <title lang="en">Lost</title>
-    <desc lang="en">S5 , E2 : After a plane crash, the survivors end up on an unknown island. However, they realise they're not alone in their struggle to survive.</desc>
+    <desc lang="en">S5 , E2 : Ben and Jack try to round up the Oceanic 6 while Sayid and Hurley flee the law. The island survivors come under attack as they skip through time.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p7892021_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261105131000 +0800" stop="20261105140000 +0800" channel="Star World">
@@ -48824,12 +48954,12 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105161000 +0800" stop="20261105171000 +0800" channel="Star World">
     <title lang="en">Lost</title>
-    <desc lang="en">S5 , E1 : After a plane crash, the survivors end up on an unknown island. However, they realise they're not alone in their struggle to survive.</desc>
+    <desc lang="en">S5 , E1 : The survivors left on the island begin skipping through time after Ben moves it. Ben works to convince the Oceanic 6 in Los Angeles to return.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p7892021_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261105171000 +0800" stop="20261105181000 +0800" channel="Star World">
     <title lang="en">Lost</title>
-    <desc lang="en">S5 , E2 : After a plane crash, the survivors end up on an unknown island. However, they realise they're not alone in their struggle to survive.</desc>
+    <desc lang="en">S5 , E2 : Ben and Jack try to round up the Oceanic 6 while Sayid and Hurley flee the law. The island survivors come under attack as they skip through time.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p7892021_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261105181000 +0800" stop="20261105190000 +0800" channel="Star World">
@@ -50631,7 +50761,7 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105120000 +0800" stop="20261105130000 +0800" channel="TV1.rtm">
     <title lang="en">WORLD WATCH: Help! We Bought A Village</title>
-    <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hampir runtuh, sambil meniup nafas baharu ke dalam perkampungan terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
+    <desc lang="en">Ted dan Lesa ubah suai kampung di Perancis. Penny mahu jual borgo Itali pada harga sejuta Euro, manakala dusun Mick dan Julie menyimpan rahsia ngeri dalam dinding.</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
@@ -50642,13 +50772,13 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105133000 +0800" stop="20261105143000 +0800" channel="TV1.rtm">
     <title lang="en">BIDADARI: Kasih Malisa</title>
-    <desc lang="en">Faridah berasa tersisih sejak Malisa bekerja di pejabat. Mansor mengumumkan prestasi syarikat semakin meningkat dan merancang majlis hari keluarga sebagai penghargaan, dengan melantik Malisa sebagai ketua penyelaras.</desc>
+    <desc lang="en">Azie menawarkan Malisa bekerja di syarikat Datuk Malik. Rozita mengesyaki Mansor mahu mengambil alih syarikat, manakala Malisa menerima notis pemberhentian 24 jam lalu memutuskan untuk pulang ke kampung.</desc>
     <episode-num system="xmltv_ns">0.9.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261105143000 +0800" stop="20261105150000 +0800" channel="TV1.rtm">
     <title lang="en">CUIT-CUIT: Sembang Jarak Jauh</title>
-    <desc lang="en">Mengisahkan gelagat Tipah dan Ziah yang suka bersembang kuat hingga menjadi buah mulut jiran tetangga. Lakonan Didie Alias, Amyza Aznan, Didi Astillah, Nafiz Muaz, Zalif Sidek.</desc>
+    <desc lang="en">Adi mengajak Fahmi berpindah kerana tidak tahan dengan persekitaran flat yang kotor, termasuk tangga dicemari air kencing dan muntah. Dalam masa sama, Fahmi melamar Nadia.</desc>
     <episode-num system="xmltv_ns">0.10.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
@@ -50658,8 +50788,9 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261105150500 +0800" stop="20261105160000 +0800" channel="TV1.rtm">
-    <title lang="en">Diari Rawat</title>
-    <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dan tetamu undangan dengan isu-isu kesihatan terkini di Diari Rawat.</desc>
+    <title lang="en">Diari Rawat 2026</title>
+    <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261105160000 +0800" stop="20261105160500 +0800" channel="TV1.rtm">
@@ -50669,13 +50800,14 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105160500 +0800" stop="20261105163000 +0800" channel="TV1.rtm">
     <title lang="en">Ringgit &amp; Anda</title>
-    <desc lang="en">Bersama pakar kewangan berdiskusi mengenai pelbagai kaedah dan tip membangunkan kedudukan kewangan yang selamat dalam setiap episod.</desc>
+    <desc lang="en">Sebuah dokumentari yang memaparkan tip-tip pengurusan kewangan dalam kehidupan. Episod ini mengupas tajuk Amanah Saham.</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261105163000 +0800" stop="20261105170000 +0800" channel="TV1.rtm">
-    <title lang="en">Biz Malaysia</title>
+    <title lang="en">Biz Malaysia 2026</title>
     <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham. (Azan Asar  : 16:20)</desc>
+    <episode-num system="xmltv_ns">0.79.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261105170000 +0800" stop="20261105180000 +0800" channel="TV1.rtm">
@@ -50686,11 +50818,12 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   <programme start="20261105180000 +0800" stop="20261105184500 +0800" channel="TV1.rtm">
     <title lang="en">Dengarlah Dulu...</title>
     <desc lang="en">Dengarlah Dulu... ialah program bual bicara yang mengupas pelbagai isu kehidupan, kekeluargaan dan kemasyarakatan dari perspektif Islam. Dengan pendekatan santai dan penuh hikmah, program ini mengajak penonton memahami sesuatu perkara sebelum membuat penilaian atau keputusan.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261105184500 +0800" stop="20261105194400 +0800" channel="TV1.rtm">
     <title lang="en">CITRA: Demi</title>
-    <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya. (Azan Maghrib : 18:58)</desc>
+    <desc lang="en">Hisham bimbang kerana Sufi telah mengetahui bahawa dia telah mengugut Suraya melalui email. (Azan Maghrib : 18:58)</desc>
     <episode-num system="xmltv_ns">0.22.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
@@ -50726,7 +50859,7 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105223000 +0800" stop="20261105233000 +0800" channel="TV1.rtm">
     <title lang="en">Skuad JPJ 2.0</title>
-    <desc lang="en">Saksikan lakonan Rashdan Baba, Saharul Ridzwan, Fify Azmi, Kodi Rasheed, Sefik Khair, Fiza Thomas.</desc>
+    <desc lang="en">Operasi bersepadu dijalankan bagi membanteras kegiatan perniagaan haram di pasar yang dikaitkan dengan kumpulan warga Rohingya dan kongsi gelap. Tuan Shah mengarahkan pasukannya menjalankan siasatan.</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
@@ -50743,43 +50876,43 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261106003000 +0800" stop="20261106013000 +0800" channel="TV1.rtm">
     <title lang="en">Kasih Malisa</title>
-    <desc lang="en">Faridah berasa tersisih sejak Malisa bekerja di pejabat. Mansor mengumumkan prestasi syarikat semakin meningkat dan merancang majlis hari keluarga sebagai penghargaan, dengan melantik Malisa sebagai ketua penyelaras.</desc>
+    <desc lang="en">Azie menawarkan Malisa bekerja di syarikat Datuk Malik. Rozita mengesyaki Mansor mahu mengambil alih syarikat, manakala Malisa menerima notis pemberhentian 24 jam lalu memutuskan untuk pulang ke kampung.</desc>
     <episode-num system="xmltv_ns">0.9.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106013000 +0800" stop="20261106020000 +0800" channel="TV1.rtm">
     <title lang="en">Diaspora Melayu</title>
-    <desc lang="en">Rancangan yang memaparkan kehidupan individu berbangsa melayu yang mempunyai karier di serata dunia.</desc>
+    <desc lang="en">Saksikan kisah Juliana Ibrahim yang berasal dari Shah Alam dan sudah 5 tahun menetap di Amstelveen, merupakan suri rumah dan pengasas Kelab Masakan di Amstelveen.</desc>
     <episode-num system="xmltv_ns">0.10.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106020000 +0800" stop="20261106030000 +0800" channel="TV1.rtm">
     <title lang="en">Skuad JPJ 2.0</title>
-    <desc lang="en">Saksikan lakonan Rashdan Baba, Saharul Ridzwan, Fify Azmi, Kodi Rasheed, Sefik Khair, Fiza Thomas.</desc>
+    <desc lang="en">Operasi bersepadu dijalankan bagi membanteras kegiatan perniagaan haram di pasar yang dikaitkan dengan kumpulan warga Rohingya dan kongsi gelap. Tuan Shah mengarahkan pasukannya menjalankan siasatan.</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106030000 +0800" stop="20261106033000 +0800" channel="TV1.rtm">
     <title lang="en">Sekoci</title>
-    <desc lang="en">Program majalah warisan dan budaya yang mengupas tentang baju tradisional dan menemui tukang-tukang mahir tradisional dalam  kemahiran masing-masing. </desc>
+    <desc lang="en">Dalam episod ini Fikry ke Kuantan untuk melihat pembuatan tenun Pahang. Fikry ke Kompleks Pengembangan Tenun Pahang Diraja Sultan Haji Ahmad Shah dan Kampung Budaya Pulau Keladi bertemu Adiguru Kraf Tenun Diraja Pahang iaitu Hajjah Nortipah binti Abdul Kadir</desc>
     <episode-num system="xmltv_ns">0.9.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106033000 +0800" stop="20261106043000 +0800" channel="TV1.rtm">
     <title lang="en">Demi</title>
-    <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.</desc>
+    <desc lang="en">Hisham bimbang kerana Sufi telah mengetahui bahawa dia telah mengugut Suraya melalui email.</desc>
     <episode-num system="xmltv_ns">0.22.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106043000 +0800" stop="20261106050000 +0800" channel="TV1.rtm">
     <title lang="en">Sembang Jarak Jauh</title>
-    <desc lang="en">Mengisahkan tentang gelagat lucu, Tipah dan Ziah yang tinggal di sebuah rumah flat dan gemar berbual dengan suara yang kuat dari jarak jauh sehingga menjadi bualan serta perhatian jiran tetangga. Lakonan : Didie Alias, Amyza Aznan, Didi Astillah, Nafiz Muaz, Zalif Sidek dan ramai lagi.</desc>
+    <desc lang="en">Adi mengajak Fahmi berpindah kerana tidak tahan dengan persekitaran flat yang kotor, termasuk tangga dicemari air kencing dan muntah. Dalam masa sama, Fahmi melamar Nadia.</desc>
     <episode-num system="xmltv_ns">0.10.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106050000 +0800" stop="20261106052500 +0800" channel="TV1.rtm">
     <title lang="en">Warna-Warni Asia</title>
-    <desc lang="en">Sebuah rancangan travelog membawa penonton melihat tempat-tempat menarik dalam Asia yang berwarna-warni.</desc>
+    <desc lang="en">Bersama Nik Michael Imran menjelajah ke Taichung, Taiwan untuk menyaksikan keindahan tempat-tempat menarik di sana seperti Painted Animation Lane, Kampung Pelangi, Taiwan Museum of Suncake dan Zongshe Flower Market.</desc>
     <episode-num system="xmltv_ns">0.9.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
@@ -50789,8 +50922,8 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106053000 +0800" stop="20261106060000 +0800" channel="TV1.rtm">
-    <title lang="en">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</title>
-    <desc lang="en">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah. (Azan Subuh : 05:48)</desc>
+    <title lang="en">Surah Al Mulk</title>
+    <desc lang="en">Bacaan Surah Al Mulk. (Azan Subuh : 05:48)</desc>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106060000 +0800" stop="20261106060200 +0800" channel="TV1.rtm">
@@ -50801,6 +50934,7 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   <programme start="20261106060200 +0800" stop="20261106070000 +0800" channel="TV1.rtm">
     <title lang="en">Dengarlah Dulu...</title>
     <desc lang="en">Dengarlah Dulu... ialah program bual bicara yang mengupas pelbagai isu kehidupan, kekeluargaan dan kemasyarakatan dari perspektif Islam. Dengan pendekatan santai dan penuh hikmah, program ini mengajak penonton memahami sesuatu perkara sebelum membuat penilaian atau keputusan.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106070000 +0800" stop="20261106074400 +0800" channel="TV1.rtm">
@@ -50820,24 +50954,26 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261106100000 +0800" stop="20261106103000 +0800" channel="TV1.rtm">
     <title lang="en">Projek R</title>
-    <desc lang="en">Kisah Mohan seorang pelajar yang lemah dalam mata pelajaran sejarah dan selalu gagal dalam peperiksaan. Cikgu Baharom menasihatinya dan mahu Mohan menulis karangan tentang asal usul keluarganya dan Mohan menyertai Kelab Sejarah, mereka menamakan Kumpulan Rahman sempena huruf pertama nama mereka iaitu Rizal, Ah Mei, Harjit, Mohan, Aina dan Nayon Sapok.</desc>
+    <desc lang="en">Mohon telah melukis bunga raya di atas mural Jalur Gemilang yang dirosakkan Jali. Harjit pula mendapatkan sejarah dan fakta bunga raya yang telah dijadikan bunga kebangsaan negara.</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106103000 +0800" stop="20261106110000 +0800" channel="TV1.rtm">
     <title lang="en">TV1 KIDS: Miniheroes Of The Forest</title>
     <desc lang="en">Program animasi kanak-kanak berbahasa Inggeris ini mengisahkan 4 ekor sahabat iaitu Gaston (Beruang), Jade (Rubah), Gabin (Arnab) dan Juliette (Burung Hantu) yang kesemuanya mempunyai kelebihan luar biasa. Setelah sesi persekolahan tamat, mereka berempat akan mengenakan pakaian adi wira dan memulakan misi pengembaraan di dalam hutan.</desc>
-    <episode-num system="xmltv_ns">0.11.0</episode-num>
+    <episode-num system="xmltv_ns">0.10.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106110000 +0800" stop="20261106113000 +0800" channel="TV1.rtm">
     <title lang="en">Eksplorasi Halal</title>
     <desc lang="en">Program Eksplorasi Halal menyingkap isu, proses dan kepentingan pensijilan halal di Malaysia serta memberi pendedahan kepada masyarakat tentang pematuhan standard halal dalam pelbagai industri.</desc>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106113000 +0800" stop="20261106120000 +0800" channel="TV1.rtm">
-    <title lang="en">Agrotek</title>
+    <title lang="en">Agrotek 2025</title>
     <desc lang="en">Saksikan dokumentari yang memaparkan pelbagai teknologi terkini yang digunakan dalam sektor peladangan mahupun penternakan bagi menyumbang kepada hasil yang lebih baik.</desc>
+    <episode-num system="xmltv_ns">0.22.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106120000 +0800" stop="20261106123000 +0800" channel="TV1.rtm">
@@ -50846,13 +50982,20 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106123000 +0800" stop="20261106125500 +0800" channel="TV1.rtm">
-    <title lang="en">Lisanul Haq</title>
+    <title lang="en">Lisanul Haq 2026</title>
     <desc lang="en">Saksikan Lisanul Haq dakwah dengan gaya jalanan secara santai kepada orang awam.</desc>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
-  <programme start="20261106125500 +0800" stop="20261106143000 +0800" channel="TV1.rtm">
+  <programme start="20261106125500 +0800" stop="20261106140000 +0800" channel="TV1.rtm">
     <title lang="en">SIARAN LANGSUNG: Solat Jumaat</title>
     <desc lang="en">Saksikan Solat Jumaat dan ikuti Khutbah Jumaat. (Masuk Waktu Zohor 13:00)</desc>
+    <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
+  </programme>
+  <programme start="20261106140000 +0800" stop="20261106143000 +0800" channel="TV1.rtm">
+    <title lang="en">Impak Geologi </title>
+    <desc lang="en">Impak Geologi membawakan formasi geologi unik yang terbentuk secara semula jadi dalam negara.</desc>
+    <episode-num system="xmltv_ns">0.11.0</episode-num>
     <icon src="https://rtm-images.glueapi.io/800x0/live_channel/tv1_bckg.png"/>
   </programme>
   <programme start="20261106143000 +0800" stop="20261106150000 +0800" channel="TV1.rtm">
@@ -53592,132 +53735,127 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
     <desc lang="en">A series that explores periods of unrivalled domination in sport. Chapters from sport's greatest careers and iconic dynasties.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG612639_landscape10-d4bc14d1-6599-4df2-82ce-cba37d891a04.jpg"/>
   </programme>
-  <programme start="20261105033000 +0800" stop="20261105053000 +0800" channel="YAS TV Extra">
+  <programme start="20261105033000 +0800" stop="20261105043000 +0800" channel="YAS TV Extra">
     <title lang="en">Scudetto</title>
     <desc lang="en">Stay tuned to all the highlights, the best goals, studio analysis, views of players and coaches.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG184961_landscape10-c452e7b7-2adf-4949-b2e8-cebad0475561.jpg"/>
   </programme>
-  <programme start="20261105053000 +0800" stop="20261105060000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105043000 +0800" stop="20261105083000 +0800" channel="YAS TV Extra">
+    <title lang="en">UCI Track World Cup</title>
+    <desc lang="en">The UCI Track World Championships bring together the world's top cyclists to compete for world titles across thrilling track cycling disciplines.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG328048_landscape10-8ac14a8b-aac4-40bf-961f-53275291396b.jpg"/>
   </programme>
-  <programme start="20261105060000 +0800" stop="20261105070000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105083000 +0800" stop="20261105090000 +0800" channel="YAS TV Extra">
+    <title lang="en">Serie A Highlights</title>
+    <desc lang="en">Stay tuned to all the highlights, the best goals, studio analysis, views of players and coaches.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG98671_landscape10-6e4f7ed7-7c20-45f1-9da6-0d13d750b2df.jpg"/>
   </programme>
-  <programme start="20261105070000 +0800" stop="20261105080000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105090000 +0800" stop="20261105104500 +0800" channel="YAS TV Extra">
+    <title lang="en">Fatima B. Mubarak Academy X Salwa Al Sabah - Shka. Fatima Women GCC Basketball Cup</title>
+    <desc lang="en">Don't miss all the action from the Shikha Fatima Women GCC Basketball Cup.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG607364_landscape10-eba22527-2b2c-44ab-81c9-200e3c7002c9.jpg"/>
   </programme>
-  <programme start="20261105080000 +0800" stop="20261105090000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105104500 +0800" stop="20261105114500 +0800" channel="YAS TV Extra">
+    <title lang="en">Scudetto</title>
+    <desc lang="en">Stay tuned to all the highlights, the best goals, studio analysis, views of players and coaches.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG184961_landscape10-c452e7b7-2adf-4949-b2e8-cebad0475561.jpg"/>
   </programme>
-  <programme start="20261105090000 +0800" stop="20261105100000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105114500 +0800" stop="20261105124500 +0800" channel="YAS TV Extra">
+    <title lang="en">Sport Today</title>
+    <desc lang="en">All the latest sports news and results from around the globe.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG21647_landscape10_MASTER284099.jpg"/>
   </programme>
-  <programme start="20261105100000 +0800" stop="20261105110000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105124500 +0800" stop="20261105143000 +0800" channel="YAS TV Extra">
+    <title lang="en">Al Gharafa X Fatayat Al Oyun - Shka. Fatima Women GCC Basketball Cup</title>
+    <desc lang="en">Don't miss all the action from the Shikha Fatima Women GCC Basketball Cup.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG607364_landscape10-eba22527-2b2c-44ab-81c9-200e3c7002c9.jpg"/>
   </programme>
-  <programme start="20261105110000 +0800" stop="20261105120000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
-  </programme>
-  <programme start="20261105120000 +0800" stop="20261105130000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
-  </programme>
-  <programme start="20261105130000 +0800" stop="20261105140000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
-  </programme>
-  <programme start="20261105140000 +0800" stop="20261105150000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105143000 +0800" stop="20261105150000 +0800" channel="YAS TV Extra">
+    <title lang="en">Eleven in Arabic</title>
+    <desc lang="en">Your guide to the latest season of European football.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG366639_landscape10_MASTER495474.jpg"/>
   </programme>
   <programme start="20261105150000 +0800" stop="20261105160000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+    <title lang="en">The Game 365</title>
+    <desc lang="en">TV broadcaster and former baseball player Fran Healy interviews icons from the world of sports about their time in the sun.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG366646_landscape10_MASTER495476.jpg"/>
   </programme>
-  <programme start="20261105160000 +0800" stop="20261105170000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105160000 +0800" stop="20261105163000 +0800" channel="YAS TV Extra">
+    <title lang="en">Follow The Flow</title>
+    <desc lang="en">Stay tuned to this program, 'Follow The Flow'.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG412674_landscape10_MASTER731601.jpg"/>
   </programme>
-  <programme start="20261105170000 +0800" stop="20261105180000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105163000 +0800" stop="20261105170000 +0800" channel="YAS TV Extra">
+    <title lang="en">Invincible</title>
+    <desc lang="en">A series that explores periods of unrivalled domination in sport. Chapters from sport's greatest careers and iconic dynasties.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG612639_landscape10-d4bc14d1-6599-4df2-82ce-cba37d891a04.jpg"/>
   </programme>
-  <programme start="20261105180000 +0800" stop="20261105190000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105170000 +0800" stop="20261105184500 +0800" channel="YAS TV Extra">
+    <title lang="en">Round 9 - UCI BMX World Championships</title>
+    <desc lang="en">Stay tuned to the latest events from UCI BMX World Championships.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG28882_landscape10_MASTER284672.jpg"/>
   </programme>
-  <programme start="20261105190000 +0800" stop="20261105200000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105184500 +0800" stop="20261105191500 +0800" channel="YAS TV Extra">
+    <title lang="en">Sport Confidential</title>
+    <desc lang="en">Follow this special program that features sports secrets you've never known before.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG240877_landscape10-59c10fa6-b0ad-41b7-9c6d-1bf4a36964cd.jpg"/>
   </programme>
-  <programme start="20261105200000 +0800" stop="20261105210000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105191500 +0800" stop="20261105210000 +0800" channel="YAS TV Extra">
+    <title lang="en">SV Elversberg X SV Darmstadt - German Cup</title>
+    <desc lang="en">Don't miss watching the German Cup.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG629270_landscape10-40d9ca54-4df6-402f-b0b9-d6516530f5b2.jpg"/>
   </programme>
-  <programme start="20261105210000 +0800" stop="20261105220000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105210000 +0800" stop="20261105213000 +0800" channel="YAS TV Extra">
+    <title lang="en">Al-Ain x Al-Nasr - ADNOC Pro League</title>
+    <desc lang="en">Stay tuned to watch the best of football from the Adnoc Pro League.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG493465_landscape10-4f2f91ae-2ed2-4d72-8698-dbbdf283af06.jpg"/>
   </programme>
-  <programme start="20261105220000 +0800" stop="20261105230000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105213000 +0800" stop="20261105220000 +0800" channel="YAS TV Extra">
+    <title lang="en">Invincible</title>
+    <desc lang="en">A series that explores periods of unrivalled domination in sport. Chapters from sport's greatest careers and iconic dynasties.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG612639_landscape10-d4bc14d1-6599-4df2-82ce-cba37d891a04.jpg"/>
   </programme>
-  <programme start="20261105230000 +0800" stop="20261106000000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261105220000 +0800" stop="20261105234500 +0800" channel="YAS TV Extra">
+    <title lang="en">SC Paderborn X VfB Stuttgart - German Cup</title>
+    <desc lang="en">Don't miss watching the German Cup.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG629270_landscape10-40d9ca54-4df6-402f-b0b9-d6516530f5b2.jpg"/>
+  </programme>
+  <programme start="20261105234500 +0800" stop="20261106000000 +0800" channel="YAS TV Extra">
+    <title lang="en">Sharjah X Al Jazira - ADNOC Pro League</title>
+    <desc lang="en">Stay tuned to watch the best of football from the Adnoc Pro League.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG493465_landscape10-4f2f91ae-2ed2-4d72-8698-dbbdf283af06.jpg"/>
   </programme>
   <programme start="20261106000000 +0800" stop="20261106010000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+    <title lang="en">Max Power</title>
+    <desc lang="en">This program features highlights and up-to-the-minute news from international motorsport events.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG202614_landscape10_MASTER293380.jpg"/>
   </programme>
-  <programme start="20261106010000 +0800" stop="20261106020000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261106010000 +0800" stop="20261106013000 +0800" channel="YAS TV Extra">
+    <title lang="en">FIBA World of Basketball</title>
+    <desc lang="en">An international basketball competition contested by the national teams of the members of the International Basketball Federation.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG138117_landscape10_MASTER289258.jpeg"/>
   </programme>
-  <programme start="20261106020000 +0800" stop="20261106030000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261106013000 +0800" stop="20261106023000 +0800" channel="YAS TV Extra">
+    <title lang="en">German Cup Highlights</title>
+    <desc lang="en">Don't miss watching this Highlights of the German Cup.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG629162_landscape10-63313946-ffe6-4a87-8a9f-732775e27df5.jpg"/>
   </programme>
-  <programme start="20261106030000 +0800" stop="20261106040000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261106023000 +0800" stop="20261106030000 +0800" channel="YAS TV Extra">
+    <title lang="en">Motor Sport Mundial</title>
+    <desc lang="en">Follow the latest races from the Motor Sports Mundial.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG265419_landscape10-47812221-6f8a-4487-92a8-5e0f2da2631d.jpg"/>
   </programme>
-  <programme start="20261106040000 +0800" stop="20261106050000 +0800" channel="YAS TV Extra">
-    <title lang="en">Abu Dhabi Sports Asia 1</title>
-    <desc lang="en">Sports coverage from around the globe.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
+  <programme start="20261106030000 +0800" stop="20261106033000 +0800" channel="YAS TV Extra">
+    <title lang="en">Serie A Preview Show Magazine</title>
+    <desc lang="en">Stay tuned to all the highlights, the best goals, studio analysis, views of players and coaches.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG198608_landscape10-55b0588c-cae3-4a65-b9f1-879533b10f00.jpg"/>
   </programme>
-  <programme start="20261106050000 +0800" stop="20261106060000 +0800" channel="YAS TV Extra">
+  <programme start="20261106033000 +0800" stop="20261106053000 +0800" channel="YAS TV Extra">
+    <title lang="en">Goat - The Greatest Of All Time</title>
+    <desc lang="en">Vignettes celebrating the greatest sportsmen and women of all time, paying tribute to Jordan, Phelps, Pele, Federer, Ali, Senna, Ronaldo and many, many more!</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG553295_landscape10-f9705070-fb35-474a-a62b-88a48a335fed.jpg"/>
+  </programme>
+  <programme start="20261106053000 +0800" stop="20261106060000 +0800" channel="YAS TV Extra">
     <title lang="en">Abu Dhabi Sports Asia 1</title>
     <desc lang="en">Sports coverage from around the globe.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG519746_landscape10-6f14e6aa-a693-4c54-8991-7b9457b51fa3.jpg"/>
@@ -55029,7 +55167,7 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105050000 +0800" stop="20261105060000 +0800" channel="Zee Marathi">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E636 : Lakshmi is a brave woman in a traditional family. Her husband, Shriniwas, wants to build his dream house. Lakshmi supports him and faces challenges with strength.</desc>
+    <desc lang="en">S1 , E636 : Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261105060000 +0800" stop="20261105063000 +0800" channel="Zee Marathi">
@@ -55044,7 +55182,7 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
   </programme>
   <programme start="20261105070000 +0800" stop="20261105080000 +0800" channel="Zee Marathi">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E636 : Lakshmi is a brave woman in a traditional family. Her husband, Shriniwas, wants to build his dream house. Lakshmi supports him and faces challenges with strength.</desc>
+    <desc lang="en">S1 , E636 : Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261105080000 +0800" stop="20261105083000 +0800" channel="Zee Marathi">
@@ -57217,44 +57355,54 @@ But they are not the pedigree pooches who compete to be labelled &quot;Best in S
     <desc lang="en">Ramkishan and Mamta lead a happy life with their three sons. But when their daughter faces a tragedy, Mamta gets instigated by her close friends, and she embitters her heart towards her stepson Vivek.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p68519_v_h10_ae.jpg"/>
   </programme>
-  <programme start="20261106010000 +0800" stop="20261106030800 +0800" channel="em Bollywood Unlimited">
+  <programme start="20261106010000 +0800" stop="20261106053600 +0800" channel="em Bollywood Unlimited">
     <title lang="en">Parmanu: The Story of Pokhran</title>
     <desc lang="en">A team of Indian government officials must manoeuvre a high-stakes nuclear test in a town in Rajasthan without being detected by reconnaissance satellites or espionage networks.</desc>
     <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p15546516_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261106030800 +0800" stop="20261106070000 +0800" channel="em Bollywood Unlimited">
-    <title lang="en">Janhit Mein Jaari</title>
-    <desc lang="en">With the will to break taboo as her armour of choice, Mannu embarks to work as a condom salesperson, despite the reservations of her family and society.</desc>
-    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p22144286_v_h10_aa.jpg"/>
+  <programme start="20261106053600 +0800" stop="20261106071000 +0800" channel="em Bollywood Unlimited">
+    <title lang="en">Dark Chocolate</title>
+    <desc lang="en">This thriller murder mystery is an adaptation of the real life murder case of Sheena Bora. The discovery of a charred corpse in the woods, leads to a high-profile murder investigation.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p13207369_v_h11_aa.jpg"/>
   </programme>
-  <programme start="20261106070000 +0800" stop="20261106100000 +0800" channel="em Bollywood Unlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261106071000 +0800" stop="20261106084400 +0800" channel="em Bollywood Unlimited">
+    <title lang="en">Mantra</title>
+    <desc lang="en">An Indian proprietor strives to sustain his enterprise against fierce global rivalry. Furthermore, he endeavours to compensate his family for lost time.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p14471993_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261106100000 +0800" stop="20261106130000 +0800" channel="em Bollywood Unlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261106084400 +0800" stop="20261106104400 +0800" channel="em Bollywood Unlimited">
+    <title lang="en">Veerappan</title>
+    <desc lang="en">Veerappan, a teenager, trains under his uncle to learn to smuggle and becomes a dacoit. When the police attempts to arrest him for his activities, he plans to make an escape.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p14393474_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261106130000 +0800" stop="20261106160000 +0800" channel="em Bollywood Unlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261106104400 +0800" stop="20261106123400 +0800" channel="em Bollywood Unlimited">
+    <title lang="en">Nh10</title>
+    <desc lang="en">While on a road trip, Meera and Arjun witness an honour killing committed by a powerful gangster, Satbir. However, the latter soon starts pursuing the couple to eliminate them.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p11587745_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261106160000 +0800" stop="20261106190000 +0800" channel="em Bollywood Unlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261106123400 +0800" stop="20261106150000 +0800" channel="em Bollywood Unlimited">
+    <title lang="en">Kabali</title>
+    <desc lang="en">When Kabali raises his voice against the oppression faced by Tamil labourers in Malaysia, he is imprisoned for 25 years. After being released, he seeks revenge on the ones who wronged him.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p21280524_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261106190000 +0800" stop="20261106220000 +0800" channel="em Bollywood Unlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261106150000 +0800" stop="20261106173000 +0800" channel="em Bollywood Unlimited">
+    <title lang="en">Sarfira</title>
+    <desc lang="en">A determined young man sets out to fulfil his ambition of starting a low-cost airline. However, he soon finds himself embroiled in a high-stakes game of nefarious rivalry and bureaucracy.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p27714066_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20261106220000 +0800" stop="20261107010000 +0800" channel="em Bollywood Unlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261106173000 +0800" stop="20261106201000 +0800" channel="em Bollywood Unlimited">
+    <title lang="en">Drishyam</title>
+    <desc lang="en">When the disappearance of a policewoman's son threatens to ruin Vijay's family, he leaves no stone unturned in order to shield his family.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p11992916_v_h10_ad.jpg"/>
+  </programme>
+  <programme start="20261106201000 +0800" stop="20261106221600 +0800" channel="em Bollywood Unlimited">
+    <title lang="en">Guzaarish</title>
+    <desc lang="en">Renowned former magician Ethan, now a quadriplegic, files a petition for euthanasia. While he awaits the verdict, Omar, a young magic enthusiast, convinces Ethan to pass on his legacy to him.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p8135993_v_h8_ab.jpg"/>
+  </programme>
+  <programme start="20261106221600 +0800" stop="20261107010000 +0800" channel="em Bollywood Unlimited">
+    <title lang="en">No Entry</title>
+    <desc lang="en">A gorgeous club dancer's ill-timed rendezvous opens up a Pandora's box of lies, absurdities and misunderstandings in the lives of three quirky couples.</desc>
+    <icon src="https://mena-img-cdn-lb.aws.playco.com/assets/p90105_v_h10_aa.jpg"/>
   </programme>
 </tv>
