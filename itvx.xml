@@ -128,14 +128,20 @@
   <programme start="20261111140000 +0800" stop="20261111173000 +0800" channel="ITV.itvx">
     <title lang="en">Good Morning Britain</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S13</episode-num>
+    <category lang="en">News</category>
   </programme>
   <programme start="20261111173000 +0800" stop="20261111180000 +0800" channel="ITV.itvx">
     <title lang="en">Lorraine</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S18</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
   <programme start="20261111180000 +0800" stop="20261111190300 +0800" channel="ITV.itvx">
     <title lang="en">This Morning</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S38</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
   <programme start="20261111190300 +0800" stop="20261111191000 +0800" channel="ITV.itvx">
     <title lang="en">ITV Regional Weather</title>
@@ -144,10 +150,14 @@
   <programme start="20261111191000 +0800" stop="20261111203000 +0800" channel="ITV.itvx">
     <title lang="en">This Morning</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S38</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
   <programme start="20261111203000 +0800" stop="20261111213000 +0800" channel="ITV.itvx">
     <title lang="en">Loose Women</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"/>
+    <episode-num system="onscreen">S30</episode-num>
+    <category lang="en">Documentaries &amp; Lifestyle</category>
   </programme>
   <programme start="20261111213000 +0800" stop="20261111215300 +0800" channel="ITV.itvx">
     <title lang="en">ITV Lunchtime News</title>
@@ -1574,89 +1584,89 @@
     <title lang="en">Teleshopping</title>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"/>
   </programme>
-  <programme start="20261111143100 +0800" stop="20261111160800 +0800" channel="FAST1.itvx">
-    <title lang="en">A Heavenly Christmas</title>
-    <desc lang="en">Kristin Davis, Eric McCormack and Shirley MacLaine star in this magical festive romance. A reluctant Christmas angel gets a shot at love while helping someone else.</desc>
+  <programme start="20261111234700 +0800" stop="20261112011700 +0800" channel="FAST1.itvx">
+    <title lang="en">A Candlelit Christmas</title>
+    <desc lang="en">Heart-warming romance about a woman who visits her father over Christmas to help with his candle business. Little does she know that he has a charming house guest staying.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4L81YGfY8cLXWLYg5zadFF/05473afb02e7b70a49faee1fe4d27adf/09_Logo_ArtLoader__1_.png"/>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20261111160800 +0800" stop="20261111174100 +0800" channel="FAST1.itvx">
-    <title lang="en">My Christmas Prince</title>
-    <desc lang="en">A teacher returns home with her boyfriend, whom she discovers is actually a prince, turning her entire world upside down. Does she love him enough to leap into royal life?</desc>
+  <programme start="20261112011700 +0800" stop="20261112024700 +0800" channel="FAST1.itvx">
+    <title lang="en">Christmas Pen Pals</title>
+    <desc lang="en">When a successful tech whizz dating-app creator returns home for the holidays after a shock dumping, the annual Christmas matchmaking event throws up some surprises.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4L81YGfY8cLXWLYg5zadFF/05473afb02e7b70a49faee1fe4d27adf/09_Logo_ArtLoader__1_.png"/>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20261111141500 +0800" stop="20261111150900 +0800" channel="FAST8.itvx">
-    <title lang="en">Above Suspicion</title>
-    <sub-title lang="en">S4,E3</sub-title>
-    <desc lang="en">A suspicious Langton is still after a confession. Travis follows her instincts independently of the team, but is she heading down a dangerous path?</desc>
+  <programme start="20261111232400 +0800" stop="20261112012500 +0800" channel="FAST8.itvx">
+    <title lang="en">Prime Suspect</title>
+    <sub-title lang="en">S3,E2</sub-title>
+    <desc lang="en">Police drama. DCI Tennison and her team gather more information about rent boys as every officer with rank - including Tennison's former boss - warns her to quit the investigation.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6rtWiU6OtjkfT9Npfc5P0X/93055b91fe2b1cc98d041cdbd8c6421f/ITV_CrimeDrama_Lockup.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
   </programme>
-  <programme start="20261111150900 +0800" stop="20261111160400 +0800" channel="FAST8.itvx">
-    <title lang="en">Manhunt</title>
-    <sub-title lang="en">S1,E1</sub-title>
-    <desc lang="en">When a French student is found dead on Twickenham Green, Detective Chief Inspector Colin Sutton is tasked with leading the investigation into what happened.</desc>
+  <programme start="20261112012500 +0800" stop="20261112032300 +0800" channel="FAST8.itvx">
+    <title lang="en">Prime Suspect</title>
+    <sub-title lang="en">S4,E1 The Lost Child</sub-title>
+    <desc lang="en">Following her promotion, Jane Tennison returns to Southampton Row to head an investigation into the murder of a young child.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6rtWiU6OtjkfT9Npfc5P0X/93055b91fe2b1cc98d041cdbd8c6421f/ITV_CrimeDrama_Lockup.png"/>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261111150100 +0800" stop="20261111154200 +0800" channel="FAST13.itvx">
-    <title lang="en">The Only Way is Essex</title>
-    <sub-title lang="en">S20,E9</sub-title>
-    <desc lang="en">Charlie King tries to settle back into Essex. Rumours begin to circulate about the real reason for Megan and Pete's split. Chloe S finally loses patience with Liam.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png"/>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S20 E9</episode-num>
-    <episode-num system="xmltv_ns">19.8.</episode-num>
-  </programme>
-  <programme start="20261111154200 +0800" stop="20261111162200 +0800" channel="FAST13.itvx">
-    <title lang="en">The Only Way is Essex</title>
-    <sub-title lang="en">S20,E10</sub-title>
-    <desc lang="en">Emotions run high as Gemma attends the fertility clinic. The girls console Megan over her break-up with Pete. Charlie tries to salvage his friendship with Bobby.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png"/>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S20 E10</episode-num>
-    <episode-num system="xmltv_ns">19.9.</episode-num>
-  </programme>
-  <programme start="20261111144600 +0800" stop="20261111151200 +0800" channel="FAST17.itvx">
-    <title lang="en">The Stand Up Sketch Show</title>
-    <sub-title lang="en">S6,E1</sub-title>
-    <desc lang="en">Variety comedy show combining stand-up with sketches - this edition features Seann Walsh, Chris Hall, Jack Skipper, Tadiwa Mahlunge, Lindsey Santoro, Finlay Christie and Dee Allum.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4e4aO1OGl1QI5cx3EE6PCc/dd556e088b8e26c72f08e3b715508093/itv-comedy-logo.png"/>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S6 E1</episode-num>
-    <episode-num system="xmltv_ns">5.0.</episode-num>
-  </programme>
-  <programme start="20261111151200 +0800" stop="20261111153800 +0800" channel="FAST17.itvx">
-    <title lang="en">The Stand Up Sketch Show</title>
-    <sub-title lang="en">S6,E2</sub-title>
-    <desc lang="en">A stand-up and sketch comedy show, this time featuring Rhys James, Helen Bauer, Gbemi Oladipo, Ian Smith, Red Richardson, Aurie Styla, Bobby Mair and Esther Manito.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4e4aO1OGl1QI5cx3EE6PCc/dd556e088b8e26c72f08e3b715508093/itv-comedy-logo.png"/>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S6 E2</episode-num>
-    <episode-num system="xmltv_ns">5.1.</episode-num>
-  </programme>
-  <programme start="20261111143000 +0800" stop="20261111151900 +0800" channel="FAST15.itvx">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">S4,E1 The Walking Dead: 30 Days Without an Accident</sub-title>
-    <desc lang="en">Will Rick and the group be able to hold on to humanity in the face of a new evil?</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3OwBLMGK02eYAulQUXZhb9/f3897536ff65b92677ea50e70f0a8f27/BRAND_AMC_TheWalkingDeadUniverse_IMAGE006_PNG.png"/>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S4 E1</episode-num>
     <episode-num system="xmltv_ns">3.0.</episode-num>
   </programme>
-  <programme start="20261111151900 +0800" stop="20261111160900 +0800" channel="FAST15.itvx">
+  <programme start="20261111232400 +0800" stop="20261112000500 +0800" channel="FAST13.itvx">
+    <title lang="en">The Only Way is Essex</title>
+    <sub-title lang="en">S21,E3</sub-title>
+    <desc lang="en">Reality series. Megan breaks down as more animosity arises from the girlband reunion. Gemma makes a dramatic announcement. There are tears for Amber T when she seeks out Dan.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png"/>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">S21 E3</episode-num>
+    <episode-num system="xmltv_ns">20.2.</episode-num>
+  </programme>
+  <programme start="20261112000500 +0800" stop="20261112004400 +0800" channel="FAST13.itvx">
+    <title lang="en">The Only Way is Essex</title>
+    <sub-title lang="en">S21,E4</sub-title>
+    <desc lang="en">Reality series. Love could be in the air as Lauren and Jon decide to give things a go. Megan takes the opportunity to talk to Chloe M about her row with Georgia and Amber D.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png"/>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">S21 E4</episode-num>
+    <episode-num system="xmltv_ns">20.3.</episode-num>
+  </programme>
+  <programme start="20261111235200 +0800" stop="20261112002100 +0800" channel="FAST17.itvx">
+    <title lang="en">Mr Bean</title>
+    <sub-title lang="en">S1,E4 Mr Bean Goes To Town</sub-title>
+    <desc lang="en">Mr Bean buys a TV and a new camera, but has issues with both. Meanwhile, when he goes to a magic show and disco, he ends up in another pickle.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4e4aO1OGl1QI5cx3EE6PCc/dd556e088b8e26c72f08e3b715508093/itv-comedy-logo.png"/>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20261112002100 +0800" stop="20261112005000 +0800" channel="FAST17.itvx">
+    <title lang="en">Mr Bean</title>
+    <sub-title lang="en">S1,E5 The Trouble with Mr. Bean</sub-title>
+    <desc lang="en">Mr Bean gets to an appointment with the dentist after oversleeping and has trouble in the park with a bothersome fly.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4e4aO1OGl1QI5cx3EE6PCc/dd556e088b8e26c72f08e3b715508093/itv-comedy-logo.png"/>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20261111233500 +0800" stop="20261112002500 +0800" channel="FAST15.itvx">
     <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">S4,E2 The Walking Dead: Infected</sub-title>
-    <desc lang="en">Trouble continues at the prison.</desc>
+    <sub-title lang="en">S4,E12 The Walking Dead: Still</sub-title>
+    <desc lang="en">A simple request by someone in the group leads to a bizarre but enlightening mission.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3OwBLMGK02eYAulQUXZhb9/f3897536ff65b92677ea50e70f0a8f27/BRAND_AMC_TheWalkingDeadUniverse_IMAGE006_PNG.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <episode-num system="xmltv_ns">3.11.</episode-num>
+  </programme>
+  <programme start="20261112002500 +0800" stop="20261112011500 +0800" channel="FAST15.itvx">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">S4,E13 The Walking Dead: Alone</sub-title>
+    <desc lang="en">One group comes to realise that the best protection comes from those around them.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3OwBLMGK02eYAulQUXZhb9/f3897536ff65b92677ea50e70f0a8f27/BRAND_AMC_TheWalkingDeadUniverse_IMAGE006_PNG.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <episode-num system="xmltv_ns">3.12.</episode-num>
   </programme>
   <programme start="20261111140000 +0800" stop="20261112135900 +0800" channel="FAST11.itvx">
     <title lang="en">Yankee Candle Cosy Xmas: Roaring Fire 24/7</title>
@@ -1664,83 +1674,83 @@
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/6LaAa4l5QMa1DxTe9yRi7R/ba57f8a570cf49b3a15d718452b0d74e/yankeecandle-Logo_Tile_1x1.png"/>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261111142100 +0800" stop="20261111155200 +0800" channel="FAST16.itvx">
-    <title lang="en">That's Carry On</title>
-    <desc lang="en">Hilarious feature-length highlights compilation - Kenneth Williams &amp; Barbara Windsor lace up the laughs and unspool classic clips from 20 years' worth of Carry On films.</desc>
+  <programme start="20261111233500 +0800" stop="20261112010900 +0800" channel="FAST16.itvx">
+    <title lang="en">Carry On Up The Jungle</title>
+    <desc lang="en">There’s tent-hopping, bird-spotting fun to be had in this safari-themed comedy set in Africa. Some unlikely explorers delve into the jungle in search of a rare bird.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/Tvv19BUUJB1Dc0Vn1fxgW/1b71c943973e8659424487af75ff6b66/logo-itv-carryon2.png"/>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20261111155200 +0800" stop="20261111172300 +0800" channel="FAST16.itvx">
-    <title lang="en">Carry On England</title>
-    <desc lang="en">Much-loved comedic war drama. Captain Melly is given a mixed-sex troop of amorous squaddies. More interested in making love than war, he’s got his hands full with this lot.</desc>
+  <programme start="20261112010900 +0800" stop="20261112024000 +0800" channel="FAST16.itvx">
+    <title lang="en">Carry On Camping</title>
+    <desc lang="en">Riotous comedy, brimming with camping shenanigans. When two frisky blokes take their girlfriends to a nudist camp, it doesn’t go as planned. Then a gaggle of girls arrive...</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/Tvv19BUUJB1Dc0Vn1fxgW/1b71c943973e8659424487af75ff6b66/logo-itv-carryon2.png"/>
     <category lang="en">Film</category>
   </programme>
-  <programme start="20261111150100 +0800" stop="20261111151300 +0800" channel="FAST6.itvx">
-    <title lang="en">The Rubbish World of Dave Spud</title>
-    <sub-title lang="en">S2,E20 Krustee Sloth</sub-title>
-    <desc lang="en">Anna and Dave are building a toy sloth from the parts given away free with every Bran Cran Krustee cereal box, but the toy grows out of control.</desc>
+  <programme start="20261111235200 +0800" stop="20261112001600 +0800" channel="FAST6.itvx">
+    <title lang="en">Thunderbirds Are Go</title>
+    <sub-title lang="en">S1,E1 Ring of Fire - Part One</sub-title>
+    <desc lang="en">The first part of the first episode of an animated reboot of the classic series. A powerful underwater seaquake makes a perilous day for International Rescue.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7cQcK18rZ9ssKtDsoDP47S/5fe8943093162cab6ff0e4caa063a089/ITVXKids.png"/>
     <category lang="en">Childrens</category>
-    <episode-num system="onscreen">S2 E20</episode-num>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
-  </programme>
-  <programme start="20261111151300 +0800" stop="20261111152500 +0800" channel="FAST6.itvx">
-    <title lang="en">The Rubbish World of Dave Spud</title>
-    <sub-title lang="en">S2,E21 Cheer Grimsby</sub-title>
-    <desc lang="en">Dave and his friends are enlisted as cheerleaders for their school sports team - with the help of Gran, they put on the best performance ever...</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7cQcK18rZ9ssKtDsoDP47S/5fe8943093162cab6ff0e4caa063a089/ITVXKids.png"/>
-    <category lang="en">Childrens</category>
-    <episode-num system="onscreen">S2 E21</episode-num>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
-  </programme>
-  <programme start="20261111140000 +0800" stop="20261111153700 +0800" channel="FAST10.itvx">
-    <title lang="en">Jack and Sarah</title>
-    <desc lang="en">Richard E Grant, Judi Dench and Ian McKellen lead a stellar cast in this funny - and moving - 90s romcom. Jack's life comes crashing down around him after tragedy strikes.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5dxkmYQbMIgzettppEwhjG/f4124bb1546c57d8acdd6f2f5ce5ba52/tbirdslogo-Recovered.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261111153700 +0800" stop="20261111172200 +0800" channel="FAST10.itvx">
-    <title lang="en">That Riviera Touch</title>
-    <desc lang="en">Morecambe and Wise are restored in HD for the first time! Two traffic wardens in need of a holiday set off for France, but find themselves involved in a plot.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5dxkmYQbMIgzettppEwhjG/f4124bb1546c57d8acdd6f2f5ce5ba52/tbirdslogo-Recovered.png"/>
-    <category lang="en">Film</category>
-  </programme>
-  <programme start="20261111143900 +0800" stop="20261111153300 +0800" channel="FAST20.itvx">
-    <title lang="en">Homicide Hunter</title>
-    <sub-title lang="en">S1,E1</sub-title>
-    <desc lang="en">Five people are shot in a cold-blooded robbery. The suspect sets a fire destroying evidence, leaving Kenda a surveillance photo. An exhaustive search ends in a chilling confrontation.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5A5M9GwGzPXWq4pXR9NWOp/6fad6a774fb57da5de34ec677decdff2/1x1_tile.png"/>
-    <category lang="en">Factual</category>
     <episode-num system="onscreen">S1 E1</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20261111153300 +0800" stop="20261111162700 +0800" channel="FAST20.itvx">
-    <title lang="en">Homicide Hunter</title>
-    <sub-title lang="en">S1,E2</sub-title>
-    <desc lang="en">Mother of 3 Dianne Hood is shot to death by a masked gunman on her way home from a Lupus support meeting. Joe Kenda uncovers a sordid web of lust and greed, revealing a killer no one ever expected.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5A5M9GwGzPXWq4pXR9NWOp/6fad6a774fb57da5de34ec677decdff2/1x1_tile.png"/>
-    <category lang="en">Factual</category>
+  <programme start="20261112001600 +0800" stop="20261112004000 +0800" channel="FAST6.itvx">
+    <title lang="en">Thunderbirds Are Go</title>
+    <sub-title lang="en">S1,E2 Ring of Fire - Part Two</sub-title>
+    <desc lang="en">The concluding part of the first episode of an animated reboot of the classic series. The Hood's return reminds the Tracy brothers of their father's demise.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/7cQcK18rZ9ssKtDsoDP47S/5fe8943093162cab6ff0e4caa063a089/ITVXKids.png"/>
+    <category lang="en">Childrens</category>
     <episode-num system="onscreen">S1 E2</episode-num>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20261111145900 +0800" stop="20261111154500 +0800" channel="FAST7.itvx">
-    <title lang="en">Frauds</title>
-    <sub-title lang="en">S1,E5</sub-title>
-    <desc lang="en">Sam enlists an old friend's help but leaves Bert feeling betrayed - with the heist imminent, Bert and Sam struggle to keep their secrets hidden and their partnership intact.</desc>
-    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5QmuRQKMe5KbCjL970chzL/82f09f0d8896509c7410b1c2bd934fb7/itvSigned__1_.png"/>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+  <programme start="20261111224200 +0800" stop="20261112002500 +0800" channel="FAST10.itvx">
+    <title lang="en">Bring It On</title>
+    <desc lang="en">Kirsten Dunst stars in this cult comedy. A champion high school cheerleading squad discovers that its ex-captain has stolen all their best routines. Did they rip off their rivals?</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5dxkmYQbMIgzettppEwhjG/f4124bb1546c57d8acdd6f2f5ce5ba52/tbirdslogo-Recovered.png"/>
+    <category lang="en">Film</category>
   </programme>
-  <programme start="20261111154500 +0800" stop="20261111163200 +0800" channel="FAST7.itvx">
-    <title lang="en">Frauds</title>
-    <sub-title lang="en">S1,E6</sub-title>
-    <desc lang="en">It's the day of the heist, but Sam and Bert must keep it together to pull it off with tensions high, bitter resentment and revenge afoot.</desc>
+  <programme start="20261112002500 +0800" stop="20261112033100 +0800" channel="FAST10.itvx">
+    <title lang="en">Casino</title>
+    <desc lang="en">Robert De Niro and Sharon Stone star in this slick mob thriller. In the world of a Mafia enforcer and a casino exec, greed, deception, money and power rule.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5dxkmYQbMIgzettppEwhjG/f4124bb1546c57d8acdd6f2f5ce5ba52/tbirdslogo-Recovered.png"/>
+    <category lang="en">Film</category>
+  </programme>
+  <programme start="20261111233900 +0800" stop="20261112003300 +0800" channel="FAST20.itvx">
+    <title lang="en">Homicide Hunter</title>
+    <sub-title lang="en">S1,E11</sub-title>
+    <desc lang="en">24yr old Lorraine Laribo is dropped off at a bar by her sister's boyfriend. It's the last time anyone would ever see her alive again. Kenda must use his interrogation skills to find her killer.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5A5M9GwGzPXWq4pXR9NWOp/6fad6a774fb57da5de34ec677decdff2/1x1_tile.png"/>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+  </programme>
+  <programme start="20261112003300 +0800" stop="20261112012700 +0800" channel="FAST20.itvx">
+    <title lang="en">Homicide Hunter</title>
+    <sub-title lang="en">S1,E12</sub-title>
+    <desc lang="en">After church, deacon Robert Walton is beaten to death in a public park. The case heats up when Lt. Kenda and his team revisit an old friend with a secret. Did the religious leader have a dark side?</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5A5M9GwGzPXWq4pXR9NWOp/6fad6a774fb57da5de34ec677decdff2/1x1_tile.png"/>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+  </programme>
+  <programme start="20261111233400 +0800" stop="20261112002000 +0800" channel="FAST7.itvx">
+    <title lang="en">Suspicion</title>
+    <sub-title lang="en">S1,E3 Strangers</sub-title>
+    <desc lang="en">Psychological mystery thriller series. The suspects return home and attempt to patch their lives back together - meanwhile, a surprising connection is revealed.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5QmuRQKMe5KbCjL970chzL/82f09f0d8896509c7410b1c2bd934fb7/itvSigned__1_.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20261112002000 +0800" stop="20261112011000 +0800" channel="FAST7.itvx">
+    <title lang="en">Suspicion</title>
+    <sub-title lang="en">S1,E4 The Devil You Know</sub-title>
+    <desc lang="en">Psychological mystery thriller series. Eddie teams up with Aadesh to clear their names, Natalie helps Vanessa and Scott in their quest, and Katherine faces pressure to tell the truth.</desc>
+    <icon src="https://images.ctfassets.net/bd5zurrrnk1g/5QmuRQKMe5KbCjL970chzL/82f09f0d8896509c7410b1c2bd934fb7/itvSigned__1_.png"/>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
   <programme start="20261111140000 +0800" stop="20261112135900 +0800" channel="FAST22.itvx">
     <title lang="en">Space Live - Powered by Sen</title>
@@ -1751,148 +1761,148 @@
     <episode-num system="onscreen">S1 E1</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20261111144400 +0800" stop="20261111151300 +0800" channel="FAST19.itvx">
-    <title lang="en">Stingray</title>
-    <sub-title lang="en">S1,E27 The Disappearing Ships</sub-title>
-    <desc lang="en">When three disused freighters that are to be blown up by remote control mysteriously vanish, Troy and Phones set off in Stingray to find them.</desc>
+  <programme start="20261112000000 +0800" stop="20261112005700 +0800" channel="FAST19.itvx">
+    <title lang="en">Thunderbirds</title>
+    <sub-title lang="en">S1,E23 Attack of the Alligators</sub-title>
+    <desc lang="en">An experimental drug that makes animals grow four times their normal size is spilled into the Amazon River by a greedy boatman attempting to steal it.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3154HA9RKzU4fBlqNYEus7/e48cd374000ce18d8ceee3bf3baee8eb/tbirdslogo.png"/>
     <category lang="en">Childrens</category>
-    <episode-num system="onscreen">S1 E27</episode-num>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
   </programme>
-  <programme start="20261111151300 +0800" stop="20261111154200 +0800" channel="FAST19.itvx">
+  <programme start="20261112005700 +0800" stop="20261112012700 +0800" channel="FAST19.itvx">
     <title lang="en">Stingray</title>
-    <sub-title lang="en">S1,E7 The Man From the Navy</sub-title>
-    <desc lang="en">When a boastful naval Captain arrives in Marineville to demonstrate a new missile, he and Troy immediately experience a clash of personalities. Meanwhile, Surface Agent X20 sabotages the test missile by loading it with real explosives.</desc>
+    <sub-title lang="en">S1,E31 Trapped in the Depths</sub-title>
+    <desc lang="en">When the insane Professor Cordo kidnaps Atlanta and takes her back to his undersea farm, Troy and Phones give chase in Stingray.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3154HA9RKzU4fBlqNYEus7/e48cd374000ce18d8ceee3bf3baee8eb/tbirdslogo.png"/>
     <category lang="en">Childrens</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
   </programme>
-  <programme start="20261111145900 +0800" stop="20261111155300 +0800" channel="FAST3.itvx">
+  <programme start="20261111231300 +0800" stop="20261112000800 +0800" channel="FAST3.itvx">
     <title lang="en">The Chase</title>
-    <sub-title lang="en">Episode 91</sub-title>
-    <desc lang="en">Bradley Walsh hosts as contestants Stuart from Cornwall, Victoria from Hull, Lottie from London and Steve from Cumbria join forces in the hope that their four brains can beat one, but that one brain does happen to belong to a Chaser.</desc>
+    <sub-title lang="en">Episode 100</sub-title>
+    <desc lang="en">Bradley Walsh hosts as four people who have never met before - Nathan from Hitchin, Olivia originally from Guernsey, Michaela from Lincolnshire and Martyn from London - become a team in the hope of taking home thousands of pounds.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/1qjkPCSIfR1nYPYcLyKef2/dea8a504e77a4771ae0d07c7cfb8c351/TheChase.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S16 E91</episode-num>
-    <episode-num system="xmltv_ns">15.90.</episode-num>
+    <episode-num system="onscreen">S16 E100</episode-num>
+    <episode-num system="xmltv_ns">15.99.</episode-num>
   </programme>
-  <programme start="20261111155300 +0800" stop="20261111164800 +0800" channel="FAST3.itvx">
+  <programme start="20261112000800 +0800" stop="20261112010300 +0800" channel="FAST3.itvx">
     <title lang="en">The Chase</title>
-    <sub-title lang="en">Episode 92</sub-title>
-    <desc lang="en">Bradley Walsh hosts as Chris from Kent, Ros from Leominster, Angela from Warrington and Giovanni originally from Venice join forces in the hope that they have the knowledge to beat one of the country's finest quizzers by working together as a team.</desc>
+    <sub-title lang="en">Episode 101</sub-title>
+    <desc lang="en">Bradley Walsh hosts as four strangers - Billy from Doncaster, Judie from London, Lydia from Warrington and Ray from Gravesend - come together in the hope that they can take on a Chaser as a team and leave with thousands of pounds.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/1qjkPCSIfR1nYPYcLyKef2/dea8a504e77a4771ae0d07c7cfb8c351/TheChase.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S16 E92</episode-num>
-    <episode-num system="xmltv_ns">15.91.</episode-num>
+    <episode-num system="onscreen">S16 E101</episode-num>
+    <episode-num system="xmltv_ns">15.100.</episode-num>
   </programme>
-  <programme start="20261111141800 +0800" stop="20261111151500 +0800" channel="FAST5.itvx">
-    <title lang="en">Dogs with Extraordinary Jobs</title>
+  <programme start="20261111233800 +0800" stop="20261112003900 +0800" channel="FAST5.itvx">
+    <title lang="en">My Best Friend is an Animal</title>
     <sub-title lang="en">S1,E3</sub-title>
-    <desc lang="en">Meet a golden retriever that assuages anxiety and helps heal PTSD, a shepherd mix who rescues mudslide survivors, a pair of spaniels who sniff out underground water leaks, and a group of teacher’s pets in the UK that assist children learning to read.</desc>
+    <desc lang="en">Explore Tasmanian devils’ softer side, meet a pioneering sea turtle, and enjoy family dinner with Buttons the deer. Play football with 800-kilogram Spud the bull and learn how Digger the owl soothed conservationist Nigel during his cancer treatment.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4xICGB849oEi7Nop3SWlgr/94c367d324b5428549977cc799c353ea/ITV_NatureTime_Lockup2__1_.png"/>
     <category lang="en">Wildlife</category>
     <episode-num system="onscreen">S1 E3</episode-num>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20261111151500 +0800" stop="20261111161100 +0800" channel="FAST5.itvx">
-    <title lang="en">Dogs with Extraordinary Jobs</title>
+  <programme start="20261112003900 +0800" stop="20261112014000 +0800" channel="FAST5.itvx">
+    <title lang="en">My Best Friend is an Animal</title>
     <sub-title lang="en">S1,E4</sub-title>
-    <desc lang="en">A blind woman has found a new lease on life thanks to her canine running mate, a Jack Russell works as a super-nanny to a surprising array of species, and a team of dogs in Kenya are on daily patrol protecting endangered rhinos from poachers.</desc>
+    <desc lang="en">Flap around with Banksi the fruit bat and his human surrogate mom, eye a mischievous emu, and celebrate a pig’s rescue-versary. Tour manatee heaven and learn to speak baboon with Dingani, who has a one-of-a-kind kinship with his primate pal Lucy.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/4xICGB849oEi7Nop3SWlgr/94c367d324b5428549977cc799c353ea/ITV_NatureTime_Lockup2__1_.png"/>
     <category lang="en">Wildlife</category>
     <episode-num system="onscreen">S1 E4</episode-num>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20261111150700 +0800" stop="20261111153500 +0800" channel="FAST14.itvx">
+  <programme start="20261111235200 +0800" stop="20261112002100 +0800" channel="FAST14.itvx">
     <title lang="en">Classic Coronation Street</title>
-    <sub-title lang="en">Hilda Leaves</sub-title>
-    <desc lang="en">It's Christmas Day and the residents throw a surprise farewell party for Hilda Ogden.</desc>
+    <sub-title lang="en">28/02/96 - Jim Loses Control</sub-title>
+    <desc lang="en">The McDonalds' marriage is blown apart by the revelation of a long-held secret.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/1bela7cOFKhS1g04hqgkb1/f60bf4338ead7abc2f06c9706285e27f/1x1_logo.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S28 E103</episode-num>
-    <episode-num system="xmltv_ns">27.102.</episode-num>
+    <episode-num system="onscreen">S37 E26</episode-num>
+    <episode-num system="xmltv_ns">36.25.</episode-num>
   </programme>
-  <programme start="20261111153500 +0800" stop="20261111160500 +0800" channel="FAST14.itvx">
+  <programme start="20261112002100 +0800" stop="20261112005000 +0800" channel="FAST14.itvx">
     <title lang="en">Classic Coronation Street</title>
-    <sub-title lang="en">14/12/88 - Alan Bradley's Identity Crisis</sub-title>
-    <desc lang="en">Alan Bradley sets in motion his plot to raise cash using Rita's home.</desc>
+    <sub-title lang="en">06/07/97 - The Battersby Invasion</sub-title>
+    <desc lang="en">New neighbours from hell, the Battersby family, create an unfavourable first impression on the residents.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/1bela7cOFKhS1g04hqgkb1/f60bf4338ead7abc2f06c9706285e27f/1x1_logo.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S29 E99</episode-num>
-    <episode-num system="xmltv_ns">28.98.</episode-num>
+    <episode-num system="onscreen">S38 E107</episode-num>
+    <episode-num system="xmltv_ns">37.106.</episode-num>
   </programme>
-  <programme start="20261111143700 +0800" stop="20261111153200 +0800" channel="FAST4.itvx">
-    <title lang="en">Lingo</title>
-    <sub-title lang="en">S1,E25</sub-title>
-    <desc lang="en">Playing against each other are ballroom dancing couple Guy and Joanne, fashionistas Daniel and Fiona, and married couple Anna and Jane.</desc>
+  <programme start="20261111234600 +0800" stop="20261112001300 +0800" channel="FAST4.itvx">
+    <title lang="en">In for a Penny</title>
+    <sub-title lang="en">S4,E7 Great Yarmouth</sub-title>
+    <desc lang="en">Stephen Mulhern is travelling the country with his unique brand of games, challenging unsuspecting members of the public. This time, Stephen is in Great Yarmouth.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/keA8ygf8d4v92gpRfHmzu/1c7835b0622ebe65e787670d872b2d39/logo-itv-satnight.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
   </programme>
-  <programme start="20261111153200 +0800" stop="20261111162700 +0800" channel="FAST4.itvx">
-    <title lang="en">Celebrity Catchphrase</title>
-    <sub-title lang="en">S7,E9</sub-title>
-    <desc lang="en">Stephen Mulhern hosts a celebrity special of the classic game show with Tony Audenshaw, Tamzin Outhwaite and Phil Tufnell all trying to 'say what they see'.</desc>
+  <programme start="20261112001300 +0800" stop="20261112004100 +0800" channel="FAST4.itvx">
+    <title lang="en">In for a Penny</title>
+    <sub-title lang="en">S4,E8 Unseen Bits</sub-title>
+    <desc lang="en">Stephen Mulhern is travelling the country with his unique brand of games, challenging unsuspecting members of the public. This time, Stephen is in Essex.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/keA8ygf8d4v92gpRfHmzu/1c7835b0622ebe65e787670d872b2d39/logo-itv-satnight.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S7 E9</episode-num>
-    <episode-num system="xmltv_ns">6.8.</episode-num>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
   </programme>
-  <programme start="20261111144500 +0800" stop="20261111160500 +0800" channel="FAST9.itvx">
+  <programme start="20261111235600 +0800" stop="20261112005500 +0800" channel="FAST9.itvx">
     <title lang="en">Love Island</title>
-    <sub-title lang="en">S8,E1</sub-title>
-    <desc lang="en">There's a new villa awaiting the new sexy singles in the return of Love Island, hosted by Laura Whitmore. The big question is... are they here for love or money?</desc>
+    <sub-title lang="en">S8,E11</sub-title>
+    <desc lang="en">It's been another jam-packed day in paradise for the Islanders as they learn quickly that the path to finding true love isn't a smooth one.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3itg2dJFj2WLT35tUhfA1K/72d79a4c9ccfdf6ef626c8b5d5ff0a0e/LoveIsland.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S8 E1</episode-num>
-    <episode-num system="xmltv_ns">7.0.</episode-num>
+    <episode-num system="onscreen">S8 E11</episode-num>
+    <episode-num system="xmltv_ns">7.10.</episode-num>
   </programme>
-  <programme start="20261111160500 +0800" stop="20261111170200 +0800" channel="FAST9.itvx">
+  <programme start="20261112005500 +0800" stop="20261112015200 +0800" channel="FAST9.itvx">
     <title lang="en">Love Island</title>
-    <sub-title lang="en">S8,E2</sub-title>
-    <desc lang="en">Davide's big decision looms, Tasha is left torn between Andrew and Luca, and the Islanders' secrets are revealed in today's challenge Anything to Declare.</desc>
+    <sub-title lang="en">S8,E12</sub-title>
+    <desc lang="en">Reality show. Glamorous singles live in a beautiful villa under the watchful gaze of an audience at home who have the power to decide who goes and who will win a huge cash prize.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/3itg2dJFj2WLT35tUhfA1K/72d79a4c9ccfdf6ef626c8b5d5ff0a0e/LoveIsland.png"/>
     <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S8 E2</episode-num>
-    <episode-num system="xmltv_ns">7.1.</episode-num>
+    <episode-num system="onscreen">S8 E12</episode-num>
+    <episode-num system="xmltv_ns">7.11.</episode-num>
   </programme>
-  <programme start="20261111140000 +0800" stop="20261111151900 +0800" channel="FAST12.itvx">
+  <programme start="20261111222100 +0800" stop="20261112000600 +0800" channel="FAST12.itvx">
     <title lang="en">Midsomer Murders</title>
-    <sub-title lang="en">S15,E5 The Sicilian Defence</sub-title>
-    <desc lang="en">Could the attack which left Harriet Farmer for dead a year ago be linked to moves on a chess board? And where is her boyfriend Finn?</desc>
+    <sub-title lang="en">S16,E4 The Flying Club</sub-title>
+    <desc lang="en">June Whitfield guest stars. When a body drops out of a plane and is discovered in a reservoir, Barnaby and Nelson find that the world of stunt pilots hides many dark secrets.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2Je2uvxSQQMnM7alo6956p/c171dc2158472333b566d3e16c383482/MidsomerMurders.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S15 E5</episode-num>
-    <episode-num system="xmltv_ns">14.4.</episode-num>
+    <episode-num system="onscreen">S16 E4</episode-num>
+    <episode-num system="xmltv_ns">15.3.</episode-num>
   </programme>
-  <programme start="20261111151900 +0800" stop="20261111170500 +0800" channel="FAST12.itvx">
+  <programme start="20261112000600 +0800" stop="20261112015100 +0800" channel="FAST12.itvx">
     <title lang="en">Midsomer Murders</title>
-    <sub-title lang="en">S15,E6 Schooled in Murder</sub-title>
-    <desc lang="en">Martine McCutcheon guest stars. When a woman is crushed to death by a giant round of cheese at the home of the world-famous Midsomer Blue, Barnaby and Jones are soon on the case.</desc>
+    <sub-title lang="en">S16,E5 The Killings of Copenhagen</sub-title>
+    <desc lang="en">Barnaby and Nelson travel to Copenhagen to join forces with local police, after the body of a Midsomer resident is found in the Danish city. 100th episode of the detective series.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/2Je2uvxSQQMnM7alo6956p/c171dc2158472333b566d3e16c383482/MidsomerMurders.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S15 E6</episode-num>
-    <episode-num system="xmltv_ns">14.5.</episode-num>
+    <episode-num system="onscreen">S16 E5</episode-num>
+    <episode-num system="xmltv_ns">15.4.</episode-num>
   </programme>
-  <programme start="20261111140800 +0800" stop="20261111155300 +0800" channel="FAST2.itvx">
+  <programme start="20261111225500 +0800" stop="20261112004000 +0800" channel="FAST2.itvx">
     <title lang="en">Vera</title>
-    <sub-title lang="en">S4,E4 Death of a Family Man</sub-title>
-    <desc lang="en">DCI Vera Stanhope investigates the mysterious death of a businessman found floating in the water under the Gateshead Millennium Bridge.</desc>
+    <sub-title lang="en">S6,E1 Dark Road</sub-title>
+    <desc lang="en">DCI Vera Stanhope investigates the death of Anne-Marie Richards, whose body is discovered by a young girl on the wild and desolate Northumberland moors.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
   </programme>
-  <programme start="20261111155300 +0800" stop="20261111173800 +0800" channel="FAST2.itvx">
+  <programme start="20261112004000 +0800" stop="20261112022600 +0800" channel="FAST2.itvx">
     <title lang="en">Vera</title>
-    <sub-title lang="en">S5,E1 Changing Tides</sub-title>
-    <desc lang="en">DCI Vera Stanhope investigates the death of a young woman in a suspicious fire that rips through a coastal holiday park.</desc>
+    <sub-title lang="en">S6,E2 Tuesday's Child</sub-title>
+    <desc lang="en">DCI Vera Stanhope investigates the mysterious death of a young man whose remains were discovered in remote caves notorious for illicit teenage gatherings.</desc>
     <icon src="https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png"/>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">S5 E1</episode-num>
-    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <episode-num system="xmltv_ns">5.1.</episode-num>
   </programme>
 </tv>
