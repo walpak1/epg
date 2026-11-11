@@ -6493,20 +6493,25 @@
     <desc lang="de">Tennis: WTA Finals M. Kostyuk (UKR) - J. Pegula (USA), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 1 - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/b4b5c2d5-e9df-3554-ae90-607c29ae08d1/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=1b4ce38d-0fed-3ba9-95fe-2a62d6e41d53" />
   </programme>
-  <programme start="20261111060000 +0800" stop="20261111080000 +0800" channel="SkySportTopEvent.de">
+  <programme start="20261111060000 +0800" stop="20261111074000 +0800" channel="SkySportTopEvent.de">
     <title lang="de">Live WTA Finals: C. Gauff (USA) - L. Noskova (CZE), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 2</title>
     <desc lang="de">Tennis: WTA Finals C. Gauff (USA) - L. Noskova (CZE), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 2 - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9c250740-3392-3002-9fdf-0e5ef95622fa/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=79b9248b-435c-3c55-9468-df09a27cb54c" />
   </programme>
-  <programme start="20261111080000 +0800" stop="20261111090000 +0800" channel="SkySportTopEvent.de">
+  <programme start="20261111074000 +0800" stop="20261111090000 +0800" channel="SkySportTopEvent.de">
     <title lang="de">Live WTA Finals: K. Siniakova (CZE) / T. Townsend (USA) - E. Perez (AUS) / D. Schuurs (NED), FAGE WTA Finals in Indian Wells (USA), 3. Tag</title>
-    <desc lang="de">Tennis: WTA Finals K. Siniakova (CZE) / T. Townsend (USA) - E. Perez (AUS) / D. Schuurs (NED), FAGE WTA Finals in Indian Wells (USA), 3. Tag</desc>
+    <desc lang="de">Tennis: WTA Finals K. Siniakova (CZE) / T. Townsend (USA) - E. Perez (AUS) / D. Schuurs (NED), FAGE WTA Finals in Indian Wells (USA), 3. Tag - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennis-Doppel der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/7d0bd84d-2cf7-3517-86d3-9d593629f677/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=d527dcbd-0a5b-319f-a7b4-21349112a888" />
   </programme>
-  <programme start="20261111090000 +0800" stop="20261111120000 +0800" channel="SkySportTopEvent.de">
+  <programme start="20261111090000 +0800" stop="20261111113000 +0800" channel="SkySportTopEvent.de">
     <title lang="de">Live NBA: Boston Celtics @ Philadelphia 76ers</title>
     <desc lang="de">Basketball: NBA Boston Celtics @ Philadelphia 76ers - Spektakuläre Drei-Punkte-Würfe, Rebounds und Dunks: In der NBA zeigen Stars wie Stephen Curry, Nikola Jokic oder Dennis Schröder ihr Können. Wer führt sein Team zum großen Erfolg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/7166f8e6-99ce-3756-9555-5f146d195b70/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=6ec8130b-7fa1-3994-a9d3-d21dbfbe2533" />
+  </programme>
+  <programme start="20261111113000 +0800" stop="20261111120000 +0800" channel="SkySportTopEvent.de">
+    <title lang="de">NBA: Action</title>
+    <desc lang="de">Basketball: NBA Action - Die NBA ist die beste Basketball-Liga der Welt: Spektakuläre Dunks, präzise Three Pointers und clevere Rebounds - "NBA Action" zeigt die besten Szenen vom Court.</desc>
+    <icon src="https://pixel.disco.wowtv.de/uuid/10328772-f07e-37b7-b08b-703e916ecef8/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=5a749d4a-c40d-33d8-88ae-4955aebfa8ee" />
   </programme>
   <programme start="20261111120000 +0800" stop="20261111150000 +0800" channel="SkySportTopEvent.de">
     <title lang="de">Live NBA: Oklahoma City Thunder @ Portland Trail Blazers</title>
@@ -7518,10 +7523,15 @@
     <desc lang="de">Eishockey: NHL Minnesota Wild @ Montreal Canadiens - Leon Draisaitl, Nathan MacKinnon, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die packenden Matches aus der stärksten Eishockey-Liga der Welt live.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/e72d1bdb-54d4-3b7b-8e49-abd238223c2a/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=e53637db-b6a5-35c1-8575-1e8179824bcb" />
   </programme>
-  <programme start="20261111110000 +0800" stop="20261111120000 +0800" channel="SkySportMix.de">
+  <programme start="20261111110000 +0800" stop="20261111113000 +0800" channel="SkySportMix.de">
     <title lang="de">Live NBA: Boston Celtics @ Philadelphia 76ers</title>
     <desc lang="de">Basketball: NBA Boston Celtics @ Philadelphia 76ers - Spektakuläre Drei-Punkte-Würfe, Rebounds und Dunks: In der NBA zeigen Stars wie Stephen Curry, Nikola Jokic oder Dennis Schröder ihr Können. Wer führt sein Team zum großen Erfolg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/7166f8e6-99ce-3756-9555-5f146d195b70/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=6ec8130b-7fa1-3994-a9d3-d21dbfbe2533" />
+  </programme>
+  <programme start="20261111113000 +0800" stop="20261111120000 +0800" channel="SkySportMix.de">
+    <title lang="de">NBA: Action</title>
+    <desc lang="de">Basketball: NBA Action - Die NBA ist die beste Basketball-Liga der Welt: Spektakuläre Dunks, präzise Three Pointers und clevere Rebounds - "NBA Action" zeigt die besten Szenen vom Court.</desc>
+    <icon src="https://pixel.disco.wowtv.de/uuid/10328772-f07e-37b7-b08b-703e916ecef8/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=5a749d4a-c40d-33d8-88ae-4955aebfa8ee" />
   </programme>
   <programme start="20261111120000 +0800" stop="20261111150000 +0800" channel="SkySportMix.de">
     <title lang="de">Live NBA: Oklahoma City Thunder @ Portland Trail Blazers</title>
@@ -7553,10 +7563,15 @@
     <desc lang="de">Fußball: Frauen-Bundesliga Alle Spiele, alle Tore, 9. Spieltag komplett - Nachspielzeit: Sky zeigt die Highlights vom Spieltag der Frauen-Bundesliga.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/b0d19102-f352-3725-a056-2b679438b946/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=75c1a97c-42e6-3509-bd74-3aa7c2422d36" />
   </programme>
-  <programme start="20261111183000 +0800" stop="20261111210000 +0800" channel="SkySportMix.de">
+  <programme start="20261111183000 +0800" stop="20261111203000 +0800" channel="SkySportMix.de">
     <title lang="de">NBA: Boston Celtics @ Philadelphia 76ers</title>
     <desc lang="de">Basketball: NBA Boston Celtics @ Philadelphia 76ers - Spektakuläre Drei-Punkte-Würfe, Rebounds und Dunks: In der NBA zeigen Stars wie Stephen Curry, Nikola Jokic oder Dennis Schröder ihr Können. Wer führt sein Team zum großen Erfolg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/7166f8e6-99ce-3756-9555-5f146d195b70/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=6ec8130b-7fa1-3994-a9d3-d21dbfbe2533" />
+  </programme>
+  <programme start="20261111203000 +0800" stop="20261111210000 +0800" channel="SkySportMix.de">
+    <title lang="de">NBA: On Fire</title>
+    <desc lang="de">Basketball: NBA On Fire - Heiße Szenen aus der besten Basketball-Liga der Welt: "NBA On Fire" liefert die besten Aktionen der NBA-Stars auf dem Court.</desc>
+    <icon src="https://pixel.disco.wowtv.de/uuid/ba65d538-6679-35ff-b3b0-86701824d609/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=8fa701c6-9b04-34ea-9595-b34ed4ebf078" />
   </programme>
   <programme start="20261111210000 +0800" stop="20261111213000 +0800" channel="SkySportMix.de">
     <title lang="de">NHL: On the Fly</title>
@@ -7748,42 +7763,47 @@
     <desc lang="de">[S2026E59] NFL Fantasy Live - Welcher NFL-Star sorgt in der Saison für Furore? "NFL Fantasy Live" analysiert die Statistiken und schlägt Spieler vor, auf die man beim Fantasy-Football setzen sollte.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/a9e516c5-9d7e-3656-905c-c3e1a1ce6450/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=abe649cb-1ba2-36a5-8449-4da8aaad5071" />
   </programme>
-  <programme start="20261111133000 +0800" stop="20261111141500 +0800" channel="SkySportNFL.de">
+  <programme start="20261111133000 +0800" stop="20261111134500 +0800" channel="SkySportNFL.de">
+    <title lang="de">NFL: Aktuell</title>
+    <desc lang="de">NFL Aktuell - Sport-Spektakel aus den USA: "NFL Aktuell" zeigt Highlights der letzten NFL-Week. Alessa-Luisa Naujoks und Marcel Klein blicken auf aktuelle Themen und die kommende Game-Week.</desc>
+    <icon src="https://pixel.disco.wowtv.de/uuid/abea2db8-502e-3747-9256-2e9b7c41c819/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=407345aa-6aac-3eac-bfdf-40cd42932a76" />
+  </programme>
+  <programme start="20261111134500 +0800" stop="20261111143000 +0800" channel="SkySportNFL.de">
     <title lang="de">NFL: Sportscenter Special</title>
     <desc lang="de">NFL Sportscenter Special - Der Countdown läuft: Die NFL Trade Deadline rückt immer näher. Welche Teams schlagen noch zu und wer wechselt kurz vor Transferschluss? Alle Entwicklungen live bei Sky!</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/97cb9104-4281-3742-97c1-9b7e9dce34d4/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=bf86ebdd-180c-32a5-8a33-0e662c623860" />
   </programme>
-  <programme start="20261111141500 +0800" stop="20261111150000 +0800" channel="SkySportNFL.de">
+  <programme start="20261111143000 +0800" stop="20261111151500 +0800" channel="SkySportNFL.de">
     <title lang="de">NFL: NFL Live</title>
     <desc lang="de">NFL NFL Live - Deadline-Check: Jordan Davies, Jeffrey Simmons und Quenton Nelson - Welche Deals sind fix und wie gut sind die Teams für den Saisonendspurt aufgestellt? Die Analyse bei NFL Live!</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/cebfa816-47be-3ca1-83ee-4dadade8e762/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=2a101733-7763-38be-a5d9-ca477081d6ca" />
   </programme>
-  <programme start="20261111150000 +0800" stop="20261111173000 +0800" channel="SkySportNFL.de">
+  <programme start="20261111151500 +0800" stop="20261111173500 +0800" channel="SkySportNFL.de">
     <title lang="de">NFL: New York Giants @ Philadelphia Eagles, Week 9</title>
     <desc lang="de">NFL New York Giants @ Philadelphia Eagles, Week 9 - Harte Tackles und spektakuläre Touchdowns: In der NFL sorgen Football-Stars wie Patrick Mahomes, Lamar Jackson und viele mehr für Furore. Welches Team krönt sich am Ende zum Champ?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/53711a97-2a25-375d-918c-ea2276018ef8/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=6ef9c114-5efa-318e-92d7-8bc9e6871c1a" />
   </programme>
-  <programme start="20261111173000 +0800" stop="20261111181500 +0800" channel="SkySportNFL.de">
+  <programme start="20261111173500 +0800" stop="20261111182000 +0800" channel="SkySportNFL.de">
     <title lang="de">NFL: Sportscenter Special</title>
     <desc lang="de">NFL Sportscenter Special - Der Countdown läuft: Die NFL Trade Deadline rückt immer näher. Welche Teams schlagen noch zu und wer wechselt kurz vor Transferschluss? Alle Entwicklungen live bei Sky!</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/97cb9104-4281-3742-97c1-9b7e9dce34d4/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=bf86ebdd-180c-32a5-8a33-0e662c623860" />
   </programme>
-  <programme start="20261111181500 +0800" stop="20261111190000 +0800" channel="SkySportNFL.de">
+  <programme start="20261111182000 +0800" stop="20261111190500 +0800" channel="SkySportNFL.de">
     <title lang="de">NFL: NFL Live</title>
     <desc lang="de">NFL NFL Live - Deadline-Check: Jordan Davies, Jeffrey Simmons und Quenton Nelson - Welche Deals sind fix und wie gut sind die Teams für den Saisonendspurt aufgestellt? Die Analyse bei NFL Live!</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/cebfa816-47be-3ca1-83ee-4dadade8e762/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=2a101733-7763-38be-a5d9-ca477081d6ca" />
   </programme>
-  <programme start="20261111190000 +0800" stop="20261111194500 +0800" channel="SkySportNFL.de">
+  <programme start="20261111190500 +0800" stop="20261111195000 +0800" channel="SkySportNFL.de">
     <title lang="de">NFL: Fantasy Live</title>
     <desc lang="de">[S2026E59] NFL Fantasy Live - Welcher NFL-Star sorgt in der Saison für Furore? "NFL Fantasy Live" analysiert die Statistiken und schlägt Spieler vor, auf die man beim Fantasy-Football setzen sollte.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/a9e516c5-9d7e-3656-905c-c3e1a1ce6450/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=abe649cb-1ba2-36a5-8449-4da8aaad5071" />
   </programme>
-  <programme start="20261111194500 +0800" stop="20261111221500 +0800" channel="SkySportNFL.de">
+  <programme start="20261111195000 +0800" stop="20261111222000 +0800" channel="SkySportNFL.de">
     <title lang="de">NFL: Detroit Lions @ Miami Dolphins, Week 9</title>
     <desc lang="de">NFL Detroit Lions @ Miami Dolphins, Week 9 - Harte Tackles und spektakuläre Touchdowns: In der NFL sorgen Football-Stars wie Patrick Mahomes, Lamar Jackson und viele mehr für Furore. Welches Team krönt sich am Ende zum Champ?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/486d343a-5a32-3fc2-9ecf-2e160821c669/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=b00f2666-1d53-3316-977d-813b9fdd814a" />
   </programme>
-  <programme start="20261111221500 +0800" stop="20261111230500 +0800" channel="SkySportNFL.de">
+  <programme start="20261111222000 +0800" stop="20261111230500 +0800" channel="SkySportNFL.de">
     <title lang="de">NFL: Greatest Games: Super Bowl LVIII (2024), San Francisco 49ers @ Kansas City Chiefs</title>
     <desc lang="de">NFL Greatest Games: Super Bowl LVIII (2024), San Francisco 49ers @ Kansas City Chiefs - Die Chiefs schreiben Geschichte: Patrick Mahomes führt Kansas City nach Verlängerung zum zweiten Super-Bowl-Triumph in Serie.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/2cbd0a8f-caeb-3749-9a00-e69017ece5b1/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=b61ea7e2-6df8-30be-ad7d-f3082a49b2fc" />
@@ -7913,19 +7933,19 @@
     <desc lang="de">Tennis: WTA Finals M. Kostyuk (UKR) - J. Pegula (USA), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 1 - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/b4b5c2d5-e9df-3554-ae90-607c29ae08d1/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=1b4ce38d-0fed-3ba9-95fe-2a62d6e41d53" />
   </programme>
-  <programme start="20261111060000 +0800" stop="20261111080000 +0800" channel="SkySportTennis.de">
+  <programme start="20261111060000 +0800" stop="20261111074000 +0800" channel="SkySportTennis.de">
     <title lang="de">Live WTA Finals: C. Gauff (USA) - L. Noskova (CZE), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 2</title>
     <desc lang="de">Tennis: WTA Finals C. Gauff (USA) - L. Noskova (CZE), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 2 - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9c250740-3392-3002-9fdf-0e5ef95622fa/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=79b9248b-435c-3c55-9468-df09a27cb54c" />
   </programme>
-  <programme start="20261111080000 +0800" stop="20261111100000 +0800" channel="SkySportTennis.de">
+  <programme start="20261111074000 +0800" stop="20261111100000 +0800" channel="SkySportTennis.de">
     <title lang="de">Live WTA Finals: K. Siniakova (CZE) / T. Townsend (USA) - E. Perez (AUS) / D. Schuurs (NED), FAGE WTA Finals in Indian Wells (USA), 3. Tag</title>
-    <desc lang="de">Tennis: WTA Finals K. Siniakova (CZE) / T. Townsend (USA) - E. Perez (AUS) / D. Schuurs (NED), FAGE WTA Finals in Indian Wells (USA), 3. Tag</desc>
+    <desc lang="de">Tennis: WTA Finals K. Siniakova (CZE) / T. Townsend (USA) - E. Perez (AUS) / D. Schuurs (NED), FAGE WTA Finals in Indian Wells (USA), 3. Tag - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennis-Doppel der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/7d0bd84d-2cf7-3517-86d3-9d593629f677/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=d527dcbd-0a5b-319f-a7b4-21349112a888" />
   </programme>
   <programme start="20261111100000 +0800" stop="20261111120000 +0800" channel="SkySportTennis.de">
     <title lang="de">Live WTA Finals: C. Bucsa (ESP) / N. Melichar-Martinez (USA) - S. Errani (ITA) / J. Paolini (ITA), FAGE WTA Finals in Indian Wells (USA), 3. Tag</title>
-    <desc lang="de">Tennis: WTA Finals C. Bucsa (ESP) / N. Melichar-Martinez (USA) - S. Errani (ITA) / J. Paolini (ITA), FAGE WTA Finals in Indian Wells (USA), 3. Tag</desc>
+    <desc lang="de">Tennis: WTA Finals C. Bucsa (ESP) / N. Melichar-Martinez (USA) - S. Errani (ITA) / J. Paolini (ITA), FAGE WTA Finals in Indian Wells (USA), 3. Tag - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennis-Doppel der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/cd7c5405-ea78-364d-953e-b3430b5cf802/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=8b2aa7b5-acff-3f2e-b1e8-8d16276fc722" />
   </programme>
   <programme start="20261111120000 +0800" stop="20261111140000 +0800" channel="SkySportTennis.de">
@@ -7933,25 +7953,35 @@
     <desc lang="de">Tennis: WTA Finals C. Gauff (USA) - L. Noskova (CZE), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 2 - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9c250740-3392-3002-9fdf-0e5ef95622fa/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=79b9248b-435c-3c55-9468-df09a27cb54c" />
   </programme>
-  <programme start="20261111140000 +0800" stop="20261111143000 +0800" channel="SkySportTennis.de">
+  <programme start="20261111133000 +0800" stop="20261111140000 +0800" channel="SkySportTennis.de">
     <title lang="de">ATP: This Week</title>
     <desc lang="de">[S2026E112] Tennis: ATP This Week - Tennis der Extraklasse: "This Week" blickt auf die aktuellen Entwicklungen der ATP.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/df243fed-7dac-3120-831b-be027c39db49/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=8bced6d1-6a1a-3c9b-b4e0-b496e2271497" />
   </programme>
-  <programme start="20261111143000 +0800" stop="20261111153000 +0800" channel="SkySportTennis.de">
+  <programme start="20261111140000 +0800" stop="20261111150000 +0800" channel="SkySportTennis.de">
     <title lang="de">ATP 1000: Review Paris</title>
     <desc lang="de">[S2026E459] Tennis: ATP Masters 1000 Review Paris - Tennis der Extraklasse: Der Rückblick auf das ATP-Turnier in Paris.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/f6c5add6-5521-34d3-847c-4c9c67f70ad4/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=6cac42b2-8ed8-3329-a644-30d400979ebb" />
   </programme>
-  <programme start="20261111153000 +0800" stop="20261111173000 +0800" channel="SkySportTennis.de">
+  <programme start="20261111150000 +0800" stop="20261111170000 +0800" channel="SkySportTennis.de">
     <title lang="de">Live WTA Finals: M. Kostyuk (UKR) - J. Pegula (USA), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 1</title>
     <desc lang="de">Tennis: WTA Finals M. Kostyuk (UKR) - J. Pegula (USA), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 1 - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/b4b5c2d5-e9df-3554-ae90-607c29ae08d1/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=1b4ce38d-0fed-3ba9-95fe-2a62d6e41d53" />
   </programme>
-  <programme start="20261111173000 +0800" stop="20261111193000 +0800" channel="SkySportTennis.de">
+  <programme start="20261111170000 +0800" stop="20261111183000 +0800" channel="SkySportTennis.de">
     <title lang="de">Live WTA Finals: C. Gauff (USA) - L. Noskova (CZE), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 2</title>
     <desc lang="de">Tennis: WTA Finals C. Gauff (USA) - L. Noskova (CZE), FAGE WTA Finals in Indian Wells (USA), 3. Tag, Einzel 2 - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9c250740-3392-3002-9fdf-0e5ef95622fa/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=79b9248b-435c-3c55-9468-df09a27cb54c" />
+  </programme>
+  <programme start="20261111183000 +0800" stop="20261111190000 +0800" channel="SkySportTennis.de">
+    <title lang="de">WTA 1000: Review Peking</title>
+    <desc lang="de">[S2026E416] Tennis: WTA Masters 1000 Review Peking - Tennis der Extraklasse: Der Rückblick auf das WTA-Turnier in Peking.</desc>
+    <icon src="https://pixel.disco.wowtv.de/uuid/87607001-a7c4-33eb-8211-8c6144cb6f44/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=123bdbd7-f52a-30d9-8502-a74968ddf3b2" />
+  </programme>
+  <programme start="20261111190000 +0800" stop="20261111193000 +0800" channel="SkySportTennis.de">
+    <title lang="de">WTA 1000: Review Wuhan</title>
+    <desc lang="de">[S2026E435] Tennis: WTA Masters 1000 Review Wuhan - Tennis der Extraklasse: Der Rückblick auf das WTA-Turnier in Wuhan.</desc>
+    <icon src="https://pixel.disco.wowtv.de/uuid/fa47e0d0-2d1b-3fc9-a4de-da49a56e2f2c/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=2d46e055-1a34-328a-9613-d63207538961" />
   </programme>
   <programme start="20261111193000 +0800" stop="20261111200000 +0800" channel="SkySportTennis.de">
     <title lang="de">ATP: This Week</title>
@@ -8643,12 +8673,17 @@
     <desc lang="de">Basketball: NBA - Es folgt: LIVE NBA</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/4e4c08b0-1efd-36ea-bae8-f5df640008c9/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=7ada99a9-c26c-3faa-9e1e-0ac723ee6f9d" />
   </programme>
-  <programme start="20261111090000 +0800" stop="20261111170000 +0800" channel="SkySport1.de">
+  <programme start="20261111090000 +0800" stop="20261111113000 +0800" channel="SkySport1.de">
     <title lang="de">Live NBA: Boston Celtics @ Philadelphia 76ers</title>
     <desc lang="de">Basketball: NBA Boston Celtics @ Philadelphia 76ers - Spektakuläre Drei-Punkte-Würfe, Rebounds und Dunks: In der NBA zeigen Stars wie Stephen Curry, Nikola Jokic oder Dennis Schröder ihr Können. Wer führt sein Team zum großen Erfolg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/7166f8e6-99ce-3756-9555-5f146d195b70/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=6ec8130b-7fa1-3994-a9d3-d21dbfbe2533" />
   </programme>
-  <programme start="20261111170000 +0800" stop="20261111194000 +0800" channel="SkySport1.de">
+  <programme start="20261111113000 +0800" stop="20261111130000 +0800" channel="SkySport1.de">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Momentan kein Programm</desc>
+    <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
+  </programme>
+  <programme start="20261111130000 +0800" stop="20261111194000 +0800" channel="SkySport1.de">
     <title lang="de">Sendepause</title>
     <desc lang="de">Momentan kein Programm</desc>
     <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
