@@ -6283,17 +6283,12 @@
     <desc lang="de">Sky Sport News Der Nachmittag - Sky Sport News, Deutschlands einziger Sportnachrichtensender, serviert brandheiße News rund um die Uhr. Hier wird garantiert keine wichtige Sportnachricht mehr verpasst!</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/f61f6a33-93b1-38e9-9986-d789e40076e0/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=b8e99782-c150-316b-aadf-b526760031f8" />
   </programme>
-  <programme start="20261115230500 +0800" stop="20261116014500 +0800" channel="SkySportTopEvent.de">
+  <programme start="20261115230500 +0800" stop="20261116020000 +0800" channel="SkySportTopEvent.de">
     <title lang="de">Live NFL: New England Patriots vs Detroit Lions, Week 10 (München)</title>
     <desc lang="de">NFL New England Patriots vs Detroit Lions, Week 10 (München) - Die NFL in Deutschland: Beim NFL Munich Game treffen die Detroit Lions mit dem deutsch-amerikanischen Star Amon-Ra St. Brown auf die New England Patriots. Wer holt den Sieg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/12ec5697-5269-355b-b4b1-264476e678fe/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=295a2dfa-9ff2-3828-a867-e57d4667cb55" />
   </programme>
-  <programme start="20261116014500 +0800" stop="20261116015500 +0800" channel="SkySportTopEvent.de">
-    <title lang="de">Live NFL: Guten Abend Football</title>
-    <desc lang="de">NFL Guten Abend Football - Der nächste große Football-Abend steht bevor: "Guten Abend Football" stimmt die Fans auf die anstehenden NFL-Partien ein.</desc>
-    <icon src="https://pixel.disco.wowtv.de/uuid/2f59ec4a-5c55-3c38-8089-4a56ba67a492/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=f536e443-2e19-3da0-96ae-2bf95b86f570" />
-  </programme>
-  <programme start="20261116015500 +0800" stop="20261116090000 +0800" channel="SkySportTopEvent.de">
+  <programme start="20261116020000 +0800" stop="20261116090000 +0800" channel="SkySportTopEvent.de">
     <title lang="de">Live NFL: Konferenz, Week 10</title>
     <desc lang="de">NFL Konferenz, Week 10 - Die volle NFL-Ladung am Sonntag: Die deutschsprachige Sky NFL-Konferenz liefert Touchdowns, Turnovers und die entscheidenden Momente aller parallel laufenden Spiele live.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/c7b0026a-ea0a-3268-a334-6a7e1bf8fe82/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=151e9d43-bb7e-3d7a-ab9e-82724e44a218" />
@@ -6309,8 +6304,8 @@
     <icon src="https://pixel.disco.wowtv.de/uuid/1cf2e094-7425-3287-9a35-b8af6dd9f1cb/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=bfd1a07d-5a22-39ea-8008-c30a6e8d0d93" />
   </programme>
   <programme start="20261116133000 +0800" stop="20261116160000 +0800" channel="SkySportTopEvent.de">
-    <title lang="de">WTA Finals: Einzelfinale, FAGE WTA Finals in Indian Wells (USA), Einzelfinale</title>
-    <desc lang="de">Tennis: WTA Finals Einzelfinale, FAGE WTA Finals in Indian Wells (USA), Einzelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
+    <title lang="de">WTA Finals: E. Svitolina (UKR) - M. Andreeva, FAGE WTA Finals in Indian Wells (USA), Einzelfinale</title>
+    <desc lang="de">Tennis: WTA Finals E. Svitolina (UKR) - M. Andreeva, FAGE WTA Finals in Indian Wells (USA), Einzelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9566f806-df1c-381c-88fd-d9f696e0fe73/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=e502c57a-573e-3f25-8532-cefa8fe230bc" />
   </programme>
   <programme start="20261116160000 +0800" stop="20261116163000 +0800" channel="SkySportTopEvent.de">
@@ -7243,12 +7238,12 @@
     <desc lang="de">NFL Guten Abend Football - Der nächste große Football-Abend steht bevor: "Guten Abend Football" stimmt die Fans auf die anstehenden NFL-Partien ein.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/2f59ec4a-5c55-3c38-8089-4a56ba67a492/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=f536e443-2e19-3da0-96ae-2bf95b86f570" />
   </programme>
-  <programme start="20261116015500 +0800" stop="20261116083000 +0800" channel="SkySportMix.de">
+  <programme start="20261116015500 +0800" stop="20261116090000 +0800" channel="SkySportMix.de">
     <title lang="de">Live NFL: Konferenz, Week 10</title>
     <desc lang="de">NFL Konferenz, Week 10 - Die volle NFL-Ladung am Sonntag: Die deutschsprachige Sky NFL-Konferenz liefert Touchdowns, Turnovers und die entscheidenden Momente aller parallel laufenden Spiele live.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/c7b0026a-ea0a-3268-a334-6a7e1bf8fe82/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=151e9d43-bb7e-3d7a-ab9e-82724e44a218" />
   </programme>
-  <programme start="20261116083000 +0800" stop="20261116113000 +0800" channel="SkySportMix.de">
+  <programme start="20261116090000 +0800" stop="20261116113000 +0800" channel="SkySportMix.de">
     <title lang="de">Live NHL: Edmonton Oilers @ Philadelphia Flyers</title>
     <desc lang="de">Eishockey: NHL Edmonton Oilers @ Philadelphia Flyers - Leon Draisaitl, Nathan MacKinnon, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die packenden Matches aus der stärksten Eishockey-Liga der Welt live.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/95733712-23e7-39ce-bc28-58e3dbd6a8ca/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=32f90c3e-d9e8-3972-a8c4-261d16f1c4ee" />
@@ -7383,15 +7378,10 @@
     <desc lang="de">[S2026E62] World Surf League Replay: Phillipines Pro Finals Day - Surfing der Extraklasse: In der World Surf League starten die besten Wellenreiter der Welt. Sky zeigt die Highlights der einzelnen Wettbewerbe.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/b62c1392-910e-36b8-8db5-18be1ac92c6b/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=eeffd069-8621-3557-a015-c39fcde6cc58" />
   </programme>
-  <programme start="20261115213000 +0800" stop="20261116014500 +0800" channel="SkySportNFL.de">
+  <programme start="20261115213000 +0800" stop="20261116020000 +0800" channel="SkySportNFL.de">
     <title lang="de">Live NFL: New England Patriots vs Detroit Lions, Week 10 (München)</title>
     <desc lang="de">NFL New England Patriots vs Detroit Lions, Week 10 (München) - Die NFL in Deutschland: Beim NFL Munich Game treffen die Detroit Lions mit dem deutsch-amerikanischen Star Amon-Ra St. Brown auf die New England Patriots. Wer holt den Sieg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/12ec5697-5269-355b-b4b1-264476e678fe/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=295a2dfa-9ff2-3828-a867-e57d4667cb55" />
-  </programme>
-  <programme start="20261116014500 +0800" stop="20261116020000 +0800" channel="SkySportNFL.de">
-    <title lang="de">NFL: 20 Years of Cleatus</title>
-    <desc lang="de">NFL 20 Years of Cleatus - Vom kuriosen CGI-Roboter zur Football-Ikone: Seit seinem TV-Debüt 2005 hat sich Cleatus zu einem beliebten und unverwechselbaren Markenzeichen der NFL entwickelt.</desc>
-    <icon src="https://pixel.disco.wowtv.de/uuid/40fbc742-0566-373d-806d-a2aa8b06e3a6/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=b14cebd6-cf8c-3f0a-9ced-8579f729cc85" />
   </programme>
   <programme start="20261116020000 +0800" stop="20261116090000 +0800" channel="SkySportNFL.de">
     <title lang="de">Live NFL: RedZone, Week 10</title>
@@ -7528,22 +7518,22 @@
     <desc lang="de">Tennis: Nitto ATP Finals M. Arevalo (ESA) / M. Pavic (CRO) - T. Arribage (FRA) / A. Olivetti (FRA), 1. Tag in Turin (ITA) - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die besten Tennisspielerinnen der Welt in den USA auf. Wer setzt sich im Doppel durch?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/c57f6470-601f-3160-8170-2d8f62c52809/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=c5664ba3-9def-3ef0-bbb0-72048be2116b" />
   </programme>
-  <programme start="20261116031000 +0800" stop="20261116053000 +0800" channel="SkySportTennis.de">
+  <programme start="20261116031000 +0800" stop="20261116060000 +0800" channel="SkySportTennis.de">
     <title lang="de">Live ATP Finals: B. Shelton (USA) - A. Fils (FRA), 1. Tag in Turin (ITA)</title>
     <desc lang="de">Tennis: Nitto ATP Finals B. Shelton (USA) - A. Fils (FRA), 1. Tag in Turin (ITA) - Das Finale der ATP Tour: Bei den Finals schlagen die acht besten Tennisspieler der Welt auf, darunter Alexander Zverev. Wer triumphiert? Kommentar: Paul Häuser &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/f8679e52-1976-3190-9c14-194fa16f5ff4/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=ba2e280c-800d-366d-a2ce-730f12e93814" />
   </programme>
-  <programme start="20261116053000 +0800" stop="20261116063000 +0800" channel="SkySportTennis.de">
+  <programme start="20261116060000 +0800" stop="20261116063000 +0800" channel="SkySportTennis.de">
     <title lang="de">Live WTA Finals: E. Svitolina (UKR) - M. Andreeva, FAGE WTA Finals in Indian Wells (USA), Einzelfinale</title>
     <desc lang="de">Tennis: WTA Finals E. Svitolina (UKR) - M. Andreeva, FAGE WTA Finals in Indian Wells (USA), Einzelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9566f806-df1c-381c-88fd-d9f696e0fe73/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=e502c57a-573e-3f25-8532-cefa8fe230bc" />
   </programme>
-  <programme start="20261116063000 +0800" stop="20261116090000 +0800" channel="SkySportTennis.de">
+  <programme start="20261116063000 +0800" stop="20261116085000 +0800" channel="SkySportTennis.de">
     <title lang="de">Live WTA Finals: K. Siniakova (CZE) / T. Townsend (USA) - S. Errani (ITA) / J. Paolini (ITA), FAGE WTA Finals in Indian Wells (USA), Doppelfinale</title>
     <desc lang="de">Tennis: WTA Finals K. Siniakova (CZE) / T. Townsend (USA) - S. Errani (ITA) / J. Paolini (ITA), FAGE WTA Finals in Indian Wells (USA), Doppelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennis-Doppel der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/b516cd6b-04a1-3cc1-bd35-54f6a7e995f1/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=23697e72-f8bc-3f80-bf2a-4d9e1eee77e7" />
   </programme>
-  <programme start="20261116090000 +0800" stop="20261116110000 +0800" channel="SkySportTennis.de">
+  <programme start="20261116085000 +0800" stop="20261116110000 +0800" channel="SkySportTennis.de">
     <title lang="de">ATP Finals: A. Zverev (GER) - R. Jodar (ESP), 1. Tag in Turin (ITA)</title>
     <desc lang="de">Tennis: Nitto ATP Finals A. Zverev (GER) - R. Jodar (ESP), 1. Tag in Turin (ITA) - Das Finale der ATP Tour: Bei den Finals schlagen die acht besten Tennisspieler der Welt auf, darunter Alexander Zverev. Wer triumphiert? Kommentar: Paul Häuser &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/1467e7c3-9c79-3582-b4ad-8937ac03cd1a/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=f8b19016-de79-3a3b-aaee-fa94f5fe48e9" />
@@ -7553,14 +7543,19 @@
     <desc lang="de">[S2026E112] Tennis: ATP This Week - Tennis der Extraklasse: "This Week" blickt auf die aktuellen Entwicklungen der ATP.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/df243fed-7dac-3120-831b-be027c39db49/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=8bced6d1-6a1a-3c9b-b4e0-b496e2271497" />
   </programme>
-  <programme start="20261116113000 +0800" stop="20261116140000 +0800" channel="SkySportTennis.de">
+  <programme start="20261116113000 +0800" stop="20261116133000 +0800" channel="SkySportTennis.de">
     <title lang="de">WTA Finals: K. Siniakova (CZE) / T. Townsend (USA) - S. Errani (ITA) / J. Paolini (ITA), FAGE WTA Finals in Indian Wells (USA), Doppelfinale</title>
     <desc lang="de">Tennis: WTA Finals K. Siniakova (CZE) / T. Townsend (USA) - S. Errani (ITA) / J. Paolini (ITA), FAGE WTA Finals in Indian Wells (USA), Doppelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennis-Doppel der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/b516cd6b-04a1-3cc1-bd35-54f6a7e995f1/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=23697e72-f8bc-3f80-bf2a-4d9e1eee77e7" />
   </programme>
-  <programme start="20261116140000 +0800" stop="20261116163000 +0800" channel="SkySportTennis.de">
-    <title lang="de">WTA Finals: Einzelfinale, FAGE WTA Finals in Indian Wells (USA), Einzelfinale</title>
-    <desc lang="de">Tennis: WTA Finals Einzelfinale, FAGE WTA Finals in Indian Wells (USA), Einzelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
+  <programme start="20261116133000 +0800" stop="20261116143000 +0800" channel="SkySportTennis.de">
+    <title lang="de">ATP: This Week</title>
+    <desc lang="de">[S2026E112] Tennis: ATP This Week - Tennis der Extraklasse: "This Week" blickt auf die aktuellen Entwicklungen der ATP.</desc>
+    <icon src="https://pixel.disco.wowtv.de/uuid/df243fed-7dac-3120-831b-be027c39db49/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=8bced6d1-6a1a-3c9b-b4e0-b496e2271497" />
+  </programme>
+  <programme start="20261116143000 +0800" stop="20261116163000 +0800" channel="SkySportTennis.de">
+    <title lang="de">WTA Finals: E. Svitolina (UKR) - M. Andreeva, FAGE WTA Finals in Indian Wells (USA), Einzelfinale</title>
+    <desc lang="de">Tennis: WTA Finals E. Svitolina (UKR) - M. Andreeva, FAGE WTA Finals in Indian Wells (USA), Einzelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9566f806-df1c-381c-88fd-d9f696e0fe73/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=e502c57a-573e-3f25-8532-cefa8fe230bc" />
   </programme>
   <programme start="20261116163000 +0800" stop="20261116183000 +0800" channel="SkySportTennis.de">
@@ -7619,8 +7614,8 @@
     <icon src="https://pixel.disco.wowtv.de/uuid/4f074295-455f-3dd4-93ba-6538061c37e5/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=3c1d11fb-b2f5-3f37-82dc-bbb4a939a21d" />
   </programme>
   <programme start="20261117100000 +0800" stop="20261117123000 +0800" channel="SkySportTennis.de">
-    <title lang="de">WTA Finals: Einzelfinale, FAGE WTA Finals in Indian Wells (USA), Einzelfinale</title>
-    <desc lang="de">Tennis: WTA Finals Einzelfinale, FAGE WTA Finals in Indian Wells (USA), Einzelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
+    <title lang="de">WTA Finals: E. Svitolina (UKR) - M. Andreeva, FAGE WTA Finals in Indian Wells (USA), Einzelfinale</title>
+    <desc lang="de">Tennis: WTA Finals E. Svitolina (UKR) - M. Andreeva, FAGE WTA Finals in Indian Wells (USA), Einzelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9566f806-df1c-381c-88fd-d9f696e0fe73/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=e502c57a-573e-3f25-8532-cefa8fe230bc" />
   </programme>
   <programme start="20261117123000 +0800" stop="20261117130000 +0800" channel="SkySportTennis.de">
@@ -7683,77 +7678,82 @@
     <desc lang="de">Golf: Asian Tour Philippine Open, 4. Tag in Carmona (Philippinen) - Abschlag im Urlaubsparadies: Im Manila Southwoods Golf &amp; Country Club finden die Philippine Open 2026 statt. Welcher Golfer holt sich auf den Philippinen den Sieg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/e5f0440e-4a66-3503-96f9-eebc293b9323/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=2cd1bdfc-cec6-3652-93c0-9b6287a6a795" />
   </programme>
-  <programme start="20261116083000 +0800" stop="20261116110000 +0800" channel="SkySportGolf.de">
+  <programme start="20261116083000 +0800" stop="20261116103500 +0800" channel="SkySportGolf.de">
     <title lang="de">LPGA: The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA)</title>
     <desc lang="de">Golf: Ladies PGA The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA) - Bei THE ANNIKA schlagen die besten Golferinnen der LPGA ab. Letztes Jahr gewann die Schwedin Linn Grant. Wer erklimmt 2026 den Thron? Kommentar: Kathi Niederlöhner &amp; Noah Pudelko.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/1586ec95-3871-3103-9508-7f012d5a24bb/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=33d58f17-64ce-3193-ba08-bef269f3b574" />
   </programme>
-  <programme start="20261116110000 +0800" stop="20261116130000 +0800" channel="SkySportGolf.de">
+  <programme start="20261116103500 +0800" stop="20261116123500 +0800" channel="SkySportGolf.de">
     <title lang="de">TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
     <desc lang="de">Golf: TGL Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2 - Golf der Extraklasse: Die TGL ist eine Team- und Indoor-Golf-Liga - gegründet von Tiger Woods und Rory McIlroy. Wer holt sich diesmal den Sieg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/7882b23e-a211-333a-acaf-8fb0344b7a3a/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=f0fdf7eb-8ca9-3389-9d37-9ecf90c65a7c" />
   </programme>
-  <programme start="20261116130000 +0800" stop="20261116160000 +0800" channel="SkySportGolf.de">
+  <programme start="20261116123500 +0800" stop="20261116153000 +0800" channel="SkySportGolf.de">
     <title lang="de">Asian Tour: Philippine Open, 4. Tag in Carmona (Philippinen)</title>
     <desc lang="de">Golf: Asian Tour Philippine Open, 4. Tag in Carmona (Philippinen) - Abschlag im Urlaubsparadies: Im Manila Southwoods Golf &amp; Country Club finden die Philippine Open 2026 statt. Welcher Golfer holt sich auf den Philippinen den Sieg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/e5f0440e-4a66-3503-96f9-eebc293b9323/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=2cd1bdfc-cec6-3652-93c0-9b6287a6a795" />
   </programme>
-  <programme start="20261116160000 +0800" stop="20261116183000 +0800" channel="SkySportGolf.de">
+  <programme start="20261116153000 +0800" stop="20261116174000 +0800" channel="SkySportGolf.de">
     <title lang="de">LPGA: The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA)</title>
     <desc lang="de">Golf: Ladies PGA The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA) - Bei THE ANNIKA schlagen die besten Golferinnen der LPGA ab. Letztes Jahr gewann die Schwedin Linn Grant. Wer erklimmt 2026 den Thron? Kommentar: Kathi Niederlöhner &amp; Noah Pudelko.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/1586ec95-3871-3103-9508-7f012d5a24bb/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=33d58f17-64ce-3193-ba08-bef269f3b574" />
   </programme>
-  <programme start="20261116183000 +0800" stop="20261116184500 +0800" channel="SkySportGolf.de">
+  <programme start="20261116174000 +0800" stop="20261116175500 +0800" channel="SkySportGolf.de">
     <title lang="de">Golf: Golfszene 2026 (1)</title>
     <desc lang="de">[S2026E01] Golf Golfszene 2026 (1) - Höhepunkte herausragender Golfveranstaltungen: Deutsche Meisterschaften, Turniere der Pro Golf Tour, die Major-Turniere der golfspielenden Fußballer (GOFUS) und die Sky Golf Cups.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/a66b8b5c-ceb1-3927-9a13-b1e29e614618/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=2e6b93b8-c193-3b37-8128-f5b03dc9ecf9" />
   </programme>
-  <programme start="20261116184500 +0800" stop="20261116190000 +0800" channel="SkySportGolf.de">
+  <programme start="20261116175500 +0800" stop="20261116181000 +0800" channel="SkySportGolf.de">
     <title lang="de">Golf: Golfszene 2026 (2)</title>
     <desc lang="de">[S2026E02] Golf Golfszene 2026 (2) - Höhepunkte herausragender Golfveranstaltungen: Deutsche Meisterschaften, Turniere der Pro Golf Tour, die Major-Turniere der golfspielenden Fußballer (GOFUS) und die Sky Golf Cups.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/de959449-7152-3bff-b6d8-62bc271666eb/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=ea0e242c-bbb3-3ac2-af13-9e22faf61d0f" />
   </programme>
-  <programme start="20261116190000 +0800" stop="20261116213000 +0800" channel="SkySportGolf.de">
+  <programme start="20261116181000 +0800" stop="20261116204000 +0800" channel="SkySportGolf.de">
     <title lang="de">WTGL: Los Angeles Golf Club - New York Golf Club, 1. Spieltag</title>
     <desc lang="de">Golf: WTGL Los Angeles Golf Club - New York Golf Club, 1. Spieltag - Golf der Extraklasse: Die WTGL ist eine neu gegründete Team- und Indoor-Golf-Liga für Golferinnen und zugleich das weibliche Pendant zur TGL. Welches Team holt sich diesmal den Sieg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/e5739b95-df71-3d00-ad93-d832561ec1e4/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=98d16af0-e256-3636-8ead-e55671546ac4" />
   </programme>
-  <programme start="20261116213000 +0800" stop="20261116233000 +0800" channel="SkySportGolf.de">
+  <programme start="20261116204000 +0800" stop="20261116224000 +0800" channel="SkySportGolf.de">
     <title lang="de">WTGL: Motor City Golf Club - Los Angeles Golf Club, 2. Spieltag</title>
     <desc lang="de">Golf: WTGL Motor City Golf Club - Los Angeles Golf Club, 2. Spieltag - Golf der Extraklasse: Die WTGL ist eine neu gegründete Team- und Indoor-Golf-Liga für Golferinnen und zugleich das weibliche Pendant zur TGL. Welches Team holt sich diesmal den Sieg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/89637686-4423-39d5-a807-48ca2b9a9493/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=c18c34bc-51e5-3000-b085-0c49516a3cb6" />
   </programme>
-  <programme start="20261116233000 +0800" stop="20261117020000 +0800" channel="SkySportGolf.de">
+  <programme start="20261116224000 +0800" stop="20261117004500 +0800" channel="SkySportGolf.de">
     <title lang="de">LPGA: The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA)</title>
     <desc lang="de">Golf: Ladies PGA The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA) - Bei THE ANNIKA schlagen die besten Golferinnen der LPGA ab. Letztes Jahr gewann die Schwedin Linn Grant. Wer erklimmt 2026 den Thron? Kommentar: Kathi Niederlöhner &amp; Noah Pudelko.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/1586ec95-3871-3103-9508-7f012d5a24bb/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=33d58f17-64ce-3193-ba08-bef269f3b574" />
   </programme>
-  <programme start="20261117020000 +0800" stop="20261117050000 +0800" channel="SkySportGolf.de">
+  <programme start="20261117004500 +0800" stop="20261117034500 +0800" channel="SkySportGolf.de">
     <title lang="de">Asian Tour: Philippine Open, 4. Tag in Carmona (Philippinen)</title>
     <desc lang="de">Golf: Asian Tour Philippine Open, 4. Tag in Carmona (Philippinen) - Abschlag im Urlaubsparadies: Im Manila Southwoods Golf &amp; Country Club finden die Philippine Open 2026 statt. Welcher Golfer holt sich auf den Philippinen den Sieg?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/e5f0440e-4a66-3503-96f9-eebc293b9323/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=2cd1bdfc-cec6-3652-93c0-9b6287a6a795" />
   </programme>
-  <programme start="20261117050000 +0800" stop="20261117060000 +0800" channel="SkySportGolf.de">
+  <programme start="20261117034500 +0800" stop="20261117044500 +0800" channel="SkySportGolf.de">
     <title lang="de">The Open: Official Film 2026 (Ryan Fox)</title>
     <desc lang="de">Golf: The Open Championship Official Film 2026 (Ryan Fox) - Golf der Extraklasse: Der offizielle Film von The Open 2026.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9000658b-595d-3061-9b09-fa518843a9b7/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=ca2db688-05d3-34f6-a8f0-c59ce09ea0c8" />
   </programme>
-  <programme start="20261117060000 +0800" stop="20261117070000 +0800" channel="SkySportGolf.de">
-    <title lang="de">Golf: AIG Women's Open - Official Film 2026</title>
-    <desc lang="de">Golf AIG Women's Open - Official Film 2026 - Golf der Extraklasse: Der offizielle Film der AIG Women's Open 2026.</desc>
-    <icon src="https://pixel.disco.wowtv.de/uuid/e54f8f92-5e29-32b1-8dca-32fc1bc98162/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=c8d1078b-f2a6-3e83-9f86-690204ef2b1b" />
-  </programme>
-  <programme start="20261117070000 +0800" stop="20261117093000 +0800" channel="SkySportGolf.de">
+  <programme start="20261117044500 +0800" stop="20261117065000 +0800" channel="SkySportGolf.de">
     <title lang="de">LPGA: The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA)</title>
     <desc lang="de">Golf: Ladies PGA The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA) - Bei THE ANNIKA schlagen die besten Golferinnen der LPGA ab. Letztes Jahr gewann die Schwedin Linn Grant. Wer erklimmt 2026 den Thron? Kommentar: Kathi Niederlöhner &amp; Noah Pudelko.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/1586ec95-3871-3103-9508-7f012d5a24bb/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=33d58f17-64ce-3193-ba08-bef269f3b574" />
   </programme>
-  <programme start="20261117093000 +0800" stop="20261117123000 +0800" channel="SkySportGolf.de">
+  <programme start="20261117065000 +0800" stop="20261117075000 +0800" channel="SkySportGolf.de">
+    <title lang="de">Golf: AIG Women's Open - Official Film 2026</title>
+    <desc lang="de">Golf AIG Women's Open - Official Film 2026 - Golf der Extraklasse: Der offizielle Film der AIG Women's Open 2026.</desc>
+    <icon src="https://pixel.disco.wowtv.de/uuid/e54f8f92-5e29-32b1-8dca-32fc1bc98162/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=c8d1078b-f2a6-3e83-9f86-690204ef2b1b" />
+  </programme>
+  <programme start="20261117075000 +0800" stop="20261117095500 +0800" channel="SkySportGolf.de">
+    <title lang="de">LPGA: The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA)</title>
+    <desc lang="de">Golf: Ladies PGA The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA) - Bei THE ANNIKA schlagen die besten Golferinnen der LPGA ab. Letztes Jahr gewann die Schwedin Linn Grant. Wer erklimmt 2026 den Thron? Kommentar: Kathi Niederlöhner &amp; Noah Pudelko.</desc>
+    <icon src="https://pixel.disco.wowtv.de/uuid/1586ec95-3871-3103-9508-7f012d5a24bb/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=33d58f17-64ce-3193-ba08-bef269f3b574" />
+  </programme>
+  <programme start="20261117095500 +0800" stop="20261117125500 +0800" channel="SkySportGolf.de">
     <title lang="de">Golf: Walker Cup, Afternoon Singles, 2. Tag in Lahnich (Irland)</title>
     <desc lang="de">Golf Walker Cup, Afternoon Singles, 2. Tag in Lahnich (Irland) - Golf-Showdown in Irland: Der Walker Cup ist der traditionsreichste Teamwettbewerb im Amateur-Golfsport. Welche Mannschaft siegt diesmal? Kommentar: Konstantin Schad.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/ec8c2890-f839-357f-95d9-e87f3f76d126/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=b6f9e422-411a-3b04-bcb1-f3bc28bed9ce" />
   </programme>
-  <programme start="20261117123000 +0800" stop="20261117150000 +0800" channel="SkySportGolf.de">
+  <programme start="20261117125500 +0800" stop="20261117150000 +0800" channel="SkySportGolf.de">
     <title lang="de">LPGA: The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA)</title>
     <desc lang="de">Golf: Ladies PGA The ANNIKA driven by Gainbridge at Pelican, 4. Tag in Belleair, FL (USA) - Bei THE ANNIKA schlagen die besten Golferinnen der LPGA ab. Letztes Jahr gewann die Schwedin Linn Grant. Wer erklimmt 2026 den Thron? Kommentar: Kathi Niederlöhner &amp; Noah Pudelko.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/1586ec95-3871-3103-9508-7f012d5a24bb/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=33d58f17-64ce-3193-ba08-bef269f3b574" />
@@ -8208,12 +8208,17 @@
     <desc lang="de">NFL Minnesota Vikings @ Green Bay Packers, Week 10 - Harte Tackles und spektakuläre Touchdowns: In der NFL sorgen Football-Stars wie Patrick Mahomes, Lamar Jackson und viele mehr für Furore. Welches Team krönt sich am Ende zum Champ?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/1003f872-f4cc-30e6-b6f4-0fcc94ac54eb/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=e54df47d-01e1-3a83-af3d-037d74b23d0d" />
   </programme>
-  <programme start="20261116050500 +0800" stop="20261116170000 +0800" channel="SkySport1.de">
+  <programme start="20261116050500 +0800" stop="20261116090000 +0800" channel="SkySport1.de">
     <title lang="de">Live NFL: Seattle Seahawks @ Las Vegas Raiders, Week 10</title>
     <desc lang="de">NFL Seattle Seahawks @ Las Vegas Raiders, Week 10 - Harte Tackles und spektakuläre Touchdowns: In der NFL sorgen Football-Stars wie Patrick Mahomes, Lamar Jackson und viele mehr für Furore. Welches Team krönt sich am Ende zum Champ?</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9152b0e2-9208-3a69-9c4b-7f48cf5c0edc/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=10be7336-668a-3ec2-a390-cf03ea7252cd" />
   </programme>
-  <programme start="20261116170000 +0800" stop="20261117074000 +0800" channel="SkySport1.de">
+  <programme start="20261116090000 +0800" stop="20261116130000 +0800" channel="SkySport1.de">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Momentan kein Programm</desc>
+    <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
+  </programme>
+  <programme start="20261116130000 +0800" stop="20261117074000 +0800" channel="SkySport1.de">
     <title lang="de">Sendepause</title>
     <desc lang="de">Momentan kein Programm</desc>
     <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
@@ -8248,12 +8253,17 @@
     <desc lang="de">Tennis: WTA Finals E. Svitolina (UKR) - M. Andreeva, FAGE WTA Finals in Indian Wells (USA), Einzelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennisspielerinnen der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/9566f806-df1c-381c-88fd-d9f696e0fe73/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=e502c57a-573e-3f25-8532-cefa8fe230bc" />
   </programme>
-  <programme start="20261116063000 +0800" stop="20261116170000 +0800" channel="SkySport2.de">
+  <programme start="20261116063000 +0800" stop="20261116090500 +0800" channel="SkySport2.de">
     <title lang="de">Live WTA Finals: K. Siniakova (CZE) / T. Townsend (USA) - S. Errani (ITA) / J. Paolini (ITA), FAGE WTA Finals in Indian Wells (USA), Doppelfinale</title>
     <desc lang="de">Tennis: WTA Finals K. Siniakova (CZE) / T. Townsend (USA) - S. Errani (ITA) / J. Paolini (ITA), FAGE WTA Finals in Indian Wells (USA), Doppelfinale - Showdown in Indian Wells: Bei den WTA Finals 2026 schlagen die acht besten Tennis-Doppel der Welt auf. Wer siegt in den USA? Kommentar: U.a. Stefan Hempel &amp; Marcel Meinert.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/b516cd6b-04a1-3cc1-bd35-54f6a7e995f1/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=23697e72-f8bc-3f80-bf2a-4d9e1eee77e7" />
   </programme>
-  <programme start="20261116170000 +0800" stop="20261117130000 +0800" channel="SkySport2.de">
+  <programme start="20261116090500 +0800" stop="20261116130000 +0800" channel="SkySport2.de">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Momentan kein Programm</desc>
+    <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
+  </programme>
+  <programme start="20261116130000 +0800" stop="20261117130000 +0800" channel="SkySport2.de">
     <title lang="de">Sendepause</title>
     <desc lang="de">Momentan kein Programm</desc>
     <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
@@ -8283,12 +8293,17 @@
     <desc lang="de">Eishockey: NHL - Leon Draisaitl, Sidney Crosby, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die packenden Matches aus der stärksten Eishockey-Liga der Welt live.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/48054266-c7b4-3776-8c64-6e5f3f02fa77/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=f8ceb8bf-8b42-331f-b6b9-71bf353a54f7" />
   </programme>
-  <programme start="20261116083000 +0800" stop="20261116170000 +0800" channel="SkySport3.de">
+  <programme start="20261116083000 +0800" stop="20261116113500 +0800" channel="SkySport3.de">
     <title lang="de">Live NHL: Edmonton Oilers @ Philadelphia Flyers</title>
     <desc lang="de">Eishockey: NHL Edmonton Oilers @ Philadelphia Flyers - Leon Draisaitl, Nathan MacKinnon, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die packenden Matches aus der stärksten Eishockey-Liga der Welt live.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/95733712-23e7-39ce-bc28-58e3dbd6a8ca/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=32f90c3e-d9e8-3972-a8c4-261d16f1c4ee" />
   </programme>
-  <programme start="20261116170000 +0800" stop="20261117130000 +0800" channel="SkySport3.de">
+  <programme start="20261116113500 +0800" stop="20261116130000 +0800" channel="SkySport3.de">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Momentan kein Programm</desc>
+    <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
+  </programme>
+  <programme start="20261116130000 +0800" stop="20261117130000 +0800" channel="SkySport3.de">
     <title lang="de">Sendepause</title>
     <desc lang="de">Momentan kein Programm</desc>
     <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
@@ -8318,12 +8333,17 @@
     <desc lang="de">Momentan kein Programm</desc>
     <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
   </programme>
-  <programme start="20261116020000 +0800" stop="20261116170000 +0800" channel="SkySport5.de">
+  <programme start="20261116020000 +0800" stop="20261116091500 +0800" channel="SkySport5.de">
     <title lang="de">Live NFL: RedZone, Week 10</title>
     <desc lang="de">[S2026E19] NFL RedZone, Week 10 - Die amerikanische Original-Konferenz der NFL: "RedZone" zeigt sonntags während der regulären Saison alle Touchdowns und entscheidenden Szenen aller parallel laufenden Spiele.</desc>
     <icon src="https://pixel.disco.wowtv.de/uuid/94343b4f-5de8-3be8-b738-22d8ade84fde/16-9?territory=DE&amp;proposition=NOWOTT&amp;version=9cba1d7d-3f6a-324a-9cfd-73e3df3ea877" />
   </programme>
-  <programme start="20261116170000 +0800" stop="20261117130000 +0800" channel="SkySport5.de">
+  <programme start="20261116091500 +0800" stop="20261116130000 +0800" channel="SkySport5.de">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Momentan kein Programm</desc>
+    <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />
+  </programme>
+  <programme start="20261116130000 +0800" stop="20261117130000 +0800" channel="SkySport5.de">
     <title lang="de">Sendepause</title>
     <desc lang="de">Momentan kein Programm</desc>
     <icon src="https://pixel.disco.wowtv.de/pcms/7bd8aa7c-03da-11f0-a185-636f0c657ddb/LAND_16_9?proposition=NOWOTT&amp;language=de-DE&amp;versionId=4ab9205b-a2b2-5077-bc3c-babaf271ea8f" />

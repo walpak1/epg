@@ -745,9 +745,9 @@
     <icon src="https://pixel.disco.nowtv.it/uuid/4e953ff4-0985-3497-9342-2cf3054a68d5/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7d50557c-b9c7-3bd4-9eb1-bbc6acf9b187" />
   </programme>
   <programme start="20261116213000 +0800" stop="20261116214000 +0800" channel="SkySport24.it">
-    <title lang="it">Reparto Corse Moto GP</title>
-    <desc lang="it">Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/2df72950-36c1-3455-9821-838a6fc65cd9/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=69443c6e-5ed0-3c6d-869a-378e30b6d698" />
+    <title lang="it">Reparto Corse F1</title>
+    <desc lang="it">Davide Camicioli e Matteo Bobbi presentano e analizzano i week end di gara di Formula 1. I momenti principali, le parole dei protagonisti e le prospettive mondiali dei contendenti.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/d7bb32c3-d7ec-3f37-9cca-543a0dcb1569/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=b16ff02a-faa2-30b4-912f-57ca0826e08d" />
   </programme>
   <programme start="20261116214000 +0800" stop="20261116220000 +0800" channel="SkySport24.it">
     <title lang="it">Sport 24 Today</title>
@@ -780,9 +780,9 @@
     <icon src="https://pixel.disco.nowtv.it/uuid/53a75c59-c6a8-39fd-a0c8-6fc26ff311b4/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=0e69ad5d-88a9-307c-9064-6cbae61ca613" />
   </programme>
   <programme start="20261117003000 +0800" stop="20261117010000 +0800" channel="SkySport24.it">
-    <title lang="it">Sport 24 Today</title>
-    <desc lang="it">Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/53a75c59-c6a8-39fd-a0c8-6fc26ff311b4/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=0e69ad5d-88a9-307c-9064-6cbae61ca613" />
+    <title lang="it">Euro Show</title>
+    <desc lang="it">Il meglio del calcio internazionale con tutte le notizie, i gol, le immagini e le voci dei protagonisti di Premier League, Bundesliga.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/4e953ff4-0985-3497-9342-2cf3054a68d5/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7d50557c-b9c7-3bd4-9eb1-bbc6acf9b187" />
   </programme>
   <programme start="20261117010000 +0800" stop="20261117013000 +0800" channel="SkySport24.it">
     <title lang="it">Sport 24 Today</title>
@@ -814,10 +814,15 @@
     <desc lang="it">Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/53a75c59-c6a8-39fd-a0c8-6fc26ff311b4/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=0e69ad5d-88a9-307c-9064-6cbae61ca613" />
   </programme>
-  <programme start="20261117040000 +0800" stop="20261117043000 +0800" channel="SkySport24.it">
+  <programme start="20261117040000 +0800" stop="20261117041500 +0800" channel="SkySport24.it">
     <title lang="it">Sport 24 Today</title>
     <desc lang="it">Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/53a75c59-c6a8-39fd-a0c8-6fc26ff311b4/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=0e69ad5d-88a9-307c-9064-6cbae61ca613" />
+  </programme>
+  <programme start="20261117041500 +0800" stop="20261117043000 +0800" channel="SkySport24.it">
+    <title lang="it">Reparto Corse F1</title>
+    <desc lang="it">Davide Camicioli e Matteo Bobbi presentano e analizzano i week end di gara di Formula 1. I momenti principali, le parole dei protagonisti e le prospettive mondiali dei contendenti.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/d7bb32c3-d7ec-3f37-9cca-543a0dcb1569/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=b16ff02a-faa2-30b4-912f-57ca0826e08d" />
   </programme>
   <programme start="20261117043000 +0800" stop="20261117050000 +0800" channel="SkySport24.it">
     <title lang="it">Sport 24 Today</title>
@@ -1061,8 +1066,8 @@
   </programme>
   <programme start="20261116012500 +0800" stop="20261116043500 +0800" channel="SkyUno.it">
     <title lang="it">X Factor</title>
-    <desc lang="it">[S19E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/3db7763f-f214-3377-9c1b-db26f0a84202/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c960aea3-a004-3af6-ae74-57d644c12e54" />
+    <desc lang="it">[S20E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/1cd4d011-1416-3870-9b3d-1d2bf42dc2fb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=be3e1d51-1b51-334b-8b16-213541c942d5" />
   </programme>
   <programme start="20261116043500 +0800" stop="20261116065500 +0800" channel="SkyUno.it">
     <title lang="it">GialappaShow</title>
@@ -1076,8 +1081,8 @@
   </programme>
   <programme start="20261116071000 +0800" stop="20261116101500 +0800" channel="SkyUno.it">
     <title lang="it">X Factor</title>
-    <desc lang="it">[S19E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/3db7763f-f214-3377-9c1b-db26f0a84202/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c960aea3-a004-3af6-ae74-57d644c12e54" />
+    <desc lang="it">[S20E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/1cd4d011-1416-3870-9b3d-1d2bf42dc2fb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=be3e1d51-1b51-334b-8b16-213541c942d5" />
   </programme>
   <programme start="20261116101500 +0800" stop="20261116111000 +0800" channel="SkyUno.it">
     <title lang="it">Alessandro Borghese - Celebrity Chef</title>
@@ -1126,8 +1131,8 @@
   </programme>
   <programme start="20261116180000 +0800" stop="20261116210500 +0800" channel="SkyUno.it">
     <title lang="it">X Factor</title>
-    <desc lang="it">[S19E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/3db7763f-f214-3377-9c1b-db26f0a84202/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c960aea3-a004-3af6-ae74-57d644c12e54" />
+    <desc lang="it">[S20E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/1cd4d011-1416-3870-9b3d-1d2bf42dc2fb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=be3e1d51-1b51-334b-8b16-213541c942d5" />
   </programme>
   <programme start="20261116210500 +0800" stop="20261116211000 +0800" channel="SkyUno.it">
     <title lang="it">Foodish</title>
@@ -1256,8 +1261,8 @@
   </programme>
   <programme start="20261117190000 +0800" stop="20261117220000 +0800" channel="SkyUno.it">
     <title lang="it">X Factor</title>
-    <desc lang="it">[S19E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/3db7763f-f214-3377-9c1b-db26f0a84202/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c960aea3-a004-3af6-ae74-57d644c12e54" />
+    <desc lang="it">[S20E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/1cd4d011-1416-3870-9b3d-1d2bf42dc2fb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=be3e1d51-1b51-334b-8b16-213541c942d5" />
   </programme>
   <programme start="20261117220000 +0800" stop="20261117224000 +0800" channel="SkyUno.it">
     <title lang="it">X Factor Daily</title>
@@ -1296,8 +1301,8 @@
   </programme>
   <programme start="20261116015500 +0800" stop="20261116050500 +0800" channel="SkyUnoPlus.it">
     <title lang="it">X Factor</title>
-    <desc lang="it">[S19E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/3db7763f-f214-3377-9c1b-db26f0a84202/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c960aea3-a004-3af6-ae74-57d644c12e54" />
+    <desc lang="it">[S20E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/1cd4d011-1416-3870-9b3d-1d2bf42dc2fb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=be3e1d51-1b51-334b-8b16-213541c942d5" />
   </programme>
   <programme start="20261116050500 +0800" stop="20261116072500 +0800" channel="SkyUnoPlus.it">
     <title lang="it">GialappaShow</title>
@@ -1311,8 +1316,8 @@
   </programme>
   <programme start="20261116074000 +0800" stop="20261116104000 +0800" channel="SkyUnoPlus.it">
     <title lang="it">X Factor</title>
-    <desc lang="it">[S19E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/3db7763f-f214-3377-9c1b-db26f0a84202/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c960aea3-a004-3af6-ae74-57d644c12e54" />
+    <desc lang="it">[S20E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/1cd4d011-1416-3870-9b3d-1d2bf42dc2fb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=be3e1d51-1b51-334b-8b16-213541c942d5" />
   </programme>
   <programme start="20261116104000 +0800" stop="20261116113500 +0800" channel="SkyUnoPlus.it">
     <title lang="it">Alessandro Borghese - Celebrity Chef</title>
@@ -1391,8 +1396,8 @@
   </programme>
   <programme start="20261116223500 +0800" stop="20261117014500 +0800" channel="SkyUnoPlus.it">
     <title lang="it">X Factor</title>
-    <desc lang="it">[S19E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/3db7763f-f214-3377-9c1b-db26f0a84202/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c960aea3-a004-3af6-ae74-57d644c12e54" />
+    <desc lang="it">[S20E10] S20 Ep10 Live 4 - Il quarto Live di #XF2026 si preannuncia infuocato: tra sfide decisive e colpi di scena, saranno tre i concorrenti a lasciare la gara.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/1cd4d011-1416-3870-9b3d-1d2bf42dc2fb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=be3e1d51-1b51-334b-8b16-213541c942d5" />
   </programme>
   <programme start="20261117014500 +0800" stop="20261117030500 +0800" channel="SkyUnoPlus.it">
     <title lang="it">Alessandro Borghese - 4 Ristoranti</title>
@@ -1504,7 +1509,7 @@
     <desc lang="it">[S10E09] S10 Ep9 Garda Trentino - Il Garda Trentino sorge tra il lago di Garda e una suggestiva cornice montana. Chi tra David, Luca, Gildo e Albina si aggiudichera' il titolo di miglior ristoratore del posto?</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/ba034ce6-b0a3-305a-b13f-d71b73dd2e4c/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7d0f5659-eee4-38c0-b5bc-f71a94391a1c" />
   </programme>
-  <programme start="20261115231000 +0800" stop="20261116010000 +0800" channel="SkySportUno.it">
+  <programme start="20261115225000 +0800" stop="20261116010000 +0800" channel="SkySportUno.it">
     <title lang="it">Nutribullet Treviso Basket... (Diretta)</title>
     <desc lang="it">[S2026E15] ... - Longobardi Scafati Basket Lega Basket Serie A. - Punti pesanti in palio a Treviso: persa la partita di Tortona, i veneti ospitano i campani reduci dalla beffarda sconfitta nel derby contro Napoli. Telecronaca di Geri De Rosa e Chicca Macchi.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/d40fe562-f914-3aaf-8567-b648a984f79d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=90e919bd-e14f-3c96-a000-23fc78ec010e" />
@@ -1514,77 +1519,72 @@
     <desc lang="it">[S2026E17] ... 2026/2027 15/11/2026 Studio Basket Serie A. - Tutti a caccia dell'Olimpia Milano, campione d'Italia in carica: la serie A del basket vive la sua stagione numero 105. Approfondimenti, interviste e curiosita' prima e dopo le partite.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/66f3632a-6a51-30a1-b19a-f273c228d475/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=92738843-aff0-3207-a9fd-a6f45d568092" />
   </programme>
-  <programme start="20261116010500 +0800" stop="20261116031500 +0800" channel="SkySportUno.it">
+  <programme start="20261116010500 +0800" stop="20261116032500 +0800" channel="SkySportUno.it">
     <title lang="it">Udine - EA7 Emporio Armani... (Diretta)</title>
     <desc lang="it">[S2026E16] ... Milano Lega Basket Serie A. - Dopo la sconfitta contro lo Zalgiris nella prima di coach Banchi, l'Olimpia viaggia a Udine a casa di un avversario rinfrancato dalla bella vittoria di Varese. Telecronaca: Solaini-Meneghin.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/429c58a8-c5ac-38ec-a4c6-7e9dab9e2d7f/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=ba496177-d87f-3c78-b8e1-1ee233e2e268" />
   </programme>
-  <programme start="20261116031500 +0800" stop="20261116033000 +0800" channel="SkySportUno.it">
+  <programme start="20261116032500 +0800" stop="20261116033000 +0800" channel="SkySportUno.it">
     <title lang="it">Postpartita Studio Basket... (Diretta)</title>
     <desc lang="it">[S2026E18] ... Serie A. - La partita del PalaCarnera e' appena finita: tutti i commenti, gli approfondimenti nello studio di Giulia Cicchine' e Andrea Meneghin con le interviste di Gaia Accoto.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/b658c22c-b7bf-3948-9176-703c246bc7d8/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=4a275c88-2aef-37f7-ba8c-eb716ffa59e8" />
   </programme>
-  <programme start="20261116033000 +0800" stop="20261116053000 +0800" channel="SkySportUno.it">
+  <programme start="20261116033000 +0800" stop="20261116060000 +0800" channel="SkySportUno.it">
     <title lang="it">Singolare: Sessione Serale... (Diretta)</title>
     <desc lang="it">[S2026E01] ... Tennis: ATP Finals. - SHELTON (Usa)-FILS (Fra) - Alle Nitto Atp Finals di Torino, si gioca la seconda partita del gruppo "John McEnroe" - Tc: Ferrero-Rossi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/4010b474-1a52-3750-acb7-67aae172fc57/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c85057f8-4faf-329b-ba40-b01372cb9ef1" />
   </programme>
-  <programme start="20261116053000 +0800" stop="20261116060000 +0800" channel="SkySportUno.it">
+  <programme start="20261116060000 +0800" stop="20261116062500 +0800" channel="SkySportUno.it">
     <title lang="it">15/11/2026 Studio Tennis (Diretta)</title>
     <desc lang="it">[S2026E257] Un approfondimento ricco di notizie, commenti, statistiche e curiosita' sui tornei del circuito ATP, in programma nel corso della stagione, con interventi da parte degli ospiti in studio.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/60b8c445-85fa-3bc0-8fd7-e04d176082cf/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=84ae5ab1-176b-3d18-bd16-10d8bd5405dd" />
   </programme>
-  <programme start="20261116060000 +0800" stop="20261116062000 +0800" channel="SkySportUno.it">
+  <programme start="20261116062500 +0800" stop="20261116063000 +0800" channel="SkySportUno.it">
     <title lang="it">Ep.1 Tennis: The Insider ATP Finals</title>
     <desc lang="it">[S2026E07] The Insider ti permette di vivere la magia degli incontri di tennis come nessun altro.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/7dff64a0-83e6-3563-aa77-3cb337639beb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=bcbc8961-8853-38a8-80a7-4811fa38bf63" />
   </programme>
-  <programme start="20261116062000 +0800" stop="20261116071500 +0800" channel="SkySportUno.it">
+  <programme start="20261116063000 +0800" stop="20261116071500 +0800" channel="SkySportUno.it">
     <title lang="it">Torino Tennis Talk</title>
     <desc lang="it">Dall'Istituto di ricerca di Candiolo Raffaella Reggi, Renzo Furlan e Alessandro Del Piero dialogano con Federico Ferri in vista delle Nitto ATP Finals di Torino.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/98ab736d-bd54-3a2c-8c32-91675f1dc24c/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=e847763a-5648-35cd-855d-b61871aa08a7" />
   </programme>
-  <programme start="20261116071500 +0800" stop="20261116090000 +0800" channel="SkySportUno.it">
+  <programme start="20261116071500 +0800" stop="20261116093000 +0800" channel="SkySportUno.it">
     <title lang="it">Finale Singolare Tennis: WTA Finals Indian Wells</title>
     <desc lang="it">[S2026E10] - SVITOLINA (Ukr)-ANDREEVA - La 19enne russa Mirra Andreeva sfida la 32enne ucraina Elina Svitolina, gia' vincitrice nel 2018. Tc: Brunelli-Garrone</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/392ba052-eef3-3f0b-9c2f-a26180260299/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=663b011f-d6e8-3fd2-8a46-2e7f35242f55" />
   </programme>
-  <programme start="20261116090000 +0800" stop="20261116102500 +0800" channel="SkySportUno.it">
+  <programme start="20261116093000 +0800" stop="20261116110500 +0800" channel="SkySportUno.it">
     <title lang="it">Finale Doppio Tennis: WTA Finals Indian Wells</title>
     <desc lang="it">[S2026E12] - SINIAKOVA/TOWNSEND-ERRANI/PAOLINI - Sara Errani e Jasmine Paolini cercano a Indian Wells il loro primo titolo alle Wta Finals. Tc: Bisti-Garrone</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/11a5b397-58bd-3091-ba06-c39d812a3e56/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=cf855210-677d-3660-b79e-a35d7c32efd2" />
   </programme>
-  <programme start="20261116102500 +0800" stop="20261116111500 +0800" channel="SkySportUno.it">
+  <programme start="20261116110500 +0800" stop="20261116115500 +0800" channel="SkySportUno.it">
     <title lang="it">Master Panatta &amp; Bertolucci Tennis...</title>
     <desc lang="it">[S2026E05] Ripercorriamo l'evoluzione storica e il fascino delle ATP Finals, commentando le finali piu' iconiche e le rivalita' che hanno segnato l'albo d'oro del torneo. Panatta e Bertolucci condividono retroscena vissuti nel circuito degli anni '70.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/3d0c1e50-d82e-374d-a1fd-f99856373595/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=8a32f051-6a0b-3440-9a1e-9020b4aed2cc" />
   </programme>
-  <programme start="20261116111500 +0800" stop="20261116130000 +0800" channel="SkySportUno.it">
+  <programme start="20261116115500 +0800" stop="20261116131500 +0800" channel="SkySportUno.it">
     <title lang="it">Singolare: Sessione Diurna Tennis: ATP Finals</title>
     <desc lang="it">[S2026E01] - ZVEREV (Ger)-JODAR (Spa) - Alle Nitto Atp Finals di Torino, si gioca la prima partita del gruppo "John McEnroe" - Tc: Boschetto-Bertolucci</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/8d9ff2e4-846e-3f08-bcb0-0668cade8ab6/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7676f509-e282-340f-ba12-890d753cac1d" />
   </programme>
-  <programme start="20261116130000 +0800" stop="20261116131500 +0800" channel="SkySportUno.it">
-    <title lang="it">Ep.1 Tennis: The Insider ATP Finals</title>
-    <desc lang="it">[S2026E01] The Insider ti permette di vivere la magia degli incontri di tennis come nessun altro.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/40c14ec1-451d-3251-94fe-1dcd12bef7c7/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=5503f6a3-195e-3caf-9786-61315ef1974a" />
+  <programme start="20261116131500 +0800" stop="20261116150000 +0800" channel="SkySportUno.it">
+    <title lang="it">Nutribullet Treviso Basket -...</title>
+    <desc lang="it">[S2026E15] ... Longobardi Scafati Basket Lega Basket Serie A. - Punti pesanti in palio a Treviso: persa la partita di Tortona, i veneti ospitano i campani reduci dalla beffarda sconfitta nel derby contro Napoli. Telecronaca di Geri De Rosa e Chicca Macchi.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/d40fe562-f914-3aaf-8567-b648a984f79d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=90e919bd-e14f-3c96-a000-23fc78ec010e" />
   </programme>
-  <programme start="20261116131500 +0800" stop="20261116150500 +0800" channel="SkySportUno.it">
-    <title lang="it">Udine - EA7 Emporio Armani Milano Lega Basket Serie A</title>
-    <desc lang="it">[S2026E16] - Dopo la sconfitta contro lo Zalgiris nella prima di coach Banchi, l'Olimpia viaggia a Udine a casa di un avversario rinfrancato dalla bella vittoria di Varese. Telecronaca: Solaini-Meneghin.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/429c58a8-c5ac-38ec-a4c6-7e9dab9e2d7f/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=ba496177-d87f-3c78-b8e1-1ee233e2e268" />
-  </programme>
-  <programme start="20261116150500 +0800" stop="20261116155000 +0800" channel="SkySportUno.it">
+  <programme start="20261116150000 +0800" stop="20261116154500 +0800" channel="SkySportUno.it">
     <title lang="it">Master Panatta &amp; Bertolucci Tennis...</title>
     <desc lang="it">[S2026E05] Ripercorriamo l'evoluzione storica e il fascino delle ATP Finals, commentando le finali piu' iconiche e le rivalita' che hanno segnato l'albo d'oro del torneo. Panatta e Bertolucci condividono retroscena vissuti nel circuito degli anni '70.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/3d0c1e50-d82e-374d-a1fd-f99856373595/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=8a32f051-6a0b-3440-9a1e-9020b4aed2cc" />
   </programme>
-  <programme start="20261116155000 +0800" stop="20261116161000 +0800" channel="SkySportUno.it">
+  <programme start="20261116154500 +0800" stop="20261116160500 +0800" channel="SkySportUno.it">
     <title lang="it">Ep.1 Tennis: The Insider ATP Finals</title>
     <desc lang="it">[S2026E01] The Insider ti permette di vivere la magia degli incontri di tennis come nessun altro.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/40c14ec1-451d-3251-94fe-1dcd12bef7c7/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=5503f6a3-195e-3caf-9786-61315ef1974a" />
   </programme>
-  <programme start="20261116161000 +0800" stop="20261116175500 +0800" channel="SkySportUno.it">
+  <programme start="20261116160500 +0800" stop="20261116175500 +0800" channel="SkySportUno.it">
     <title lang="it">Belgio - Italia UEFA Nations League</title>
     <desc lang="it">[S2026E73] Gruppo A1 con Francia seconda a quota 10 e Turchia ultima ancora a 0. Belgio terzo con 9 punti e Italia prima con 10 come i francesi, ha perso 2-0 all'andata. TC: Caressa-Bergomi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/85a4aced-9c00-3556-8c1a-7c90044b6444/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7b840c58-4b09-31cb-a818-49c18d115440" />
@@ -1601,7 +1601,7 @@
   </programme>
   <programme start="20261116183000 +0800" stop="20261116203000 +0800" channel="SkySportUno.it">
     <title lang="it">Doppio: Sessione Diurna... (Diretta)</title>
-    <desc lang="it">[S2026E261] ... Tennis: ATP Finals. - Dalla Inalpi Arena di Torino, Italia.</desc>
+    <desc lang="it">[S2026E261] ... Tennis: ATP Finals. - GRANOLLERS/ZEBALLOS-BOLELLI/VAVASSORI - La coppia composta da Simone Bolelli e Andrea Vavassori esordisce nel girone delle Atp Finals  - Tc: Nicolodi-Reggi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/ca3f545c-c975-3f79-8870-c2aec6b10ee0/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=6062f071-c6d1-3e95-a4ce-c518ea405245" />
   </programme>
   <programme start="20261116203000 +0800" stop="20261116210000 +0800" channel="SkySportUno.it">
@@ -1611,8 +1611,8 @@
   </programme>
   <programme start="20261116210000 +0800" stop="20261116230000 +0800" channel="SkySportUno.it">
     <title lang="it">Singolare: Sessione Diurna... (Diretta)</title>
-    <desc lang="it">[S2026E259] ... Tennis: ATP Finals. - Dalla Inalpi Arena di Torino, Italia.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=48d1f03c-e793-3f7a-9e65-c1e367d6a4e9" />
+    <desc lang="it">[S2026E259] ... Tennis: ATP Finals. - ALCARAZ (Spa)-TIAFOE (Usa) - Primo incontro del gruppo "Ivan Lendl" alle Atp Finals di Torino - Tc: Ferrero-Rossi</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7676f509-e282-340f-ba12-890d753cac1d" />
   </programme>
   <programme start="20261116230000 +0800" stop="20261116232500 +0800" channel="SkySportUno.it">
     <title lang="it">16/11/2026 Studio Tennis (Diretta)</title>
@@ -1636,7 +1636,7 @@
   </programme>
   <programme start="20261117010000 +0800" stop="20261117030000 +0800" channel="SkySportUno.it">
     <title lang="it">Doppio: Sessione Serale... (Diretta)</title>
-    <desc lang="it">[S2026E262] ... Tennis: ATP Finals. - Dalla Inalpi Arena di Torino, Italia.</desc>
+    <desc lang="it">[S2026E262] ... Tennis: ATP Finals. - HARRISON/SKUPSKI-KRAWIETZ/PUETZ - Secondo match del gruppo "Mark Woodforde" - Tc: Ferrero-Colangelo</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/9434abdd-3f74-347d-bc6a-b3feb02699ff/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=3c84b0a6-b68a-3514-9658-e717ff859423" />
   </programme>
   <programme start="20261117030000 +0800" stop="20261117033000 +0800" channel="SkySportUno.it">
@@ -1646,7 +1646,7 @@
   </programme>
   <programme start="20261117033000 +0800" stop="20261117053000 +0800" channel="SkySportUno.it">
     <title lang="it">Singolare: Sessione Serale... (Diretta)</title>
-    <desc lang="it">[S2026E260] ... Tennis: ATP Finals. - Dalla Inalpi Arena di Torino, Italia.</desc>
+    <desc lang="it">[S2026E260] ... Tennis: ATP Finals. - MEDVEDEV-COBOLLI (Ita) - Flavio Cobolli esordisce alle Atp Finals contro Daniil Medvedev, che ha vinto il torneo nel 2020 - Tc: Boschetto-Bertolucci</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/79a64290-35c9-3912-ac9c-b2c787f8c6e1/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c85057f8-4faf-329b-ba40-b01372cb9ef1" />
   </programme>
   <programme start="20261117053000 +0800" stop="20261117060000 +0800" channel="SkySportUno.it">
@@ -2564,32 +2564,32 @@
     <desc lang="it">[S2026E33] ... 15/11/2026 Prepartita Nations League. - La presentazione dei match, le interviste, le analisi e i commenti di questa 6a giornata. In studio Federica Masolin, Veronica Baldaccini, Gianfranco Teotino e Marco Nosotti</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/c0ddf5f3-3dbf-375a-8ee0-b78a7fa5c058/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=9a4f6db9-516b-30fc-9b31-afe5c005130b" />
   </programme>
-  <programme start="20261116033500 +0800" stop="20261116054500 +0800" channel="SkySportCalcio.it">
+  <programme start="20261116033500 +0800" stop="20261116055000 +0800" channel="SkySportCalcio.it">
     <title lang="it">Calcio Uefa Nations League... (Diretta)</title>
     <desc lang="it">[S2026E74] ... 5ga Diretta Gol 15/11/2026 Diretta Gol UEFA Nations League. - Tutti i gol "live" per non perdersi nulla di questa sesta giornata di Nations League, edizione n. 5. Campione in carica il Portogallo</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/a570cfe3-c398-3d2c-97b4-d58d99b5dec8/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=dacbd98e-bb7b-3fe0-9f5c-c00565577b95" />
   </programme>
-  <programme start="20261116054500 +0800" stop="20261116061500 +0800" channel="SkySportCalcio.it">
+  <programme start="20261116055000 +0800" stop="20261116061500 +0800" channel="SkySportCalcio.it">
     <title lang="it">Postpartita Nations League... (Diretta)</title>
     <desc lang="it">[S2026E34] ... 15/11/2026 Postpartita Nations League. - Gli highlights, le interviste, le analisi e i commenti di questa 6a giornata. In studio Federica Masolin, Veronica Baldaccini, Gianfranco Teotino, Marco Nosotti e Beppe Bergomi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/63f71a15-3d9a-3fbf-bc82-0f9251932950/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c6668471-78cc-3006-adea-73a0114c9d1f" />
   </programme>
-  <programme start="20261116061500 +0800" stop="20261116064500 +0800" channel="SkySportCalcio.it">
+  <programme start="20261116061500 +0800" stop="20261116070000 +0800" channel="SkySportCalcio.it">
     <title lang="it">Totti 90/10</title>
     <desc lang="it">[S02E02] 90/10</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/c0ddad88-08a8-3225-9287-d68d199883a3/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=5da16e97-ede1-3b66-85db-4b9591e8caf0" />
   </programme>
-  <programme start="20261116064500 +0800" stop="20261116070500 +0800" channel="SkySportCalcio.it">
+  <programme start="20261116070000 +0800" stop="20261116072000 +0800" channel="SkySportCalcio.it">
     <title lang="it">Claudio Marchisio Back In The Game</title>
     <desc lang="it">[S02E04] L'ex calciatore di Juventus e nazionale condivide storie di sport, sfide e crescita personale, tra successi, fragilita' e rinascita.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/a2b98f78-9770-324c-801d-5e87dd6a5aa9/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=44b3aadb-df3c-3a1a-a844-ba7b96528e4b" />
   </programme>
-  <programme start="20261116070500 +0800" stop="20261116090500 +0800" channel="SkySportCalcio.it">
+  <programme start="20261116072000 +0800" stop="20261116091000 +0800" channel="SkySportCalcio.it">
     <title lang="it">Belgio - Italia UEFA Nations League</title>
     <desc lang="it">[S2026E73] Gruppo A1 con Francia seconda a quota 10 e Turchia ultima ancora a 0. Belgio terzo con 9 punti e Italia prima con 10 come i francesi, ha perso 2-0 all'andata. TC: Caressa-Bergomi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/85a4aced-9c00-3556-8c1a-7c90044b6444/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7b840c58-4b09-31cb-a818-49c18d115440" />
   </programme>
-  <programme start="20261116090500 +0800" stop="20261116110500 +0800" channel="SkySportCalcio.it">
+  <programme start="20261116091000 +0800" stop="20261116110500 +0800" channel="SkySportCalcio.it">
     <title lang="it">Francia - Turchia UEFA Nations League</title>
     <desc lang="it">[S2026E75] Gruppo A1 con Italia prima a quota 10 e Belgio terzo con 9 punti. Francia seconda con 10 punti come l'Italia e Turchia ancora a 0, ha perso 1-0 all'andata. TC: Matteo Marceddu</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/2de55c12-722b-3058-a5fb-4ecdf17b1b0d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c173984a-602e-3063-a878-8b73edaca50b" />
@@ -2739,37 +2739,37 @@
     <desc lang="it">[S2026E257] Un approfondimento ricco di notizie, commenti, statistiche e curiosita' sui tornei del circuito ATP, in programma nel corso della stagione, con interventi da parte degli ospiti in studio.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/60b8c445-85fa-3bc0-8fd7-e04d176082cf/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=84ae5ab1-176b-3d18-bd16-10d8bd5405dd" />
   </programme>
-  <programme start="20261116033000 +0800" stop="20261116053000 +0800" channel="SkySportTennis.it">
-    <title lang="it">Singolare: Sessione Serale... (Diretta)</title>
-    <desc lang="it">[S2026E01] ... Tennis: ATP Finals. - SHELTON (Usa)-FILS (Fra) - Alle Nitto Atp Finals di Torino, si gioca la seconda partita del gruppo "John McEnroe" - Tc: Ferrero-Rossi</desc>
+  <programme start="20261116033000 +0800" stop="20261116060000 +0800" channel="SkySportTennis.it">
+    <title lang="it">Shelton - Fils (Diretta)</title>
+    <desc lang="it">[S2026E01] ... Tennis: ATP Finals. - Singolare: Sessione Serale - Alle Nitto Atp Finals di Torino, si gioca la seconda partita del gruppo "John McEnroe" - Tc: Ferrero-Rossi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/4010b474-1a52-3750-acb7-67aae172fc57/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c85057f8-4faf-329b-ba40-b01372cb9ef1" />
   </programme>
-  <programme start="20261116053000 +0800" stop="20261116060000 +0800" channel="SkySportTennis.it">
+  <programme start="20261116060000 +0800" stop="20261116062500 +0800" channel="SkySportTennis.it">
     <title lang="it">15/11/2026 Studio Tennis (Diretta)</title>
     <desc lang="it">[S2026E257] Un approfondimento ricco di notizie, commenti, statistiche e curiosita' sui tornei del circuito ATP, in programma nel corso della stagione, con interventi da parte degli ospiti in studio.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/60b8c445-85fa-3bc0-8fd7-e04d176082cf/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=84ae5ab1-176b-3d18-bd16-10d8bd5405dd" />
   </programme>
-  <programme start="20261116060000 +0800" stop="20261116061500 +0800" channel="SkySportTennis.it">
+  <programme start="20261116062500 +0800" stop="20261116063000 +0800" channel="SkySportTennis.it">
     <title lang="it">Ep.1 Tennis: The Insider ATP Finals</title>
     <desc lang="it">[S2026E01] The Insider ti permette di vivere la magia degli incontri di tennis come nessun altro.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/40c14ec1-451d-3251-94fe-1dcd12bef7c7/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=5503f6a3-195e-3caf-9786-61315ef1974a" />
   </programme>
-  <programme start="20261116061500 +0800" stop="20261116070500 +0800" channel="SkySportTennis.it">
+  <programme start="20261116063000 +0800" stop="20261116072000 +0800" channel="SkySportTennis.it">
     <title lang="it">Master Panatta &amp; Bertolucci Tennis...</title>
     <desc lang="it">[S2026E05] Ripercorriamo l'evoluzione storica e il fascino delle ATP Finals, commentando le finali piu' iconiche e le rivalita' che hanno segnato l'albo d'oro del torneo. Panatta e Bertolucci condividono retroscena vissuti nel circuito degli anni '70.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/3d0c1e50-d82e-374d-a1fd-f99856373595/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=8a32f051-6a0b-3440-9a1e-9020b4aed2cc" />
   </programme>
-  <programme start="20261116070500 +0800" stop="20261116072000 +0800" channel="SkySportTennis.it">
+  <programme start="20261116072000 +0800" stop="20261116074500 +0800" channel="SkySportTennis.it">
     <title lang="it">Ep.1 Tennis: The Insider ATP Finals</title>
     <desc lang="it">[S2026E01] The Insider ti permette di vivere la magia degli incontri di tennis come nessun altro.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/40c14ec1-451d-3251-94fe-1dcd12bef7c7/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=5503f6a3-195e-3caf-9786-61315ef1974a" />
   </programme>
-  <programme start="20261116072000 +0800" stop="20261116082000 +0800" channel="SkySportTennis.it">
+  <programme start="20261116074500 +0800" stop="20261116084500 +0800" channel="SkySportTennis.it">
     <title lang="it">Torino Tennis Talk</title>
     <desc lang="it">Dall'Istituto di ricerca di Candiolo Raffaella Reggi, Renzo Furlan e Alessandro Del Piero dialogano con Federico Ferri in vista delle Nitto ATP Finals di Torino.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/98ab736d-bd54-3a2c-8c32-91675f1dc24c/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=e847763a-5648-35cd-855d-b61871aa08a7" />
   </programme>
-  <programme start="20261116082000 +0800" stop="20261116101000 +0800" channel="SkySportTennis.it">
+  <programme start="20261116084500 +0800" stop="20261116101000 +0800" channel="SkySportTennis.it">
     <title lang="it">Singolare: Sessione Diurna Tennis: ATP Finals</title>
     <desc lang="it">[S2026E01] - ZVEREV (Ger)-JODAR (Spa) - Alle Nitto Atp Finals di Torino, si gioca la prima partita del gruppo "John McEnroe" - Tc: Boschetto-Bertolucci</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/8d9ff2e4-846e-3f08-bcb0-0668cade8ab6/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7676f509-e282-340f-ba12-890d753cac1d" />
@@ -2816,7 +2816,7 @@
   </programme>
   <programme start="20261116183000 +0800" stop="20261116203000 +0800" channel="SkySportTennis.it">
     <title lang="it">Doppio: Sessione Diurna... (Diretta)</title>
-    <desc lang="it">[S2026E261] ... Tennis: ATP Finals. - Dalla Inalpi Arena di Torino, Italia.</desc>
+    <desc lang="it">[S2026E261] ... Tennis: ATP Finals. - GRANOLLERS/ZEBALLOS-BOLELLI/VAVASSORI - La coppia composta da Simone Bolelli e Andrea Vavassori esordisce nel girone delle Atp Finals  - Tc: Nicolodi-Reggi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/ca3f545c-c975-3f79-8870-c2aec6b10ee0/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=6062f071-c6d1-3e95-a4ce-c518ea405245" />
   </programme>
   <programme start="20261116203000 +0800" stop="20261116210000 +0800" channel="SkySportTennis.it">
@@ -2826,8 +2826,8 @@
   </programme>
   <programme start="20261116210000 +0800" stop="20261116230000 +0800" channel="SkySportTennis.it">
     <title lang="it">Singolare: Sessione Diurna... (Diretta)</title>
-    <desc lang="it">[S2026E259] ... Tennis: ATP Finals. - Dalla Inalpi Arena di Torino, Italia.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=48d1f03c-e793-3f7a-9e65-c1e367d6a4e9" />
+    <desc lang="it">[S2026E259] ... Tennis: ATP Finals. - ALCARAZ (Spa)-TIAFOE (Usa) - Primo incontro del gruppo "Ivan Lendl" alle Atp Finals di Torino - Tc: Ferrero-Rossi</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7676f509-e282-340f-ba12-890d753cac1d" />
   </programme>
   <programme start="20261116230000 +0800" stop="20261116233000 +0800" channel="SkySportTennis.it">
     <title lang="it">16/11/2026 Studio Tennis (Diretta)</title>
@@ -2846,7 +2846,7 @@
   </programme>
   <programme start="20261117010000 +0800" stop="20261117030000 +0800" channel="SkySportTennis.it">
     <title lang="it">Doppio: Sessione Serale... (Diretta)</title>
-    <desc lang="it">[S2026E262] ... Tennis: ATP Finals. - Dalla Inalpi Arena di Torino, Italia.</desc>
+    <desc lang="it">[S2026E262] ... Tennis: ATP Finals. - HARRISON/SKUPSKI-KRAWIETZ/PUETZ - Secondo match del gruppo "Mark Woodforde" - Tc: Ferrero-Colangelo</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/9434abdd-3f74-347d-bc6a-b3feb02699ff/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=3c84b0a6-b68a-3514-9658-e717ff859423" />
   </programme>
   <programme start="20261117030000 +0800" stop="20261117033000 +0800" channel="SkySportTennis.it">
@@ -2856,7 +2856,7 @@
   </programme>
   <programme start="20261117033000 +0800" stop="20261117053000 +0800" channel="SkySportTennis.it">
     <title lang="it">Singolare: Sessione Serale... (Diretta)</title>
-    <desc lang="it">[S2026E260] ... Tennis: ATP Finals. - Dalla Inalpi Arena di Torino, Italia.</desc>
+    <desc lang="it">[S2026E260] ... Tennis: ATP Finals. - MEDVEDEV-COBOLLI (Ita) - Flavio Cobolli esordisce alle Atp Finals contro Daniil Medvedev, che ha vinto il torneo nel 2020 - Tc: Boschetto-Bertolucci</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/79a64290-35c9-3912-ac9c-b2c787f8c6e1/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c85057f8-4faf-329b-ba40-b01372cb9ef1" />
   </programme>
   <programme start="20261117053000 +0800" stop="20261117060000 +0800" channel="SkySportTennis.it">
@@ -2881,8 +2881,8 @@
   </programme>
   <programme start="20261117072500 +0800" stop="20261117091500 +0800" channel="SkySportTennis.it">
     <title lang="it">Singolare: Sessione Diurna Tennis: ATP Finals</title>
-    <desc lang="it">[S2026E259] - Dalla Inalpi Arena di Torino, Italia.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=48d1f03c-e793-3f7a-9e65-c1e367d6a4e9" />
+    <desc lang="it">[S2026E259] - ALCARAZ (Spa)-TIAFOE (Usa) - Primo incontro del gruppo "Ivan Lendl" alle Atp Finals di Torino - Tc: Ferrero-Rossi</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7676f509-e282-340f-ba12-890d753cac1d" />
   </programme>
   <programme start="20261117091500 +0800" stop="20261117093000 +0800" channel="SkySportTennis.it">
     <title lang="it">Ep.2 Tennis: The Insider ATP Finals</title>
@@ -2891,7 +2891,7 @@
   </programme>
   <programme start="20261117093000 +0800" stop="20261117110500 +0800" channel="SkySportTennis.it">
     <title lang="it">Singolare: Sessione Serale Tennis: ATP Finals</title>
-    <desc lang="it">[S2026E260] - Dalla Inalpi Arena di Torino, Italia.</desc>
+    <desc lang="it">[S2026E260] - MEDVEDEV-COBOLLI (Ita) - Flavio Cobolli esordisce alle Atp Finals contro Daniil Medvedev, che ha vinto il torneo nel 2020 - Tc: Boschetto-Bertolucci</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/79a64290-35c9-3912-ac9c-b2c787f8c6e1/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c85057f8-4faf-329b-ba40-b01372cb9ef1" />
   </programme>
   <programme start="20261117110500 +0800" stop="20261117112000 +0800" channel="SkySportTennis.it">
@@ -2901,8 +2901,8 @@
   </programme>
   <programme start="20261117112000 +0800" stop="20261117130000 +0800" channel="SkySportTennis.it">
     <title lang="it">Singolare: Sessione Diurna Tennis: ATP Finals</title>
-    <desc lang="it">[S2026E259] - Dalla Inalpi Arena di Torino, Italia.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=48d1f03c-e793-3f7a-9e65-c1e367d6a4e9" />
+    <desc lang="it">[S2026E259] - ALCARAZ (Spa)-TIAFOE (Usa) - Primo incontro del gruppo "Ivan Lendl" alle Atp Finals di Torino - Tc: Ferrero-Rossi</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7676f509-e282-340f-ba12-890d753cac1d" />
   </programme>
   <programme start="20261117130000 +0800" stop="20261117131500 +0800" channel="SkySportTennis.it">
     <title lang="it">Ep.2 Tennis: The Insider ATP Finals</title>
@@ -2911,8 +2911,8 @@
   </programme>
   <programme start="20261117131500 +0800" stop="20261117150000 +0800" channel="SkySportTennis.it">
     <title lang="it">Singolare: Sessione Diurna Tennis: ATP Finals</title>
-    <desc lang="it">[S2026E259] - Dalla Inalpi Arena di Torino, Italia.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=48d1f03c-e793-3f7a-9e65-c1e367d6a4e9" />
+    <desc lang="it">[S2026E259] - ALCARAZ (Spa)-TIAFOE (Usa) - Primo incontro del gruppo "Ivan Lendl" alle Atp Finals di Torino - Tc: Ferrero-Rossi</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/be58e425-e140-3114-8742-2ae64e57c022/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7676f509-e282-340f-ba12-890d753cac1d" />
   </programme>
   <programme start="20261117150000 +0800" stop="20261117151500 +0800" channel="SkySportTennis.it">
     <title lang="it">Ep.2 Tennis: The Insider ATP Finals</title>
@@ -2921,7 +2921,7 @@
   </programme>
   <programme start="20261117151500 +0800" stop="20261117170000 +0800" channel="SkySportTennis.it">
     <title lang="it">Singolare: Sessione Serale Tennis: ATP Finals</title>
-    <desc lang="it">[S2026E260] - Dalla Inalpi Arena di Torino, Italia.</desc>
+    <desc lang="it">[S2026E260] - MEDVEDEV-COBOLLI (Ita) - Flavio Cobolli esordisce alle Atp Finals contro Daniil Medvedev, che ha vinto il torneo nel 2020 - Tc: Boschetto-Bertolucci</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/79a64290-35c9-3912-ac9c-b2c787f8c6e1/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c85057f8-4faf-329b-ba40-b01372cb9ef1" />
   </programme>
   <programme start="20261117170000 +0800" stop="20261117180000 +0800" channel="SkySportTennis.it">
@@ -2969,102 +2969,102 @@
     <desc lang="it">Dal Circuito Paul Ricard di Le Castellet, Francia.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/aeae2a4b-7752-3852-b008-c74e9be778ce/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=da68bb61-a2f2-3ac8-a8d4-cae6bef9aaa8" />
   </programme>
-  <programme start="20261116004500 +0800" stop="20261116010500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116004500 +0800" stop="20261116013000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">La Storia Di Angelo Bergamonti</title>
     <desc lang="it">La storia di Angelo Bergamonti, detto Cassius Clay per la sua tenacia. Dalla provincia cremonese al mondiale con talento e sacrificio, rivaleggiando con Agostini fino alla tragica scomparsa nel 1971.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/b9baeaeb-329d-3779-8aec-073b789b54c6/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=d391816c-58cd-3690-a670-a1ab67710908" />
   </programme>
-  <programme start="20261116010500 +0800" stop="20261116014500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116013000 +0800" stop="20261116021500 +0800" channel="SkySportMotoGP.it">
     <title lang="it">GP Cechia: Sprint Race MotoGP</title>
     <desc lang="it">[S2026E167] Nono appuntamento del mondiale 2026: a Brno, in Repubblica Ceca, si accendono i motori per la Sprint della MotoGP. Telecronaca Guido Meda e Mauro Sanchini</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/1ef3cf11-1346-364e-90db-e92c2911d922/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=8020423a-ab8d-3a25-9548-3fb80d1621ac" />
   </programme>
-  <programme start="20261116014500 +0800" stop="20261116024000 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116021500 +0800" stop="20261116030500 +0800" channel="SkySportMotoGP.it">
     <title lang="it">GP Cechia: Gara MotoGP</title>
     <desc lang="it">[S2026E170] Nono appuntamento del mondiale 2026: a Brno, in Repubblica Ceca, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/6b35a814-7614-3cc3-b1af-bf32e5df5dc0/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=a97ed725-2efd-341c-b484-f01d813150a4" />
   </programme>
-  <programme start="20261116024000 +0800" stop="20261116030000 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116030500 +0800" stop="20261116032500 +0800" channel="SkySportMotoGP.it">
     <title lang="it">Bulega: La Stagione Dei Record</title>
     <desc lang="it">Nicolo' Bulega sta battendo ogni record di vittorie in Superbike in attesa di scoprire se per lui, nel 2027, si apriranno le porte della MotoGP.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/98bcf339-fa44-3af9-9e71-7ba68c0ec1de/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c66d3884-b1af-35cb-ae40-58e0be7878ea" />
   </programme>
-  <programme start="20261116030000 +0800" stop="20261116033000 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116032500 +0800" stop="20261116040000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">All On Red</title>
     <desc lang="it">il racconto della straordinaria stagione 2025 di Marc Marquez che si e' conclusa con la conquista del titolo mondiale di MotoGP, con le interviste e il backstage nel box Ducati durante la stagione.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/3a69415c-284e-3ff0-b221-35f1ff688ba9/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=35f45004-9dcc-3d2d-a6fd-fc7a58f14229" />
   </programme>
-  <programme start="20261116033000 +0800" stop="20261116034500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116040000 +0800" stop="20261116041500 +0800" channel="SkySportMotoGP.it">
     <title lang="it">Marquez: E' rosso</title>
     <desc lang="it">Speciale giornalistico con cui la Ducati e i principali media sportivi celebrano e annunciano il clamoroso rinnovo di contratto di Marc Marquez con la squadra ufficiale Ducati Lenovo Team fino al 2028.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/747870a8-91b3-3a78-b790-fa69854b08ee/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=596d8153-e055-3ae9-97cb-f7c49150ddd3" />
   </programme>
-  <programme start="20261116034500 +0800" stop="20261116040500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116041500 +0800" stop="20261116043000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">La svolta di Alex</title>
     <desc lang="it">Analisi di gare, stagioni in salita e svolte tecniche o personali nel percorso di Alex De Angelis.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/4b33418a-1b1a-3003-915f-27895574325d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=84c4536f-8a2c-311d-9570-b280b4098a8c" />
   </programme>
-  <programme start="20261116040500 +0800" stop="20261116045000 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116043000 +0800" stop="20261116051500 +0800" channel="SkySportMotoGP.it">
     <title lang="it">GP Ungheria: Sprint Race MotoGP</title>
     <desc lang="it">[S2026E150] Ottavo appuntamento del mondiale 2026: al Balaton Ring, in Ungheria, si accendono i motori per la Sprint della MotoGP. Telecronaca Guido Meda e Mauro Sanchini</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/a99459b8-c463-373c-be14-2a39220bdbca/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=6d649dc0-94b8-3b46-97d2-e7c86bda3b6a" />
   </programme>
-  <programme start="20261116045000 +0800" stop="20261116054500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116051500 +0800" stop="20261116061000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">GP Ungheria: Gara MotoGP</title>
     <desc lang="it">[S2026E153] Ottavo appuntamento del mondiale 2026: al Balaton Ring, in Ungheria, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/872d68f8-25a4-3bbe-8120-8d0c5d82ff61/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7b4e70df-284f-30e4-87b5-8b38cc273cb0" />
   </programme>
-  <programme start="20261116054500 +0800" stop="20261116060000 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116061000 +0800" stop="20261116063000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">Team Marquez Vs Team Martin</title>
     <desc lang="it">Dietro a due piloti c'e' sempre un team che lavora per portarli al successo. In questo speciale scopriamo chi sono i capotecnici e i telemetristi che supportano Marc Marquez e Jorge Martin.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/2fa5d088-68e1-34bc-9d73-f40c7bbb303d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c6831163-86ad-3530-b98d-76c8263961b3" />
   </programme>
-  <programme start="20261116060000 +0800" stop="20261116070000 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116063000 +0800" stop="20261116072000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">GP Italia: Gara MotoGP</title>
     <desc lang="it">[S2026E136] Settimo appuntamento del mondiale 2026: al Mugello, in Italia, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/8bb4575b-1d38-3b0c-9467-d2ae64a92b8b/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=df31d2a0-4024-354e-ba61-414626ef9602" />
   </programme>
-  <programme start="20261116070000 +0800" stop="20261116074500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116072000 +0800" stop="20261116080000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">GP Cechia: Sprint Race MotoGP</title>
     <desc lang="it">[S2026E167] Nono appuntamento del mondiale 2026: a Brno, in Repubblica Ceca, si accendono i motori per la Sprint della MotoGP. Telecronaca Guido Meda e Mauro Sanchini</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/1ef3cf11-1346-364e-90db-e92c2911d922/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=8020423a-ab8d-3a25-9548-3fb80d1621ac" />
   </programme>
-  <programme start="20261116074500 +0800" stop="20261116084500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116080000 +0800" stop="20261116090000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">GP Cechia: Gara MotoGP</title>
     <desc lang="it">[S2026E170] Nono appuntamento del mondiale 2026: a Brno, in Repubblica Ceca, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/6b35a814-7614-3cc3-b1af-bf32e5df5dc0/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=a97ed725-2efd-341c-b484-f01d813150a4" />
   </programme>
-  <programme start="20261116084500 +0800" stop="20261116090000 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116090000 +0800" stop="20261116091500 +0800" channel="SkySportMotoGP.it">
     <title lang="it">Bulega: La Stagione Dei Record</title>
     <desc lang="it">Nicolo' Bulega sta battendo ogni record di vittorie in Superbike in attesa di scoprire se per lui, nel 2027, si apriranno le porte della MotoGP.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/98bcf339-fa44-3af9-9e71-7ba68c0ec1de/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c66d3884-b1af-35cb-ae40-58e0be7878ea" />
   </programme>
-  <programme start="20261116090000 +0800" stop="20261116093000 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116091500 +0800" stop="20261116094000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">All On Red</title>
     <desc lang="it">il racconto della straordinaria stagione 2025 di Marc Marquez che si e' conclusa con la conquista del titolo mondiale di MotoGP, con le interviste e il backstage nel box Ducati durante la stagione.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/3a69415c-284e-3ff0-b221-35f1ff688ba9/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=35f45004-9dcc-3d2d-a6fd-fc7a58f14229" />
   </programme>
-  <programme start="20261116093000 +0800" stop="20261116094500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116094000 +0800" stop="20261116100000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">Marquez: E' rosso</title>
     <desc lang="it">Speciale giornalistico con cui la Ducati e i principali media sportivi celebrano e annunciano il clamoroso rinnovo di contratto di Marc Marquez con la squadra ufficiale Ducati Lenovo Team fino al 2028.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/747870a8-91b3-3a78-b790-fa69854b08ee/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=596d8153-e055-3ae9-97cb-f7c49150ddd3" />
   </programme>
-  <programme start="20261116094500 +0800" stop="20261116100000 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116100000 +0800" stop="20261116101500 +0800" channel="SkySportMotoGP.it">
     <title lang="it">La svolta di Alex</title>
     <desc lang="it">Analisi di gare, stagioni in salita e svolte tecniche o personali nel percorso di Alex De Angelis.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/4b33418a-1b1a-3003-915f-27895574325d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=84c4536f-8a2c-311d-9570-b280b4098a8c" />
   </programme>
-  <programme start="20261116100000 +0800" stop="20261116104500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116101500 +0800" stop="20261116105500 +0800" channel="SkySportMotoGP.it">
     <title lang="it">GP Ungheria: Sprint Race MotoGP</title>
     <desc lang="it">[S2026E150] Ottavo appuntamento del mondiale 2026: al Balaton Ring, in Ungheria, si accendono i motori per la Sprint della MotoGP. Telecronaca Guido Meda e Mauro Sanchini</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/a99459b8-c463-373c-be14-2a39220bdbca/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=6d649dc0-94b8-3b46-97d2-e7c86bda3b6a" />
   </programme>
-  <programme start="20261116104500 +0800" stop="20261116114500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116105500 +0800" stop="20261116115000 +0800" channel="SkySportMotoGP.it">
     <title lang="it">GP Ungheria: Gara MotoGP</title>
     <desc lang="it">[S2026E153] Ottavo appuntamento del mondiale 2026: al Balaton Ring, in Ungheria, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/872d68f8-25a4-3bbe-8120-8d0c5d82ff61/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7b4e70df-284f-30e4-87b5-8b38cc273cb0" />
   </programme>
-  <programme start="20261116114500 +0800" stop="20261116120500 +0800" channel="SkySportMotoGP.it">
+  <programme start="20261116115000 +0800" stop="20261116120500 +0800" channel="SkySportMotoGP.it">
     <title lang="it">Team Marquez Vs Team Martin</title>
     <desc lang="it">Dietro a due piloti c'e' sempre un team che lavora per portarli al successo. In questo speciale scopriamo chi sono i capotecnici e i telemetristi che supportano Marc Marquez e Jorge Martin.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/2fa5d088-68e1-34bc-9d73-f40c7bbb303d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=c6831163-86ad-3530-b98d-76c8263961b3" />
@@ -4529,17 +4529,17 @@
     <desc lang="it">[S2026E14] - I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/0312822b-4c49-3526-ac70-a977153d3d40/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7f4a2783-90ac-3876-bb92-7e5b3d25686f" />
   </programme>
-  <programme start="20261116040000 +0800" stop="20261116060000 +0800" channel="SkySportArena.it">
+  <programme start="20261116040000 +0800" stop="20261116064000 +0800" channel="SkySportArena.it">
     <title lang="it">Finale Singolare Tennis:... (Diretta)</title>
     <desc lang="it">[S2026E10] ... WTA Finals Indian Wells. - SVITOLINA (Ukr)-ANDREEVA - La 19enne russa Mirra Andreeva sfida la 32enne ucraina Elina Svitolina, gia' vincitrice nel 2018. Tc: Brunelli-Garrone</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/392ba052-eef3-3f0b-9c2f-a26180260299/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=663b011f-d6e8-3fd2-8a46-2e7f35242f55" />
   </programme>
-  <programme start="20261116060000 +0800" stop="20261116080000 +0800" channel="SkySportArena.it">
+  <programme start="20261116064000 +0800" stop="20261116085000 +0800" channel="SkySportArena.it">
     <title lang="it">Finale Doppio Tennis: WTA... (Diretta)</title>
     <desc lang="it">[S2026E12] ... Finals Indian Wells. - SINIAKOVA/TOWNSEND-ERRANI/PAOLINI - Sara Errani e Jasmine Paolini cercano a Indian Wells il loro primo titolo alle Wta Finals. Tc: Bisti-Garrone</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/11a5b397-58bd-3091-ba06-c39d812a3e56/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=cf855210-677d-3660-b79e-a35d7c32efd2" />
   </programme>
-  <programme start="20261116080000 +0800" stop="20261116090000 +0800" channel="SkySportArena.it">
+  <programme start="20261116085000 +0800" stop="20261116090000 +0800" channel="SkySportArena.it">
     <title lang="it">Torino Tennis Talk</title>
     <desc lang="it">Dall'Istituto di ricerca di Candiolo Raffaella Reggi, Renzo Furlan e Alessandro Del Piero dialogano con Federico Ferri in vista delle Nitto ATP Finals di Torino.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/98ab736d-bd54-3a2c-8c32-91675f1dc24c/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=e847763a-5648-35cd-855d-b61871aa08a7" />
@@ -4570,9 +4570,9 @@
     <icon src="https://pixel.disco.nowtv.it/uuid/0312822b-4c49-3526-ac70-a977153d3d40/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7f4a2783-90ac-3876-bb92-7e5b3d25686f" />
   </programme>
   <programme start="20261116150000 +0800" stop="20261116165500 +0800" channel="SkySportArena.it">
-    <title lang="it">Udine - EA7 Emporio Armani Milano Lega Basket Serie A</title>
-    <desc lang="it">[S2026E16] - Dopo la sconfitta contro lo Zalgiris nella prima di coach Banchi, l'Olimpia viaggia a Udine a casa di un avversario rinfrancato dalla bella vittoria di Varese. Telecronaca: Solaini-Meneghin.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/429c58a8-c5ac-38ec-a4c6-7e9dab9e2d7f/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=ba496177-d87f-3c78-b8e1-1ee233e2e268" />
+    <title lang="it">Nutribullet Treviso Basket -...</title>
+    <desc lang="it">[S2026E15] ... Longobardi Scafati Basket Lega Basket Serie A. - Punti pesanti in palio a Treviso: persa la partita di Tortona, i veneti ospitano i campani reduci dalla beffarda sconfitta nel derby contro Napoli. Telecronaca di Geri De Rosa e Chicca Macchi.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/d40fe562-f914-3aaf-8567-b648a984f79d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=90e919bd-e14f-3c96-a000-23fc78ec010e" />
   </programme>
   <programme start="20261116165500 +0800" stop="20261116190000 +0800" channel="SkySportArena.it">
     <title lang="it">Scozia - Australia Nations Championship</title>
@@ -4584,25 +4584,25 @@
     <desc lang="it">Dall'Istituto di ricerca di Candiolo Raffaella Reggi, Renzo Furlan e Alessandro Del Piero dialogano con Federico Ferri in vista delle Nitto ATP Finals di Torino.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/98ab736d-bd54-3a2c-8c32-91675f1dc24c/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=e847763a-5648-35cd-855d-b61871aa08a7" />
   </programme>
-  <programme start="20261116200000 +0800" stop="20261116210000 +0800" channel="SkySportArena.it">
+  <programme start="20261116200000 +0800" stop="20261116205500 +0800" channel="SkySportArena.it">
     <title lang="it">Ginevra Highlights Sail GP</title>
     <desc lang="it">[S2026E10] Sintesi e momenti salienti della piu' spettacolare gara velica internazionale dedicata ai catamarani foiling F50.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/e5e9df51-a306-3b91-9215-fe5e774b2e0d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=6b241e71-3f77-3b87-8b5b-b02c04556626" />
   </programme>
-  <programme start="20261116210000 +0800" stop="20261116225000 +0800" channel="SkySportArena.it">
+  <programme start="20261116205500 +0800" stop="20261116224500 +0800" channel="SkySportArena.it">
     <title lang="it">Italia - Argentina Nations Championship</title>
     <desc lang="it">[S2026E25] 5a giornata del torneo che unisce i test di luglio e novembre. 11esima e 8a del ranking. L'Italia non batte i Pumas dal 2008. Si gioca a Genova. Telecronaca Pierantozzi-De Rossi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/af407c42-049b-30c7-a3d0-62647b877aa8/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=e2a2cb31-4b3d-3534-b45e-b01691abd34b" />
   </programme>
-  <programme start="20261116225000 +0800" stop="20261116232000 +0800" channel="SkySportArena.it">
+  <programme start="20261116224500 +0800" stop="20261116231500 +0800" channel="SkySportArena.it">
     <title lang="it">Boat Show 2026 Ep.36 12/11/2026 The Boat Show</title>
     <desc lang="it">[S2026E36] - Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/0c853376-600e-375c-a791-11d94bb0d78d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=73e0aa04-8fac-36e2-a6a1-ff22a718469a" />
   </programme>
-  <programme start="20261116232000 +0800" stop="20261117011500 +0800" channel="SkySportArena.it">
-    <title lang="it">Udine - EA7 Emporio Armani Milano Lega Basket Serie A</title>
-    <desc lang="it">[S2026E16] - Dopo la sconfitta contro lo Zalgiris nella prima di coach Banchi, l'Olimpia viaggia a Udine a casa di un avversario rinfrancato dalla bella vittoria di Varese. Telecronaca: Solaini-Meneghin.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/429c58a8-c5ac-38ec-a4c6-7e9dab9e2d7f/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=ba496177-d87f-3c78-b8e1-1ee233e2e268" />
+  <programme start="20261116231500 +0800" stop="20261117011500 +0800" channel="SkySportArena.it">
+    <title lang="it">Nutribullet Treviso Basket -...</title>
+    <desc lang="it">[S2026E15] ... Longobardi Scafati Basket Lega Basket Serie A. - Punti pesanti in palio a Treviso: persa la partita di Tortona, i veneti ospitano i campani reduci dalla beffarda sconfitta nel derby contro Napoli. Telecronaca di Geri De Rosa e Chicca Macchi.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/d40fe562-f914-3aaf-8567-b648a984f79d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=90e919bd-e14f-3c96-a000-23fc78ec010e" />
   </programme>
   <programme start="20261117011500 +0800" stop="20261117014500 +0800" channel="SkySportArena.it">
     <title lang="it">Icarus Ultra 2026/2027 Ep.3 16/11/2026 Icarus Ultra</title>
@@ -4729,12 +4729,12 @@
     <desc lang="it">[S02E04] L'ex calciatore di Juventus e nazionale condivide storie di sport, sfide e crescita personale, tra successi, fragilita' e rinascita.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/a2b98f78-9770-324c-801d-5e87dd6a5aa9/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=44b3aadb-df3c-3a1a-a844-ba7b96528e4b" />
   </programme>
-  <programme start="20261116005000 +0800" stop="20261116030000 +0800" channel="SkySportMax.it">
+  <programme start="20261116005000 +0800" stop="20261116031000 +0800" channel="SkySportMax.it">
     <title lang="it">Bielorussia - Albania UEFA... (Diretta)</title>
     <desc lang="it">[S2026E71] ... Nations League. - Gruppo C1 con Finlandia terza a quota 7 e San Marino ancora a 0 punti. Bielorussia seconda con 10 punti e Albania prima con 12, ha vinto 2-0 all'andata. TC: Giovanni Cristiano</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/70f1e554-1312-3cce-b932-d335fe4a68f3/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=3774524e-c25a-31e0-ba1f-12584ab87525" />
   </programme>
-  <programme start="20261116030000 +0800" stop="20261116032500 +0800" channel="SkySportMax.it">
+  <programme start="20261116031000 +0800" stop="20261116032500 +0800" channel="SkySportMax.it">
     <title lang="it">Champions League Remix Ep.4...</title>
     <desc lang="it">[S2026E04] ... 06/11/2026 UEFA Champions League Remix. - Il meglio della massima competizione continentale per club, attraverso le immagini piu' interessanti, i goal e le interviste ai protagonisti. Vediamo tutte le storie piu' importanti, con un montaggio spettacolare.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/9d54e7a7-0914-3c9b-92d6-f07cb232a962/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=d23f4804-d4b3-3f0e-ad44-2379a0638513" />
@@ -4789,37 +4789,37 @@
     <desc lang="it">[S2026E36] - Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/0c853376-600e-375c-a791-11d94bb0d78d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=73e0aa04-8fac-36e2-a6a1-ff22a718469a" />
   </programme>
-  <programme start="20261116163000 +0800" stop="20261116183000 +0800" channel="SkySportMax.it">
+  <programme start="20261116163000 +0800" stop="20261116183500 +0800" channel="SkySportMax.it">
     <title lang="it">Portogallo - Danimarca UEFA Nations League</title>
     <desc lang="it">[S2026E68] - Gruppo A4 con Norvegia e Galles entrambe a quota 3. Portogallo a punteggio pieno, Danimarca seconda con 6 punti. I portoghesi hanno vinto 4-2 all'andata. TC: Borghi-Marchegiani</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/dc3d0de7-6439-3da7-aba6-9a75f8b0adc8/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=0bec238e-94f9-3765-8182-17ae0ef5a343" />
   </programme>
-  <programme start="20261116183000 +0800" stop="20261116190000 +0800" channel="SkySportMax.it">
+  <programme start="20261116183500 +0800" stop="20261116190500 +0800" channel="SkySportMax.it">
     <title lang="it">This Is Padel 2026 Ep.14 13/11/2026 This Is Padel</title>
     <desc lang="it">[S2026E14] - I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/0312822b-4c49-3526-ac70-a977153d3d40/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7f4a2783-90ac-3876-bb92-7e5b3d25686f" />
   </programme>
-  <programme start="20261116190000 +0800" stop="20261116210000 +0800" channel="SkySportMax.it">
+  <programme start="20261116190500 +0800" stop="20261116210500 +0800" channel="SkySportMax.it">
     <title lang="it">Galles - Nuova Zelanda Nations Championship</title>
     <desc lang="it">[S2026E27] - 5a giornata del torneo che unisce i test di luglio e novembre. A Cardiff Galles, 10 p.ti nell'emisfero nord, e All blacks a punteggio pieno nel sud. Telecronaca Malpezzi-Frati</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/da082890-fd36-369a-aa12-0dedb38e66cb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=d9edf5a5-db29-3306-948e-084d3cbe42d6" />
   </programme>
-  <programme start="20261116210000 +0800" stop="20261116220000 +0800" channel="SkySportMax.it">
+  <programme start="20261116210500 +0800" stop="20261116220500 +0800" channel="SkySportMax.it">
     <title lang="it">Cremonini Federico Buffa Talks</title>
     <desc lang="it">[S2026E34] Cesare Cremonini si racconta a Buffa Talks. Il football, Bologna, gli stadi, la disciplina e il bisogno di tornare amateur: il filo di una storia tra sport e musica.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/bc272fc8-ed5f-3e25-866b-f4d272a2506b/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=98981fdf-930b-3dd7-9f37-f750127cf0ec" />
   </programme>
-  <programme start="20261116220000 +0800" stop="20261116223000 +0800" channel="SkySportMax.it">
+  <programme start="20261116220500 +0800" stop="20261116223500 +0800" channel="SkySportMax.it">
     <title lang="it">Boat Show 2026 Ep.36 12/11/2026 The Boat Show</title>
     <desc lang="it">[S2026E36] - Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/0c853376-600e-375c-a791-11d94bb0d78d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=73e0aa04-8fac-36e2-a6a1-ff22a718469a" />
   </programme>
-  <programme start="20261116223000 +0800" stop="20261116232000 +0800" channel="SkySportMax.it">
+  <programme start="20261116223500 +0800" stop="20261116232500 +0800" channel="SkySportMax.it">
     <title lang="it">Master Panatta &amp; Bertolucci Tennis...</title>
     <desc lang="it">[S2026E05] Ripercorriamo l'evoluzione storica e il fascino delle ATP Finals, commentando le finali piu' iconiche e le rivalita' che hanno segnato l'albo d'oro del torneo. Panatta e Bertolucci condividono retroscena vissuti nel circuito degli anni '70.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/3d0c1e50-d82e-374d-a1fd-f99856373595/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=8a32f051-6a0b-3440-9a1e-9020b4aed2cc" />
   </programme>
-  <programme start="20261116232000 +0800" stop="20261116234000 +0800" channel="SkySportMax.it">
+  <programme start="20261116232500 +0800" stop="20261116234000 +0800" channel="SkySportMax.it">
     <title lang="it">UNVS: Unione Nazionale Veterani...</title>
     <desc lang="it">[S2026E08] ... Dello Sport On the Evolution of Sports. - Lo sport e' rimasto sempre uguale, ma al contempo e' cambiato molto: si e' trasformato ed evoluto. I protagonisti del passato, affiancati da atleti di oggi e da giovani emergenti, spiegano come siano cambiate tecniche, materiali, attrezzature e regole.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/5098e0e6-88d4-3fd1-bf90-ad7134dae107/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=a55e773d-4735-3079-9c3d-c7fa738ddb9e" />
@@ -4924,12 +4924,12 @@
     <desc lang="it">[S2026E17] ... 2026/2027 15/11/2026 Studio Basket Serie A. - Tutti a caccia dell'Olimpia Milano, campione d'Italia in carica: la serie A del basket vive la sua stagione numero 105. Approfondimenti, interviste e curiosita' prima e dopo le partite.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/66f3632a-6a51-30a1-b19a-f273c228d475/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=92738843-aff0-3207-a9fd-a6f45d568092" />
   </programme>
-  <programme start="20261116010500 +0800" stop="20261116031500 +0800" channel="SkySportNBA.it">
+  <programme start="20261116010500 +0800" stop="20261116032500 +0800" channel="SkySportNBA.it">
     <title lang="it">Udine - EA7 Emporio Armani... (Diretta)</title>
     <desc lang="it">[S2026E16] ... Milano Lega Basket Serie A. - Dopo la sconfitta contro lo Zalgiris nella prima di coach Banchi, l'Olimpia viaggia a Udine a casa di un avversario rinfrancato dalla bella vittoria di Varese. Telecronaca: Solaini-Meneghin.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/429c58a8-c5ac-38ec-a4c6-7e9dab9e2d7f/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=ba496177-d87f-3c78-b8e1-1ee233e2e268" />
   </programme>
-  <programme start="20261116031500 +0800" stop="20261116033000 +0800" channel="SkySportNBA.it">
+  <programme start="20261116032500 +0800" stop="20261116033000 +0800" channel="SkySportNBA.it">
     <title lang="it">Postpartita Studio Basket... (Diretta)</title>
     <desc lang="it">[S2026E18] ... Serie A. - La partita del PalaCarnera e' appena finita: tutti i commenti, gli approfondimenti nello studio di Giulia Cicchine' e Andrea Meneghin con le interviste di Gaia Accoto.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/b658c22c-b7bf-3948-9176-703c246bc7d8/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=4a275c88-2aef-37f7-ba8c-eb716ffa59e8" />
@@ -4975,9 +4975,9 @@
     <icon src="https://pixel.disco.nowtv.it/uuid/e7acb2a1-bd98-3bea-bc49-108f8a8162a4/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=de8a72e6-efdf-330d-9625-3f6e06090dca" />
   </programme>
   <programme start="20261116110500 +0800" stop="20261116130000 +0800" channel="SkySportNBA.it">
-    <title lang="it">Udine - EA7 Emporio Armani Milano Lega Basket Serie A</title>
-    <desc lang="it">[S2026E16] - Dopo la sconfitta contro lo Zalgiris nella prima di coach Banchi, l'Olimpia viaggia a Udine a casa di un avversario rinfrancato dalla bella vittoria di Varese. Telecronaca: Solaini-Meneghin.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/429c58a8-c5ac-38ec-a4c6-7e9dab9e2d7f/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=ba496177-d87f-3c78-b8e1-1ee233e2e268" />
+    <title lang="it">Nutribullet Treviso Basket -...</title>
+    <desc lang="it">[S2026E15] ... Longobardi Scafati Basket Lega Basket Serie A. - Punti pesanti in palio a Treviso: persa la partita di Tortona, i veneti ospitano i campani reduci dalla beffarda sconfitta nel derby contro Napoli. Telecronaca di Geri De Rosa e Chicca Macchi.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/d40fe562-f914-3aaf-8567-b648a984f79d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=90e919bd-e14f-3c96-a000-23fc78ec010e" />
   </programme>
   <programme start="20261116130000 +0800" stop="20261116131500 +0800" channel="SkySportNBA.it">
     <title lang="it">13/11/2026 Basket Room NBA</title>
@@ -5314,47 +5314,37 @@
     <desc lang="it">[S2020E25] - A Verona va in scena l'ultimo atto della Champions League femminile, le "pantere" di Conegliano sfidano le turche del Vakifbank Istanbul. TC: Prini-Mangifesta</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/f6f1f0f8-986b-3147-84e2-3647a128b116/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=249ad313-22e8-3753-8ab1-563bf1061c91" />
   </programme>
-  <programme start="20261115220000 +0800" stop="20261116003000 +0800" channel="SkySportMix.it">
+  <programme start="20261115220000 +0800" stop="20261116002000 +0800" channel="SkySportMix.it">
     <title lang="it">Dubai P1: Finale Femminile... (Diretta)</title>
     <desc lang="it">[S2026E150] ... Premier Padel. - Seguiamo le gare del Premier Padel Major.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/ff0d8ff1-a152-3a40-b404-383c58bab6b6/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=0da83204-d30e-3a08-8f00-88b42c289c20" />
   </programme>
-  <programme start="20261116003000 +0800" stop="20261116020000 +0800" channel="SkySportMix.it">
+  <programme start="20261116002000 +0800" stop="20261116032000 +0800" channel="SkySportMix.it">
     <title lang="it">Dubai P1: Finale Maschile... (Diretta)</title>
     <desc lang="it">[S2026E151] ... Premier Padel. - Seguiamo le gare del Premier Padel Major.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/a4a40e8a-6205-355a-936a-3a78a6b1a50e/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=af82f57c-415e-32fc-96cb-d82d925e5a98" />
   </programme>
-  <programme start="20261116020000 +0800" stop="20261116023000 +0800" channel="SkySportMix.it">
+  <programme start="20261116032000 +0800" stop="20261116032500 +0800" channel="SkySportMix.it">
     <title lang="it">This Is Padel 2026 Ep.14 13/11/2026 This is padel</title>
     <desc lang="it">[S2026E14] - I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/0312822b-4c49-3526-ac70-a977153d3d40/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=7f4a2783-90ac-3876-bb92-7e5b3d25686f" />
   </programme>
-  <programme start="20261116023000 +0800" stop="20261116024500 +0800" channel="SkySportMix.it">
-    <title lang="it">Motonautica On Board 2026 Ep.7...</title>
-    <desc lang="it">[S2026E07] ... 06/11/2026 Motonautica On Board. - Uno sguardo sul mondo della Motonautica per svelare cio' che si cela dietro ogni scia, dalle imbarcazioni piu' veloci alle moto d'acqua. Un'opportunita' unica di conoscere da vicino i veri protagonisti: i piloti, con le loro storie e la loro passione.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/7ee8e47e-7d4c-3609-8a43-00fd38e42434/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=206fa316-7de2-3e51-a099-3e3fa6e0681c" />
-  </programme>
-  <programme start="20261116024500 +0800" stop="20261116030000 +0800" channel="SkySportMix.it">
+  <programme start="20261116032500 +0800" stop="20261116033500 +0800" channel="SkySportMix.it">
     <title lang="it">Ep.27 La giovane Italia</title>
     <desc lang="it">[S2026E27] Servizi informativi dedicati ai piu' piccoli sportivi italiani e alle realta' giovanili legate al calcio, tra trofei, incontri, e storie.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/2042790c-6b76-354d-8555-73d03df34f42/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=ac6a268a-9f4d-3c3a-98d4-495f15cf5e9a" />
   </programme>
-  <programme start="20261116030000 +0800" stop="20261116033000 +0800" channel="SkySportMix.it">
-    <title lang="it">Batistuta 90/10</title>
-    <desc lang="it">[S02E04] Calcio.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/03c09228-3db2-349d-b2a0-22c33f0faaf7/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=94774e7e-ef8b-31c0-b01e-880f7bc0cc27" />
-  </programme>
-  <programme start="20261116033500 +0800" stop="20261116054000 +0800" channel="SkySportMix.it">
+  <programme start="20261116033500 +0800" stop="20261116055000 +0800" channel="SkySportMix.it">
     <title lang="it">Spagna - Inghilterra UEFA... (Diretta)</title>
     <desc lang="it">[S2026E76] ... Nations League. - Gruppo A3 con Croazia terza a quota 3 e Repubblica Ceca ancora a 0. Spagna prima a punteggio pieno, Inghilterra seconda con 12 punti, ha perso 3-2 all'andata. TC: Stefano Borghi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/509e2759-adf8-38fa-8746-833c7477991a/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=f412a1ac-42af-3448-b684-8e49e09a232e" />
   </programme>
-  <programme start="20261116054000 +0800" stop="20261116060000 +0800" channel="SkySportMix.it">
+  <programme start="20261116055000 +0800" stop="20261116060500 +0800" channel="SkySportMix.it">
     <title lang="it">Taormina Oteos - On The Evolution Of Sports</title>
     <desc lang="it">[S2026E07] - Lo sport e' rimasto sempre uguale, ma al contempo e' cambiato molto: si e' trasformato ed evoluto. I protagonisti del passato, affiancati da atleti di oggi e da giovani emergenti, spiegano come siano cambiate tecniche, materiali, attrezzature e regole.</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/7e9d031a-97ff-34e9-a824-69f20e697ef3/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=0d52632a-155d-36b0-b8aa-8572d9571954" />
   </programme>
-  <programme start="20261116060000 +0800" stop="20261116080000 +0800" channel="SkySportMix.it">
+  <programme start="20261116060500 +0800" stop="20261116080000 +0800" channel="SkySportMix.it">
     <title lang="it">Italia - Argentina Nations Championship</title>
     <desc lang="it">[S2026E25] 5a giornata del torneo che unisce i test di luglio e novembre. 11esima e 8a del ranking. L'Italia non batte i Pumas dal 2008. Si gioca a Genova. Telecronaca Pierantozzi-De Rossi</desc>
     <icon src="https://pixel.disco.nowtv.it/uuid/af407c42-049b-30c7-a3d0-62647b877aa8/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=e2a2cb31-4b3d-3534-b45e-b01691abd34b" />
@@ -5380,9 +5370,9 @@
     <icon src="https://pixel.disco.nowtv.it/uuid/da082890-fd36-369a-aa12-0dedb38e66cb/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=d9edf5a5-db29-3306-948e-084d3cbe42d6" />
   </programme>
   <programme start="20261116130000 +0800" stop="20261116150000 +0800" channel="SkySportMix.it">
-    <title lang="it">Udine - EA7 Emporio Armani Milano Lega Basket Serie A</title>
-    <desc lang="it">[S2026E16] - Dopo la sconfitta contro lo Zalgiris nella prima di coach Banchi, l'Olimpia viaggia a Udine a casa di un avversario rinfrancato dalla bella vittoria di Varese. Telecronaca: Solaini-Meneghin.</desc>
-    <icon src="https://pixel.disco.nowtv.it/uuid/429c58a8-c5ac-38ec-a4c6-7e9dab9e2d7f/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=ba496177-d87f-3c78-b8e1-1ee233e2e268" />
+    <title lang="it">Nutribullet Treviso Basket -...</title>
+    <desc lang="it">[S2026E15] ... Longobardi Scafati Basket Lega Basket Serie A. - Punti pesanti in palio a Treviso: persa la partita di Tortona, i veneti ospitano i campani reduci dalla beffarda sconfitta nel derby contro Napoli. Telecronaca di Geri De Rosa e Chicca Macchi.</desc>
+    <icon src="https://pixel.disco.nowtv.it/uuid/d40fe562-f914-3aaf-8567-b648a984f79d/16-9?territory=IT&amp;proposition=NOWOTT&amp;version=90e919bd-e14f-3c96-a000-23fc78ec010e" />
   </programme>
   <programme start="20261116150000 +0800" stop="20261116160000 +0800" channel="SkySportMix.it">
     <title lang="it">Cremonini Federico Buffa Talks</title>
@@ -8550,11 +8540,6 @@
     <icon src="https://pixel.disco.nowtv.it/pcms/e5320046-eecb-11ef-bcaf-db585372be80/LAND_16_9?proposition=NOWOTT&amp;language=it-IT&amp;versionId=b65ef130-bcc7-5ded-a024-163fb0497219" />
   </programme>
   <programme start="20261117130000 +0800" stop="20261118010000 +0800" channel="SkySport258.it">
-    <title lang="it">Sky Sport</title>
-    <desc lang="it">Prossimamente Campionato italiano di Serie A, Uefa Champions League e Uefa Europa League.</desc>
-    <icon src="https://pixel.disco.nowtv.it/pcms/e5320046-eecb-11ef-bcaf-db585372be80/LAND_16_9?proposition=NOWOTT&amp;language=it-IT&amp;versionId=b65ef130-bcc7-5ded-a024-163fb0497219" />
-  </programme>
-  <programme start="20261115130000 +0800" stop="20261116010000 +0800" channel="SkySport259.it">
     <title lang="it">Sky Sport</title>
     <desc lang="it">Prossimamente Campionato italiano di Serie A, Uefa Champions League e Uefa Europa League.</desc>
     <icon src="https://pixel.disco.nowtv.it/pcms/e5320046-eecb-11ef-bcaf-db585372be80/LAND_16_9?proposition=NOWOTT&amp;language=it-IT&amp;versionId=b65ef130-bcc7-5ded-a024-163fb0497219" />
